@@ -1,0 +1,22 @@
+Capstone Project To-Do List
+
+TO_DO:
+    - data cleaning:
+        determine categories for survey responses based on survey Q/A categories
+        write functions to reformat each type of survey response
+        thoughtfully assess + address NaN's
+        what to do about continuous data values with missing responses 
+    - data storage:
+        decide on storage for data (where to backup)
+
+    - EDA
+    - dimensionality reduction
+    - topic modeling
+    - train model
+    - evaluate model
+
+
+COMPLETED:
+    - get data
+    - domain knowledge research
+    - survey/raw data structure, intent, process
