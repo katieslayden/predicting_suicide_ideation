@@ -1,12 +1,16 @@
 Capstone Project To-Do List
 
 TO_DO:
+    - review and consider implications for project
+        linear algebra day / matrix maths
+        recommender systems
+        topic analysis 
     - data cleaning:
         determine categories for survey responses based on survey Q/A categories
         write functions to reformat each type of survey response
         thoughtfully assess + address NaN's
         what to do about continuous data values with missing responses
-        create dictionary of types of columns to automate the process 
+        create dictionary of types of columns to automate the process
     - SQL ?
     - data storage:
         decide on storage for data (where to backup)

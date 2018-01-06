@@ -1,6 +1,7 @@
 '''
 This file holds code to reformat the data for my Galvanize capstone project.
 
+Intended to be used for cleaning up data in http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240
 
 '''
 
@@ -8,12 +9,11 @@ import numpy as numpy
 import pandas as pd
 
 # BASIC FUNCTIONS FOR OPENING, CREATE DATAFRAME
-def save_data_as_DF(file):
-
+def save_data_as_pddf(file):
     return None
 
-# INTERMEDIATE FUNCTIONS FOR REFORMATTING / CLEANING 
-def reformat_frequencies(file, columns):
+# INTERMEDIATE FUNCTIONS FOR REFORMATTING / CLEANING
+def reformat_frequencies(dataframe, columns):
     '''
     Reformats data from survey "frequency" format.
 
@@ -32,7 +32,7 @@ def reformat_frequencies(file, columns):
 
     return None
 
-def reformat_ratings(file):
+def reformat_ratings(dataframe):
     '''
     Cleans data from survey "rating" format.
 
@@ -52,12 +52,13 @@ def reformat_ratings(file):
     # Consider replacing them with the average value, randomly?
     return None
 
-def clean_binaries(file):
+def clean_binaries(dataframe):
     '''
+    What does a binary question look like in this data? Yes/No ? 
     '''
     return None
 
-def clean_continuous(file):
+def clean_continuous(dataframe):
     '''
 
     '''
