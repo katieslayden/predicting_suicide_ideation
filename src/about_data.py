@@ -30,7 +30,7 @@ def file_name_list(file_path):
         lines = f.readlines()
     return [line.rstrip() for line in lines]
 
-def 
+def make_csv_paths
 
 
 if __name__ == "__main__":
