@@ -1,17 +1,30 @@
 '''
-This file holds code to reformat the data for my Galvanize capstone project.
-
-Intended to be used for cleaning up data in http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240
-
+Use this file in conjunction with about_data.py to sort and clean data from:
+http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240
 '''
 
 import numpy as numpy
 import pandas as pd
 
 # BASIC FUNCTIONS FOR INITIAL/COMMON DATAFRAME OPERATIONS
+def create_dataframe(csv_data_file):
+    df = pd.read_csv(csv_data_file, sep='\t', low_memory=False)
+    df = df.set_index(df[0])
+
 def column_average(df, feature):
     return None
 
+# SORTING FUNCTIONS FOR DETERMINING GROUPS OF SURVEY RESPONSES
+def find_frequencies():
+    pass
+def find_ratings():
+    pass
+def find_binaries():
+    pass
+def find_continuous():
+    pass
+def sort_survey_questions():
+    pass
 
 # INTERMEDIATE FUNCTIONS FOR REFORMATTING / CLEANING
 def reformat_frequencies(df, columns):
@@ -32,7 +45,6 @@ def reformat_frequencies(df, columns):
     '''
 
     return None
-
 def reformat_ratings(df, feature_names, new_value):
     '''
     Cleans data from survey "rating" format.
@@ -58,13 +70,11 @@ def reformat_ratings(df, feature_names, new_value):
         # replace the current value of bad values with useful ones
 
     return None
-
 def clean_binaries(df):
     '''
     What does a binary question look like in this data? Yes/No ?
     '''
     return None
-
 def clean_continuous(df):
     '''
     What kind of cleaning do continuous features need?
@@ -73,4 +83,4 @@ def clean_continuous(df):
 
 if __name__ == "__main__":
     data_file = '/Users/Winnifred/Desktop/Capstone/ICPSR_20240_RAWDATA/DS0001/20240-0001-Data.tsv'
-    reformat_frequencies(file)
+    reformat_frequencies(data_file)
