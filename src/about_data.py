@@ -1,22 +1,23 @@
 '''
-Separates out the features based on their survey responses
-in order to automate cleaning.
+This file houses functions for (ultimately) creating a dictionary where the
+key is the name of a feature and the value is a description.
 
-Once I determine which survey responses are of what type (there seem to be < 8 groups)
-I can use those dictionaries (cryptic_feature_name: plain_english_description)
-in my clean.py file.
+That dictionary is important for filtering be survey question type using key
+words in the description for that survey question.
 
-Think about how to write replicable, approachable code.
+The next step is to use these functions in 'clean.py' to filter between categories
+of data.
 
-The feature name dictionaries will be great later as well. The current names of
-each feature are not interpretable. Having dictionaries with their meaningful
-names will be crutial for interpretability.
+Main categories of interest:
+    DX - diagnosis features
+    mental health features
+    other features (example: housing, employment, etc.)
 
-So far I have spent a lot of time going back to the data docs. These should help
-alleviate this back and forth.
+Outstanding TO-DO items for this file:
+    - refactor code for efficiency and interpretability
+    - practice writing tests by creating some for this py file 
 '''
 
-import numpy as np
 # BASICS
 def path_to_lines(file_path):
     with open(file_path) as f:
@@ -31,8 +32,7 @@ def file_name_list(file_path):
     '''
     lines = path_to_lines(file_path)
     return [line.rstrip() for line in lines]
-
-def make_csv_paths(txt_path, csv_root_path):
+def make_paths(txt_path, csv_root_path):
     '''
     Input: path for text file containing csv file names, csv root path
     Output: list of file paths for each csv file
@@ -53,7 +53,6 @@ def get_group_title(file_path):
     lines = path_to_lines(file_path)
     group_title = lines[0].split(',')[0]
     return group_title
-
 def get_feature_names(file_path):
     '''
     Input: file path leading to csv file containing survey table for one survey category grouping
@@ -67,11 +66,10 @@ def get_feature_names(file_path):
         if line[0] == 'V':
             titles.append(line[0:6])
         elif line[1] == 'V':
-            titles.append(line(1:7))
+            titles.append(line[1:7])
         else:
             print('problem with {}'.format(line))
     return titles
-
 def get_descriptions(file_path):
     '''
     Input: file path to csv file containing feature name/description lines
@@ -84,7 +82,6 @@ def get_descriptions(file_path):
         end = line.find(',')
         descriptions.append(line[start:end].lower())
     return descriptions
-
 def make_feat_desc_dict(file_path):
     '''
     Input: file path to csv file containing feature table
@@ -94,15 +91,20 @@ def make_feat_desc_dict(file_path):
     features = get_feature_names(file_path)
     descriptions = get_descriptions(file_path)
     feat_descr = {feature: descriptions[idx] for idx, feature in enumerate(features)}
-    titled = {titled: feat_descr}
+    titled = {title: feat_descr}
     return titled
 
 if __name__ == "__main__":
     # CSV files = each line = feature title, description, origin of info
-    lines_of_file_names = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_group_file_names.txt'
-    csv_root_file_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_name_data/'
+    txt_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_group_file_names.txt'
+    csv_root_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_name_data/'
 
-    print(make_csv_paths(lines_of_file_names, csv_root_file_path))
+    dictionary = {}
+    for file_path in make_paths(txt_path, csv_root_path):
+        dictionary[get_group_title(file_path)] = make_feat_desc_dict(file_path)
+
+    print(dictionary.keys())
+
 
 
 
