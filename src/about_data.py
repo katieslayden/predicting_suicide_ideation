@@ -1,6 +1,4 @@
 '''
-This file stores variables detailing feature names.
-
 Separates out the features based on their survey responses
 in order to automate cleaning.
 
@@ -19,7 +17,7 @@ alleviate this back and forth.
 '''
 
 import numpy as np
-
+# BASICS
 def path_to_lines(file_path):
     with open(file_path) as f:
         lines = f.readlines()
@@ -33,6 +31,7 @@ def file_name_list(file_path):
     '''
     lines = path_to_lines(file_path)
     return [line.rstrip() for line in lines]
+
 def make_csv_paths(txt_path, csv_root_path):
     '''
     Input: path for text file containing csv file names, csv root path
@@ -54,6 +53,7 @@ def get_group_title(file_path):
     lines = path_to_lines(file_path)
     group_title = lines[0].split(',')[0]
     return group_title
+
 def get_feature_names(file_path):
     '''
     Input: file path leading to csv file containing survey table for one survey category grouping
@@ -71,6 +71,7 @@ def get_feature_names(file_path):
         else:
             print('problem with {}'.format(line))
     return titles
+
 def get_descriptions(file_path):
     '''
     Input: file path to csv file containing feature name/description lines
@@ -78,14 +79,23 @@ def get_descriptions(file_path):
     '''
     lines = path_to_lines(file_path)
     descriptions = []
-    for idx, line in enumerate(lines[1:]):
-        start = line.find(':')
+    for line in lines[1:]:
+        start = line.find(':')+2
         end = line.find(',')
-        descriptions.append(line[start:end])
+        descriptions.append(line[start:end].lower())
     return descriptions
-def create_feat_desc_dict():
 
-
+def make_feat_desc_dict(file_path):
+    '''
+    Input: file path to csv file containing feature table
+    Output: a dictionary {group: {feature1: description1, feature2: description2}}
+    '''
+    title = get_group_title(file_path)
+    features = get_feature_names(file_path)
+    descriptions = get_descriptions(file_path)
+    feat_descr = {feature: descriptions[idx] for idx, feature in enumerate(features)}
+    titled = {titled: feat_descr}
+    return titled
 
 if __name__ == "__main__":
     # CSV files = each line = feature title, description, origin of info
