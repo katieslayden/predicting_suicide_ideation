@@ -15,7 +15,11 @@ Main categories of interest:
 
 Outstanding TO-DO items for this file:
     - refactor code for efficiency and interpretability
-    - practice writing tests by creating some for this py file 
+    - practice writing tests by creating some for this py file
+
+Use case:
+    This code is intended for using with the public access crosswalk from the
+    studies located at: http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240. 
 '''
 
 # BASICS
