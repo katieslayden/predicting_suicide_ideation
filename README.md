@@ -1,2 +1,7 @@
-# diagnosis_capstone
-Github repo for my capstone during the Galvanize Data Science Immersive program. 
+# Galvanize Data Science Immersive Capstone
+
+This project aims to build a model for support physicians in diagnosis of several mental disorders. 
+
+The model is trained and tested using data from the Collaborative Psychiatric Epidemiology Surveys (CPES), 2001-2003 [United States] (ICPSR 20240) http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240
+
+"The Collaborative Psychiatric Epidemiology Surveys (CPES) were initiated in recognition of the need for contemporary, comprehensive epidemiological data regarding the distributions, correlates and risk factors of mental disorders among the general population with special emphasis on minority groups. The primary objective of the CPES was to collect data about the prevalence of mental disorders, impairments associated with these disorders, and their treatment patterns from representative samples of majority and minority adult populations in the United States. Secondary goals were to obtain information about language use and ethnic disparities, support systems, discrimination and assimilation, in order to examine whether and how closely various mental health disorders are linked to social and cultural issues. To this end, CPES joins together three nationally representative surveys: the NATIONAL COMORBIDITY SURVEY REPLICATION (NCS-R), the NATIONAL SURVEY OF AMERICAN LIFE (NSAL), and the NATIONAL LATINO AND ASIAN AMERICAN STUDY (NLAAS). These surveys collectively provide the first national data with sufficient power to investigate cultural and ethnic influences on mental disorders. In this manner, CPES permits analysts to approach analysis of the combined dataset as though it were a single, nationally representative survey. Each of the CPES surveys has been documented in a comprehensive and flexible manner that promotes cross-survey linking of key data and scientific constructs."
