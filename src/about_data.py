@@ -24,19 +24,30 @@ import numpy as np
 def file_name_list(file_path):
     '''
     Input: file path for text file containing all feature cluster files.
-    Return: list of csv file names.
+    Output: list of csv file names.
     '''
-    with open(path) as f:
+    with open(file_path) as f:
         lines = f.readlines()
     return [line.rstrip() for line in lines]
 
-def make_csv_paths
-
+def make_csv_paths(txt_path, csv_root_path):
+    '''
+    Input: path for text file containing csv file names, csv root path
+    Output: list of file paths for each csv file
+    '''
+    csv_file_names = file_name_list(txt_path)
+    csv_paths = []
+    for file_name in csv_file_names:
+        path = csv_root_path + file_name
+        csv_paths.append(path)
+    return csv_paths
 
 if __name__ == "__main__":
-    txt_file_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_group_file_names.txt'
+    # CSV files = each line = feature title, description, origin of info
+    lines_of_file_names = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_group_file_names.txt'
     csv_root_file_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_name_data/'
-    file_name_list(txt_file_path)
+
+    print(make_csv_paths(lines_of_file_names, csv_root_file_path))
 
 
 
