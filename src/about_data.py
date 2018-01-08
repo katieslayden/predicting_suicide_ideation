@@ -20,15 +20,19 @@ alleviate this back and forth.
 
 import numpy as np
 
+def path_to_lines(file_path):
+    with open(file_path) as f:
+        lines = f.readlines()
+    return lines
+
+# FILE PATHS
 def file_name_list(file_path):
     '''
     Input: file path for text file containing all feature cluster files.
     Output: list of csv file names.
     '''
-    with open(file_path) as f:
-        lines = f.readlines()
+    lines = path_to_lines(file_path)
     return [line.rstrip() for line in lines]
-
 def make_csv_paths(txt_path, csv_root_path):
     '''
     Input: path for text file containing csv file names, csv root path
@@ -41,17 +45,15 @@ def make_csv_paths(txt_path, csv_root_path):
         csv_paths.append(path)
     return csv_paths
 
+# EXTRACTING GROUP, FEATURE TYPE, DESCRIPTION
 def get_group_title(file_path):
     '''
-    
+    Input: file path to csv table for survey grouping (i.e. 'BLAGORAPHO-Table 1.csv')
+    Output: group title for survey question (i.e. 'Agoraphobia')
     '''
-    with open(file_path) as f:
-        lines = f.readlines()
-    # get grouping title from first line of file
-    # assumes the first line is formatted similarly 'Agoraphobia,CPES,NCSR,NLAAS,NSAL'
+    lines = path_to_lines(file_path)
     group_title = lines[0].split(',')[0]
     return group_title
-
 def get_feature_names(file_path):
     '''
     Input: file path leading to csv file containing survey table for one survey category grouping
@@ -59,13 +61,8 @@ def get_feature_names(file_path):
     Output: dictionary where KEY = feature_name, VALUE = description of feature
     This function connects names like V01626 to descriptions like "Fear being alone"
     '''
-    with open(file_path) as f:
-        lines = f.readlines()
-    # get grouping title from first line of file
-    # assumes the first line is formatted similarly 'Agoraphobia,CPES,NCSR,NLAAS,NSAL'
-    group_title = lines[0].split(',')[0]
+    lines = path_to_lines(file_path)
     titles = []
-
     for line in lines[1:]:
         if line[0] == 'V':
             titles.append(line[0:6])
@@ -73,8 +70,22 @@ def get_feature_names(file_path):
             titles.append(line(1:7))
         else:
             print('problem with {}'.format(line))
+    return titles
+def get_descriptions(file_path):
+    '''
+    Input: file path to csv file containing feature name/description lines
+    Output: list of descriptions
+    '''
+    lines = path_to_lines(file_path)
+    descriptions = []
+    for idx, line in enumerate(lines[1:]):
+        start = line.find(':')
+        end = line.find(',')
+        descriptions.append(line[start:end])
+    return descriptions
+def create_feat_desc_dict():
 
-    return None
+
 
 if __name__ == "__main__":
     # CSV files = each line = feature title, description, origin of info
