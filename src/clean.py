@@ -15,12 +15,16 @@ def column_average(df, feature):
     return None
 
 # DEFINING WHAT WE DO AND DO NOT WANT TO KEEP
-def remove_nonuniversal():
+def remove_nonuniversals():
     '''
     Due to concern about having questions which were not included in all of the
     three surveys, I'd like to remove whole features if their response was only
-    from one or two of the surveys. 
+    from one or two of the surveys.
+    Input: dictionary
+    Output: keys where the second item in the value is True
     '''
+    
+    return None
 
 # SORTING FUNCTIONS FOR DETERMINING GROUPS OF SURVEY RESPONSES
 def find_frequencies():
