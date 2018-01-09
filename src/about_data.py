@@ -14,6 +14,7 @@ Main categories of interest:
     other features (example: housing, employment, etc.)
 
 Outstanding TO-DO items for this file:
+    - reformat code to use classes instead of functions 
     - refactor code for efficiency and interpretability
     - practice writing tests by creating some for this py file
 
@@ -31,7 +32,7 @@ def path_to_lines(file_path):
 # FILE PATHS
 def file_name_list(file_path):
     '''
-    Input: file path for text file containing all feature cluster files.
+    Input: file path for text file containing list of csv file names.
     Output: list of csv file names.
     '''
     lines = path_to_lines(file_path)
@@ -49,7 +50,7 @@ def make_paths(txt_path, csv_root_path):
     return csv_paths
 
 # EXTRACTING GROUP, FEATURE TYPE, DESCRIPTION
-def get_group_title(file_path):
+def get_group_title(single_csv_file_path):
     '''
     Input: file path to csv table for survey grouping (i.e. 'BLAGORAPHO-Table 1.csv')
     Output: group title for survey question (i.e. 'Agoraphobia')
@@ -57,7 +58,7 @@ def get_group_title(file_path):
     lines = path_to_lines(file_path)
     group_title = lines[0].split(',')[0]
     return group_title
-def get_feature_names(file_path):
+def get_feature_names(single_csv_file_path):
     '''
     Input: file path leading to csv file containing survey table for one survey category grouping
     (i.e. 'VLAGORAPHO-Table 1.csv')
@@ -125,11 +126,11 @@ if __name__ == "__main__":
     txt_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_group_file_names.txt'
     csv_root_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_name_data/'
 
-    dictionary = {}
-    for file_path in make_paths(txt_path, csv_root_path):
-        dictionary[get_group_title(file_path)] = make_feat_desc_dict(file_path)
-
-    print(dictionary.keys())
+    # dictionary = {}
+    # for file_path in make_paths(txt_path, csv_root_path):
+    #     dictionary[get_group_title(file_path)] = make_feat_desc_dict(file_path)
+    #
+    # print(dictionary.keys())
 
 
 

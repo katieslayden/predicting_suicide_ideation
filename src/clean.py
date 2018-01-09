@@ -1,4 +1,6 @@
 '''
+Next step for this file is to reformat using classes instead of functions!
+
 Use this file in conjunction with about_data.py to sort and clean data from:
 http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240
 '''
@@ -20,30 +22,29 @@ def column_average(df, feature):
     return None
 
 # DEFINING WHAT WE DO AND DO NOT WANT TO KEEP
-def remove_nonuniversals():
+def get_universals(txt_path, csv_root_path):
     '''
-    Due to concern about having questions which were not included in all of the
-    three surveys, I'd like to remove whole features if their response was only
-    from one or two of the surveys.
+    Remove features if their response was only from one or two of the surveys.
     Input: dictionary
-    Output: keys where the second item in the value is True
+    Output: keys where the second item in the value list is True
     '''
-
+    for group in setup(txt_path, csv_root_path).items():
+        print(group)
+        print('\n')
+        for sub_group in group:
+            pass
+            print(sub_group)
     return None
 
 # SORTING FUNCTIONS FOR DETERMINING GROUPS OF SURVEY RESPONSES
 def find_frequencies():
     pass
-
 def find_ratings():
     pass
-
 def find_binaries():
     pass
-
 def find_continuous():
     pass
-
 def sort_survey_questions():
     pass
 
@@ -89,7 +90,7 @@ def reformat_ratings(df, feature_names, new_value):
 
     for feature in feature_names:
         # replace the current value of bad values with useful ones
-
+        pass
     return None
 def clean_binaries(df):
     '''

@@ -1,6 +1,7 @@
 Capstone Project To-Do List
 
 TO_DO:
+    - reformat cleaning file to use classes instead of functions 
     - review and consider implications for project
         linear algebra day / matrix maths
         recommender systems
@@ -16,7 +17,6 @@ TO_DO:
     - data storage:
         decide on storage for data (where to backup)
     - EDA
-
     - dimensionality reduction
     - topic modeling
     - train model
@@ -27,3 +27,6 @@ COMPLETED:
     - get data
     - domain knowledge research
     - survey/raw data structure, intent, process
+    - write functions for mapping column names (V01234) to descriptions ('fatigue')
+    - write function for encoding True for features that exist in all three surveys
+      and false for features that exist in one or two surveys
