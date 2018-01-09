@@ -1,7 +1,7 @@
 Capstone Project To-Do List
 
 TO_DO:
-    - reformat cleaning file to use classes instead of functions 
+    - reformat cleaning file to use classes instead of functions
     - review and consider implications for project
         linear algebra day / matrix maths
         recommender systems
@@ -17,6 +17,8 @@ TO_DO:
     - data storage:
         decide on storage for data (where to backup)
     - EDA
+        shape of data
+        distribution of data across categories for each group 
     - dimensionality reduction
     - topic modeling
     - train model
