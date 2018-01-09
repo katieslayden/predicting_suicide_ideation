@@ -24,17 +24,21 @@ def column_average(df, feature):
 # DEFINING WHAT WE DO AND DO NOT WANT TO KEEP
 def get_universals(txt_path, csv_root_path):
     '''
-    Remove features if their response was only from one or two of the surveys.
+    Identify features that are universal (in all three surveys) and nonuniversal.
     Input: dictionary
     Output: keys where the second item in the value list is True
     '''
-    for group in setup(txt_path, csv_root_path).items():
-        print(group)
-        print('\n')
-        for sub_group in group:
-            pass
-            print(sub_group)
-    return None
+    universals = {}
+    nonuniversals = {}
+    comprehensive = setup(txt_path, csv_root_path)
+    for akey, avalue in comprehensive.items():
+        for bkey, bvalue in avalue.items():
+            for ckey, cvalue in bvalue.items():
+                if cvalue[1] == True:
+                    universals[ckey] = cvalue
+                else:
+                    nonuniversals[ckey] = cvalue
+    return universals, nonuniversals
 
 # SORTING FUNCTIONS FOR DETERMINING GROUPS OF SURVEY RESPONSES
 def find_frequencies():
