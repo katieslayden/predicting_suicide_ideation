@@ -14,15 +14,27 @@ def create_dataframe(csv_data_file):
 def column_average(df, feature):
     return None
 
+# DEFINING WHAT WE DO AND DO NOT WANT TO KEEP
+def remove_nonuniversal():
+    '''
+    Due to concern about having questions which were not included in all of the
+    three surveys, I'd like to remove whole features if their response was only
+    from one or two of the surveys. 
+    '''
+
 # SORTING FUNCTIONS FOR DETERMINING GROUPS OF SURVEY RESPONSES
 def find_frequencies():
     pass
+
 def find_ratings():
     pass
+
 def find_binaries():
     pass
+
 def find_continuous():
     pass
+
 def sort_survey_questions():
     pass
 

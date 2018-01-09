@@ -2,7 +2,7 @@
 This file houses functions for (ultimately) creating a dictionary where the
 key is the name of a feature and the value is a description.
 
-That dictionary is important for filtering be survey question type using key
+That dictionary is important for filtering by survey question type using key
 words in the description for that survey question.
 
 The next step is to use these functions in 'clean.py' to filter between categories
@@ -19,7 +19,7 @@ Outstanding TO-DO items for this file:
 
 Use case:
     This code is intended for using with the public access crosswalk from the
-    studies located at: http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240. 
+    studies located at: http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240.
 '''
 
 # BASICS
@@ -86,6 +86,27 @@ def get_descriptions(file_path):
         end = line.find(',')
         descriptions.append(line[start:end].lower())
     return descriptions
+def true_universals(file_path):
+    '''
+    Input: file path to csv file containing feature name/description lines
+    Output: list of True/False depending on if the survey question appeared in
+    all three surveys.
+    '''
+    lines = path_to_lines(file_path)
+    true_false = []
+    for line in lines[1:]:
+        # each line includes the feature name if included in the survey
+        # if any one of these are a '-' we want to mark it "False"
+        check = line.split(',')[-3:]
+        indicator = 0
+        for element in check:
+            if element == '-':
+                indicator += 1
+        if indicator > 0:
+            true_false.append(False)
+        else:
+            true_false.append(True)
+    return true_false
 def make_feat_desc_dict(file_path):
     '''
     Input: file path to csv file containing feature table
@@ -94,7 +115,8 @@ def make_feat_desc_dict(file_path):
     title = get_group_title(file_path)
     features = get_feature_names(file_path)
     descriptions = get_descriptions(file_path)
-    feat_descr = {feature: descriptions[idx] for idx, feature in enumerate(features)}
+    true_false = true_universals(file_path)
+    feat_descr = {feature: [descriptions[idx], true_false[idx]] for idx, feature in enumerate(features)}
     titled = {title: feat_descr}
     return titled
 
