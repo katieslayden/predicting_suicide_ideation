@@ -2,15 +2,20 @@
 Use this file in conjunction with about_data.py to sort and clean data from:
 http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240
 '''
-
+from about_data import *
 import numpy as numpy
 import pandas as pd
 
+
 # BASIC FUNCTIONS FOR INITIAL/COMMON DATAFRAME OPERATIONS
+def setup(txt_path, csv_root_path):
+    dictionary = {}
+    for file_path in make_paths(txt_path, csv_root_path):
+        dictionary[get_group_title(file_path)] = make_feat_desc_dict(file_path)
+    return dictionary
 def create_dataframe(csv_data_file):
     df = pd.read_csv(csv_data_file, sep='\t', low_memory=False)
-    df = df.set_index(df[0])
-
+    return df
 def column_average(df, feature):
     return None
 
@@ -23,7 +28,7 @@ def remove_nonuniversals():
     Input: dictionary
     Output: keys where the second item in the value is True
     '''
-    
+
     return None
 
 # SORTING FUNCTIONS FOR DETERMINING GROUPS OF SURVEY RESPONSES
@@ -99,4 +104,27 @@ def clean_continuous(df):
 
 if __name__ == "__main__":
     data_file = '/Users/Winnifred/Desktop/Capstone/ICPSR_20240_RAWDATA/DS0001/20240-0001-Data.tsv'
-    reformat_frequencies(data_file)
+    txt_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_group_file_names.txt'
+    csv_root_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_name_data/'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# end of file
