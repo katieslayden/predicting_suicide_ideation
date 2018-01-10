@@ -40,17 +40,45 @@ def get_universals(txt_path, csv_root_path):
                     nonuniversals[ckey] = cvalue
     return universals, nonuniversals
 
-# SORTING FUNCTIONS FOR DETERMINING GROUPS OF SURVEY RESPONSES
-def find_frequencies():
-    pass
-def find_ratings():
-    pass
-def find_binaries():
-    pass
-def find_continuous():
-    pass
-def sort_survey_questions():
-    pass
+def feature_max(feature):
+    x = feature_uniques[feature]
+    # x is [' ', '-8', '-9', '1', '5']
+    sorted_x = sorted(x, reverse=True)
+    # sorted_x is ['5', '1', '-9', '-8', ' ']
+    no_space = sorted_x[0:-1]
+    # no_space is ['5', '1', '-9', '-8']
+    range_list = []
+    for i in no_space:
+        range_list.append(float(i))
+    # range_list is [5, 1, -9, -8]
+    # min(range_list) is -9
+    # max(range_list) is 5
+    return max(range_list)
+
+def clean_by_max_value(data_file, maxvalue=5):
+    '''
+    Input: data_file, maxvalue desired in unique values for a column
+    Output:
+    '''
+    messy_df = pd.read_csv(data_file, sep='\t', low_memory=False)
+    clean_df = pd.DataFrame()
+
+    universal_features, nonuniversal_features = get_universals(txt_path, csv_root_path)
+
+    good_features = list(universal_features.keys())
+    for feature in good_features:
+        clean_df[feature] = messy_df[feature]
+
+    feature_uniques = {}
+    for feature in good_features:
+        feature_uniques[feature] = list(pd.unique(clean_df[feature]))
+
+    features_max5 = []
+    for feature in good_features:
+        if feature_max(feature) <= 5.0:
+            features_max5.append(feature)
+
+    return features_max5
 
 # INTERMEDIATE FUNCTIONS FOR REFORMATTING / CLEANING
 def reformat_frequencies(df, columns):
