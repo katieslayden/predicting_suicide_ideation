@@ -8,7 +8,6 @@ from about_data import *
 import numpy as numpy
 import pandas as pd
 
-
 # BASIC FUNCTIONS FOR INITIAL/COMMON DATAFRAME OPERATIONS
 def setup(txt_path, csv_root_path):
     dictionary = {}
@@ -54,8 +53,7 @@ def feature_max(feature):
     # min(range_list) is -9
     # max(range_list) is 5
     return max(range_list)
-
-def clean_by_max_value(data_file, maxvalue=5):
+def clean_by_max(data_file, maxvalue=5):
     '''
     Input: data_file, maxvalue desired in unique values for a column
     Output:
@@ -79,6 +77,30 @@ def clean_by_max_value(data_file, maxvalue=5):
             features_max5.append(feature)
 
     return features_max5
+
+def get_group(feature, full_dict):
+    for akey, apair in full_dict.items():
+        for bkey, bpair in apair.items():
+            for ckey, cpair in bpair.items():
+                if feature == ckey:
+                    return bkey
+def get_descriptions(feature, full_dict):
+    for akey, apair in full_dict.items():
+        for bkey, bpair in apair.items():
+            for ckey, cpair in bpair.items():
+                if feature == ckey:
+                    return cpair[0]
+def return_group_descriptions(feature_list, full_dict):
+    '''
+    Input: feature list and full dictionary
+    Output: a list of unique groups and a list of descriptions
+    '''
+    groups = []
+    descriptions = []
+    for feature in features_list:
+        groups.append(get_group(feature, full_dict))
+        descriptions.append(get_descriptions(feature, full_dict))
+    return list(set(groups)), descriptions
 
 # INTERMEDIATE FUNCTIONS FOR REFORMATTING / CLEANING
 def reformat_frequencies(df, columns):
@@ -135,14 +157,13 @@ def clean_continuous(df):
     '''
     return None
 
-if __name__ == "__main__":
+def main():
     data_file = '/Users/Winnifred/Desktop/Capstone/ICPSR_20240_RAWDATA/DS0001/20240-0001-Data.tsv'
     txt_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_group_file_names.txt'
     csv_root_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_name_data/'
 
-
-
-
+if __name__ == "__main__":
+    main()
 
 
 
