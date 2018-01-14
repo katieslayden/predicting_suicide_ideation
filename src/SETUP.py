@@ -1,27 +1,3 @@
-'''
-This file houses functions for (ultimately) creating a link between the feature
-name and description. This is crucial for filtering by survey question type b/c
-types can be gleaned from descriptions.
-
-The next step is to use these functions in 'clean.py' to filter between categories
-of data and consider creating a class for all these functions instead of having
-everything separated out like this.
-
-Main categories of interest:
-    DX - diagnosis features
-    mental health features
-    other features (example: housing, employment, etc.)
-
-Outstanding TO-DO items for this file:
-    - reformat code to use classes instead of functions
-    - refactor code for efficiency and interpretability
-    - practice writing tests by creating some for this py file
-
-Use case:
-    This code is intended for using with the public access crosswalk from the
-    studies located at: http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240.
-'''
-
 # BASICS
 def get_lines(file_path):
     with open(file_path) as f:
@@ -121,7 +97,7 @@ def make_feat_desc_dict(file_path):
     titled = {title: feat_descr}
     return titled
 
-if __name__ == "__main__":
+def main():
     # LOCAL PATHS -- UPDATE FOR YOUR LOCAL PATHS AFTER DOWNLOADING DATA
     txt_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_group_file_names.txt'
     csv_root_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_name_data/'
@@ -132,6 +108,8 @@ if __name__ == "__main__":
     #
     # print(dictionary.keys())
 
+if __name__ == "__main__":
+    main()
 
 
 
