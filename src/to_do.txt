@@ -1,34 +1,15 @@
 Capstone Project To-Do List
 
 TO_DO:
-    - reformat cleaning file to use classes instead of functions
-    - review and consider implications for project
-        linear algebra day / matrix maths
-        recommender systems
-        topic analysis
-    - data cleaning:
-        determine categories for survey responses based on survey Q/A categories
-        write functions to reformat each type of survey response
-        automate cleaning based on survey response types
-        thoughtfully assess + address NaN's
-        what to do about continuous data values with missing responses
-        create dictionary of types of columns to automate the process
-    - SQL ?
-    - data storage:
-        decide on storage for data (where to backup)
-    - EDA
-        shape of data
-        distribution of data across categories for each group 
-    - dimensionality reduction
-    - topic modeling
-    - train model
-    - evaluate model
+    - reconfigure program files into: SETUP, SPECIFY_FEATURES, CLEAN, MODEL
+    - format each of the above as classes
+    - create coordinator program to create instances of classes and print model scores
 
+CURIOUS THOUGHTS:
+    -
 
 COMPLETED:
-    - get data
-    - domain knowledge research
-    - survey/raw data structure, intent, process
-    - write functions for mapping column names (V01234) to descriptions ('fatigue')
-    - write function for encoding True for features that exist in all three surveys
-      and false for features that exist in one or two surveys
+    -
+
+CHALLENGES:
+    - previously clunky code !

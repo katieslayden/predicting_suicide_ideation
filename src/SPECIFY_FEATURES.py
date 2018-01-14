@@ -1,9 +1,3 @@
-'''
-Next step for this file is to reformat using classes instead of functions!
-
-Use this file in conjunction with about_data.py to sort and clean data from:
-http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240
-'''
 from about_data import *
 import numpy as numpy
 import pandas as pd
