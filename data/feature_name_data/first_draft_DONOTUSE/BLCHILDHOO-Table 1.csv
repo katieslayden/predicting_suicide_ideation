@@ -1,0 +1,103 @@
+Childhood,CPES,NCSR,NLAAS,NSAL
+V05783: Lived with both biological parents until 16,V05783,CH1,-,-
+V05784: Reason didn't live with biological parents until 16:1st mention,V05784,CH2_11,-,-
+V05785: Reason didn't live with biological parents until 16:2nd mention,V05785,CH2_12,-,-
+V05786: Reason didn't live with biological parents until 16:3rd mention,V05786,CH2_13,-,-
+V05787: Reason didn't live with biological parents until 16:4th mention,V05787,CH2_14,-,-
+V05793: Your age when your mother died,V05793,CH2A,-,-
+V05794: Your age when your father died,V05794,CH2B,-,-
+V05795: Your age when your parents divorced,V05795,CH2C,-,-
+V05801: # adult males lived with for 6+ mths in childhood,V05801,CH3_1,-,-
+V05802: # adult females lived with for 6+ mths in childhood,V05802,CH3_2,-,-
+V05803: Away from home 6+ mths before 16,V05803,CH6,-,-
+V05804: Location 6+ mths before 16:1st mention,V05804,CH6A1,-,-
+V05805: Location 6+ mths before 16:2nd mention,V05805,CH6A2,-,-
+V05806: Location 6+ mths before 16:3rd mention,V05806,CH6A3,-,-
+V05810: Age 1st time went away,V05810,CH6B,-,-
+V05811: Total # months/years away from home before age 16,V05811,CH6C,-,-
+"V05812: Unit of time away from home before age 16, CH6C",V05812,CH6CA,-,-
+V05813: Male head of household during most childhood,V05813,CH8,-,-
+V05814: Amt of childhood male head worked for pay or family business,V05814,CH9,-,-
+"V05815: Kind work he normally did, job title: Recoded",V05815,CH11,-,H8
+V05816: Kind of place he worked for: Recode,V05816,CH12,-,H9
+V05817: Female head of household during most childhood,V05817,CH13,-,-
+V05818: # years school she/mother completed: Top/Bot Code,V05818,CH13A,-,-
+V05820: Amt of childhood mother worked for pay or family business,V05820,CH14,-,-
+"V05821: Kind work she normally did, job title: Recoded",V05821,CH16,-,H11A
+V05822: Kind of place she worked for?: Recode,V05822,CH17,-,H11B
+V05823: Family received gov't assistance for 6+ mths in childhood/adol,V05823,CH19,-,-
+V05824: # yrs from birth - 18 family received gov't assistance,V05824,CH19A,-,-
+V05825: Freq someone did thing from List A to you when growing up,V05825,CH28,-,-
+V05826: Who did thing on List A to you:1st mention,V05826,CH28A1,-,-
+V05827: Who did thing on List A to you:2nd mention,V05827,CH28A2,-,-
+V05828: Who did thing on List A to you:3rd mention,V05828,CH28A3,-,-
+V05829: Who did thing on List A to you:4th mention,V05829,CH28A4,-,-
+V05834: Freq parent did things on List A to each other when growing up,V05834,CH29,-,-
+V05835: Freq made to do chores too diffic/dang for age in childhood,V05835,CH30_1A,-,-
+V05836: Freq left unsupervised at too early age in childhood,V05836,CH30_1B,-,-
+V05837: Went without needed things due to parents spending on selves,V05837,CH30_1C,-,-
+V05838: Freq went hungry/parents didn't fix meals in childhood,V05838,CH30_1D,-,-
+V05839: Freq parents failed to get medical trmt when sick/hurt as child,V05839,CH30_1E,-,-
+V05840: What woman spent most time raising you,V05840,CH38,-,-
+V05841: How emotionally close with her when growing up,V05841,CH39_1,-,-
+V05842: How much love did woman give you,V05842,CH40A,-,-
+V05843: Amt of effort she put in your upbringing,V05843,CH40F,-,-
+V05844: Freq she stopped you doing things other kids were doing,V05844,CH40H,-,-
+V05845: Mother/woman was strict with rules for you as child,V05845,CH40I,-,-
+V05846: Growing up-mother/woman had periods of sadness for 2+ wks,V05846,CH41,-,-
+V05847: Frequency of mother/woman's depression during childhood,V05847,CH41A,-,-
+V05848: During worst depression-woman had other symptoms,V05848,CH42,-,-
+V05849: Growing up-woman received prof treatment for depression,V05849,CH44,-,-
+V05850: Growing up-woman was hospitalized for depression,V05850,CH44A,-,-
+V05851: Growing up-depression interfered a lot with her life activities,V05851,CH45,-,-
+V05852: Growing up-woman constantly anx/nerv for 1+ mth,V05852,CH46,-,-
+V05853: Woman anx/nerv for 1+ mth in all/most/some/little childhood,V05853,CH46A,-,-
+V05854: Worst nervous episode-woman had other symptoms,V05854,CH47,-,-
+V05855: Growing up-woman got prof treatment for nervousness,V05855,CH49,-,-
+V05856: Growing up-woman ever hospitalized for nervousness,V05856,CH49A,-,-
+V05857: Growing up-nervousness interfered a lot with life/activities,V05857,CH50,-,-
+V05858: Growing up-woman complained about anxiety attacks,V05858,CH51,-,-
+V05859: Growing up-woman compl about heart pound/short breath/ill,V05859,CH51A,-,-
+V05860: Growing up-woman had problem with alcohol or drugs,V05860,CH52,-,-
+V05861: Woman had alc/drug prob all/most/some/little of childhood,V05861,CH56,-,-
+V05862: Growing up-woman got prof treatment for substance problem,V05862,CH59,-,-
+V05863: Growing-woman hospitalized for substance use,V05863,CH59A,-,-
+V05864: Growing up-substance use interf lot/some/little/none w/ life,V05864,CH60,-,-
+V05865: Woman had trouble holding a job,V05865,CH61,-,-
+V05866: Growing up-woman lied a lot,V05866,CH62,-,-
+V05867: Growing up-woman often got into physical fights,V05867,CH63,-,-
+V05868: Growing up-woman involved in criminal activities,V05868,CH64,-,-
+V05870: Growing up-woman ran around with men or desert family,V05870,CH66,-,-
+V05871: Growing up- woman attempted to commit suicide,V05871,CH67,-,-
+V05872: What man spent most time raising you,V05872,CH68,-,-
+V05874: How emotionally close were you with him when growing up,V05874,CH69_1,-,-
+V05875: How much love did man give you,V05875,CH69_2A,-,-
+V05876: How much effort did your man put in your upbringing,V05876,CH69_2B,-,-
+V05877: Freq he stopped you doing things other kids were doing,V05877,CH69_2C,-,-
+V05878: Man was strict with rules for you as child,V05878,CH69_2D,-,-
+V05879: Growing up-father/man had periods of sadness for 2+ wks,V05879,CH71,-,-
+V05880: Frequency of father/man's depression during childhood,V05880,CH71A,-,-
+V05881: During worst depression-man had other symptoms,V05881,CH72,-,-
+V05882: Growing up-man received prof treatment for depression,V05882,CH74,-,-
+V05883: Growing up-man was hospitalized for depression,V05883,CH74A,-,-
+V05884: Growing up-depression interfered a lot with his life activities,V05884,CH75,-,-
+V05885: Growing up-man constantly anx/nerv for 1+ mth,V05885,CH76,-,-
+V05886: Man anx/nerv for 1+ mth in all/most/some/little childhood,V05886,CH76A,-,-
+V05887: Worst nervous episode-man had other symptoms,V05887,CH77,-,-
+V05888: Growing up-man got prof treatment for nervousness,V05888,CH79,-,-
+V05889: Growing up-man ever hospitalized for nervousness,V05889,CH79A,-,-
+V05890: Growing up-nervousness interfered a lot with life/activities,V05890,CH80,-,-
+V05891: Growing up-man complained about anxiety attacks,V05891,CH81,-,-
+V05892: Growing up-man compl about heart pound/short breath/ill,V05892,CH81A,-,-
+V05893: Growing up-man had problem with alcohol or drugs,V05893,CH82,-,-
+V05894: Man had alcohol/drug prob all/most/some/little of childhood,V05894,CH86,-,-
+V05895: Growing up-man got prof treatment for substance problem,V05895,CH89,-,-
+V05896: Growing-man hospitalized for substance use,V05896,CH89A,-,-
+V05897: # years school he/father completed: Top/Bot Code,V05897,CH8A,-,-
+V05899: Growing up-substance use interf lot/some/little/none w/ life,V05899,CH90,-,-
+V05900: Man had trouble holding a job,V05900,CH91,-,-
+V05901: Growing up-man lied a lot,V05901,CH92,-,-
+V05902: Growing up-man often got into physical fights,V05902,CH93,-,-
+V05903: Growing up-man involved in criminal activities,V05903,CH94,-,-
+V05905: Growing up-man ran around with men or desert family,V05905,CH96,-,-
+V05906: Ever your man attempt commit suicide,V05906,CH97,-,-

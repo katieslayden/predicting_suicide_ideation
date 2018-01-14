@@ -1,0 +1,16 @@
+Discrimination,CPES,NCSR,NLAAS,NSAL
+V06538: Frequency treated w/ less courtesy than others,V06538,-,DS1A,G18A
+V06539: Frequency treated w/ less respect than others,V06539,-,DS1B,G18B
+V06540: Freq receive poorer restaurant service than others,V06540,-,DS1C,G18C
+V06541: Freq people act like you are not smart,V06541,-,DS1D,G18D
+V06542: Freq people act afraid of you,V06542,-,DS1E,G18E
+V06543: Freq people act like you are dishonest,V06543,-,DS1F,G18F
+V06544: Freq people act better than you,V06544,-,DS1G,G18G
+V06545: Frequency called names/insulted,V06545,-,DS1H,G18H
+V06546: Frequency threatened/harrassed,V06546,-,DS1I,G18I
+V06547: INTERVIEWER CHECKPOINT,V06547,-,DS2,G19
+V06548: Reason for discriminating experiences: Recoded,V06548,-,DS3,G20
+V06549: FOREIGN_TXT_ TAG,V06549,-,DS3_1,-
+V06550: Disliked due to race,V06550,-,DS4,-
+V06551: Treated unfairly due to race,V06551,-,DS5,-
+V06552: Seen friends treated unfairly,V06552,-,DS6,-

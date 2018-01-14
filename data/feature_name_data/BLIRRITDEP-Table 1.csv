@@ -1,0 +1,106 @@
+Irritable Depression,CPES,NCSR,NLAAS,NSAL
+V01158: Other problems during irritable episode,V01158,IR1A,-,-
+V01159: Other problems during irritable episode for several days +,V01159,IR1B,IR1,-
+V01160: Period of being irritable + other problems for most of 2 weeks,V01160,IR2,IR2,-
+V01161: Longest # days when irritable + other probs most of day,V01161,IR2A,IR2A,-
+V01162: INTERVIEWER CHECKPOINT (IR2a),V01162,-,IR3,-
+V01163: Irritable + other probs sev days every mth of year,V01163,IR4,IR4,-
+V01164: Irritable + largest # other probs episode that stands out,V01164,IR7,IR7,-
+V01165: Age worst episode occurred,V01165,IR7A,IR7A,-
+V01166: Length irritable episode + largest # other probs,V01166,IR7B1,IR7B1,-
+"V01167: Unit of time irritable episode + largest # other probs, IR7B1",V01167,IR7B2,IR7B2,-
+"V01168: Experiences most day, every day last time irritable + other",V01168,IR7C,IR7C,-
+V01169: In worst ep-feel discouraged about how things going in life,V01169,IR8A,IR8A,-
+V01170: In worst episode-lose ability take pleasure in good happenings,V01170,IR8B,IR8B,-
+V01171: In worst episode-much larger appetite nearly every day,V01171,IR8C,IR8C,-
+V01172: In worst episode-much smaller appetite nearly every day,V01172,IR8D,IR8D,-
+V01173: In worst episode-have trouble sleeping,V01173,IR8E,IR8E,-
+V01174: In worst episode-sleep too much nearly every night,V01174,IR8F,IR8F,-
+V01175: In worst episode-lot more energy nearly every day,V01175,IR8G,IR8G,-
+V01176: In worst episode-lot less energy nearly every day,V01176,IR8H,IR8H,-
+V01177: In worst episode-nerv/jittery so can't sit still or pace,V01177,IR8I,IR8I,-
+V01178: In worst episode-trouble concentrating nearly every day,V01178,IR8J,IR8J,-
+V01179: In worst episode-lose your self-confidence,V01179,IR8K,IR8K,-
+V01180: In worst episode-think about committing suicide,V01180,IR8L,IR8L,-
+V01181: In worst episode-think about harming someone else,V01181,IR8M,IR8M,-
+V01182: INTERVIEWER CHECKPOINT (IR8a-m),V01182,-,IR9,-
+V01183: Irritability + other probs interfered w/ work/social life/relations,V01183,IR10,IR10,-
+V01184: Unable to carry out daily activities because of irrit + other prob,V01184,IR10A,IR10A,-
+V01185: Amount of time irritability lasted,V01185,IR11,IR11,-
+V01186: Severity of irritability during episode,V01186,IR11_1,IR11_1,-
+V01187: So irritable that nothing could bring good mood,V01187,IR11_2,IR11_2,-
+V01188: INTERVIEWER CHECKPOINT,V01188,-,IR11_4,-
+V01189: Irritability due to physical causes or med/drugs/alcohol,V01189,IR12A,IR12A,-
+V01190: Irritability always from physical causes,V01190,IR12B,IR12B,-
+V01191: Remember exact age 1st irritable period + other probs,V01191,IR20,IR20,-
+V01192: Age in years 1st irritable episode + other probs,V01192,IR20A,IR20A,-
+V09420: About how old first time had an episode of this sort,V09420,IR20B,-,-
+V01194: Approximate age 1st irritable episode + other probs,V01194,IR20B1,IR20B1,-
+"V01195: Irritability + other probs before 1st started school, IR20B1",V01195,IR20B2,IR20B2,-
+"V01196: Irritability + other probs before a teenager, IR20B1",V01196,IR20B3,IR20B3,-
+V09421: Not before a teenager,V09421,IR20B4,-,-
+V01197: 1st time because stress experience or out of blue,V01197,IR20C,-,-
+V01198: 1st time irritable + other probs because stress exp/out of blue,V01198,-,IR20C,-
+V01199: Approx length 1st time irritable + other probs,V01199,IR20D1,IR20D1,-
+"V01200: Unit time, IR20D1",V01200,IR20D2,IR20D2,-
+V01201: Irritable + other probs episode after someone close died,V01201,-,IR20E,-
+V01202: Irritable + episode reason other than someone close died,V01202,-,IR20F,-
+V01203: Irritable episodes past 12 months,V01203,IR21,IR21,-
+V01204: Most recent irritable episode,V01204,IR21A,IR21A,-
+V01205: # different irritable episodes past 12 months,V01205,IR21A_1,IR21A_1,-
+V01206: INTERVIEWER CHECKPOINT,V01206,-,IR21A_2,-
+V01207: Month irritable episode started,V01207,IR21A_3A,IR21A_3A,-
+V01208: Year irritable episode started,V01208,IR21A_3B,IR21A_3B,-
+V01209: Length of irritable episode,V01209,IR21A_4A,IR21A_4A,-
+"V01210: Unit time, IR21A.4A",V01210,IR21A_4B,IR21A_4B,-
+V01211: INTERVIEWER CHECKPOINT,V01211,-,IR21A_5,-
+V01212: Has this episode ended or still going on,V01212,IR21A_6,-,-
+V01213: Has this episode ended or still going on,V01213,-,IR21A_6,-
+V01214: Length 1st irritable episode lasted,V01214,IR21A_7A,IR21A_7A,-
+"V01215: Unit time, IR21A.7A",V01215,IR21A_7B,IR21A_7B,-
+V01216: INTERVIEWER CHECKPOINT,V01216,-,IR21A_8,-
+V01217: Most recent episode ended or ongoing,V01217,IR21A_9,IR21A_9,-
+V01218: # of days irritable episodes past year,V01218,IR21B,IR21B,-
+V01219: Age last time had irritable episode,V01219,IR21C,IR21C,-
+V01220: # irritability episodes in lifetime,V01220,IR35,IR35,-
+V01221: INTERVIEWER CHECKPOINT (IR35),V01221,-,IR36,-
+V01222: # episodes brought on by stressful experience,V01222,IR36_1,IR36_1,-
+V01223: Happened after someone close died,V01223,-,IR36_2,-
+V01224: Length of longest irritable episode,V01224,IR38A,IR38A,-
+"V01225: Unit time, IR38A",V01225,IR38B,IR38B,-
+V01226: # years with at least one irritable ep/mth for 2+ weeks/mth,V01226,IR39,IR39,-
+V01227: INTERVIEWER QUERY (IR21),V01227,-,IR47,-
+V01228: Worst month in past year-feel cheerful,V01228,IR48A,IR48A,-
+V01229: Worst month in past year-feel slowed down,V01229,IR48B,IR48B,-
+V01230: Worst month in past year-enjoy book/radio/TV,V01230,IR48C,IR48C,-
+V01231: Worst month in past year-still enjoyed things you used to,V01231,IR49,IR49,-
+V01232: Worst month in past year-laugh/see funny side,V01232,IR49A,IR49A,-
+V01233: Worst month in past year-interest in physical appearance,V01233,IR49B,IR49B,-
+V01234: Worst month in past year-look forward w/ enjoyment to things,V01234,IR49C,IR49C,-
+V01235: Exent to which irritability interfered with home mgmt,V01235,IR50A,IR50A,-
+V01236: Exent to which irritability interfered with work,V01236,IR50B,IR50B,-
+V01237: Extent to which irritability interf w/ form/maint close relations,V01237,IR50C,IR50C,-
+V01238: Extent to which irritability interfered with social life,V01238,IR50D,IR50D,-
+V01239: INTERVIEWER CHECKPOINT (IR50a-d),V01239,-,IR51,-
+V01240: # days in past year unable to do usual activities due to irritab,V01240,IR52,IR52,-
+V01241: Talked to professional about irritability,V01241,IR56,IR56,-
+V01242: Talked to professional about irritability:1st mention,V01242,-,IR56_101,-
+V01245: Talked to professional about irritability:2nd mention,V01245,-,IR56_102,-
+V01246: Talked to professional about irritability:3rd mention,V01246,-,IR56_103,-
+V01247: Talked to professional about irritability:4th mention,V01247,-,IR56_104,-
+V01248: Talked to professional about irritability:5th mention,V01248,-,IR56_105,-
+V01249: Talked to professional about irritability:6th mention,V01249,-,IR56_106,-
+V01250: Talked to professional about irritability:7th mention,V01250,-,IR56_107,-
+V01251: Talked to professional about irritability:8th mention,V01251,-,IR56_108,-
+V01252: Talked to professional about irritability:9th mention,V01252,-,IR56_109,-
+V01243: Talked to professional about irritability:10th mention,V01243,-,IR56_110,-
+V01244: Talked to professional about irritability:11th mention,V01244,-,IR56_111,-
+V01253: Age 1st talk to medical professional about irritability,V01253,IR56A,IR56A,-
+V01254: Received helpful/effective treatment for irritability,V01254,IR68,IR68,-
+V01255: Age 1st time got helpful/effective treatment for irritability,V01255,IR68A,IR68A,-
+V01256: Total profs seen for irritability incl helpful treatment doc,V01256,IR68B,IR68B,-
+V01257: # professionals ever talk to about irritability,V01257,IR68C,IR68C,-
+V01258: Receive professional treatment for irritability in past year,V01258,IR70,IR70,-
+V01259: Hospitalized overnight for irritability,V01259,IR71,IR71,-
+V01261: Age 1st time hospitalized overnight for irritability,V01261,IR71A,IR71A,-
+V01260: # close relatives had irritable episode,V01260,IR71_1,IR71_1,-

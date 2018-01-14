@@ -1,0 +1,79 @@
+Demographics,CPES,NCSR,NLAAS,NSAL
+V09382: Country in which you were born,V09382,DM1_6,-,-
+V05700: Country in which you were born,V05700,DM_DE4,DM1_6,H2
+V03120: Born U.S. citizen or naturalized,V03120,-,DM1_5G1,-
+V03125: # parents born in U.S.,V03125,DM1_7,-,-
+V09391: # parents born in U.S.,V09391,DM_DE5_1,DM1_7,-
+"V03078: # brothers/sisters had while grow up, incl step/half: Top Code",V03078,DM1_10,-,-
+"V09384: # brothers/sisters had while grow up, incl step/half: Top Code",V09384,DM_DE9_1,-,-
+V03079: # older than you:TopCode,V03079,DM1_11,-,-
+V09385: # older than you:TopCode,V09385,DM_DE9_3,-,-
+V03080: Male head of household during most childhood,V03080,DM1_12,-,-
+V09386: Male head of household during most childhood,V09386,DM_CH8,DM1_12,-
+V03081: # years school he/father completed: Top/Bot Code,V03081,DM1_12A,-,-
+V09387: # years school he/father completed: Top/Bot Code,V09387,DM_CH8A,DM1_12A,H7
+V03083: Female head of household during most childhood,V03083,DM1_13,-,-
+V09388: Female head of household during most childhood,V09388,DM_CH13,DM1_13,-
+V03084: # years school she/mother completed: Top/Bot Code,V03084,DM1_13A,-,-
+V09389: # years school she/mother completed: Top/Bot Code,V09389,DM_CH13A,DM1_13A,H10
+V09380: Highest grade of school/college completed: Top/Bot Code,V09380,DM1_14,-,-
+V03085: Highest grade of school/college completed: Top/Bot Code,V03085,DM_DE20,DM1_14,H13
+V03086: Age 1st yr worked 6 mths + at paid job,V03086,DM1_15,-,-
+V09390: Age 1st yr worked 6 mths + at paid job,V09390,DM_EM1,-,-
+V03127: Current employ situation:1st mention: Recoded,V03127,DM201,-,-
+V03130: Current employ situation:2nd mention: Recoded,V03130,DM202,-,-
+V03131: Current employ situation:3rd mention: Recoded,V03131,DM203,-,-
+V09392: Current employ situation:1st mention: Recoded,V09392,DM_EM7_1,EM7_1_01,-
+V09393: Current employ situation:2nd mention: Recoded,V09393,DM_EM7_2,EM7_1_02,-
+V09394: Current employ situation:3rd mention: Recoded,V09394,DM_EM7_3,EM7_1_03,-
+V03138: Illness due to physical/emotional disorder/comb,V03138,DM4,-,-
+V09395: Illness due to physical/emotional disorder/comb,V09395,DM_EM10,EM10,-
+V03139: # years school spouse/partner completed: Top/Bot Code,V03139,DM6,-,-
+V09396: # years school spouse/partner completed: Top/Bot Code,V09396,DM_SE2,SE2,H16
+V03140: Spouse/partner ever work for pay?,V03140,DM7,-,-
+V09397: Spouse/partner ever work for pay?,V09397,DM_SE6A,-,-
+V03141: Spouse/partner current employ status:1st mention: Recoded,V03141,DM801,-,-
+V03144: Spouse/partner current employ status:2nd mention: Recoded,V03144,DM802,-,-
+V03145: Spouse/partner current employ status:3rd mention: Recoded,V03145,DM803,-,-
+V03146: Spouse/partner current employ status:4th mention: Recoded,V03146,DM804,-,-
+V09398: Spouse/partner current employ status:1st mention: Recoded,V09398,DM_SE401,SE4_01,-
+V09399: Spouse/partner current employ status:2nd mention: Recoded,V09399,DM_SE402,SE4_02,-
+V09400: Spouse/partner current employ status:3rd mention: Recoded,V09400,DM_SE403,SE4_03,-
+V03162: Money left over after liquidating and paying all debts,V03162,DM14_6,-,-
+V09401: Money left over after liquidating and paying all debts,V09401,DM_FN12,-,-
+V03164: # times married: Top Code,V03164,DM17,-,-
+V09402: # times married: Top Code,V09402,DM_MR16A,MR16A,E14A_E15A
+V03165: # marriages ended in divorce/annulment: Top Code,V03165,DM19,-,-
+V09403: # marriages ended in divorce/annulment: Top Code,V09403,DM_MR18,MR18,-
+V03166: Age you married 1st time: Top/Bot Code,V03166,DM20,-,-
+V09404: Age you married 1st time: Top/Bot Code,V09404,DM_MR19,MR19,-
+V03171: Amt of time dated first spouse before married,V03171,DM21A,-,-
+"V03172: Unit of time, DM21A",V03172,DM21B,-,-
+V09407: Amt of time dated first spouse before married,V09407,DM_MR20,-,-
+V09408: Unit of time DM_MR20,V09408,DM_MR20A,-,-
+V03167: Length been separated/divorce/widow,V03167,DM21_3A,-,-
+"V03168: Unit of time, DM21_3A",V03168,DM21_3B,-,-
+V03169: Length been married/sep/div/widow from most recent spouse,V03169,DM21_4A,-,-
+"V03170: Unit of time, DM21_4A",V03170,DM21_4B,-,-
+V09405: Length been married/sep/div/widow from most recent spouse,V09405,DM_MR25A,MR25_4A,-
+V09406: Unit of time DM_MR25a,V09406,DM_MR25B,MR25_4B,-
+V03173: # living biological children: Top Code,V03173,DM22,-,-
+V09409: # living biological children: Top Code,V09409,DM_CN1,CN1,E23
+V03174: # living/biological children under age 5,V03174,DM22A,-,-
+V09410: # living/biological children under age 5,V09410,DM_CN1A,-,-
+V03175: # living/biological children between age 5 and 12,V03175,DM22B,-,-
+V09411: # living/biological children between age 5 and 12,V09411,DM_CN1B,-,-
+V03176: # living/biological children between age 13 and 17,V03176,DM22C,-,-
+V09412: # living/biological children between age 13 and 17,V09412,DM_CN1C,-,-
+V03177: # other living children incl step/adopt/raised 5+ years:Top Code,V03177,DM23,-,-
+V09413: # other living children incl step/adopt/raised 5+ years:Top Code,V09413,DM_CN2,CN2,E24_1
+V03218: # other child(ren) under age 5,V03218,DM23A,-,-
+V09416: # other child(ren) under age 5,V09416,DM_CN2A,-,-
+V03219: # other child(ren) between age 5 and 12,V03219,DM23B,-,-
+V09417: # other child(ren) between age 5 and 12,V09417,DM_CN2B,-,-
+V03220: # other child(ren) between age 13 and 17,V03220,DM23C,-,-
+V09418: # other child(ren) between age 13 and 17,V09418,DM_CN2C,-,-
+V03178: Religious preference:1st mention: Recoded,V03178,DM23_101,-,-
+V03189: Religious preference:2nd mention: Recoded,V03189,DM23_102,-,-
+V09414: Religious preference:1st mention: Recoded,V09414,DM_DA311,DA31B_01,B1
+V09415: Religious preference:2nd mention: Recoded,V09415,DM_DA312,DA31B_02,-

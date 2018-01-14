@@ -1,0 +1,178 @@
+Substance Use,CPES,NCSR,NLAAS,NSAL
+V03266: Age 1st drank alcohol,V03266,SU1,SU1,SU1
+V03267: Age 1st drank 12 drinks per year-compute,V03267,SU2,-,SU2
+V03268: Age 1st drank 12 drinks per year,V03268,SU2A,SU2A,SU2A
+V03269: 1st drank 12 drinks per year before teenager,V03269,SU2B,SU2B,SU2B
+V03270: 1st drank 12 drinks per year before your 20s,V03270,SU2C,SU2C,SU2C
+V03271: # times at least 1 drink past 12 mths,V03271,SU3,SU3,SU3
+V03272: # drinks per day each time you drank,V03272,SU4,SU4,SU4
+V03273: Ever a year in life when drank more than past year,V03273,SU5,SU5,SU5
+V03274: INTERVIEWER CHECKPOINT,V03274,-,SU6,SU6
+V03275: INTERVIEWER CHECKPOINT,V03275,-,SU7,SU7
+V03276: Years when drank most-# times had at least one drink,V03276,SU8,SU8,SU8
+V03277: Years when drank most-# drinks per day,V03277,SU9,SU9,SU9
+V03278: INTERVIEWER CHECKPOINT,V03278,-,SU10,SU10
+V03279: INTERVIEWER CHECKPOINT,V03279,-,SU11,SU11
+V03280: INTERVIEWER CHECKPOINT,V03280,-,SU11_1,SU11_1
+V03281: Drinking ever interfered w/ work/school/job/home,V03281,SU12,SU12,SU12
+V03282: Drinking problem cause family/friend argue/probs,V03282,SU12A,SU12A,SU12A
+V03283: Continue drinking though caused problem w/ people,V03283,SU12B,SU12B,SU12B
+V03284: Ever jeopardized safety due to drinking,V03284,SU12C,SU12C,SU12C
+V03286: INTERVIEWER CHECKPOINT,V03286,-,SU13,SU13
+V03287: INTERVIEWER CHECKPOINT,V03287,-,SU15_1,SU15_1
+V03288: Remember exact age 1st time had drinking issue/problem,V03288,SU15INTR1,SU15INTR,SU15INTR
+V03289: Remember age 1st drinking probs,V03289,SU15INTR2,SU15INT2,SU15INT2
+V03290: Age 1st drinking problem occurred,V03290,SU15A,SU15A,SU15A
+V03291: Estimate age 1st drinking problems-compute,V03291,SU15B,-,SU15B
+V03292: Estimate age 1st drinking problems,V03292,SU15B1,SU15B1,SU15B1
+V03293: Drinking problems occurred before teens,V03293,SU15B2,SU15B2,SU15B2
+V03294: Drinking problems occurred before 20s,V03294,SU15B3,SU15B3,SU15B3
+V03295: How recently had problem because of drinking,V03295,SU16,SU16,SU16
+V03296: Age last problem because of drinking,V03296,SU17,SU17,SU17
+V03297: # of different years in life had problem because of drinking,V03297,SU18,SU18,SU18
+V03298: Ever had irresistable urge to drink,V03298,SU19,SU19,SU19
+V03299: Ever need more alcohol for buzz than used to,V03299,SU19A,SU19A,SU19A
+V03300: Ever feel sick when stopped/slowed drinking,V03300,SU19B,SU19B,SU19B
+V03301: Ever drank to avoid feeling ill when you stopped drinking,V03301,SU19C,SU19C,SU19C
+V03302: Ever drank when planned not to or drank more than intended,V03302,SU19D,SU19D,SU19D
+V03303: Ever drank more often than intended,V03303,SU19E,SU19E,SU19E
+V03304: Ever got drunk when didn't want to,V03304,SU19F,SU19F,SU19F
+V03305: Ever unable to stop/cut down drinking when tried,V03305,SU19G,SU19G,SU19G
+V03306: Ever spent many days recovering,V03306,SU19H,SU19H,SU19H
+V03307: Ever gave up activities due to drinking,V03307,SU19I,SU19I,SU19I
+V03308: Ever cont'd drinking though it caused phys or emo problems,V03308,SU19J,SU19J,SU19J
+V03309: INTERVIEWER CHECKPOINT,V03309,-,SU20,SU20
+V03310: INTERVIEWER CHECKPOINT,V03310,-,SU20_1,SU20_1
+V03311: Recency had alcohol problems,V03311,SU26,SU26,SU26
+V03312: # of years in life had 1 or more alcohol problems,V03312,SU28,SU28,SU28
+V03313: Had 3 or more alcohol problems in same year,V03313,SU29,SU29,SU29
+V03314: Age 1st had 3 alcohol problems same in a year-comput,V03314,SU30,-,SU30
+V03315: Age 1st had 3 alcohol problems in same year,V03315,SU30A,SU30A,SU30A
+V03316: 3 drinking problems same year before teens,V03316,SU30B,SU30B,SU30B
+V03317: 3 drinking problems same year before 20s,V03317,SU30C,SU30C,SU30C
+"V03318: After problems began, # of attempts to quit drinking",V03318,SU32,SU32,SU32
+V03320: Longest time period without drinking,V03320,SU34A,SU34A,SU34A
+V03321: Unit time no drinking,V03321,SU34B,SU34B,SU34B
+V03322: INTERVIEWER CHECKPOINT,V03322,-,SU35,SU35
+V03323: # of times not drinking 3 or more months,V03323,SU36,SU36,SU36
+V03324: INTERVIEWER CHECKPOINT,V03324,-,SU37,SU37
+V03325: Past year-how often drinking hurt health,V03325,SU38A,SU38A,SU38A
+V03326: Past year-how often drinking hurt family,V03326,SU38B,SU38B,SU38B
+V03327: Past year-did impulsive things due to drinking,V03327,SU38C,SU38C,SU38C
+V03328: Past year-failed expectations due to drinking,V03328,SU38D,SU38D,SU38D
+V03329: Past year-felt unhappy due to drinking,V03329,SU38E,SU38E,SU38E
+V03330: Ever used marijuana/hashish,V03330,SU41,SU41,SU41
+V03331: Ever used cocaine in any form,V03331,SU42,SU42,SU42
+V03332: Ever abused prescription,V03332,SU43,SU43,SU43
+V03333: Ever used other drugs,V03333,SU44,SU44,SU44
+V03334: INTERVIEWER CHECKPOINT,V03334,-,SU44_5,SU44_5
+V03335: Age 1st used marijuana/hash,V03335,SU45A,SU45A,SU45A
+V03336: Used marijuana/hash before teens,V03336,SU45A1,SU45A1,SU45A1
+V03337: Used marijuana/hash before 20s,V03337,SU45A2,SU45A2,SU45A2
+V03338: Age 1st used cocaine,V03338,SU45B,SU45B,SU45B
+V03339: Used cocaine before teens,V03339,SU45B1,SU45B1,SU45B1
+V03340: Used cocaine before 20s,V03340,SU45B2,SU45B2,SU45B2
+V03341: Age 1st abused prescription,V03341,SU45C,SU45C,SU45C
+V03342: Abused prescription before teens,V03342,SU45C1,SU45C1,SU45C1
+V03343: Abused prescription before 20s,V03343,SU45C2,SU45C2,SU45C2
+V03344: Age 1st used other drugs,V03344,SU45D,SU45D,SU45D
+V03345: Used other drugs before teens,V03345,SU45D1,SU45D1,SU45D1
+V03346: Used other drugs before 20s,V03346,SU45D2,SU45D2,SU45D2
+V03347: Used marijuana/hash in past 12 mths,V03347,SU47A,SU47A,SU47A
+V03348: Used cocaine in past 12 mths,V03348,SU47B,SU47B,SU47B
+V03349: Use prescription without recommendation in past 12 mths,V03349,SU47C,SU47C,SU47C
+V03350: Used other drugs in past 12 mths,V03350,SU47D,SU47D,SU47D
+V03351: Frequency of marijuana/hash use in past 12 mths,V03351,SU48A,SU48A,SU48A
+V03352: Frequency of cocaine use in past 12 mths,V03352,SU48B,SU48B,SU48B
+V03353: Freq of non-recommended prescrip drugs use in past 12 mths,V03353,SU48C,SU48C,SU48C
+V03354: Frequency of other drug use in past 12 mths,V03354,SU48D,SU48D,SU48D
+V03355: INTERVIEWER CHECKPOINT,V03355,-,SU50,SU50
+V03356: INTERVIEWER CHECKPOINT,V03356,-,SU63,SU63
+V03357: Probs due to drug use,V03357,-,SU64INTR,SU64INTR
+V03443: Problems due to drug use,V03443,-,SU64INT2,SU64INT2
+V03358: Drug use frequently interfered with job/home/school,V03358,SU65,SU65,SU65
+V03359: Drug use caused problems/argue with family and friends,V03359,SU65A,SU65A,SU65A
+V03360: Continued drug use regardless of problems w/ family/friends,V03360,SU65B,SU65B,SU65B
+V03361: Jeopardized safety due to drugs,V03361,SU65C,SU65C,SU65C
+V03363: INTERVIEWER CHECKPOINT,V03363,-,SU66,SU66
+V03364: Remember exact age 1st had drug problem,V03364,SU68INTR1,SU68INTR,SU68_1
+V03365: Remember exact age 1st had drug problem,V03365,SU68INTR2,SU68INT2,SU68_2
+V03366: Age 1st drug problems occurred,V03366,SU68A,SU68A,SU68A
+V03367: Estimate age 1st drug problem occurred - computed,V03367,SU68B,-,SU68B
+V03368: Estimate age 1st drug problem occurred,V03368,SU68B1,SU68B1,SU68B1
+V03369: 1st drug problem before teens,V03369,SU68B2,SU68B2,SU68B2
+V03370: 1st drug problem before 20s,V03370,SU68B3,SU68B3,SU68B3
+V03371: INTERVIEWER CHECKPOINT,V03371,-,SU68C,SU68C
+V03372: Recently had problem because of drug use,V03372,SU69,SU69,SU69
+V03373: Age last problem because of drug use,V03373,SU70,SU70,SU70
+V03374: # of different years had drug problems,V03374,SU71,SU71,SU71
+V03375: Ever had irresistible urge to use drug,V03375,SU72,SU72,SU72
+V03376: Ever need more drugs to get high than before,V03376,SU72A,SU72A,SU72A
+V03377: Had ill feelings when stopped/cut down drug use,V03377,SU72B,SU72B,SU72B
+V03378: Used drugs to avoid ill feelings when trying to stop/cut down,V03378,SU72C,SU72C,SU72C
+V03379: Used drugs when had no intention to,V03379,SU72D,SU72D,SU72D
+V03380: Ever used drugs more than intended,V03380,SU72E,SU72E,SU72E
+V03381: Ever tried stop/cut down on drugs and not able,V03381,SU72F,SU72F,SU72F
+V03382: Ever spent several days recovering from drug use,V03382,SU72G,SU72G,SU72G
+V03383: Ever gave up/reduced activities due to drugs,V03383,SU72H,SU72H,SU72H
+V03384: Ever cont'd drug use though it caused phys or emo problems,V03384,SU72I,SU72I,SU72I
+V03385: INTERVIEWER CHECKPOINT,V03385,-,SU73,SU73
+V03386: INTERVIEWER CHECKPOINT,V03386,-,SU73_1,-
+V03387: INTERVIEWER CHECKPOINT,V03387,-,-,SU73_1
+V03388: How recent had problem because of drug use,V03388,SU79,SU79,SU79
+V03389: # of years had at least 1 drug problem,V03389,SU81,SU81,SU81
+V03390: Ever had 3 or more drug problems in the same year,V03390,SU82,SU82,SU82
+V03391: Age 1st had 3 drug problems same year-compute,V03391,SU83,-,SU83
+V03392: Age 1st had 3 drug problems same year,V03392,SU83A,SU83A,SU83A1
+V03393: 1st had 3 drug problems same year before teens,V03393,SU83B,SU83B,SU83A2
+V03394: 1st had 3 drug problems same year before 20s,V03394,SU83C,SU83C,SU83A3
+V03395: INTERVIEWER CHECKPOINT,V03395,-,SU85,SU85
+V03396: Past year-drugs hurt health,V03396,SU86A,SU86A,SU86A
+V03397: Past year-drugs hurt family,V03397,SU86B,SU86B,SU86B
+V03398: Past year-regretted impulsive things due to drugs,V03398,SU86C,SU86C,SU86C
+V03399: Past year-failed expectations due to drug,V03399,SU86D,SU86D,SU86D
+V03400: Past year-unhappy due to drugs,V03400,SU86E,SU86E,SU86E
+V03401: Age 1st opportunity to use alcohol,V03401,SU87A,SU87A,SU87A
+V03402: 1st alcohol opportunity before teens,V03402,SU87A2,SU87A2,SU87A2
+V03403: 1st alcohol opportunity before 20s,V03403,SU87A3,SU87A3,SU87A3
+V03404: Age 1st opportunity to use drugs,V03404,SU87B,SU87B,SU87B
+V03405: 1st drug opportunity before teens,V03405,SU87B2,SU87B2,SU87B2
+V03406: 1st drug opportunity before 20s,V03406,SU87B3,SU87B3,SU87B3
+V03407: INTERVIEWER CHECKPOINT,V03407,-,SU88_1,SU88_1
+V03408: # of opportunities before trying alcohol,V03408,SU88A,SU88A,SU88A
+V03409: # of opportunities before trying drugs,V03409,SU88B,SU88B,SU88B
+V03411: Ever see doctor about drugs,V03411,SU95,SU95,SU95A
+V03410: Talked to professional about use of drugs/alc in past year,V03410,-,-,SU95
+V03412: Age 1st see doctor about drugs,V03412,SU95A,SU95A,SU97
+V03413: Tried to get professional help for drug/alcohol use,V03413,-,-,SU95B
+V03414: Reason didn't get help for drugs/alcohol-1st mention,V03414,-,-,SU95C1
+V03415: Reason didn't get help for drugs/alcohol-2nd mention,V03415,-,-,SU95C2
+V03416: 1st time saw professional about drug/alcohol use,V03416,-,-,SU96
+V03417: Talked to psychiatrist about drugs/alcohol,V03417,-,-,SU98A
+V03418: Talked to other mental health prof about drugs/alcohol,V03418,-,-,SU98B
+V03419: Talked to family doctor about drugs/alcohol,V03419,-,-,SU98C
+V03420: Talked to other medical doctor about drugs/alcohol,V03420,-,-,SU98D
+V03421: Talked to other health prof about drugs/alcohol,V03421,-,-,SU98E
+V03422: Talked to religious/spiritual advisor about drugs/alcohol,V03422,-,-,SU98F
+V03423: Talked to other healer about drugs/alcohol,V03423,-,-,SU98G
+V03424: Professional was helpful,V03424,-,-,SU99
+V03425: Treatment received for drug/alcohol problem-1st mention,V03425,-,-,SU1001
+V03426: Treatment received for drug/alcohol problem-2nd mention,V03426,-,-,SU1002
+V03427: Treatment received for drug/alcohol problem-3rd mention,V03427,-,-,SU1003
+V03428: Treatment received for drug/alcohol problem-4th mention,V03428,-,-,SU1004
+V03429: # times hospitalized for drug/alcohol problem,V03429,-,-,SU101B
+V03430: Received helpful/effective treatment for drug/alcohol problem,V03430,SU102,SU102,-
+V03431: Age 1st got helpful/effective treatment for drug/alcohol prob,V03431,SU102A,SU102A,-
+V03432: # of professionals ever talked to incl helpful treatment doctor,V03432,SU102B,SU102B,-
+V03433: # of professionals ever talked to about drug/alc problem,V03433,SU102C,SU102C,-
+V03434: Received prof treatment for use of drug/alcohol in past year,V03434,SU103,SU103,-
+V03435: Hospitalized overnight for drug problems,V03435,SU119,SU119,SU101
+V03436: Age 1st hospitalized overnight for drug problems,V03436,SU119_1,SU119_1,SU101A
+V03437: Ever go to self-help group for drug/alc problems,V03437,SU119_2,SU119_2,SU119_2
+V03438: Age 1st went to self-help group for drug/alc problems,V03438,SU119_3,SU119_3,SU119_3
+V03439: # of self-help meetings attended for drug/alc in past year,V03439,SU119_4,SU119_4,SU119_4
+V03440: # of relatives ever had drug/alcohol problems,V03440,SU119_5,SU119_5,SU119_5
+V03441: Received help from fam/friends/acquaint for drug/alc prob,V03441,-,-,SU120
+V03442: Tried to get help from fam/friends/acquaint for drug/alc prob,V03442,-,-,SU120A
+V09215: Why not substance help from fam/friends-1st mention,V09215,-,-,SU120B1
+V09216: Why not substance help from fam/friends-2nd mention,V09216,-,-,SU120B2

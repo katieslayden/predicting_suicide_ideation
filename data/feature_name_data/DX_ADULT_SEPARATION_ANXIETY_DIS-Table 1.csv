@@ -1,0 +1,14 @@
+DX Adult Separation Anxiety Disorder,CPES,NCSR,NLAAS,NSAL
+V08324: ICD Adult Separation Anxiety Disorder(30Day),V08324,I_ASA30,-,-
+V08323: ICD Adult Separation Anxiety Disorder(12Mo),V08323,I_ASA12,-,-
+V08518: ICD Adult Separation Anxiety Disorder(LifeT),V08518,ICD_ASA,-,-
+V07378: ICD Adult Separation Anxiety Disorder Onset,V07378,ASA_ONI,-,-
+V07380: ICD Adult Separation Anxiety Disorder Recency,V07380,ASA_RECI,-,-
+V08326: ICD Adult Separation Anxiety Dis w/hier(30Day),V08326,I_ASAH30,-,-
+V08325: ICD Adult Separation Anxiety Dis w/hier(12Mo),V08325,I_ASAH12,-,-
+V08519: ICD Adult Separation Anxiety Dis w/hier(LifeT),V08519,ICD_ASAH,-,-
+V07535: DSM-IV Adult Separation Anxiety Disorder (30Day),V07535,D_ASA30,-,D_ASA30
+V07534: DSM-IV Adult Separation Anxiety Disorder (12Mo),V07534,D_ASA12,-,D_ASA12
+V07837: DSM-IV Adult Separation Anxiety Disorder (LifeT),V07837,DSM_ASA,-,DSM_ASA
+V07377: DSM-IV Adult Separation Anxiety Disorder Onset,V07377,ASA_OND,-,-
+V07379: DSM-IV Adult Separation Anxiety Disorder Recency,V07379,ASA_RECD,-,-

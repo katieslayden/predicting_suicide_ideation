@@ -1,0 +1,75 @@
+Children,CPES,NCSR,NLAAS,NSAL
+V05423: # living biological children: Top Code,V05423,CN1,-,-
+V05424: # of living biological children under age 5,V05424,CN1A,-,-
+V05425: # of living biological children under age 5,V05425,CN1AA,-,-
+V05426: # of living biological children between age 5 and 12,V05426,CN1B,-,-
+V05427: # of living biological children between age 5 and 12,V05427,CN1BB,-,-
+V05428: # of living biological children between age 13 and 17,V05428,CN1C,-,-
+V05429: # of living biological children between age 13 and 17,V05429,CN1CC,-,-
+V05430: # of living non-biological children: Top Code,V05430,CN2,-,-
+V05431: # of living non-biological children under age,V05431,CN2A,-,-
+V05432: # of living non-biological children under age 5,V05432,CN2AA,-,-
+V05433: # of living non-biological children between age 5 and 12,V05433,CN2B,-,-
+V05445: # of living non-biological children between age 5 and 12,V05445,CN2BB,-,-
+V05446: # of living non-biological children between age 13 and 17,V05446,CN2C,-,-
+V05447: # of living non-biological children between age 13 and 17,V05447,CN2CC,-,-
+V05448: Age of 1st sexual intercourse,V05448,CN3,CN3,-
+V05449: Ever had unwanted pregnancy,V05449,-,CN3A,-
+V05450: Remember last age of 1st unwanted pregnancy,V05450,-,CN3A1,-
+V05451: Age of 1st unwanted pregnancy,V05451,-,CN3A2,-
+V05452: Estimate age of 1st unwanted pregnancy,V05452,-,CN3A3A,-
+V05453: 1st unwanted pregnancy before teens,V05453,-,CN3A3B,-
+V05454: 1st unwanted pregnancy before twenties,V05454,-,CN3A3C,-
+V05455: Age last time had unwanted pregnancy,V05455,-,CN3A4,-
+V05457: Ever had miscarriage/stillbirth,V05457,CN5,-,-
+V05458: # of miscarriage/stillbirth,V05458,CN5A,-,-
+V05459: Age 1st miscarriage/stillbirth,V05459,CN5B,-,-
+V05460: Ever had abortion,V05460,CN6,-,-
+V05461: # of abortion(s),V05461,CN6A,-,-
+V05462: Age 1st abortion,V05462,CN6B,-,-
+V05463: Child of your has died,V05463,CN7,-,-
+V05466: # of your children that died,V05466,CN7A,-,-
+V05467: Age when your child died,V05467,CN7B,-,-
+V05478: Age of your child at time of their death,V05478,CN7C,-,-
+V05489: How did the child die,V05489,CN7D,-,-
+V05468: Child died-child age/your age/cause of death-1st mention,V05468,CN7B_101,-,-
+V05470: Child died-child age/your age/cause of death-2nd mention,V05470,CN7B_102,-,-
+V05471: Child died-child age/your age/cause of death-3rd mention,V05471,CN7B_103,-,-
+V05472: Child died-child age/your age/cause of death-4th mention,V05472,CN7B_104,-,-
+V05473: Child died-child age/your age/cause of death-5th mention,V05473,CN7B_105,-,-
+V05474: Child died-child age/your age/cause of death-6th mention,V05474,CN7B_106,-,-
+V05475: Child died-child age/your age/cause of death-7th mention,V05475,CN7B_107,-,-
+V05476: Child died-child age/your age/cause of death-8th mention,V05476,CN7B_108,-,-
+V05477: Child died-child age/your age/cause of death-9th mention,V05477,CN7B_109,-,-
+V05469: Child died-child age/your age/cause of death-10th mention,V05469,CN7B_110,-,-
+V05479: Your age when child died-1st mention,V05479,CN7C_101,-,-
+V05481: Your age when child died-2nd mention,V05481,CN7C_102,-,-
+V05482: Your age when child died-3rd mention,V05482,CN7C_103,-,-
+V05483: Your age when child died-4th mention,V05483,CN7C_104,-,-
+V05484: Your age when child died-5th mention,V05484,CN7C_105,-,-
+V05485: Your age when child died-6 mention,V05485,CN7C_106,-,-
+V05486: Your age when child died-7th mention,V05486,CN7C_107,-,-
+V05487: Your age when child died-8th mention,V05487,CN7C_108,-,-
+V05488: Your age when child died-9th mention,V05488,CN7C_109,-,-
+V05480: Your age when child died-10th mention,V05480,CN7C_110,-,-
+V05490: How did your child die-1st mention,V05490,CN7D_101,-,-
+V05492: How did your child die-2nd mention,V05492,CN7D_102,-,-
+V05493: How did your child die-3rd mention,V05493,CN7D_103,-,-
+V05494: How did your child die-4th mention,V05494,CN7D_104,-,-
+V05495: How did your child die-5th mention,V05495,CN7D_105,-,-
+V05496: How did your child die-6th mention,V05496,CN7D_106,-,-
+V05497: How did your child die-7th mention,V05497,CN7D_107,-,-
+V05498: How did your child die-8th mention,V05498,CN7D_108,-,-
+V05499: How did your child die-9th mention,V05499,CN7D_109,-,-
+V05491: How did your child die-10th mention,V05491,CN7D_110,-,-
+V05464: Got somenone pregnant who had miscarriage/stillbirth/abortion,V05464,CN7_2,-,-
+V05465: Age 1st miscar/stillbirth/abortion with someone you got preg,V05465,CN7_2A,-,-
+V05500: Overall relationship with child,V05500,CN9,CN9,-
+V05434: In raising children (m) often did thing from list,V05434,CN10,CN10,-
+V05436: Read question 58 in booklet and give corresponding letter,V05436,CN11_2,CN11_2,-
+V05437: CN11 INTRO-sexual practices,V05437,-,CN11_2_I,-
+V05439: How comfortable with sexuality,V05439,-,CN11_3A,-
+V05440: Sexual experience mostly with what gender,V05440,-,CN11_3B,-
+V05441: # of people you had sexual intercourse with in past year,V05441,CN11_4,-,-
+V05442: # of people you had sexual intercourse with in past year,V05442,-,CN11_4,-
+V05443: Freq you and your partner wear condom in past year,V05443,CN11_5,CN11_5,-

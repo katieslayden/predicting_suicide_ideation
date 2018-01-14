@@ -1,0 +1,48 @@
+Religion,CPES,NCSR,NLAAS,NSAL
+V06593: Ever attended church services since 18 years or older,V06593,-,-,B2
+V06595: # hrs spent at church in typical weekend,V06595,-,-,B4
+V06596: Official member of church,V06596,-,-,B5
+V06597: Frequency take part in other church activities,V06597,-,-,B6
+V06598: Hrs/week at place of worship not incl service,V06598,-,-,B7
+V06599: Frequency see/write/phone church members,V06599,-,-,B8
+V06600: # church people help you if needed,V06600,-,-,B9
+V06601: Frequency church people help you out,V06601,-,-,B10
+V06602: Frequency you help church people,V06602,-,-,B11
+V06603: Closeness to church people,V06603,-,-,B12
+V06604: Satisfaction w/ quality of relations w/ church people,V06604,-,-,B13
+V06605: Church people make you feel loved,V06605,-,-,B14A
+V06606: Church people listen to problems,V06606,-,-,B14B
+V06607: Church people express interest in well-being,V06607,-,-,B14C
+V06608: Church people make too many demands on you,V06608,-,-,B15A
+V06609: Church people criticize you,V06609,-,-,B15B
+V06610: Church people take advantage of you,V06610,-,-,B15C
+V06611: Frequency read religious books/materials,V06611,-,-,B16A
+V06612: Frequency watch religious tv programs,V06612,-,-,B16B
+V06613: Frequency listen to religious programs on radio,V06613,-,-,B16C
+V06614: Frequency of praying,V06614,-,-,B16D
+V06615: Frequency of asking someone to pray for you,V06615,-,-,B16E
+V06616: Importance of religion in home when growing up,V06616,-,-,B17A
+V06617: Importance of parents taking kids to religious serv,V06617,-,-,B17B
+V06618: Importance of religion in your life,V06618,-,-,B17C
+V06619: Importance of spirituality in your life,V06619,-,-,B17D
+V06620: Importance of prayer in dealing w/ stressful situations,V06620,-,-,B17E
+V06621: How religious are you,V06621,-,-,B18
+V06622: How spiritual are you,V06622,-,-,B19
+V06623: Commitment Q: Willing to think before answering Qs,V06623,-,-,B20
+V06624: Commitment Filter: did not commit,V06624,-,-,B20A
+V06625: Correct answers test 1,V06625,-,-,CG50A
+V06626: Incorrect answers test 1,V06626,-,-,CG50B
+V06627: Correct answers test 2,V06627,-,-,CG50C
+V06628: Incorrect answers test 2,V06628,-,-,CG50D
+V06629: Total correct answers,V06629,-,-,CG50E
+V06630: Todays date,V06630,-,-,CG51
+V06631: Day of week,V06631,-,-,CG52
+V06632: Your phone number,V06632,-,-,CG53
+V06633: Your street address,V06633,-,-,CG54
+V06634: Your age,V06634,-,-,CG55
+V06635: Your date of birth,V06635,-,-,CG56
+V06636: Who is president of US now,V06636,-,-,CG57
+V06637: Previous president of US,V06637,-,-,CG58
+V06638: Your mom's maiden name,V06638,-,-,CG59
+V06639: Subtract 3 from 20 and keep subtracting 3 all way down,V06639,-,-,CG60
+V06640: IWR CHKPT: Did R pass SPMSQ test,V06640,-,-,CG61

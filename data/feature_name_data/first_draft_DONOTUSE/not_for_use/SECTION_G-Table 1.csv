@@ -1,0 +1,86 @@
+"Group and Personal Identity, Discrimination",CPES,NCSR,NLAAS,NSAL
+V06975: Racial term R prefers to be called,V06975,-,-,G1
+V06976: More important-Black or American,V06976,-,-,G2
+V06977: Closeness in ideas/feelings to Blacks,V06977,-,-,G3A
+V06978: Closeness in ideas/feelings to Whites,V06978,-,-,G3B
+V06979: Closeness in ideas/feelings to Spanish-speaking groups,V06979,-,-,G3C
+V06980: Closeness in ideas/feelings to American Indians,V06980,-,-,G3D
+V06981: Closeness in ideas/feelings to Asians,V06981,-,-,G3E
+V06982: Closeness in ideas/feelings to Black Caribbeans,V06982,-,-,G3F
+V06983: Closeness in ideas/feelings to Africans,V06983,-,-,G3G
+V06984: Closeness in ideas/feelings to poor Blacks,V06984,-,-,G4A
+V06985: Closeness in ideas/feelings to religious Blacks,V06985,-,-,G4B
+V06986: Closeness in ideas/feelings to young Blacks,V06986,-,-,G4C
+V06987: Closeness in ideas/feelings to upper-class Blacks,V06987,-,-,G4D
+V06988: Closeness in ideas/feelings to working-class Blacks,V06988,-,-,G4E
+V06989: Closeness in ideas/feelings to older Blacks,V06989,-,-,G4F
+V06990: Closeness in ideas/feelings to elected Blacks,V06990,-,-,G4G
+V06991: Closeness in ideas/feelings to Black professionals,V06991,-,-,G4H
+V06992: How true Blacks are intelligent,V06992,-,-,G5A
+V06994: How true Blacks are lazy,V06994,-,-,G5B
+V06996: How true Blacks are hardworking,V06996,-,-,G5C
+V06998: How true Blacks give up easily,V06998,-,-,G5D
+V07000: How true Blacks are proud of selves,V07000,-,-,G5E
+V07002: How true Blacks are violent,V07002,-,-,G5F
+V06993: How true Caribbeans are intelligent,V06993,-,-,G5A_CB
+V06995: How true Caribbeans are lazy,V06995,-,-,G5B_CB
+V06997: How true Caribbeans are hardworking,V06997,-,-,G5C_CB
+V06999: How true Caribbeans give up easily,V06999,-,-,G5D_CB
+V07001: How true Caribs are proud of selves,V07001,-,-,G5E_CB
+V07003: How true Caribbeans are violent,V07003,-,-,G5F_CB
+V07004: Whts want Blks to get better break/keep Blks down,V07004,-,-,G6
+V07006: You want Blksto get better break/keep Blks down,V07006,-,-,G6AWH
+V07005: Whts want Blk Ams to get better breakk/keep Blk Ams down,V07005,-,-,G6A_CB
+V07007: Whts want Caribs to get better break/keep Caribs down,V07007,-,-,G6B_CB
+V07008: Blks want Caribs to get better break/keep Caribs down,V07008,-,-,G6C_CB
+V07011: Freq Whts treat R badly due to skin shade,V07011,-,-,G10A
+V07012: Freq Blks treat R badly due to skin shade,V07012,-,-,G10B
+V07013: Freq others find you attractive due to skin shade,V07013,-,-,G10C
+V07014: What happens to Blacks affects your life,V07014,-,-,G11
+V07015: How much Blacks fate affects your life,V07015,-,-,G11A
+V07017: What happens to Whites affects your life,V07017,-,-,G11WH
+V07016: How much Whites fate affects your life,V07016,-,-,G11AWH
+V07018: Unfairly fired,V07018,-,-,G12A
+V07027: Why unfairly fired,V07027,-,-,G13A
+V07036: Last time unfairly fired,V07036,-,-,G14A
+V07045: # times unfairly fired,V07045,-,-,G15A
+V07019: Ever not hired for unfair reasons,V07019,-,-,G12B
+V07028: Why not hired for unfair reasons,V07028,-,-,G13B
+V07037: Last time not hired for unfair reasons,V07037,-,-,G14B
+V07046: # times not hired unfair reason,V07046,-,-,G15B
+V07020: Unfairly denied promotion,V07020,-,-,G12C
+V07029: Why unfairly denied promotion,V07029,-,-,G13C
+V07038: Last time unfairly denied promotion,V07038,-,-,G14C
+V07047: # times unfairly denied promotion,V07047,-,-,G15C
+V07021: Ever unfairly treated/abused by police,V07021,-,-,G12D
+V07030: Why unfairly treated/abused by police,V07030,-,-,G13D
+V07039: Last time unfairly treated/abused by police,V07039,-,-,G14D
+V07048: # times unfairly treated/abused by police,V07048,-,-,G15D
+V07022: Unfairly discouraged from continuing education by teacher/adv,V07022,-,-,G12E
+V07031: Why discouraged from continuing education,V07031,-,-,G13E
+V07040: Last time discouraged from continuing education,V07040,-,-,G14E
+V07049: # times discouraged continuing education,V07049,-,-,G15E
+V07023: Unfairly prevented from moving into neighborhood,V07023,-,-,G12F
+V07032: Why prevented from moving into neighborhood,V07032,-,-,G13F
+V07041: Last time prevented from moving into neighborhood,V07041,-,-,G14F
+V07050: # times prevented from moving into neighborhood,V07050,-,-,G15F
+V07024: Neighbors made life difficult for you/family,V07024,-,-,G12G
+V07033: Why neighbors made life difficult,V07033,-,-,G13G
+V07042: Last time neighbors made life difficult,V07042,-,-,G14G
+V07051: # times neighbors made life difficult,V07051,-,-,G15G
+V07025: Unfairly denied loan,V07025,-,-,G12H
+V07034: Why unfairly denied loan,V07034,-,-,G13H
+V07043: Last time unfairly denied loan,V07043,-,-,G14H
+V07052: # times unfairly denied loan,V07052,-,-,G15H
+V07026: Received unusually bad service from repairman,V07026,-,-,G12I
+V07035: Why unusually bad service from repairman,V07035,-,-,G13I
+V07044: Last time unusually bad service from repairman,V07044,-,-,G14I
+V07053: # times unusally bad service from repairman,V07053,-,-,G15I
+V07063: Frequency followed in stores,V07063,-,-,G18J
+V07066: Tried to do something about it,V07066,-,-,G21A
+V07067: Accept it as fact of life,V07067,-,-,G21B
+V07068: Worked harder to prove them wrong,V07068,-,-,G21C
+V07069: Realized you brought it on yourself,V07069,-,-,G21D
+V07070: Talk to someone,V07070,-,-,G21E
+V07071: Got mad,V07071,-,-,G21F
+V07072: Prayed about it,V07072,-,-,G21G

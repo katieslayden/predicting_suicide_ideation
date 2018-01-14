@@ -1,0 +1,42 @@
+Nervous Attacks,CPES,NCSR,NLAAS,NSAL
+V06455: INTERVIEWER CHECKPOINT,V06455,-,AT1,-
+V06456: INTERVIEWER CHECKPOINT,V06456,-,AT2_1,-
+V06457: During out of control nerv attack-shout a lot,V06457,-,AT2INTRO,-
+V06458: During out of control nerv attack-crying attacks,V06458,-,AT2B,-
+V06459: During out of control nerv attack-break things/aggressive,V06459,-,AT2C,-
+V06460: During out of control nerv attack-get very angry,V06460,-,AT2D,-
+V06461: During out of control nerv attack-scared,V06461,-,AT2E,-
+V06462: During out of control nerv attack-hysterical,V06462,-,AT2F,-
+V06463: During out of control nerv attack-tremble a lot,V06463,-,AT2G,-
+V06464: During out of control nerv attack-not self,V06464,-,AT2H,-
+V06465: During out of control nerv attack-amnesia,V06465,-,AT2I,-
+V06466: During out of control nerv attack-dizzy,V06466,-,AT2J,-
+V06467: During out of control nerv attack-seizure,V06467,-,AT2K,-
+V06468: During out of control nerv attack-heart palpitations,V06468,-,AT2L,-
+V06469: During out of control nerv attack-tight chest,V06469,-,AT2M,-
+V06470: During out of control nerv attack-fainting,V06470,-,AT2N,-
+V06472: INTERVIEWER CHECKPOINT,V06472,-,AT2P,-
+V06473: Talked to Dr about nervous attacks,V06473,-,AT3,-
+V06474: Totally lost control during nervous attack in past year,V06474,-,AT3_1,-
+V06475: Severe nerv attack in past yr interf w/ home mgmt,V06475,-,AT5A,-
+V06476: Severe nerv attack in past yr interf w/ ability to work,V06476,-,AT5B,-
+V06477: Severe nerv attack in past yr interf w/ form/maint relations,V06477,-,AT5C,-
+V06478: Severe nerv attack in past yr interf w/ social life,V06478,-,AT5D,-
+V06479: More than 1 nervous attack,V06479,-,AT6,-
+V06480: # nervous attacks lifetime,V06480,-,AT6A,-
+V06481: Age 1st nervous attack,V06481,-,AT7,-
+V06482: INTERVIEWER CHECKPOINT,V06482,-,AT8,-
+V06483: Age last nervous attack,V06483,-,AT9,-
+V06484: Nervous attack occur because of bad news,V06484,-,AT10A,-
+V06485: Nervous attack occur because death of family member,V06485,-,AT10B,-
+V06486: Nervous attack occur because family problem,V06486,-,AT10C,-
+V06487: Nervous attack occur because marital problem,V06487,-,AT10D,-
+V06488: Nervous attack occur because natural disaster,V06488,-,AT10E,-
+V06489: Nervous attack occur because frightening event,V06489,-,AT10F,-
+V06490: Nervous attack occur because strong emotion,V06490,-,AT10G,-
+V06491: Nervous attack occur because worries,V06491,-,AT10H,-
+V06492: Nervous attack occur because assault,V06492,-,AT10I,-
+V06493: Nervous attack occur because economic problem,V06493,-,AT10J,-
+V06494: Nervous attack occur because illness,V06494,-,AT10K,-
+V06495: Nervous attack occur because use of alcohol or drugs,V06495,-,AT10L,-
+V06496: Nervous attack occur because of other situation,V06496,-,AT10M,-

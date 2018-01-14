@@ -1,0 +1,113 @@
+Specific Phobias,CPES,NCSR,NLAAS,NSAL
+V01399: Specific group endorsement,V01399,SP1_11,-,-
+V09422: How old first time feared some type of animal,V09422,SP3,-,-
+V01405: Time when always anxious/upset faced with feared animal,V01405,SP3A,-,-
+V01406: Age 1st time feared some type of animal,V01406,SP3A1,-,-
+"V01407: Before 1st started school, SP3A1",V01407,SP3A2,-,-
+"V01408: Before a teenager, SP3A1",V01408,SP3A3,-,-
+V01409: Avoid situation w/ risk to see animal because of fear,V01409,SP3B,-,-
+V09423: How old first time avoided some type of animal,V09423,SP3C,-,-
+V01410: Age 1st avoided situations to see animals,V01410,SP3C1,-,-
+"V01411: Before 1st started school, SP3C1",V01411,SP3C2,-,-
+"V01412: Before a teenager, SP3C1",V01412,SP3C3,-,-
+V01413: Time when always upset/anx when faced with scary situation,V01413,SP5A,-,-
+V09424: How old first time feared storms or still water,V09424,SP5,-,-
+V01414: Age 1st time fear of storm or still water,V01414,SP5A1,-,-
+"V01415: Before 1st started school, SP5A1",V01415,SP5A2,-,-
+"V01416: Before a teenager, SP5A1",V01416,SP5A3,-,-
+V01417: Avoid situation being in storm or still water because of fear,V01417,SP5B,-,-
+V01418: Age 1st avoid situation like storm or still water,V01418,SP5C1,-,-
+V09425: Hold old first time avoided storms or still water,V09425,SP5C,-,-
+"V01419: Before 1st started school, SP5C1",V01419,SP5C2,-,-
+"V01420: Before a teenager, SP5C1",V01420,SP5C3,-,-
+V09426: How old first time feared going to doctor,V09426,SP7,-,-
+V01421: Time when always anx/upset seeing doc/inject/blood/injury,V01421,SP7A,-,-
+V01422: Age 1st time fear doc/inject/blood/injury experience,V01422,SP7A1,-,-
+"V01423: Before 1st started school, SP7A1",V01423,SP7A2,-,-
+"V01424: Before a teenager, SP7A1",V01424,SP7A3,-,-
+V01425: Ever avoid doc/inject/blood/injury due to fear,V01425,SP7B,-,-
+V01426: Age 1st avoid doc/inject/blood/injury,V01426,SP7C1,-,-
+V09427: How old first time avoided going to doctor,V09427,SP7C,-,-
+"V01427: Before 1st started school, SP7C1",V01427,SP7C2,-,-
+"V01428: Before a teenager, SP7C1",V01428,SP7C3,-,-
+V01429: Fainted when saw blood,V01429,SP7F,-,-
+V01430: Time always upset/anx when faced with closed space,V01430,SP9A,-,-
+V09428: How old first time feared closed spaces,V09428,SP9,-,-
+V01431: Age 1st time feared closed spaces,V01431,SP9A1,-,-
+"V01432: Before 1st started school, SP9A1",V01432,SP9A2,-,-
+"V01433: Before a teenager, SP9A1",V01433,SP9A3,-,-
+V01434: Avoided closed spaces because of fear,V01434,SP9B,-,-
+V01435: Age 1st avoided closed spaces,V01435,SP9C1,-,-
+V09429: How old when first avoided closed spaces,V09429,SP9C,-,-
+"V01436: Before 1st started school, SP9C1",V01436,SP9C2,-,-
+"V01437: Before a teenager, SP9C1",V01437,SP9C3,-,-
+V01438: Feared about closed spaces-trapped/unable to escape,V01438,SP9F,-,-
+V01439: Fear about closed spaces-panic attack/no help,V01439,SP9G,-,-
+V01440: Fear about closed spaces-physical illness/no help,V01440,SP9H,-,-
+V01441: Fear about closed spaces-not able to breathe,V01441,SP9I,-,-
+V01442: Time when always upset/anxious about high places,V01442,SP11A,-,-
+V09430: How old was respondent the first time feared high places,V09430,SP11,-,-
+V01443: Age 1st feared high places,V01443,SP11A1,-,-
+"V01444: Before 1st started school, SP11A1",V01444,SP11A2,-,-
+"V01445: Before a teenager, SP11A1",V01445,SP11A3,-,-
+V01446: Avoid high places because of fear,V01446,SP11B,-,-
+V09431: How old was respondent the first time avoided high places,V09431,SP11C,-,-
+V01447: Age 1st avoided high places,V01447,SP11C1,-,-
+"V01448: Before 1st started school, SP11C1",V01448,SP11C2,-,-
+"V01449: Before a teenager, SP11C1",V01449,SP11C3,-,-
+V01450: Fear about high places-get dizzy and fall,V01450,SP11F,-,-
+V01451: Fear about high places-might jump,V01451,SP11G,-,-
+V01452: Fear about high places-panic attack/no help,V01452,SP11H,-,-
+V01453: Fear about high places-physical illness/no help,V01453,SP11I,-,-
+V09432: How old first time feared flying,V09432,SP13,-,-
+V01454: Time when always upset/anxious about flying,V01454,SP13A,-,-
+V01455: Age 1st feared flying,V01455,SP13A1,-,-
+"V01456: Before 1st started school, SP13A1",V01456,SP13A2,-,-
+"V01457: Before a teenager, SP13A1",V01457,SP13A3,-,-
+V01458: Avoid flying because of fear,V01458,SP13B,-,-
+V09433: How old first time avoided flying,V09433,SP13C,-,-
+V01459: Age 1st avoided flying,V01459,SP13C1,-,-
+"V01460: Before 1st started school, SP13C2",V01460,SP13C2,-,-
+"V01461: Before a teenager, SP13C2",V01461,SP13C3,-,-
+V01462: Fear about flying-being high in the air,V01462,SP13F,-,-
+V01463: Fear about flying-being in closed space,V01463,SP13G,-,-
+V01464: Fear about flying-panic attack/no help,V01464,SP13H,-,-
+V01465: Fear about flying-physical illness/no help,V01465,SP13I,-,-
+V01466: Fear about flying-plane might crash,V01466,SP13J,-,-
+V01467: Extent fear/avoidance interfered w/ work/social life/relations,V01467,SP16,-,-
+V01468: Time felt emotion upset/disapp/worried because of fear/avoid,V01468,SP17,-,-
+"V01469: During time of severe fear, have 2 or more problems",V01469,SP18,-,-
+V01470: In most severe fear-heart pound/race,V01470,SP18A,-,-
+V01471: In most severe fear-sweat,V01471,SP18B,-,-
+V01472: In most severe fear-tremble,V01472,SP18C,-,-
+V01473: In most severe fear-feel sick to stomach,V01473,SP18D,-,-
+V01474: In most severe fear-dry mouth,V01474,SP18E,-,-
+V01475: In most severe fear-chill/hot flush,V01475,SP18F,-,-
+V01476: In most severe fear-numb/tingle,V01476,SP18G,-,-
+V01477: In most severe fear-trouble breathing normally,V01477,SP18H,-,-
+V01478: In most severe fear-feel like choking,V01478,SP18I,-,-
+V01479: In most severe fear-pain/discomfort in chest,V01479,SP18J,-,-
+V01480: In most severe fear-feel dizzy/faint,V01480,SP18K,-,-
+V01481: In most severe fear-afraid might die,V01481,SP18L,-,-
+V01482: In most severe fear-fear losing control/going crazy/pass out,V01482,SP18M,-,-
+V01483: In most severe fear-like not really there,V01483,SP18N,-,-
+V01484: In most severe fear-feel surrounding unrea/dreamlike,V01484,SP18O,-,-
+V01485: Last time in months strongly feared or avoided things,V01485,SP19,-,-
+V01486: Age last time strongly feared or avoided things,V01486,SP20,-,-
+V01487: Severity of fear if faced today w/ thing that scares you most,V01487,SP21,-,-
+V01488: Avoided feared things in past 12 months,V01488,SP22,-,-
+V01489: Exent to which fear interfered with home management,V01489,SP23A,-,-
+V01490: Exent to which fear interfered with ability to work,V01490,SP23B,-,-
+V01491: Exent to which fear interfered with form/maint close relations,V01491,SP23C,-,-
+V01492: Exent to which fear interfered with social life,V01492,SP23D,-,-
+V01493: # days past yr unable carry out normal activities due to fear,V01493,SP25,-,-
+V01494: Ever talk to medical doctor or professional about fear,V01494,SP27,-,-
+V01495: Age 1st talk to medical doc/professional about fear,V01495,SP27A,-,-
+V01496: Received helpful/effective treatment for fear,V01496,SP38,-,-
+V01497: Age 1st received helpful/effective treatment for fear,V01497,SP38A,-,-
+V01498: Total profs seen for fear incl helpful treatment doc,V01498,SP38B,-,-
+V01499: # of professionals ever talked to about fear,V01499,SP38C,-,-
+V01500: Received treatment for fear in past 12 mths,V01500,SP40,-,-
+V01501: Hospitalized overnight for fear,V01501,SP41,-,-
+V01502: # close relatives had strong fear of something,V01502,SP41_1,-,-
+V01503: Age 1st hospitalized overnight for fear,V01503,SP41A,-,-

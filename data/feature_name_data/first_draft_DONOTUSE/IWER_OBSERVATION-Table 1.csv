@@ -1,0 +1,58 @@
+Interviewer Observations,CPES,NCSR,NLAAS,NSAL
+V10001: Anyone else present during interview,V10001,IO1A,IO1A,-
+V10002: Who was present 1st mention,V10002,IO2_1,IO21,-
+V10003: Who was present 2nd mention,V10003,IO2_2,IO22,-
+V10004: Who was present 3rd mention,V10004,IO2_3,IO23,-
+V10005: Who was present 4th mention,V10005,IO2_4,IO24,-
+V10006: Who was present 5th mention,V10006,IO2_5,IO25,-
+V10007: Present during how much of the interview,V10007,IO3,IO3,-
+V10008: How much was R distracted,V10008,IO4,IO4,-
+V10009: How well did R understand Qs,V10009,IO5,IO5,-
+V10010: How cooperative was R,V10010,IO6,IO6,-
+V10011: How much effort did R put in,V10011,IO7,IO7,-
+V10012: To what extent respond in other lang,V10012,-,IO7A,-
+V10013: How proficient in language of Iw,V10013,-,IO7B,-
+V10014: How much did R enjoy Iw,V10014,-,IO8,-
+V10015: Seem familiarized with responses,V10015,-,IO9,-
+V10016: Influenced by social desirability,V10016,-,IO10,-
+V10017: Pattern of responding in extreme,V10017,-,IO11,-
+V10018: Communication problems,V10018,-,IO12,-
+V10019: Influenced by acquiescence,V10019,-,IO13,-
+V10020: How well did R speak language of Iw,V10020,-,IO13A,-
+V10021: How well did R speak English,V10021,-,IO13B,-
+V10022: R suspicious before interview,V10022,-,-,K1
+V10023: R beginning attitude,V10023,-,-,K2
+V10024: R ending attitude,V10024,-,-,K3
+V10025: R rushing,V10025,-,-,K4
+V10026: R ask how long interview take,V10026,-,-,K5
+V10027: R want to talk,V10027,-,-,K6
+V10028: # interruptions,V10028,-,-,K7
+V10029: # mins interruptions,V10029,-,-,K7A
+V10030: Persons present during iw - 1st ment,V10030,-,-,K81
+V10031: Persons present during iw - 2nd ment,V10031,-,-,K82
+V10032: Persons present during iw - 3rd ment,V10032,-,-,K83
+V10033: Persons present during iw - 4th ment,V10033,-,-,K84
+V10034: Presence of others affect interview,V10034,-,-,K9
+V10035: #12 or younger present,V10035,-,-,K10
+V10036: Presence of children affect interview,V10036,-,-,K10A
+V10037: R wanted assurance of answers,V10037,-,-,K11
+V10038: R understood questions,V10038,-,-,K12
+V10039: R difficulty w/question wordings,V10039,-,-,K13
+V10040: R trouble expressing self,V10040,-,-,K14
+V10041: R trouble reading R booklet,V10041,-,-,K15
+V10045: Read R booklet for R,V10045,-,-,K15A
+V10046: R uncomfortable w/neighborhood,V10046,-,-,K16A
+V10047: R uncomfortable w/religion,V10047,-,-,K16B
+V10048: R uncomfortable w/health,V10048,-,-,K16C
+V10049: R uncomfortable w/employment,V10049,-,-,K16D
+V10050: R uncomfortable w/family,V10050,-,-,K16E
+V10051: R uncomfortable w/help,V10051,-,-,K16F
+V10052: R uncomfortable w/identity,V10052,-,-,K16G
+V10053: R uncomfortable w/personal data,V10053,-,-,K16H
+V10054: R uncomfortable w/roots,V10054,-,-,K16I
+V10055: R uncomfortable w/disorders,V10055,-,-,K16J
+V10056: R bored/interested,V10056,-,-,K19A
+V10057: R hostile/friendly,V10057,-,-,K19B
+V10058: R suspicious/open,V10058,-,-,K19C
+V10059: R businesslike/social,V10059,-,-,K19D
+V10063: Like interview/not like interview,V10063,-,-,K19H

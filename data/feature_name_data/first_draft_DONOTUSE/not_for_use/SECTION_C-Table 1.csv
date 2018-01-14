@@ -1,0 +1,128 @@
+Psychological Resources and Health,CPES,NCSR,NLAAS,NSAL
+V06641: I am person of worth/equal to others,V06641,-,-,C1A
+V06642: I have # of good qualities,V06642,-,-,C1B
+V06643: I am a failure,V06643,-,-,C1C
+V06644: I do things as well as others,V06644,-,-,C1D
+V06645: I don't have much to be proud of,V06645,-,-,C1E
+V06646: I take positive attitude toward self,V06646,-,-,C1F
+V06647: I am satisfied with self,V06647,-,-,C1G
+V06648: I want more self-respect,V06648,-,-,C1H
+V06649: I sometimes feel useless,V06649,-,-,C1I
+V06650: I sometimes think I am no good,V06650,-,-,C1J
+V06651: Impossible to reach my goals,V06651,-,-,C1K
+V06652: My future seems hopeless/not changing for better,V06652,-,-,C1L
+V06653: No way to solve some of my problems,V06653,-,-,C2A
+V06654: I feel pushed around in life,V06654,-,-,C2B
+V06655: Have little control over what happens to me,V06655,-,-,C2C
+V06656: Can do just about anything set my mind to,V06656,-,-,C2D
+V06657: I feel helpless dealing w/ life probs,V06657,-,-,C2E
+V06658: What happens to me in future depends on me,V06658,-,-,C2F
+V06659: Little I can do to change things important things in life,V06659,-,-,C2G
+V06660: Look to God for strength,V06660,-,-,C2H
+V06661: Where you are now in life on ladder,V06661,-,-,C3
+V06662: Where would like to be in few yrs on ladder,V06662,-,-,C4
+V06663: How likely to reach step on ladder,V06663,-,-,C5
+V06664: Disappointment if could never reach step on ladder,V06664,-,-,C6
+V06665: Lack of ability prevents you from reaching step,V06665,-,-,C7A
+V06666: Lack of opportunity prevents you from reaching step,V06666,-,-,C7B
+V06812: Lack of effort prevents you from getting to step,V06812,-,-,C7C
+V06813: Bad luck prevents you from getting to step,V06813,-,-,C7D
+V06814: Your race prevents you from getting to step,V06814,-,-,C7F
+V06815: Your gender prevents you from getting to step,V06815,-,-,C7G
+V06668: Overall present dental health,V06668,-,-,C8A
+V06670: Compare health in general with 1 yr ago,V06670,-,-,C9
+V06671: Prof said you have arthritis,V06671,-,-,C10A
+V06672: Extent arthritis interferes w/ daily tasks,V06672,-,-,C11A
+V06673: Prof said you have ulcers,V06673,-,-,C10B
+V06674: Extent ulcer interferes w/ daily tasks,V06674,-,-,C11B
+V06675: Prof said you have cancer,V06675,-,-,C10C
+V06676: Extent cancer interferes w/ daily tasks,V06676,-,-,C11C
+V06677: Prof said you had high blood pressure,V06677,-,-,C10D
+V06678: Extent high blood pressure interferes w/ daily tasks,V06678,-,-,C11D
+V06679: Prof said you had diabetes,V06679,-,-,C10E
+V06680: Extent diabetes interferes w/ daily tasks,V06680,-,-,C11E
+V06681: Prof said you had liver problem,V06681,-,-,C10F
+V06682: Extent liver problem interferes w/ daily tasks,V06682,-,-,C11F
+V06683: Prof said you had kidney problem,V06683,-,-,C10G
+V06684: Extent kidney problem interferes w/ daily tasks,V06684,-,-,C11G
+V06685: Prof said you had stroke,V06685,-,-,C10H
+V06686: Extent stroke interferes w/ daily tasks,V06686,-,-,C11H
+V06687: Prof said you had asthma,V06687,-,-,C10I
+V06688: Extent asthma interferes w/ daily tasks,V06688,-,-,C11I
+V06689: Prof said you had chronic lung disease,V06689,-,-,C10J
+V06690: Extent lung disease interferes w/ daily tasks,V06690,-,-,C11J
+V06691: Prof said you had blood circulation problem,V06691,-,-,C10K
+V06692: Extent blood circulation prob interferes w/ daily tasks,V06692,-,-,C11K
+V06693: Prof said you had sickle cell disease,V06693,-,-,C10L
+V06694: Extent sickle cell disease interferes w/ daily tasks,V06694,-,-,C11L
+V06695: Prof said you had heart trouble,V06695,-,-,C10M
+V06696: Extent heart trouble interferes w/ daily tasks,V06696,-,-,C11M
+V06699: Prof said you had glaucoma,V06699,-,-,C10O
+V06700: Extent glaucoma interferes w/ daily tasks,V06700,-,-,C11O
+V06703: Prof said you had fertility probs,V06703,-,-,C10Q
+V06704: Extent fertility problem interferes w/ daily tasks,V06704,-,-,C11Q
+V06705: Prof said you had osteoporosis,V06705,-,-,C10R
+V06706: Extent osteoporosis interferes w/ daily tasks,V06706,-,-,C11R
+V06707: Prof said you had fibroid tumors,V06707,-,-,C10S
+V06708: Extent fibroid tumor interferes w/ daily tasks,V06708,-,-,C11S
+V06709: Prof said you had anemia,V06709,-,-,C10T
+V06710: Extent anemia interferes w/ daily tasks,V06710,-,-,C11T
+V06711: Prof said you had eating disorder,V06711,-,-,C10U
+V06712: Extent eating disorder interferes w/ daily tasks,V06712,-,-,C11U
+V06713: Prof said gone thru menopause,V06713,-,-,C10V
+V06714: Extent menopause interferes w/ daily tasks,V06714,-,-,C11V
+V06715: Past yr-bad headaches,V06715,-,-,C12A
+V06716: Extent headaches interfere w/ daily tasks,V06716,-,-,C13A
+V06717: Past yr-hearing probs,V06717,-,-,C12B
+V06718: Extent hearing probs interfere w/ daily tasks,V06718,-,-,C13B
+V06719: Past yr-vision probs,V06719,-,-,C12C
+V06720: Extent vision problems interfere w/ daily tasks,V06720,-,-,C13C
+V06721: Past yr-allergies/infections,V06721,-,-,C12D
+V06722: Extent allergies interfere w/ daily tasks,V06722,-,-,C13D
+V06723: Past yr-back problems,V06723,-,-,C12E
+V06724: Extent back probs interfere w/ daily tasks,V06724,-,-,C13E
+V06725: How often garden/yardwork,V06725,-,-,C14A
+V06726: How often sports/exercise,V06726,-,-,C14B
+V06727: How often take walks,V06727,-,-,C14C
+V06730: Currently trying to lose weight,V06730,-,-,C19
+V06731: How you feel about your weight,V06731,-,-,C20
+V06732: Place/person usually go to for medical help,V06732,-,-,C21
+V06733: Where/who go to for medical help,V06733,-,-,C21A
+V06734: Ever gone to faith healer,V06734,-,-,C22A
+V06735: Ever gone to person who heals w/ roots/herbs/reads palms,V06735,-,-,C22B
+V06736: Ever saw astrologer/psychic,V06736,-,-,C22C
+V06737: Currently covered by govt health ins programs,V06737,-,-,C23
+V06738: Govt ins covers mental health/emotion/nerve problems,V06738,-,-,C23B
+V06739: Covered by employer health insurance,V06739,-,-,C24
+V06740: # of employer health plans covered by,V06740,-,-,C24A
+V06741: Employer ins covers mental health/emotion/nerve probs,V06741,-,-,C24B
+V06742: Covered by family's employer health ins,V06742,-,-,C24C
+V06743: Family insurance covers mental health/emotion/nerve probs,V06743,-,-,C24D
+V06744: Has purchased health insurance directly,V06744,-,-,C25
+V06745: $/visit paid out-of-pocket to see doctor,V06745,-,-,C26
+V06749: $ amount reimbursed by health insurance,V06749,-,-,C26CS
+V06746: INTERVIEWER CHECKPOINT,V06746,-,-,C26_IWR
+V06747: Reimbursement by health insurance,V06747,-,-,C26A
+V06748: $ amount reimbursed by health insurance,V06748,-,-,C26ACS
+V06750: Past mth-health problems,V06750,-,-,C27A
+V06751: Amount health problems upset you,V06751,-,-,C28A
+V06752: Past mth-money problems,V06752,-,-,C27B
+V06753: Amount money problems upset you,V06753,-,-,C28B
+V06754: Past mth-job problems,V06754,-,-,C27C
+V06755: Amount job problems upset you,V06755,-,-,C28C
+V06757: Are you a parent,V06757,-,-,C27D1
+V06756: Past mth-problems w/ children,V06756,-,-,C27D
+V06758: Amount being a parent upset you,V06758,-,-,C28D
+V06759: Past mth-family/marriage problems,V06759,-,-,C27E
+V06760: Amount fam/marriage problems upset you,V06760,-,-,C28E
+V06761: Past mth-you/family crime victim,V06761,-,-,C27F
+V06762: Amount victimization upset you,V06762,-,-,C28F
+V06763: Past mth-police problems,V06763,-,-,C27G
+V06764: Amount police problems upset you,V06764,-,-,C28G
+V06765: Past mth-love life problems,V06765,-,-,C27H
+V06766: Amount love problems upset you,V06766,-,-,C28H
+V06767: Past mth-you/family race problems,V06767,-,-,C27I
+V06768: Amount race problems upset you,V06768,-,-,C28I
+V06769: Past mth-gambling problems,V06769,-,-,C27J
+V06770: Amount gambling problems upset you,V06770,-,-,C28J
+V06811: Your health problems interfere w/ fam/friends in past 30 days,V06811,-,-,C39

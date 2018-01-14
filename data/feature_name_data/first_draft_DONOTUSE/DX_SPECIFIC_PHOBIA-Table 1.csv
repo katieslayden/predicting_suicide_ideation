@@ -1,0 +1,11 @@
+DX Specific Phobia,CPES,NCSR,NLAAS,NSAL
+V08503: ICD Specific Phobia (30 day),V08503,I_SP30,-,-
+V08502: ICD Specific Phobia (12 month),V08502,I_SP12,-,-
+V08572: ICD Specific Phobia (Lifetime),V08572,ICD_SP,-,-
+V09068: ICD Specific Phobia Onset,V09068,SPONI,-,-
+V09069: ICD Specific Phobia Recency,V09069,SPRECI,-,-
+V07754: DSM-IV Specific Phobia (30 day),V07754,D_SP30,-,-
+V07752: DSM-IV Specific Phobia (12 month),V07752,D_SP12,-,-
+V07915: DSM-IV Specific Phobia (Lifetime),V07915,DSM_SP,-,-
+V09063: DSM-IV Specific Phobia Onset,V09063,SP_OND,-,-
+V09065: DSM-IV Specific Phobia Recency,V09065,SP_RECD,-,-

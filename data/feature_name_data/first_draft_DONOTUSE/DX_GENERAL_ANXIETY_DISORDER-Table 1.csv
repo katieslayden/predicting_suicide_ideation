@@ -1,0 +1,17 @@
+DX General Anxiety Disorder,CPES,NCSR,NLAAS,NSAL
+V08375: ICD Generalized Anxiety Disorder(30 day),V08375,I_GAD30,-,-
+V08374: ICD Generalized Anxiety Disorder(12Mo),V08374,I_GAD12,I_GAD12,-
+V08528: ICD Generalized Anxiety Disorder(Lifetime),V08528,ICD_GAD,ICD_GAD,-
+V08217: ICD Generalized Anxiety Disorder Onset,V08217,GAD_ONI,-,-
+V08221: ICD Generalized Anxiety Disorder Recency,V08221,GAD_RECI,GAD_RECI,-
+V08378: ICD Generalized Anxiety Disorder w/hier(30Day),V08378,I_GADH30,-,-
+V08377: ICD Generalized Anxiety Disorder w/hier(12Mo),V08377,I_GADH12,I_GADH12,-
+V08529: ICD Generalized Anxiety Disorder w/hier(LifeT),V08529,ICD_GADH,ICD_GADH,-
+V07615: DSM-IV Generalized Anxiety Disorder (30Day),V07615,D_GAD30,D_GAD30,D_GAD30
+V07613: DSM-IV Generalized Anxiety Disorder (12Mo),V07613,D_GAD12,D_GAD12,D_GAD12
+V07858: DSM-IV Generalized Anxiety Disorder (LifeT),V07858,DSM_GAD,DSM_GAD,DSM_GAD
+V08215: DSM-IV Generalized Anxiety Disorder Onset,V08215,GAD_OND,GAD_OND,GAD_OND
+V08219: DSM-IV Generalized Anxiety Disorder Recency,V08219,GAD_RECD,GAD_RECD,GAD_RECD
+V07619: DSM-IV Gen Anxiety Disorder w/hierarchy (30Day),V07619,D_GADH30,D_GADH30,D_GADH30
+V07617: DSM-IV Gen Anxiety Disorder w/hierarchy (12Mo),V07617,D_GADH12,D_GADH12,D_GADH12
+V07862: DSM-IV Gen Anxiety Disorder w/hierarchy (LifeT),V07862,DSM_GADH,DSM_GADH,DSM_GADH

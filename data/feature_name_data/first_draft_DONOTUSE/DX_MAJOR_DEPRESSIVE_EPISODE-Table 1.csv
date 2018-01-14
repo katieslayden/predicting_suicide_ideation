@@ -1,0 +1,14 @@
+DX Major Depressive Episode,CPES,NCSR,NLAAS,NSAL
+V08404: ICD Severe Depressive Episode (30 day),V08404,I_MDE30,I_MDE30,I_MDE30
+V08403: ICD Severe Depressive Episode (12 month),V08403,I_MDE12,I_MDE12,I_MDE12
+V08534: ICD Severe Depressive Episode (Lifetime),V08534,ICD_MDE,ICD_MDE,ICD_MDE
+V08772: ICD Severe Depressive Episode Onset,V08772,MDE_ONI,MDE_ONI,MDE_ONI
+V08776: ICD Severe Depressive Episode Recency,V08776,MDE_RECI,MDE_RECI,MDE_RECI
+V08415: ICD Severe Depressive Episode w/ hierarchy (30Day),V08415,I_MDEH30,I_MDEH30,I_MDEH30
+V08414: ICD Severe Depressive Episode w/ hierarchy (12Mo),V08414,I_MDEH12,I_MDEH12,I_MDEH12
+V08535: ICD Severe Depressive Episode w/ hierarchy (LifeT),V08535,ICD_MDEH,ICD_MDEH,ICD_MDEH
+V07661: DSM-IV Major Depressive Episode (30 day),V07661,D_MDE30,D_MDE30,D_MDE30
+V07659: DSM-IV Major Depressive Episode (12Mo),V07659,D_MDE12,D_MDE12,D_MDE12
+V07877: DSM-IV Major Depressive Episode (Lifetime),V07877,DSM_MDE,DSM_MDE,DSM_MDE
+V08771: DSM-IV Major Depressive Episode Onset,V08771,MDE_OND,MDE_OND,MDE_OND
+V08775: DSM-IV Major Depressive Episode Recency,V08775,MDE_RECD,MDE_RECD,MDE_RECD

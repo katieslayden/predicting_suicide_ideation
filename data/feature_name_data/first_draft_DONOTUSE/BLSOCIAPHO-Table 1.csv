@@ -1,0 +1,119 @@
+Social Phobia,CPES,NCSR,NLAAS,NSAL
+V01504: Shy/afraid/uncomfortable meeting new people,V01504,SO1A,SO1A,SO1A
+V01505: Shy/afraid/uncomfortable talking to authority,V01505,SO1B,SO1B,SO1B
+V01506: Shy/afraid/uncomfortable talking in meeting/class,V01506,SO1C,SO1C,SO1C
+V01507: Shy/afraid/uncomfortable at parties and social gatherings,V01507,SO1D,SO1D,SO1D
+V01508: Shy/afraid/uncomfortable performing in front of audience,V01508,SO1E,SO1E,SO1E
+V01509: Shy/afraid/uncomfortable taking imp exam though ready,V01509,SO1F,SO1F,SO1F
+V01510: Shy/afraid/uncomfort working while someone watches,V01510,SO1G,SO1G,SO1G
+V01511: Shy/afraid/uncomf entering room when others are present,V01511,SO1H,SO1H,SO1H
+V01512: Shy/afraid/uncomf talking to people don't know well,V01512,SO1I,SO1I,SO1I
+V01513: Shy/afraid/uncomf disagree with people don't know well,V01513,SO1J,SO1J,SO1J
+V01514: Shy/afraid/uncomf write/eat/drink while other watches,V01514,SO1K,SO1K,SO1K
+V01515: Shy/afraid/uncomf using public bathroom,V01515,SO1L,SO1L,SO1L
+V01516: Shy/afraid/uncomf in dating situation,V01516,SO1M,SO1M,SO1M
+V01517: Shy/afraid/uncomf being center of att/embarrassing sit,V01517,SO1N,SO1N,SO1N
+V01518: INTERVIEWER CHECKPOINT,V01518,-,SO2,SO2
+V01519: Remember exact age 1st social fear situation,V01519,SO3INTR1,SO3INTR1,SO3INTR1
+V01520: Remember exact age 1st fear of social or perf situation,V01520,SO3INTR2,SO3INTR2,SO3INTR2
+V01521: Age 1st fear of social situations,V01521,SO3A,SO3A,SO3A
+V01522: Estimate age 1st soc fear-computed,V01522,-,-,SO3B
+V01523: Estimate age of 1st social fear,V01523,ASO3B1,SO3B1,ASO3B1
+V01524: 1st social fear before started school,V01524,ASO3B2,SO3B2,ASO3B2
+V01550: 1st social fear before teenager,V01550,ASO3B3,SO3B3,ASO3B3
+V01525: INTERVIEWER CHECKPOINT: (SEE *SC29.2),V01525,-,SO6,-
+V01526: INTERVIEWER CHECKPOINT,V01526,-,-,SO6
+V01527: Age 1st avoided social or perf situations due to fear,V01527,-,-,ASO6B1
+V01528: Age 1st avoided social or perf sit due to fear-computed,V01528,ASO6B1,SO6B1,SO6A
+V01529: Avoid social or perf situations before started school,V01529,ASO6B2,SO6B2,ASO6B2
+V01530: Avoided social or perf situations before teenager,V01530,ASO6B3,SO6B3,ASO6B3
+V01531: Social fear situation-blush/shake,V01531,SO8A,SO8A,SO8A
+V01532: Social fear situation-fear bladder/bowel problem,V01532,SO8B,SO8B,SO8B
+V01533: Social fear situation-fear vomiting,V01533,SO8C,SO8C,SO8C
+V01534: Ever have 2 or more shyness reactions,V01534,SO9,SO9,SO9
+V01535: Social fear situation-heart pound,V01535,SO9A,SO9A,SO9A
+V01536: Social fear situation-sweat,V01536,SO9B,SO9B,SO9B
+V01537: Social fear situationr-tremble,V01537,SO9C,SO9C,SO9C
+V01538: Social fear situation-sick to stomach,V01538,SO9D,SO9D,SO9D
+V01539: Social fear situation-dry mouth,V01539,SO9E,SO9E,SO9E
+V01540: Social fear situation-chills/hot flushes,V01540,SO9F,SO9F,SO9F
+V01541: Social fear situation-numbness/tingling sensation,V01541,SO9G,SO9G,SO9G
+V01542: Social fear situation-trouble breathing normally,V01542,SO9H,SO9H,SO9H
+V01543: Social fear situationr-feel like choking,V01543,SO9I,SO9I,SO9I
+V01544: Social fear situation-pain/discomfort in chest,V01544,SO9J,SO9J,SO9J
+V01545: Social fear situation-feel dizzy or faint,V01545,SO9K,SO9K,SO9K
+V01546: Social fear situation-afraid might die,V01546,SO9L,SO9L,SO9L
+V01547: Social fear situation-fear losing control/go crazy/pass out,V01547,SO9M,SO9M,SO9M
+"V01548: Social fear situation-feel distant, not really there",V01548,SO9N,SO9N,SO9N
+V01549: Social fear situation-feel things unreal/dreamlike,V01549,SO9O,SO9O,SO9O
+V01551: Social fear situation-fear of panic attack,V01551,SO10,SO10,SO10
+V01552: Social fear situation-ever had panic attack,V01552,SO10A,SO10A,SO10A
+V01553: Social fear situation-fear of being trapped,V01553,SO11,SO11,SO11
+V01554: Social fear situation-fear embarrassment/humiliation,V01554,SO12,SO12,SO12
+V01555: Social fear situation-fear of embarrassing others,V01555,SO12A,SO12A,SO12A
+V01556: Social fear situation-fear someone look/talk/negative resp,V01556,SO13,SO13,SO13
+V01557: Social fear situation-fear of being focus of attention,V01557,SO14,SO14,SO14
+V01558: Feared most during social fear situation:1st mention,V01558,SO14A,SO14A,SO14A
+V01561: Social fear due to phys or mental disability embarrassmt,V01561,SO15,SO15,SO15
+V01562: Social fear due to health problem-1st mention,V01562,SO15A1,SO15A_1,SO15A1
+V01563: Social fear due to health problem-2nd mention,V01563,SO15A2,SO15A_2,SO15A2
+V01564: Social fear due to health problem-3rd mention,V01564,SO15A3,SO15A_3,SO15A3
+V01565: Social fear due to health problem-4th mention,V01565,SO15A4,SO15A_4,SO15A4
+V01566: Social fear due to health problem-5th mention,V01566,SO15A5,-,-
+V01570: Extent to which social fear interf w/ work/social life/relat,V01570,SO16,SO16,SO16
+V01571: Emotionally upset/worried/disappt self due to social fear,V01571,SO17,SO17,SO17
+V01572: Last time strongly feared/avoided social situation,V01572,SO18,SO18,SO18
+V01573: Age last strongly feared or avoided social situation,V01573,SO18A,SO18A,SO18A
+V01574: Severity of social fear if faced today,V01574,SO19,SO19,SO19
+V01575: # times avoided social fear in last 12 mths,V01575,SO20,SO20,SO20
+V01576: Worst mth in yr-extent to which fear interf with home mgmt,V01576,SO21A,SO21A,SO21A
+V01577: Worst mth in yr-extent to which fear interfered with work,V01577,SO21B,SO21B,SO21B
+V01578: Worst mth in yr-extent to which fear interf with relations,V01578,SO21C,SO21C,SO21C
+V01579: Worst mth in yr-extent to which fear interf with social life,V01579,SO21D,SO21D,SO21D
+V01580: INTERVIEWER CHECKPOINT,V01580,-,SO22,-
+V01581: INTERVIEWER CHECKPOINT,V01581,-,-,SO22
+V01582: Days in past yr unable to do normal acts due to social fear,V01582,SO23,SO23,SO23
+V01583: Talk to medical doc or professional about social fear,V01583,SO25,SO25,-
+V01584: Past year-see professional for social fear,V01584,-,-,SO25
+V01585: Talked to professional about social fears:1st mention,V01585,-,SO25_101,-
+V01588: Talked to professional about social fears:2nd mention,V01588,-,SO25_102,-
+V01589: Talked to professional about social fears:3rd mention,V01589,-,SO25_103,-
+V01590: Talked to professional about social fears:4th mention,V01590,-,SO25_104,-
+V01591: Talked to professional about social fears:5th mention,V01591,-,SO25_105,-
+V01592: Talked to professional about social fears:6th mention,V01592,-,SO25_106,-
+V01593: Talked to professional about social fears:7th mention,V01593,-,SO25_107,-
+V01594: Talked to professional about social fears:8th mention,V01594,-,SO25_108,-
+V01595: Talked to professional about social fears:9th mention,V01595,-,SO25_109,-
+V01586: Talked to professional about social fears:10th mention,V01586,-,SO25_110,-
+V01596: Age 1st see professional for social fear,V01596,SO25A,SO25A,SO27
+V01597: Ever see pro for soc fear,V01597,-,-,SO25A
+V01598: Tried to get professional help for social fear,V01598,-,-,SO25B
+V01599: Reason didn't get help for social fear-1st mention,V01599,-,-,SO25C1
+V01600: Reason didn't get help for social fear-2nd mention,V01600,-,-,SO25C2
+V01601: 1st time seeing professional for social fear,V01601,-,-,SO26
+V01602: See psychiatrist for social fear,V01602,-,-,SO28A
+V01603: See other mental health professional for social fear,V01603,-,-,SO28B
+V01604: See family doctor for social fear,V01604,-,-,SO28C
+V01605: See other medical doctor for social fear,V01605,-,-,SO28D
+V01606: See other health professional for social fear,V01606,-,-,SO28E
+V01607: See religious or spiritual advisor for social fear,V01607,-,-,SO28F
+V01608: See other healer for social fear,V01608,-,-,SO28G
+V01609: Professional was helpful,V01609,-,-,SO29
+V01610: Soc fear treatment received-1st mention,V01610,-,-,SO301
+V01611: Soc fear treatment received-2nd mention,V01611,-,-,SO302
+V01612: Soc fear treatment received-3rd mention,V01612,-,-,SO303
+V01613: Soc fear treatment received-4th mention,V01613,-,-,SO304
+V01614: # times hospitalized for social fear,V01614,-,-,SO31B
+V01615: Received help from family/friends/acquaint for social fear,V01615,-,-,SO32
+V01616: Tried to get help from family/friends/acquaint for social fear,V01616,-,-,SO32A
+V09213: Why not soc phobia help from fam/friends-1st mention,V09213,-,-,SO32B1
+V09214: Why not soc phobia help from fam/friends-2nd mention,V09214,-,-,SO32B2
+V01617: Received helpful treatment for social fear,V01617,SO36,SO36,-
+V01618: Age 1st received helpful treatment for social fear,V01618,SO36A,SO36A,-
+V01619: Total profs seen for social fear incl helpful treatment doc,V01619,SO36B,SO36B,-
+V01620: # professional ever talked to about social fear,V01620,SO36C,SO36C,-
+V01621: Received prof treatment for social fear in past 12 mths,V01621,SO38,SO38,-
+V01622: Hospitalized overnight for social fear,V01622,SO39,SO39,SO31
+V01623: # close relatives with strong fear of social perf situations,V01623,SO39_1,SO39_1,-
+V01624: Age 1st hospitalized overnight for social fear,V01624,SO39A,SO39A,SO31A
+V01625: INTERVIEWER CHECKPOINT,V01625,-,-,SO40

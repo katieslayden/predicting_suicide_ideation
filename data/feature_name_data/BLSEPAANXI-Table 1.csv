@@ -1,0 +1,107 @@
+Separation Anxiety,CPES,NCSR,NLAAS,NSAL
+V06172: LCOUNT,V06172,-,-,LCOUNT
+V06173: INTERVIEWER CHECKPOINT,V06173,-,-,SA0
+V06202: INTERVIEWER CHECKPOINT,V06202,-,-,SA0A
+V06174: Sep anxiety after 5-sad apart from person,V06174,SA1A,-,SA1A
+V06175: Sep anxiety after 5-fear person in accident,V06175,SA1B,-,SA1B
+V06176: Sep anxiety after 5-worry something bad would happen to you,V06176,SA1C,-,SA1C
+V06177: Sep anxiety after 5-happening keep you from seeing person,V06177,SA1D,-,SA1D
+V06178: Sep anxiety after 5-often want to stay home with person,V06178,SA1E,-,SA1E
+V06179: INTERVIEWER CHECKPOINT,V06179,-,-,SA1E_1
+V06180: Sep anxiety after 5-refuse to go places without person,V06180,SA1F,-,SA1F
+V06181: Sep anxiety after 5-plead to stay w/ person,V06181,SA1G,-,SA1G
+V06182: Sep anxiety after 5-ill when apart from person,V06182,SA1H,-,SA1H
+V06183: Sep anxiety after 5-sleep only if near person for 1+ mths,V06183,SA1I,-,SA1I
+V06184: Sep anxiety after 5-refuse sleep away from home,V06184,SA1J,-,SA1J
+V06185: Sep anxiety after 5-dream person harmed,V06185,SA1K,-,SA1K
+V06186: INTERVIEWER CHECKPOINT,V06186,-,-,SA2
+V06187: INTERVIEWER CHECKPOINT,V06187,-,-,SA3
+V06188: Sev sep anx as youth-frequency of separation anxiety,V06188,SA4,-,SA4
+V06189: Sev sep anx as youth-severity of emotional distress,V06189,SA5,-,SA5
+V06190: Sev sep anx as youth-nothing could cheer/calm due to sep anx,V06190,SA6,-,SA6
+V06191: Extent sep anx interfered w/ school/work/social/relations,V06191,SA7,-,SA7
+V06192: Freq emot distress so severe couldn't do daily activities,V06192,SA7A,-,SA7A
+V06193: INTERVIEWER CHECKPOINT,V06193,-,-,SA7A_1
+V06194: Remember exact age of 1st sep anx of 1+ mths from person,V06194,SA8,-,SA8
+V06195: Age of 1st specific sep anx of 1+ mths,V06195,SA8A,-,SA8A
+V06196: Estimate age of 1st specific sep anx of 1+ mths-com,V06196,SA8B,-,SA8B
+V06197: Estimate age of 1st sep anx of 1+ mths,V06197,SA8B1,-,SA8B1
+V06198: 1st specific separation anxiety before school,V06198,SA8B2,-,SA8B2
+V06199: 1st specific separation anxiety before teen,V06199,SA8B3,-,SA8B3
+V06201: # of different years had separation anxiety 1+ mths,V06201,SA9,-,SA9
+V06203: INTERVIEWER CHECKPOINT,V06203,-,-,SA10
+V06204: Sad/worried/upset when apart from person,V06204,SA11A,-,SA11A
+V06205: Away from person could not care about anything else,V06205,SA11B,-,SA11B
+V06206: Worry something bad happen you when separated,V06206,SA11C,-,SA11C
+V06207: Worry something happen make person leave you,V06207,SA11D,-,SA11D
+V06208: Something bad happen to you separate you from person,V06208,SA11E,-,SA11E
+V06209: INTERVIEWER CHECKPOINT,V06209,-,-,SA11E_1
+V06210: Something happen prevent you from seeing person again,V06210,SA11F,-,SA11F
+V06211: Stay home or not go other places stay near person,V06211,SA11G,-,SA11G
+"V06212: Going places without person bother you, refuse to go",V06212,SA11H,-,SA11H
+V06213: Plead with person stay with you or take you along,V06213,SA11I,-,SA11I
+V06214: Worry that person thought you were too dependent,V06214,SA11J,-,SA11J
+V06215: Have physical symptoms when apart from person,V06215,SA11K,-,SA11K
+V06216: Could not sleep at night unless they were near you,V06216,SA11L,-,SA11L
+V06217: Did you refuse to sleep away from this person,V06217,SA11M,-,SA11M
+V06218: Repeated nightmares about person harmed/separated from,V06218,SA11N,-,SA11N
+V06219: INTERVIEWER CHECKPOINT,V06219,-,-,SA12
+V06220: INTERVIEWER CHECKPOINT,V06220,-,-,SA13
+V06221: Sev sep anx for 1+ mth-freq of separation anxiety,V06221,SA14,-,SA14
+V06222: Sev sep anx for 1+ mth-severity of emotions,V06222,SA15,-,SA15
+V06223: Sev sep anx for 1+ mth-nothing could cheer/calm you,V06223,SA16,-,SA16
+V06224: Sev sep anx for 1+ mth-interf with life/work/social/relations,V06224,SA17,-,SA17
+V06226: How often sep anx so severe couldn't do daily acts,V06226,SA18,-,-
+V06225: Sev sep anx for 1+ mth-emot so bad couldn't do daily acts,V06225,-,-,SA18
+V06227: INTERVIEWER CHECKPOINT,V06227,-,-,SA18_5
+V06228: Remember age of very 1st fam/part/friend sep anx for 1+ mths,V06228,SA19,-,SA19
+V06229: Age of very 1st fam/part/friend separation anxiety,V06229,SA19A,-,SA19A
+V06230: Estimate age of 1st fam/part/friend separation anxiety-comp,V06230,SA19B,-,SA19B
+V06231: Estimate age 1st fam/part/friend separation anxiety,V06231,SA19B1,-,SA19B1
+V06232: 1st fam/part/friend separation anxiety before school,V06232,SA19B2,-,SA19B2
+V06233: 1st fam/part/friend separation anxiety before teen,V06233,SA19B3,-,SA19B3
+V06235: Concerns about sep from person for 1+ mths in past year,V06235,SA20,-,SA20
+V06236: Recently had concerns about sep from person 1+ mths,V06236,SA20A,-,SA20A
+V06237: # weeks in past year had separation anxiety,V06237,SA20B,-,SA20B
+V06238: Age last had separation anxiety for 1+ mths,V06238,SA20C,-,SA20C
+V06239: # years had separation anxiety for 1+ mths,V06239,SA21,-,SA21
+V06240: INTERVIEWER CHECKPOINT,V06240,-,-,SA22
+V06241: Longest continuous # years had separation anxiety 1+ mths,V06241,SA23,-,SA23
+V06242: INTERVIEWER CHECKPOINT,V06242,-,-,SA24
+V06243: Sev sep anx past yr-interf with home mgmt,V06243,SA25A,-,SA25A
+V06244: Sev sep anx past yr-interfere w/ ability to work,V06244,SA25B,-,SA25B
+V06245: Sev sep anx past yr-interf w/ ability to form/maint relations,V06245,SA25C,-,SA25C
+V06246: Sev sep anx past yr-interfere w/ social life,V06246,SA25D,-,SA25D
+V06247: INTERVIEWER CHECKPOINT,V06247,-,-,SA26
+V06248: # days in past yr unable to work due to separation anx,V06248,SA27,-,SA27
+V06249: INTERVIEWER CHECKPOINT,V06249,-,-,SA28
+V06250: Talked to prof about separation anxiety,V06250,SA43,-,SA43
+V06251: Ever in life talked to prof about separation anxiety,V06251,-,-,SA43A
+V06252: Age 1st talked to prof for separation anxiety,V06252,SA43A,-,SA45
+V06253: Tried to get help for separation anxiety,V06253,-,-,SA43B
+V06254: Reason didn't get help for sep anxiety-1st mention,V06254,-,-,SA43C1
+V06255: Reason didn't get help for sep anxiety-2nd mention,V06255,-,-,SA43C2
+V06256: Received helpful/effective treatment for sep anxiety,V06256,SA44,-,-
+V06257: Rec'd helpful/effect trmt 1st time saw prof for sep anx,V06257,-,-,SA44
+V06258: Age 1st received helpful/effective treatment for sep anx,V06258,SA44A,-,-
+V06259: # prof talked to for sep anx incl helpful trmt doc,V06259,SA44B,-,-
+V06260: # professional ever talk about Separation Anxiet,V06260,SA44C,-,-
+V06261: Receive prof trmt for sep anx in past 12 mths,V06261,SA46,-,-
+V06262: Talked to psychiatrist for sep anxiety,V06262,-,-,SA46A
+V06263: Talked to other mental health prof for sep anxiety,V06263,-,-,SA46B
+V06264: Talked to family doctor for sep anxiety,V06264,-,-,SA46C
+V06265: Talked to other medical doctor for sep anxiety,V06265,-,-,SA46D
+V06266: Talked to other health prof for sep anxiety,V06266,-,-,SA46E
+V06267: Talked to religious/spiritual advisor for sep anxiety,V06267,-,-,SA46F
+V06268: Talked to other healer for sep anxiety,V06268,-,-,SA46G
+V06270: Hospitalized overnight for separation anxiety,V06270,SA47,-,SA49
+V06269: Professional was helpful,V06269,-,-,SA47
+V06271: Age 1st hospitalized overnight for separation anxiety,V06271,SA47A,-,SA49A
+V06272: # times hospitalized overnight for sep anxiety,V06272,-,-,SA49B
+V06273: Treatment received for sep anxiety-1st mention,V06273,-,-,SA481
+V06274: Treatment received for sep anxiety-2nd mention,V06274,-,-,SA482
+V06275: Treatment received for sep anxiety-3rd mention,V06275,-,-,SA483
+V06278: Received help from family/friends/acquaint for sep anxiety,V06278,-,-,SA50
+V06279: Tried to get help from family/friends/acquaint for sep anxiety,V06279,-,-,SA50A
+V09211: Why not sep anx help from fam/friends-1st mention,V09211,-,-,SA50B1
+V09212: Why not sep anx help from fam/friends-2nd mention,V09212,-,-,SA50B2

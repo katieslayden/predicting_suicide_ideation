@@ -1,0 +1,67 @@
+Personal Data,CPES,NCSR,NLAAS,NSAL
+V07177: Ever been arrested,V07177,-,-,H57
+V07074: Where lived when growing up,V07074,-,-,H3
+V07149: Type of area lived in growing up,V07149,-,-,H3A
+V07075: Spoke language other than English growing up,V07075,-,-,H4
+V07076: What man raised you until age 16,V07076,-,-,H5
+V07077: What woman raised you until age 16,V07077,-,-,H6
+V07079: Did father work for pay while growing up,V07079,-,-,H7A
+V07083: Did mother work for pay while growing up,V07083,-,-,H11
+V07086: Condition of health through age 16,V07086,-,-,H12
+V07087: Have HS diploma/equivalency,V07087,-,-,H13A
+V07088: Type of HS (if yrs of ed equal 0-12),V07088,-,-,H13B
+V07089: Type of HS (if yrs of ed equal 13+),V07089,-,-,H13C
+V07091: Have college degree,V07091,-,-,H13E
+V07092: Have any other schooling,V07092,-,-,H13G
+V07093: Have been in military service,V07093,-,-,H14
+V07097: Spouse/Partner has HS diploma,V07097,-,-,H16A
+V07098: Spouse/Partner has college degree,V07098,-,-,H16B
+V07099: Spouse/Partner works for pay now,V07099,-,-,H17
+V07102: Spouse/Partner ever work for pay,V07102,-,-,H17C
+V07105: Past yr-didn't meet basic expenses,V07105,-,-,H18A
+V07106: Past yr-didn't pay full rent/mortgage,V07106,-,-,H18B
+V07107: Past yr-evicted for non-payment,V07107,-,-,H18C
+V07108: Past yr-didn't pay full utilities,V07108,-,-,H18D
+V07109: Past yr-utility disconnected,V07109,-,-,H18E
+V07110: Past yr-phone disconnected,V07110,-,-,H18F
+V07111: Past yr-couldn't afford daycare/babysitting,V07111,-,-,H18G
+V07112: Past yr-couldn't afford leisure activities,V07112,-,-,H18H
+V07113: PLEASE INDICATE NUMBER GROUPS,V07113,-,-,H21
+V07114: Closeness in ideas/feelings to your ethnic group,V07114,-,-,H23
+V07118: Which more important-origin/being Black,V07118,-,-,H23C_CB
+V07126: INTERVIEWER CHECKPOINT,V07126,-,-,H24A
+V07137: Reason came to USA,V07137,-,-,H29A
+V07138: Social/econ change since coming to US,V07138,-,-,H29B
+V07139: English-speaking ability,V07139,-,-,H29C
+V07140: Where receive most education-US or outside,V07140,-,-,H30
+V07141: Currently a US citizen,V07141,-,-,H31
+V07142: Green card status,V07142,-,-,H32
+V07143: Length of time US citizen-resident,V07143,-,-,H33
+V07145: Rate self on liberal/conservative scale,V07145,-,-,H35
+V07146: Rate self on liberal/conservative soc/econ issues,V07146,-,-,H37
+V07147: Member of Black advancement natl organizations-grps,V07147,-,-,H38
+V07148: Better/worse financially than 10 yrs ago,V07148,-,-,H39
+V07151: Past yr-enough to eat in household,V07151,-,-,H41
+V07152: Worry about enough income to pay bills,V07152,-,-,H42
+V07153: Past yr-you/fam get soc security,V07153,-,-,H42_5A
+V07154: Past yr-you/fam get workers compensation,V07154,-,-,H42_5B
+V07155: Past yr-you/fam get unemployment compensation,V07155,-,-,H42_5C
+V07156: Past yr-you/fam get food stamps,V07156,-,-,H42_5D
+V07157: Past yr-you/fam get SSI,V07157,-,-,H42_5E
+V07158: Past yr-you/fam earned inc tax credit,V07158,-,-,H42_5F
+V07159: Past yr-you/fam get child support payments,V07159,-,-,H42_5G
+V07167: You/family currently on welfare,V07167,-,-,H49B
+V07169: Received welfare when growing up,V07169,-,-,H50
+V07170: How much time received welfare before turned 18,V07170,-,-,H50A
+V07173: Have mortgage on home,V07173,-,-,H53
+V07175: Live in public housing,V07175,-,-,H55
+V07176: Pay low/no rent because of govt,V07176,-,-,H56
+V07196: Family members away at school,V07196,-,-,H62A
+V07197: Family members in military,V07197,-,-,H62B
+V07198: Family members in nursing home,V07198,-,-,H62C
+V07199: Family members in jail or prison,V07199,-,-,H62D
+V07200: # family members away at school,V07200,-,-,H63A
+V07201: # family members in military,V07201,-,-,H63B
+V07202: # family members in nursing home,V07202,-,-,H63C
+V07203: # family members in jail or prison,V07203,-,-,H63D
+V07204: Anyone in household homeless,V07204,-,-,H64

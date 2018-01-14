@@ -1,0 +1,74 @@
+Intermittent Explosive Disorder,CPES,NCSR,NLAAS,NSAL
+V01918: INTERVIEWER CHECKPOINT,V01918,-,IED1,-
+V01919: INTERVIEWER CHECKPOINT,V01919,-,IED2,-
+V01920: # attacks in life lost control/broke things/hurt or threaten,V01920,IED3A,IED3A,-
+V01921: # attacks in life lost control/broke things/hurt or threaten,V01921,IED3B,IED3B,-
+V01922: # attack in life lost control/broke or smash something,V01922,IED3C,IED3C,-
+V01923: # attacks lost control/hurt or threaten to hurt someone,V01923,IED3D,IED3D,-
+V01924: # attack lost control/threatened to hurt someone,V01924,IED3E,IED3E,-
+V01925: INTERVIEWER CHECKPOINT,V01925,-,IED4,-
+V01926: Anger attacks occurred without good reason,V01926,IED5,IED5,-
+V01927: Anger occur in situations most people wouldn't have attack,V01927,IED5A,IED5A,-
+V01928: Lot more angry than most during attack,V01928,IED5B,IED5B,-
+V01929: Unavoidable impulse to blow-up before attack,V01929,IED6,IED6,-
+V01930: Anger out of control during typical attack,V01930,IED7,IED7,-
+V01931: INTERVIEWER CHECKPOINT,V01931,-,IED8,-
+V01932: Anger attack usually occurs because of drinking/drug use,V01932,IED9,IED9,-
+V01933: Anger attacks ever occur when not drinking/using drugs,V01933,IED9A,IED9A,-
+V01934: Anger attacks ever result of physical illness or meds,V01934,IED10,IED10,-
+V01935: Anger attacks ever not result of physical illness or meds,V01935,IED10B,IED10B,-
+V01936: Anger attack occur when sad/depressed,V01936,IED11,IED11,-
+V01937: Anger attacks ever occur when not sad/depressed,V01937,IED11A,IED11A,-
+V01938: INTERVIEWER CHECKPOINT,V01938,-,IED12,-
+V01939: Cost/replace value of things broken during anger attack,V01939,IED13,IED13,-
+V01940: INTERVIEWER CHECKPOINT,V01940,-,IED14,-
+V01941: # anger attacks hurt someone that needed med attention,V01941,IED15,IED15,-
+V01942: Extent anger attacks interfere w/ work/social life/relations,V01942,IED16,IED16,-
+V01943: Unable to carry out daily activities due to anger,V01943,IED16A,IED16A,-
+V01944: Guilty/embarrassed/regret after anger attack,V01944,IED17,IED17,-
+V01945: Remember exact age 1st anger attack,V01945,IED18,IED18,-
+V01946: Remember exact age 1st anger attack,V01946,IED18A,IED18A,-
+V01947: Approx age 1st attack,V01947,IED18B,IED18B,-
+"V01948: 1st anger attack before 1st started school, IED1",V01948,IED18C,IED18C,-
+"V01949: 1st anger attack before a teenager, IED18B",V01949,IED18D,IED18D,-
+V01950: # different years in lifetime having at least 1 anger attack,V01950,IED19,IED19,-
+V01951: Largest # anger attacks in single month,V01951,IED20,IED20,-
+V01952: Largest # of anger attacks in single year,V01952,IED21,IED21,-
+V01953: Occurrence of recent anger attack,V01953,IED22,IED22,-
+V01954: Age last attack,V01954,IED22A,IED22A,-
+V01955: # weeks in past year had at least one anger attack,V01955,IED23,IED23,-
+V01956: # total attacks during past 12 months,V01956,IED24,IED24,-
+V01957: During attack in week-slam door/kick chair/throw clothes,V01957,IED25A,IED25A,-
+V01958: During attack in week-break something,V01958,IED25B,IED25B,-
+V01959: During attack in week-broke several things,V01959,IED25C,IED25C,-
+V01960: During attack in week-set fire or destroyed property,V01960,IED25D,IED25D,-
+V01961: During attack in week-injured/tortured animal,V01961,IED25E,IED25E,-
+V01962: During attack in week-threatend someone,V01962,IED25F,IED25F,-
+V01963: Attack in week-hurt someone that needed med attention,V01963,IED25G,IED25G,-
+V01964: Attack in week-hurt someone didn't need medical attention,V01964,IED25H,IED25H,-
+V01965: Extent severe attack interfere home management,V01965,IED26A,IED26A,-
+V01966: Extent severe attack interfere with ability to work,V01966,IED26B,IED26B,-
+V01967: Extent severe attack interfere with form/maint relations,V01967,IED26C,IED26C,-
+V01968: Extent severe attack interfere social life,V01968,IED26D,IED26D,-
+V01969: INTERVIEWER CHECKPOINT,V01969,-,IED27,-
+V01970: # days past yr unable carry out normal acts due to anger,V01970,IED28,IED28,-
+V01971: Talked to medical doc or professional about anger attacks,V01971,IED29,IED29,-
+V01972: Talked to professional about anger attacks:1st mention,V01972,-,IED29_01,-
+V01975: Talked to professional about anger attacks:2nd mention,V01975,-,IED29_02,-
+V01976: Talked to professional about anger attacks:3rd mention,V01976,-,IED29_03,-
+V01977: Talked to professional about anger attacks:4th mention,V01977,-,IED29_04,-
+V01978: Talked to professional about anger attacks:5th mention,V01978,-,IED29_05,-
+V01979: Talked to professional about anger attacks:6th mention,V01979,-,IED29_06,-
+V01980: Talked to professional about anger attacks:7th mention,V01980,-,IED29_07,-
+V01981: Talked to professional about anger attacks:8th mention,V01981,-,IED29_08,-
+V01982: Talked to professional about anger attacks:9th mention,V01982,-,IED29_09,-
+V01973: Talked to professional about anger attacks:10th mention,V01973,-,IED29_10,-
+V01983: Age 1st talk to profssional about anger attacks,V01983,IED29A,IED29A,-
+V01984: Received helpful/effective treatment for anger attack,V01984,IED30,IED30,-
+V01985: Age 1st got helpful/effective treatment for anger,V01985,IED30A,IED30A,-
+V01986: Total profs seen for anger incl helpful treatment doc,V01986,IED30B,IED30B,-
+V01987: # professional ever talked to about anger attack,V01987,IED30C,IED30C,-
+V01988: Receive professional treatment for anger past yr,V01988,IED32,IED32,-
+V01989: Hospitalized overnight for anger,V01989,IED33,IED33,-
+V01990: # of close relatives had repeated anger attacks,V01990,IED33_1,IED33_1,-
+V01991: Age 1st hospitalized overnight for anger,V01991,IED33A,IED33A,-

@@ -1,0 +1,107 @@
+Eating Disorder,CPES,NCSR,NLAAS,NSAL
+V04657: Ever strong fear/concern about being too overweight,V04657,EA1,EA1,EA1
+V04658: Had strong worry/fear at time when weighed below average,V04658,EA1A,EA1A,EA1A
+V04659: Lowest body weight had purposefully after age 12,V04659,-,EA2,EA2
+V04663: unit for body height at lowest body weight on purpose,V04663,-,EA3U,-
+V04660: Height at lowest body weight on purpose,V04660,-,EA3,-
+V04661: # feet-height at lowest body weight on purpose,V04661,-,-,EA3A
+V04662: # inches-height at lowest body weight on purpose,V04662,-,EA3IN,EA3B
+V04664: INTERVIEWER CHECKPOINT,V04664,-,EA4,EA4
+V04665: Afraid of gaining weight when weighed least,V04665,EA6,EA6,EA6
+V04666: Do things like dieting or exercise to keep weight low,V04666,EA7,EA7,EA7
+V04667: INTERVIEWER CHECKPOINT-male or female,V04667,-,EA8,-
+V04668: Weighed least on purpose-stopped having periods for 3+ mths,V04668,EA9,EA9,EA9
+V04669: Feel like heavier than should have been/wanted to be,V04669,EA10,EA10,EA10
+V04670: Think some parts of body too fat,V04670,EA10B,EA10B,EA10B
+V04671: Self-esteem/confidence depended on thinness,V04671,EA10C,EA10C,EA10C
+V04672: Anyone tell you your low weight bad for health?,V04672,EA10D,EA10D,EA10D
+V04673: INTERVIEWER CHECKPOINT,V04673,-,EA11,EA11
+V04674: Remember exact age of lowest weight with problems,V04674,EA12,EA12,EA12
+V04675: Age at lowest weight,V04675,EA12A,EA12A,EA12A
+V04676: Estimate age of 1st time lowest weight-compute,V04676,-,-,EA12B
+V04677: Estimate age of 1st time lowest weight,V04677,EA12B1,-,EA12B1
+V04679: # different years at lowest weight plus other problems,V04679,EA13,EA13,EA13
+V04680: INTERVIEWER CHECKPOINT,V04680,-,EA14,EA14
+V04681: How recently at lowest weight and have problems ?,V04681,EA15,EA15,EA15
+V04682: Age last at lowest weight,V04682,EA15A,EA15A,EA15A
+V04683: Eating binges at least 2 times/week for several months,V04683,EA16,EA16,EA16
+V04684: During binges- eat much more quickly than usual,V04684,EA17,EA17,EA17
+V04685: During binges- eat until uncomfortably full,V04685,EA17A,EA17A,EA17A
+V04686: During binges- continue to eat even when don't feel hungry,V04686,EA17B,EA17B,EA17B
+V04687: During binges- eat alone because embarrassed by quantity,V04687,EA17C,EA17C,EA17C
+V04688: During or after binges- feel guilty/upset/depressed after binged,V04688,EA17D,EA17D,EA17D
+V04689: Around time of binging-afraid you would gain weight,V04689,EA17E,EA17E,EA17E
+V04690: Felt like self-esteem/conf depended on weight/body shape,V04690,EA17F,EA17F,EA17F
+V04691: Worry about effect of binge on your health and body,V04691,EA17G,EA17G,EA17G
+V04692: Often upset that eating out of control during and after binges,V04692,EA17H,EA17H,EA17H
+V04693: INTERVIEWER CHECKPOINT,V04693,-,EA18,EA18
+V04694: Remember exact age 1st binged 2 times/week for 3+ mths,V04694,EA19,EA19,EA19
+V04695: Age of 1st binged 2 times/week for 3+ mths,V04695,EA19A,EA19A,EA19A
+V04696: Estimate age 1st binged 2/week for 3+ mths-computed,V04696,EA19B,-,EA19B
+V04697: Estimate age of 1st binged 2/week for 3+ mths,V04697,EA19B1,EA19B1,EA19B1
+V04698: 1st binged 2/week for 3+ mths before 20s,V04698,EA19B2,EA19B2,EA19B2
+V04699: # different years binged 2 times/week for 3+ mths,V04699,EA20,EA20,EA20
+V04700: INTERVIEWER CHECKPOINT,V04700,-,EA21,EA21
+V04701: How recently binged 2 times a week,V04701,EA22,EA22,EA22
+V04702: Age last binged 2 times a week,V04702,EA22A,EA22A,EA22A
+V04703: Fast/liquid diet for 8 hours or longer to control weight,V04703,-,EA23,EA23
+V04704: After binging-fast/liquid diet for 8+ hours to control weight,V04704,EA23A,EA23A,EA23A
+V04705: Took water pills/diuretics/weight control meds to control weight,V04705,EA23B,EA23B,EA23B
+V04706: Make yourself vomit to control weight,V04706,EA23C,EA23C,EA23C
+V04707: Used laxatives or enemas to control weight,V04707,EA23D,EA23D,EA23D
+V04708: Exercise excessively to control weight,V04708,EA23E,EA23E,EA23E
+V04709: Chew and then spit out food to control weight,V04709,EA23F,EA23F,EA23F
+V04710: INTERVIEWER CHECKPOINT,V04710,-,EA24,EA24
+V04711: Used weight control method 2 times/week for 3+ mths,V04711,EA25,EA25,EA25
+V04712: Remember exact age 1st weight contr method for 3+ mths,V04712,EA26,EA26,EA26
+V04713: Age 1st used weight control method for 3+ mths,V04713,EA26A,EA26A,EA26A
+V04714: Estimate age 1st used weight control method for 3+ mths-com,V04714,-,-,EA26B
+V04715: Estimate age used weight control method for 3+ mths,V04715,EA26B1,EA26B1,EA26B1
+V04716: 1st used weight control method for 3+ mths before 20,V04716,-,EA26B2,EA26B2
+V04717: # of differents year used wght control method 2/wk for 3+ mths,V04717,EA27,EA27,EA27
+V04718: INTERVIEWER CHECKPOINT,V04718,-,EA28,EA28
+V04719: How recently did you use weight control strategy,V04719,EA29,EA29,EA29
+V04720: Age last used weight control strategy,V04720,EA29A,EA29A,EA29A
+V04721: Unit of mass,V04721,-,EA2U,-
+V04722: INTERVIEWER CHECKPOINT,V04722,-,EA30,EA30
+V04723: INTERVIEWER CHECKPOINT,V04723,-,EA31,EA31
+V04724: Worst month past yr-eating/wgt interf with chores at home,V04724,EA32A,-,-
+V04725: Worst month past yr-eating/wgt interf with chores at home,V04725,-,EA32A,EA32A
+V04726: Worst month past yr-eating/wgt interfere with work/school,V04726,EA32B,-,-
+V04727: Worst month past yr-eating/wgt interfere with work/school,V04727,-,EA32B,EA32B
+V04729: Worst month past yr-eating/wgt interf w/ family relations,V04729,EA32C,-,-
+V04728: Worst month past yr-eating/wgt interf w/ form/maint relations,V04728,-,EA32C,EA32C
+V04730: Worst month past yr-eating/wgt interfere with social life,V04730,EA32D,EA32D,EA32D
+V04731: INTERVIEWER CHECKPOINT,V04731,-,EA33,EA33
+V04732: # of days in past year unable to work/acts due to eating probs,V04732,EA34,EA34,EA34
+V04733: Talked to med doctor or other prof about problems w/ eat/wgt,V04733,EA35,EA35,-
+V04734: Talked to professional about probs w/ eat/wgt in past 12 mths,V04734,-,-,EA35
+V04735: Age 1st saw doctor for eating problems,V04735,EA35A,EA35A,EA37
+V04736: Ever in life talked to professional about problems w/ eat/wgt,V04736,-,-,EA35A
+V04737: Tried to get professional help for probs w/ eating/weight,V04737,-,-,EA35B
+V04738: Reason didn't get help for eating problem-1st mention,V04738,-,-,EA35C1
+V04739: Reason didn't get help for eating problem-2nd mention,V04739,-,-,EA35C2
+V04740: 1st time saw professional about eating/weight problem,V04740,-,-,EA36
+V04741: Received helpful/effective treatment for eating/weight probs,V04741,EA37,EA37,-
+V04742: Age 1st received helpful treatment for eating/weight probs,V04742,EA37A,EA37A,-
+V04743: # profs talked to about eat/weight incl helpful trmt doc,V04743,EA37B,EA37B,-
+V04744: # of professional talked to about eating/weight problem,V04744,EA37C,EA37C,-
+V04745: Receive prof treatment for eating/weight probin past yr,V04745,EA38,EA38,-
+V04746: Talk to psychiatrist about eating/weight problem,V04746,-,-,EA38A
+V04747: Talk to other mental health prof about eating/weight problem,V04747,-,-,EA38B
+V04748: Talk to family doctor about eating/weight problem,V04748,-,-,EA38C
+V04749: Talk to other medical doctor about eating/weight problem,V04749,-,-,EA38D
+V04750: Talk to other health prof about eating/weight problem,V04750,-,-,EA38E
+V04751: Talk to religious/spiritual advisor about eating/weight problem,V04751,-,-,EA38F
+V04752: Talk to other healer about eating/weight problem,V04752,-,-,EA38G
+V04753: Professional was helpful,V04753,-,-,EA39
+V04754: Treatment received for eating/weight prob-1st mention,V04754,-,-,EA401
+V04755: Treatment received for eating/weight prob-2nd mention,V04755,-,-,EA402
+V04756: Treatment received for eating/weight prob-3rd mention,V04756,-,-,EA403
+V04759: Ever hospitalized overnight for eating/weight problem,V04759,-,-,EA41
+V04760: Age 1st hospitalized overnight for eating/weight problem,V04760,-,-,EA41A
+V04761: # times hospitalized overnight for eating/weight problem,V04761,-,-,EA41B
+V04762: Received help from fam/friends/acquaint for eating/wgt prob,V04762,-,-,EA42
+V04763: Tried to get help from fam/friends/acquaint for eating/wgt prob,V04763,-,-,EA42A
+V09198: Why not eating dis help from fam/friends-1st mention,V09198,-,-,EA42B1
+V09199: Why not eating dis help from fam/friends-2nd mention,V09199,-,-,EA42B2

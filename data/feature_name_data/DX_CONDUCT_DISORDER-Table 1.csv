@@ -1,0 +1,11 @@
+DX Conduct Disorder,CPES,NCSR,NLAAS,NSAL
+V08329: ICD Conduct Disorder (12 month),V08329,I_CD12,-,I_CD12
+V08521: ICD Conduct Disorder (Lifetime),V08521,ICD_CD,-,ICD_CD
+V07460: ICD Conduct Disorder Onset,V07460,CD_ONI,CD_ONI,CD_ONI
+V07474: ICD Conduct Disorder Recency,V07474,CD_RECI,CD_RECI,CD_RECI
+V08346: ICD Conduct Disorder w/ hierarchy (12Mo),V08346,I_CDH12,-,I_CDH12
+V08522: ICD Conduct Disorder w/ hierarchy (LifeT),V08522,ICD_CDH,ICD_CDH,ICD_CDH
+V07574: DSM-IV Conduct Disorder (12 month),V07574,D_CD12,-,D_CD12
+V07852: DSM-IV Conduct Disorder (Lifetime),V07852,DSM_CD,-,DSM_CD
+V07459: DSM-IV Conduct Disorder Onset,V07459,CD_OND,CD_OND,CD_OND
+V07472: DSM-IV Conduct Disorder Recency,V07472,CD_RECD,CD_RECD,CD_RECD

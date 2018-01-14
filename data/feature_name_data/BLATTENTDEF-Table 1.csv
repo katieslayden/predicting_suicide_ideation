@@ -1,0 +1,143 @@
+Attention Deficit Hyperactivity Disorder,CPES,NCSR,NLAAS,NSAL
+V05907: INTERVIEWER CHECKPOINT,V05907,-,-,AD0
+V05939: DID R SAY YES TO SC32?,V05939,-,-,AD0A
+V05908: Difficulty concentrate less than 7-frequently lose things,V05908,AD1A,-,AD1A
+V05909: Difficulty concentrate less than 7-trouble paying attention to details,V05909,AD1B,-,AD1B
+V05910: Difficulty concentrate less than 7-forget what planned to do,V05910,AD1C,-,AD1C
+V05911: Difficulty concentrate less than 7-ppl say you are not listening to them,V05911,AD1D,-,AD1D
+V05912: INTERVIEWER CHECKPOINT,V05912,-,-,AD1D_1
+V05913: Difficulty concentrate less than 7-quick loss of interest in activities,V05913,AD1E,-,AD1E
+V05914: INTERVIEWER CHECKPOINT,V05914,-,-,AD1E_1
+V05915: Difficulty concentrate less than 7-easily distracted,V05915,AD1F,-,AD1F
+V05916: INTERVIEWER CHECKPOINT,V05916,-,-,AD1F_1
+V05917: Difficulty concentrate less than 7- avoided things req concentration,V05917,AD1G,-,AD1G
+V05918: INTERVIEWER CHECKPOINT,V05918,-,-,AD1G_1
+V05919: Difficulty concentrate less than 7-confused when making plans,V05919,AD1H,-,AD1H
+V05920: INTERVIEWER CHECKPOINT,V05920,-,-,AD1H_1
+V05921: Difficulty concentrate less than 7-left chores undone when unintended,V05921,AD1I,-,AD1I
+V05922: INTERVIEWER CHECKPOINT,V05922,-,-,AD2
+V05923: Remember exact age 1st attention problems,V05923,AD3,-,AD3
+V05924: Exact age of very 1st attention problem,V05924,AD3A,-,AD3A
+V05925: Estimate age of 1st attention problems-compute,V05925,AD3B,-,AD3B
+V05926: Estimate age of 1st attention problems,V05926,AD3B1,-,AD3B1
+V05927: 1st attention problem before 7 years old,V05927,AD3B2,-,AD3B2
+V05928: 1st attention problem before teen,V05928,AD3B3,-,AD3B3
+V05929: 1st attention problems before 20s,V05929,AD3B4,-,AD3B4
+V05930: Had difficulty with attention during past 12 months,V05930,AD4,-,AD4
+V05931: Age last time had attention problem for 6+ months,V05931,AD4A,-,AD4A
+V05932: Total # of years having attention problems,V05932,AD5,-,AD5
+V05933: Attention difficulties ever caused problems at school,V05933,AD6A,-,AD6A
+V05934: Attention difficulties ever caused problems at home,V05934,AD6B,-,AD6B
+V05935: Attention difficulties ever caused problems at work,V05935,AD6C,-,AD6C
+V05936: Attention difficulties ever caused probs w/ relations/social life,V05936,AD6D,-,AD6D
+V05937: INTERVIEWER CHECKPOINT,V05937,-,-,AD7
+V05938: INTERVIEWER CHECKPOINT,V05938,-,-,AD9
+V05940: Worst month in past year-attention diffic interf w/ home mgmt,V05940,AD10A,-,AD10A
+V05941: Worst month in past year-atten diffic interf w/ ability to work,V05941,AD10B,-,AD10B
+V05942: Worst mth in past yr-atten diffic interf w/ form/maint relations,V05942,AD10C,-,AD10C
+V05943: Worst month in past yr-attention diffic interf w/ social life,V05943,AD10D,-,AD10D
+V05944: INTERVIEWER CHECKPOINT,V05944,-,-,AD11
+V05945: # days past year unable work due to attention difficulties,V05945,AD12,-,AD12
+V05946: INTERVIEWER CHECKPOINT,V05946,-,-,AD13_1
+V05948: Ever talked to prof about attention difficulties,V05948,AD14,-,-
+V05947: Talked to prof past 12 months about attention difficulties,V05947,-,-,AD14
+V05950: Age 1st talked to professional for attention difficulties,V05950,AD14A,-,-
+V05949: Ever talk to med doctor or other professional fo,V05949,-,-,AD14A
+V05951: Ever tried to get help for attention difficulties,V05951,-,-,AD14B
+V05952: Reason didn't get help for attention difficulties:1st mention,V05952,-,-,AD14C1
+V05953: Reason didn't get help for attention difficulties:2nd mention,V05953,-,-,AD14C2
+V05954: Was this 1st time talked to prof about attention difficulties,V05954,-,-,AD15
+V05955: Age 1st saw prof for attention difficulties,V05955,-,-,AD16
+V05956: Talked to psychiatrist for attention difficulties,V05956,-,-,AD17A
+V05957: Talked to other mental health prof for attention difficulties,V05957,-,-,AD17B
+V05958: Talked to family doctor for attention difficulties,V05958,-,-,AD17C
+V05959: Talked to other medical doctor for attention difficulties,V05959,-,-,AD17D
+V05960: Talked to other health prof for attention difficulties,V05960,-,-,AD17E
+V05961: Talked to religious/spiritual advisor for attention difficulties,V05961,-,-,AD17F
+V05962: Talked to other healer for attention difficulties,V05962,-,-,AD17G
+V05963: Professional was helpful,V05963,-,-,AD18
+V05964: Treatment received for attn prob-1st mention,V05964,-,-,AD191
+V05965: Treatment freceived for attn prob-2nd mention,V05965,-,-,AD192
+V05966: Treatment received ffor attn prob-3rd mention,V05966,-,-,AD193
+V05969: # times hospitalized for attention difficulties,V05969,-,-,AD20B
+V05970: Received help from family/friends/acquaint for attn difficulties,V05970,-,-,AD21
+V05971: Tried to get help from family/friends/acquaint for attn diffic,V05971,-,-,AD21A
+V09190: Why not ADD help from fam/friends-1st mention,V09190,-,-,AD21B1
+V09191: Why not ADD help from fam/friends-2nd mention,V09191,-,-,AD21B2
+V05972: Received helpful/effective treatment for attn difficulties,V05972,AD25,-,-
+V05973: Age 1st got helpful/effective treatment for attn difficulties,V05973,AD25A,-,-
+V05974: # of profs ever talked to for attention incl helpful trmt doc,V05974,AD25B,-,-
+V05975: # of professionals ever talked to about attention difficulties,V05975,AD25C,-,-
+V05976: Received prof treatment for attn difficulties in past year,V05976,AD27,-,-
+V05977: Ever hospitalized overnight for attention difficulties,V05977,AD28,-,AD20
+V05978: Age 1st hospitalized overnight for attention difficulties,V05978,AD28A,-,AD20A
+V05979: INTERVIEWER CHECKPOINT,V05979,-,-,AD29
+V05980: Restless before 7-very active when should not be,V05980,AD30A,-,AD30A
+V05981: Restless before 7-often feel restless,V05981,AD30B,-,AD30B
+V05982: Restless before 7-were often on the go,V05982,AD30C,-,AD30C
+V05983: Restless before 7-trouble playing quietly,V05983,AD30D,-,AD30D
+V05984: Restless before 7-fidget/squirm while sitting,V05984,AD30E,-,AD30E
+V05985: Restless before 7-get up from seat when not supposed to,V05985,AD30F,-,AD30F
+V05986: INTERVIEWER CHECKPOINT,V05986,-,-,AD30F_1
+V05987: Restless before 7- ofen extremely talkative,V05987,AD30G,-,AD30G
+V05988: INTERVIEWER CHECKPOINT,V05988,-,-,AD30G_1
+V05989: Restless before 7-blurt out answers before other finished spkg,V05989,AD30H,-,AD30H
+V05990: INTERVIEWER CHECKPOINT,V05990,-,-,AD30H_1
+V05991: Restless before 7-inerrupt/join conversations uninvited,V05991,AD30I,-,AD30I
+V05992: INTERVIEWER CHECKPOINT,V05992,-,-,AD30I_1
+V05993: Restless before 7-often try to break into games/interrupt acts,V05993,AD30J,-,AD30J
+V05994: INTERVIEWER CHECKPOINT,V05994,-,-,AD30J_1
+V05995: Restless before 7-trouble waiting your turn,V05995,AD30K,-,AD30K
+V05996: INTERVIEWER CHECKPOINT,V05996,-,-,AD31
+V05997: Remember exact age of 1st restless/impatient difficulty,V05997,AD32,-,AD32
+V05998: Exact age of very 1st restless/impatient difficulty,V05998,AD32A,-,AD32A
+V05999: Estimate age of 1st restless/impatient difficulty-computed,V05999,AD32B,-,AD32B
+V06000: Estimate age 1st irestless/impatient difficulty,V06000,AD32B1,-,AD32B1
+V06001: 1st restless/impatient difficulty before 7 yrs old,V06001,AD32B2,-,AD32B2
+V06002: 1st restless/impatient difficulty before teen,V06002,AD32B3,-,AD32B3
+V06003: 1st restless/impatient difficulty before 20s,V06003,AD32B4,-,AD32B4
+V06004: Had restless/impatient difficulty during past 12 months,V06004,AD33,-,AD33
+V06005: Age last time restless/impatient difficulty 6+ mths,V06005,AD33A,-,AD33A
+V06006: Total # of years having impatience problems,V06006,AD34,-,AD34
+V06007: Impatience ever cause problems with school,V06007,AD35A,-,AD35A
+V06008: Impatience ever cause problems at home,V06008,AD35B,-,AD35B
+V06009: Impatience ever cause problems at work,V06009,AD35C,-,AD35C
+V06010: Impatience ever cause problems in relations/social life,V06010,AD35D,-,AD35D
+V06011: INTERVIEWER CHECKPOINT,V06011,-,-,AD36
+V06012: INTERVIEWER CHECKPOINT,V06012,-,-,AD38
+V06013: Worst month in past year-impatience interf w/ home mgmt,V06013,AD39A,-,AD39A
+V06014: Worst month in past year-impatience interf w/ ability to work,V06014,AD39B,-,AD39B
+V06015: Worst month past year-impat interf w/ form/maint relation,V06015,AD39C,-,AD39C
+V06016: Worst month in past yr-impatience interf w/ social life,V06016,AD39D,-,AD39D
+V06017: INTERVIEWER CHECKPOINT,V06017,-,-,AD40
+V06018: # days in past year unable to work due to impatience difficulty,V06018,AD41,-,AD41
+V06019: INTERVIEWER CHECKPOINT,V06019,-,-,AD42
+V06020: Talked to prof about impatience difficulties,V06020,-,-,AD43
+V06021: Ever talked to professional about impatience difficulties,V06021,AD43_1,-,AD43A
+V06022: Age 1st saw prof for impatience difficulties,V06022,AD43_1A,-,AD45
+V06023: Received helpful/effective trmt for impatience difficulties,V06023,AD43_1B,-,-
+V06024: Age 1st got helpful/effective trmt for impatience difficulties,V06024,AD43_1C,-,-
+V06025: # profs talked to about impatience incl helpful trmt doc,V06025,AD43_1D,-,-
+V06026: # of profs ever talked to about impatience difficulties,V06026,AD43_1E,-,-
+V06027: Received prof trmt for impatience difficulties in past year,V06027,AD43_1F,-,-
+V06028: Hospitalized overnight for impatience difficulties,V06028,AD43_1G,-,AD49
+V06029: Age 1st hospitalized overnight for impatience difficulties,V06029,AD43_1H,-,AD49A
+V06030: Tried to get help for impatience difficulties,V06030,-,-,AD43B
+V06031: Reason didn't get help for impatience-1st mention,V06031,-,-,AD43C1
+V06032: Reason didn't get help for impatience-2nd mention,V06032,-,-,AD43C2
+V06033: Was this 1st time talked to prof for impatience difficulties,V06033,-,-,AD44
+V06034: Saw psychiatrist for impatience difficulties,V06034,-,-,AD46A
+V06035: Saw other mental health for impatience difficulties,V06035,-,-,AD46B
+V06036: Saw family doctor for impatience difficulties,V06036,-,-,AD46C
+V06037: Saw other medical doctor for impatience difficulties,V06037,-,-,AD46D
+V06038: Saw other health prof for impatience difficulties,V06038,-,-,AD46E
+V06039: Saw religious/spiritual advisor for impatience difficulties,V06039,-,-,AD46F
+V06040: Saw other healer for impatience difficulties,V06040,-,-,AD46G
+V06041: Professional was helpful,V06041,-,-,AD47
+V06042: Treatment received for impatience-1st mention,V06042,-,-,AD481
+V06043: Treatmentreceived for impatience-2nd mention,V06043,-,-,AD482
+V06047: # times hospitalized for impatience,V06047,-,-,AD49B
+V06048: Received help from family/friends/acquaint for impatience,V06048,-,-,AD50
+V06049: Tried to get help from family/friends/acquaint for impatience,V06049,-,-,AD50A
+V09192: Why not ADHD help from fam/friends-1st mention,V09192,-,-,AD50B1
+V09193: Why not ADHD help from fam/friends-2nd mention,V09193,-,-,AD50B2

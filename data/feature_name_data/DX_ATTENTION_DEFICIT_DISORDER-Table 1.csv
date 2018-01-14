@@ -1,0 +1,9 @@
+DX Attention Deficit Disorder,CPES,NCSR,NLAAS,NSAL
+V08276: ICD Attention Deficit Disorder (12 month),V08276,I_ADD12,-,I_ADD12
+V08510: ICD Attention Deficit Disorder (Lifetime),V08510,ICD_ADD,-,ICD_ADD
+V07282: ICD Attention Deficit Disorder Onset,V07282,ADD_ONI,-,ADD_ONI
+V07291: ICD Attention Deficit Disorder Recency,V07291,ADD_RECI,-,ADD_RECI
+V07490: DSM-IV Attention Deficit Disorder (12Mo),V07490,D_ADD12,-,D_ADD12
+V07828: DSM-IV Attention Deficit Disorder (LifeT),V07828,DSM_ADD,-,DSM_ADD
+V07280: DSM-IV Attention Deficit Disorder Onset,V07280,ADD_OND,-,ADD_OND
+V07289: DSM-IV Attention Deficit Disorder Recency,V07289,ADD_RECD,-,ADD_RECD

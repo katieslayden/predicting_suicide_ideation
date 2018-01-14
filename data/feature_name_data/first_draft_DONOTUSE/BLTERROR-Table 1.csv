@@ -1,0 +1,19 @@
+Terror,CPES,NCSR,NLAAS,NSAL
+V06390: Know anyone killed in 911 attack,V06390,T1,DA39,-
+V06403: Know anyone injured but survived 911 attack,V06403,T2,DA40,-
+V06416: Close friend/relative near site but not injured in 911 attack,V06416,T3,-,-
+V06417: Close friend/rel near site/not injured in 911:1st mention,V06417,T3A01,-,-
+V06421: Close friend/rel near site/not injured in 911:2nd mention,V06421,T3A02,-,-
+V06422: Close friend/rel near site/not injured in 911:3rd mention,V06422,T3A03,-,-
+V05688: Time spent getting info from media few weeks after 911,V05688,-,DA41A,-
+V05692: Life affected as result of 911-losing my job,V05692,-,DA42B,-
+V05693: Life affected as result of 911-reduction in family income,V05693,-,DA42D,-
+V05694: Life affected as result of 911-more patriotic,V05694,-,DA42E,-
+V05695: Life affected as result of 911-feel less safe,V05695,-,DA42F,-
+V05696: Life affected as result of 911-treated unfairly due to race/appear,V05696,-,DA42H,-
+V05697: Life affected as result of 911-less optimistic about future,V05697,-,DA42I,-
+V05698: Life affected as result of 911-no longer cope with things,V05698,-,DA42L,-
+V07205: How 1st learned about Sept 11 attacks,V07205,-,-,TR1
+V07207: Someone close witness attacks in person,V07207,-,-,TR2
+V07210: Someone close to R in bldgs when attack,V07210,-,-,TR3
+V07213: How much attack shaken sense of safety,V07213,-,-,TR4

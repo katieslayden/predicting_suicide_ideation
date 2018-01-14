@@ -1,0 +1,9 @@
+DX Intermittent Explosive Disorder,CPES,NCSR,NLAAS,NSAL
+V07635: DSM-IV Intermittent Explosive Disorder (30day),V07635,D_IED30,D_IED30,-
+V07634: DSM-IV Intermittent Explosive Disorder (12Mo),V07634,D_IED12,D_IED12,-
+V07866: DSM-IV Intermittent Explosive Disorder (LifeT),V07866,DSM_IED,DSM_IED,-
+V08674: DSM-IV Intermittent Explosive Disorder Onset,V08674,IED_OND,IED_OND,-
+V08676: DSM-IV Intermittent Explosive Disorder Recency,V08676,IED_RECD,IED_RECD,-
+V07637: DSM-IV Intermittent Explosive Disorder w/ hierarchy (30Day),V07637,D_IEDH30,D_IEDH30,-
+V07636: DSM-IV Intermittent Explosive Disorder w/ hierarchy (12Mo),V07636,D_IEDH12,D_IEDH12,-
+V07867: DSM-IV Intermittent Explosive Disorder w/ hierarchy (LifeT),V07867,DSM_IEDH,DSM_IEDH,-

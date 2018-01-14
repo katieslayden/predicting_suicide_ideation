@@ -1,0 +1,118 @@
+Mania,CPES,NCSR,NLAAS,NSAL
+V01038: Behavioral changes during episode of excitement,V01038,M1,-,M1
+V01039: One episode where large # behavior changes stand out,V01039,M3,-,M3
+V01040: Age at episode where large # behavior changes stand out,V01040,M3A,-,M3A
+V01041: Length of episode where large # behavior changes stand out,V01041,M3B1,-,M3B
+"V01042: Unit length of excited period, M3B1",V01042,M3B2,-,M3B1
+V01043: Age at recent episode where large # behav changes stand out,V01043,M3C,-,M3C
+V01044: Length recent episode where large # behav changes stand out,V01044,M3D1,-,M3D
+V01045: Unit length of recent episode w/ large # behavior changes,V01045,M3D2,-,M3D1
+"V01046: During recent episode, so grouchy started argue/shout/hit",V01046,M4,-,M4
+V01047: Behavioral changes during irritable episode,V01047,M5,-,M5
+"V01048: While irritable, one episode with large # behav changes",V01048,M6,-,M6
+V01049: Age at irritable period with most behavioral changes,V01049,M6A,-,M6A
+V01050: Length irritable period with most behav changes,V01050,M6B1,-,M6B
+V01051: Unit of time of irritable period with most behav changes,V01051,M6B2,-,M6B1
+V01052: Age most recent irritable period with most behav changes,V01052,M6C,-,M6C
+V01053: Length most recent irritable period with most behav changes,V01053,M6D1,-,M6D
+"V01054: Unit of time of irritable period w/ most behav changes, M6D1",V01054,M6D2,-,M6D1
+"V01055: Irritable episode-so restless, couldn't sit still or paced",V01055,M7A,-,M7A
+V01056: Irritable episode-more int in sex than usual/diff partners,V01056,M7B,-,M7B
+V01057: Irritable episode-overly friendly with people,V01057,M7C,-,M7C
+V01058: Irritable episode-inappropriate behavior,V01058,M7D,-,M7D
+V01059: Irritable episode-take on impossible tasks/lg amts of work,V01059,M7E,-,M7E
+V01060: Irritable episode-talked more than usual,V01060,M7F,-,M7F
+V01061: Irritable episode-constantly change plans/activities,V01061,M7G,-,M7G
+V01063: Episode hard keep mind things,V01063,M7H,-,-
+V01062: Irritable episode-hard to keep mind on task,V01062,-,-,M7H
+V01064: Irritable episode-thoughts jumping/racing unable to keep track,V01064,M7I,-,M7I
+V01065: Irritable episode-sleep less than usual but not tired,V01065,M7J,-,M7J
+V01066: Irritable episode-involved in foolish investments/money making,V01066,M7K,-,M7K
+V01067: Irritable episode-financial trouble due to spending too much,V01067,M7L,-,M7L
+V01068: Irritable episode-seeking pleasure doing risky things,V01068,M7M,-,-
+V01069: Risky acts in excite/grchy period,V01069,-,-,M7M
+V01070: Irritable episode-exaggerated sense of self-confidence,V01070,M7N,-,M7N
+V01071: Irritable episode-identity problems or false connection to celeb,V01071,M7O,-,M7O
+V01072: INTERVIEWER CHECKPOINT,V01072,-,-,M8
+V01073: Episode + problems affected work/social/relations,V01073,M9,-,-
+V01074: Probs interfere work/relations,V01074,-,-,M9
+V01075: Unable do normal activities due to episode + problems,V01075,M9A,-,M9A
+V01077: Others say anything or worry about actions,V01077,M9B,-,M9B
+V01078: Excite/grouchy episode result of phys cause or drug/alcohol,V01078,M10A,-,M10A
+V01079: All excite/grouchy episodes result of physical cause,V01079,M10B,-,M10B
+V01080: Exact age of 1st excited/grouchy episode + behav changes,V01080,M18,-,M18
+V01081: Age of 1st excited/grouchy episode + behav changes,V01081,M18A,-,M18A
+V01082: Estimate age 1st excited/grouchy episode + behav changes,V01082,M18B,-,M18B
+V01083: Estimate age 1st excited/grouchy episode + behav changes,V01083,M18B1,-,M18B1
+V01084: 1st excited/grouchy + behav episode before started school,V01084,M18B2,-,M18B2
+V01085: 1st excited/grouchy + behav episode before teenager,V01085,M18B3,-,M18B3
+V01086: 1st excited/grouchy + behav episode due to stress or sudden,V01086,M18C,-,M18C
+V01087: Length 1st excited/grouchy + behav episode,V01087,M18D1,-,M18D
+V01088: Unit time 1st excited/grouchy + behav episode,V01088,M18D2,-,M18D1
+V01089: Excited/grouchy + behav episode anytime in the past 12 mths,V01089,M19,-,M19
+V01090: How recent last excited/grouchy + behav episode,V01090,M19A,-,M19A
+V01091: # excited/grouchy + behav episodes in past year,V01091,M19B,-,M19B
+V01092: Weeks in past yr had excited/grouchy + behav episodes,V01092,M19C,-,M19C
+V01093: Age last time excited/grouchy + behav episodes,V01093,M19D,-,M19D
+V01094: # excited/grouchy + behav episodes lasted 1 week or more,V01094,M20,-,M20
+V01095: # excited/grouchy + behav episodes lasted less than week,V01095,M21,-,M21
+V01097: # of episodes brought by on stress,V01097,M21_1,-,-
+V01098: INTERVIEWER CHECKPOINT,V01098,-,-,M21A
+V01096: # excited/grouchy + behav eps 1 week-1 mth due to stress,V01096,-,-,M21_1
+V01099: Length longest excited/grouchy + behav episode ever had,V01099,M22A,-,M22
+V01100: Unit of time length longest excited/grouchy + behav ep M22A,V01100,M22B,-,M22B
+V01101: # of different years with excited/grouchy + behav episode,V01101,M23,-,M23
+V01102: INTERVIEWER CHECKPOINT,V01102,-,-,M26
+V01103: Severe month past year-exc/grouch ep interfered home mgmt,V01103,M27A,-,M27A
+V01104: Severe month in past year-exc/grouch ep interfered w/ work,V01104,M27B,-,M27B
+V01105: Severe mth in past year-ep interf with form/maint close friends,V01105,M27C,-,M27C
+V01106: Severe mth in past yr-exc/grouch ep interfered w/ social life,V01106,M27D,-,M27D
+V01107: INTERVIEWER CHECKPOINT,V01107,-,-,M28
+V01108: # days in year unable carry out normal acts due to episodes,V01108,M29,-,M29
+V01111: Worst episode in past year-mood,V01111,M30A,-,-
+V01112: Worst episode in past year-physical arousel,V01112,M30B,-,-
+V01113: Worst episode in past year-sexual interest,V01113,M30C,-,-
+V01114: Worst episode in past year-quantity of sleep,V01114,M30D,-,-
+V01115: Worst episode in past year-irritable,V01115,M30E,-,-
+V01116: Worst episode in past year-talkative,V01116,M30F,-,-
+V01117: Worst episode in past year-racing thoughts/disorg thinking,V01117,M30G,-,-
+V01118: Worst episode in past year-unrealistic thinking,V01118,M30H,-,-
+V01119: Worst episode in past year-disruptive behavior,V01119,M30I,-,-
+V01120: Worst episode in past year-appearance,V01120,M30J,-,-
+V01121: Worst episode in past year-you thought you had problem,V01121,M30K,-,-
+V01123: Ever talk to mdical doctor professional for epis,V01123,M33,-,-
+V01122: Saw professional about sadness in past year,V01122,-,-,M33
+V01124: Age 1st time talk to professional,V01124,M33A,-,-
+V01125: Ever see dr/other pro for mania,V01125,-,-,M33A
+V01126: Tried get professional help for mania,V01126,-,-,M33B
+V01127: Reasons for not getting prof help for mania-1st mention,V01127,-,-,M33C1
+V01128: Reasons for not getting prof help for mania-2nd mention,V01128,-,-,M33C2
+V01129: 1st time saw professional for mania,V01129,-,-,M34
+V01130: Age 1st saw professional about mania,V01130,-,-,M35
+V01131: Saw psychiatrist for mania,V01131,-,-,M36A
+V01132: Saw other mental health professional for mania,V01132,-,-,M36B
+V01133: Saw family doctor about mania,V01133,-,-,M36C
+V01134: Saw other medical doctor about mania,V01134,-,-,M36D
+V01135: Saw other health prof about mania,V01135,-,-,M36E
+V01136: Saw relig or spiritual advisor about mania,V01136,-,-,M36F
+V01137: Saw other healer about mania,V01137,-,-,M36G
+V01138: Professional(s) were helpful,V01138,-,-,M37
+V01139: Treatment received-1st mention,V01139,-,-,M381
+V01140: Treatment received-2nd mention,V01140,-,-,M382
+V01141: Treatment received-3rd mention,V01141,-,-,M383
+V01142: Treatment received-4th mention,V01142,-,-,M384
+V01144: Hospitalized overnight for mania,V01144,-,-,M39
+V01145: Age 1st time hospitalized for mania,V01145,-,-,M39A
+V01146: # times hospitalized for mania,V01146,-,-,M39B
+V01147: Received help from fam/friends/acquaint for mania,V01147,-,-,M40
+V01148: Tried to get help for mania from family/friends/acquaint,V01148,-,-,M40A
+V09203: Why not mania help from fam/friends-1st mention,V09203,-,-,M40B1
+V09204: Why not mania help from fam/friends-2nd mention,V09204,-,-,M40B2
+V01149: Received helpful/effective treatment,V01149,M45,-,-
+V01150: Age 1st time received helpful/effective treatment for episodes,V01150,M45A,-,-
+V01151: Total profs seen for excited/grouchy eps incl helful trmt doc,V01151,M45B,-,-
+V01152: # professionals ever seen about episodes,V01152,M45C,-,-
+V01153: Received professional treatment any time past 12 mths,V01153,M47,-,-
+V01154: Hospitalized overnight for episode,V01154,M48,-,-
+V01156: Age 1st time hospitalized overnight for episode,V01156,M48A,-,-
+V01155: # close relatives that have excited/grouchy episodes,V01155,M48_1,-,-

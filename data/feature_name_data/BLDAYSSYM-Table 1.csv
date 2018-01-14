@@ -1,0 +1,67 @@
+30-Day Symptoms,CPES,NCSR,NLAAS,NSAL
+V04525: Past mth-felt a lot of psychological distress,V04525,NSD1,-,-
+V04526: Past mth-feel trapped/caught,V04526,NSD1A,-,-
+V04527: Past week as good as other people,V04527,-,-,NSD1A
+V04529: Past month suddenly scared no reason,V04529,NSD1B,-,-
+V04528: Past week-trouble keeping mind on task,V04528,-,-,NSD1B
+V04531: Past month blame self for things,V04531,NSD1C,-,-
+V04530: Past week-felt depressed,V04530,-,-,NSD1C
+V04533: Past month how often feel lonely,V04533,NSD1D,-,-
+V04532: Past week-everything an effort-includes white RI,V04532,-,-,NSD1D
+V04534: Past month-feel blue,V04534,NSD1E,-,-
+V04535: Past week felt hopeful,V04535,-,-,NSD1E
+V04537: Past month worry too much about things,V04537,NSD1F,-,-
+V04536: Past week-had restless sleep,V04536,-,-,NSD1F
+V04538: Past month-feel no interest in things,V04538,NSD1G,-,-
+V04539: Past week happy,V04539,-,-,NSD1G
+V04540: Past mth-feel frightened,V04540,NSD1H,-,-
+V04541: Past week people were unfriendly,V04541,-,-,NSD1H
+V04543: Past month feel hopeless about future,V04543,NSD1I,-,-
+V04542: Past week-enjoyed life,V04542,-,-,NSD1I
+V04544: Past month-had trouble concentrating,V04544,NSD1J,-,-
+V04545: Past week had crying spells,V04545,-,-,NSD1J
+V04546: Past month-feel tense/keyed up,V04546,NSD1K,-,-
+V04547: Past week people dislike me,V04547,-,-,NSD1K
+V04549: Past month feel everything is an effort,V04549,NSD1L,-,-
+V04548: Past week-could not get going,V04548,-,-,NSD1L
+V04550: Past month-feel worthless,V04550,NSD1M,-,-
+V04551: Past month-feel exhausted for no good reason,V04551,NSD1N,-,-
+V04555: Past mth-blue,V04555,-,-,NSD2G
+V04556: Past month-feel irritable/grumpy,V04556,NSD2K,-,-
+V04557: Past month-feel mad/angry,V04557,NSD2L,-,-
+V04558: Past month-feel angry and out of control,V04558,NSD2M,-,-
+V04559: Past month-feel urge hit/push/hurt someone,V04559,NSD2N,-,-
+V04560: Past month-urge to break/smash something,V04560,NSD2O,-,-
+V04561: Past month-everything in slow motion,V04561,NSD2P,-,-
+V04562: Past month-muscles tense/sore/aching,V04562,NSD2Q,-,-
+V04563: Past month-heart race without exercise,V04563,NSD2R,-,-
+V04564: Past month-short of breath,V04564,NSD2S,-,-
+V04565: Past month-had indigest/upset stomach,V04565,NSD2T,-,-
+V04566: Past month-feel dizzy,V04566,NSD2U,-,-
+V04567: Past month-feel trembly/shaky,V04567,NSD2V,-,-
+V04568: Past month-had dry mouth,V04568,NSD2W,-,-
+V04569: Past month-had hot/cold spells,V04569,NSD2X,-,-
+V04570: Past month-negative feelings occur,V04570,NSD3,-,-
+V04571: Past month feel confident,V04571,NSD3_1A,-,-
+V04572: Past month feel optimistic,V04572,NSD3_1B,-,-
+V04573: Past month feel happy,V04573,NSD3_1C,-,-
+V04574: Past month-feel full of life,V04574,NSD3_1D,-,-
+"V04575: Past month-felt lot more, the same, little more full of life",V04575,NSD3A,-,-
+"V04576: Past month-felt lot less, the same, little less full of life",V04576,NSD3B,-,-
+V04577: Past month-find new things not remember buying,V04577,NSD4A,-,-
+V04578: Past month-feel standing beside and watching self,V04578,NSD4B,-,-
+V04579: Past month-not recognize friends/family,V04579,NSD4C,-,-
+V04580: Past month-objects/people/world not real,V04580,NSD4D,-,-
+V04581: Past month-feel body not belong to you,V04581,NSD4E,-,-
+V04582: Past month-feel like two different people,V04582,NSD4F,-,-
+V04583: Past month-feel voices in your head,V04583,NSD4G,-,-
+V04584: Worst month in past year-tired for no reason,V04584,NSD5A,-,-
+V04585: Worst month in past year-feel nervous,V04585,NSD5B,-,-
+"V04586: Worst month in past year-so nervous, nothing could calm",V04586,NSD5C,-,-
+V04587: Worst month in past year-feel hopeless,V04587,NSD5D,FD27C,NSD2D
+V04588: Worst month in past year- restless/fidgety,V04588,NSD5E,FD27D,NSD2C
+V04589: Worst month in past year-so restless couldn't sit still,V04589,NSD5F,-,-
+V04590: Worst month in past year-feel depressed,V04590,NSD5G,-,-
+V04591: Worst month in past year-so depressed nothing could cheer up,V04591,NSD5H,-,-
+V04592: Worst month in past year-felt everything is effort,V04592,NSD5I,-,-
+V04593: Worst month in past year-feel worthless,V04593,NSD5J,FD27H,NSD2F

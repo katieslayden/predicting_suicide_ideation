@@ -1,0 +1,6 @@
+DX Major Depressive Disorder,CPES,NCSR,NLAAS,NSAL
+V07657: DSM-IV Major Depressive Disorder w/ hierarchy (30Day),V07657,D_MDDH30,-,D_MDDH30
+V07655: DSM-IV Major Depressive Disorder w/ hierarchy (12Mo),V07655,D_MDDH12,D_MDDH12,D_MDDH12
+V07876: DSM-IV Major Depressive Disorder w/ hierarchy (LifeT),V07876,DSM_MDDH,DSM_MDDH,DSM_MDDH
+V08766: DSM-IV Major Depressive Disorder w/ hierarchy Onset,V08766,MDDH_OND,MDDH_OND,MDDH_OND
+V08768: DSM-IV Major Depression w/ hierarchy Recency,V08768,MDDH_RECD,MDDH_RECD,MDDH_RECD

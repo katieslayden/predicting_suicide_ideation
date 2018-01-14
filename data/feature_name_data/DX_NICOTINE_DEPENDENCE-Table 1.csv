@@ -1,0 +1,11 @@
+DX Nicotine Dependence,CPES,NCSR,NLAAS,NSAL
+V08509: ICD Nicotine Dependence (30 day),V08509,I_TBD30,-,-
+V08508: ICD Nicotine Dependence (12 month),V08508,I_TBD12,-,-
+V08575: ICD Nicotine Dependence (Lifetime),V08575,ICD_TBD,-,-
+V09135: ICD Nicotine Dependence Onset,V09135,TBD_ONI,-,-
+V09137: ICD Nicotine Dependence Recency,V09137,TBD_RECI,-,-
+V07761: DSM-IV Nicotine Dependence (30 day),V07761,D_TBD30,-,-
+V07760: DSM-IV Nicotine Dependence (12 month),V07760,D_TBD12,-,-
+V07918: DSM-IV Nicotine Dependence (Lifetime),V07918,DSM_TBD,-,-
+V09134: DSM-IV Nicotine Dependence Onset,V09134,TBD_OND,-,-
+V09136: DSM-IV Nicotine Dependence Recency,V09136,TBD_RECD,-,-

@@ -1,0 +1,31 @@
+Psychosis,CPES,NCSR,NLAAS,NSAL
+V04917: Ever see vision that others couldn't see,V04917,PS1A,PS1A,PS1A
+V04918: Ever see vision others didn't when not dream/asleep/subs use,V04918,PS1A1,PS1A1,PS1A1
+V04919: # times see vision when not dream/asleep/subs use,V04919,PS1A2,PS1A2,PS1A2
+V04920: Ever hear voices others couldn't hear,V04920,PS1B,PS1B,PS1B
+V04921: Ever hear voices when not dream/asleep/subs use,V04921,PS1B1,PS1B1,PS1B1
+V04922: # times hear voices when not dream/asleep/subs use,V04922,PS1B2,PS1B2,PS1B2
+V04923: Ever have mind control experience,V04923,PS1C,PS1C,PS1C
+V04924: Ever mind controlled when not dream/asleep/subs use,V04924,PS1C1,PS1C1,PS1C1
+V04925: # times mind controlled when not dream/asleep/subs use,V04925,PS1C2,PS1C2,PS1C2
+V04926: Ever feel mind taken over by strange forces,V04926,PS1D,PS1D,PS1D
+V04927: Ever feel mind taken over when not dream/asleep/subs use,V04927,PS1D1,PS1D1,PS1D1
+V04928: # times felt your mind taken over-not dream/asleep/subs use,V04928,PS1D2,PS1D2,PS1D2
+V04929: Ever exp communication attempts from strange forces,V04929,PS1E,PS1E,PS1E
+V04930: Ever exp comm attempts when not dream/asleep/subs use,V04930,PS1E1,PS1E1,PS1E1
+V04931: # times exp comm attempts when not dream/asleep/subs use,V04931,PS1E2,PS1E2,PS1E2
+V04932: Unjust plot to harm you/have people follow-nobody believe,V04932,PS1F,PS1F,PS1F
+V04933: Ever unjust plot to harm you when not dream/asleep/subs use,V04933,PS1F1,PS1F1,PS1F1
+V04934: # of times believe plot to harm you,V04934,PS1F2,PS1F2,PS1F2
+V04935: INTERVIEWER CHECKPOINT,V04935,PS2,PS2,PS2
+V04936: Age 1st psychotic experience,V04936,PS3,PS3,PS3
+V04937: Had psychotic experience in past 12 months,V04937,PS4,PS4,PS4
+V04938: # of days had pyschotic experience in past 12 months,V04938,PS5,PS5,PS5
+V04939: # times ever had psychotic experiences,V04939,PS6,PS6,PS6
+V04940: Talked to professional about dealing w/ psychotic experiences,V04940,PS7,PS7,PS7
+V04941: Psychotic diagnosis-1st mention,V04941,PS81,PS8_1,PS81
+V04942: Psychotic diagnosis-2nd mention,V04942,PS82,PS8_2,PS82
+V04943: Psychotic diagnosis-3rd mention,V04943,PS83,PS8_3,PS83
+V04944: Psychotic diagnosis-4th mention,V04944,PS84,-,PS84
+V04948: Took listed medication(s) for psychosis,V04948,PS10,PS10,PS10
+V04949: Took listed medication(s) for psychosis in past year,V04949,PS10A,PS10A,PS10A

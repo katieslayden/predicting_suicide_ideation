@@ -1,0 +1,47 @@
+Childhood Demographics,CPES,NCSR,NLAAS,NSAL
+V09383: Country in which you were born,V09383,DE4,-,-
+V05701: # parents born in U.S.: Top Code,V05701,DE5_1,-,-
+V05702: # grandparents born in U.S.,V05702,DE5_2,DE5_2,-
+V05703: INTERVIEWER CHECKPOINT,V05703,-,DE5_3,-
+V05705: Speak language other than English at home when g,V05705,DE7,-,-
+V05704: Language spoke at home growing up,V05704,-,DE7,-
+V05706: Also spoke English when growing up,V05706,DE8,-,-
+"V05707: # full brothers and sisters, alive and dead:Topcode",V05707,DE9_1,-,FH1
+V05708: Was your full brother or sister older than you,V05708,DE9_3,-,-
+V05709: # of full brothers or sisters older than you:topco,V05709,DE9_4,-,-
+"V05710: # half/adopted/step brothers and sisters, alive and dead",V05710,DE9_5,-,-
+V05711: Was your half/adopted/step brothers or sisters older than you,V05711,DE9_7,-,-
+V05712: # half/adopt/step brothers or sisters older than you,V05712,DE9_8,-,-
+V09381: Highest grade of school/college completed: Top/Bot Code,V09381,DE20,-,-
+V05716: Attended all-girls/all-boys school,V05716,DE20_2,-,-
+V05717: # of years attended all-girls/all-boys school,V05717,DE20_2A,-,-
+V05718: Grade attended all-girls/all-boys school:1st mention,V05718,DE20_401,-,-
+V05724: Grade attended all-girls/all-boys school:2nd mention,V05724,DE20_402,-,-
+V05725: Grade attended all-girls/all-boys school:3rd mention,V05725,DE20_403,-,-
+V05726: Grade attended all-girls/all-boys school:4th mention,V05726,DE20_404,-,-
+V05727: Grade attended all-girls/all-boys school:5th mention,V05727,DE20_405,-,-
+V05728: Grade attended all-girls/all-boys school:6th mention,V05728,DE20_406,-,-
+V05729: Grade attended all-girls/all-boys school:7th mention,V05729,DE20_407,-,-
+V05730: Grade attended all-girls/all-boys school:8th mention,V05730,DE20_408,-,-
+V05731: Grade attended all-girls/all-boys school:9th mention,V05731,DE20_409,-,-
+V05719: Grade attended all-girls/all-boys school:10th mention,V05719,DE20_410,-,-
+V05720: Grade attended all-girls/all-boys school:11th mention,V05720,DE20_411,-,-
+V05721: Grade attended all-girls/all-boys school:12th mention,V05721,DE20_412,-,-
+V05722: Grade attended all-girls/all-boys school:13th mention,V05722,DE20_413,-,-
+V05723: Grade attended all-girls/all-boys school:14th mention,V05723,DE20_414,-,-
+V05732: # of different schools attended through high school,V05732,DE20_5,-,-
+V05733: School system had middle school or junior high,V05733,DE20_7,-,-
+V05734: Grades in middle school or junior high school:1st mention,V05734,DE20_81,-,-
+V05735: Grades in middle school or junior high school:2nd mention,V05735,DE20_82,-,-
+V05736: Grades in middle school or junior high school:3rd mention,V05736,DE20_83,-,-
+V05737: Grades in middle school or junior high school:4th mention,V05737,DE20_84,-,-
+V05738: Grades in middle school or junior high school:5th mention,V05738,DE20_85,-,-
+V05739: Grades in middle school or junior high school:6th mention,V05739,DE20_86,-,-
+"V05741: In grade school, you were younger/older/average in age",V05741,DE20_8A,-,-
+V05742: Country received majority of education before 16,V05742,-,DE20_8B,-
+V05743: Religion when growing up:1st mention,V05743,DE20_901,-,-
+V05754: Religion when growing up:2nd mention,V05754,DE20_902,-,-
+V05765: Religion when growing up:3rd mention,V05765,DE20_903,-,-
+V05713: Importantance of religion in your life while growing up,V05713,DE20_10,-,-
+V05714: Raised in large or small city/suburbs/rural/town or village,V05714,DE20_11,-,-
+V05715: # times moved to new neighborhood/town when growing up,V05715,DE20_12,-,-

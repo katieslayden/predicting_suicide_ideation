@@ -1,0 +1,46 @@
+Conduct Disorder,CPES,NCSR,NLAAS,NSAL
+V06119: Engaged in behavior adults didn't like as a child or teenager,V06119,-,CD1,-
+V06120: As child or teen-tell lies to trick people to do what you wanted,V06120,CD1A,CD1A,CD1A
+V06121: As child or teen-get out of doing things by fooling/lying,V06121,CD1B,CD1B,CD1B
+V06122: As child or teen-shoplift/steal something worth $10+,V06122,CD1C,CD1C,CD1C
+V06123: As child or teen-steal from parents/guardians,V06123,CD1D,CD1D,CD1D
+V06124: As child or teen-break into locked car/home/building,V06124,CD1E,CD1E,CD1E
+V06125: As child or teen-set fire to cause serious damage,V06125,CD1F,CD1F,CD1F
+V06126: As child or teen-purposely damage others property,V06126,CD1G,CD1G,CD1G
+V06127: As child or teen-stay out later than your parents wanted,V06127,CD1H,CD1H,CD1H
+V06128: As child or teen-skip school without permission,V06128,CD1I,CD1I,CD1I
+V06129: As child or teen-run away from home for at least 4 days,V06129,CD1J,CD1J,CD1J
+V06130: Child or teen-run away home overnight more than once,V06130,CD1K,CD1K,CD1K
+V06131: INTERVIEWER CHECKPOINT,V06131,-,CD3,CD3
+V06132: Remember exact age 1st engaged in agg behavior,V06132,CD7,CD7,CD7
+V06133: Exact age 1st engaged in agg behavior,V06133,CD7A,CD7A,CD7A
+V06134: Estimate age 1st time you had conduct disorder,V06134,CD7B,CD7B,CD7B
+V06135: 1st conduct disorder before start school,V06135,CD7B1,CD7B1,CD7B1
+V06136: 1st conduct disorder before teen,V06136,CD7B2,CD7B2,CD7B2
+V06137: Engaged in conduct disorder in the past 12 months,V06137,CD9,CD9,CD9
+V06138: Age last time you had conduct disorder,V06138,CD9A,CD9A,CD9A
+V06139: Total # years engaged in aggressive behavior,V06139,CD10,CD10,CD10
+V06140: Extent cond disorder inferf w/ school/work/social life/relations,V06140,CD11,CD11,CD11
+V06141: As child or teen-bullied people incl younger children,V06141,CD16,CD16,CD16
+V06142: As child or teen-bullied people incl younger children,V06142,CD16A,CD16A,CD16A
+V06143: As child or teen-repeatedly involved in physical fights,V06143,CD16B,CD16B,CD16B
+V06144: As child or teen-use weapon on other person,V06144,CD16C,CD16C,CD16C
+V06145: As child or teen-physically harm animal on purpose,V06145,CD16D,CD16D,CD16D
+V06146: As child or teen-physically harm person on purpose,V06146,CD16E,CD16E,CD16E
+V06147: As child or teen-threaten/injure in order to get things,V06147,CD16F,CD16F,CD16F
+V06150: INTERVIEWER CHECKPOINT,V06150,-,CD17_1,CD17_1
+V06151: Remember exact age of 1st aggressive behavior,V06151,CD18,CD18,CD18
+V06152: Age of the very 1st aggressive behavior,V06152,CD18B,CD18B,CD18B
+V06153: Estimate age 1st aggressive behavior-comput,V06153,-,-,CD18C
+V06154: Estimate age 1st aggress behavior,V06154,ACD18C1,ACD18C1,ACD18C1
+V06155: 1st aggressive behavior before started school,V06155,ACD18C2,ACD18C2,ACD18C2
+V06156: 1st aggressive behavior before teen,V06156,ACD18C3,ACD18C3,ACD18C3
+V06157: Engaged in aggressive behavior in the past 12 months,V06157,CD20,CD20,CD20
+V06158: Age last time you engaged in aggressive behavior,V06158,CD20A,CD20A,CD20A
+V06159: # of years engaged in aggressive behavior,V06159,CD21,CD21,CD21
+V06160: Aggressive behav interfered w/ school/work/social/relations,V06160,CD22,CD22,CD22
+V06161: INTERVIEWER CHECKPOINT,V06161,-,CD24,CD24
+V06162: As child or teen-suspended/expelled as result of agg behav,V06162,CD32,CD32,CD32
+V06163: As child or teen-fired from job due to agg behavior,V06163,CD33,CD33,CD33
+V06164: As child or teen-in trouble with police due to agg behav,V06164,CD37,CD37,CD37
+V06165: Age 1st police trouble for aggressive behavior,V06165,CD37A,CD37A,CD37A

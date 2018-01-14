@@ -1,0 +1,40 @@
+Family and Friends,CPES,NCSR,NLAAS,NSAL
+V06816: Frequency family helps you out,V06816,-,-,E1
+V06817: Frequency you help family out,V06817,-,-,E2
+V06818: Frequency see/write/phone relatives who don't live w/ you,V06818,-,-,E3
+V06819: # relatives would help you if needed,V06819,-,-,E4
+V06820: How close do you feel to family members,V06820,-,-,E4A
+V06821: Closeness in feelings of family members to each other,V06821,-,-,E5
+V06822: Frequency family makes you feel loved excl spouse,V06822,-,-,E6A
+V06823: Frequency family listens to your problems,V06823,-,-,E6B
+V06824: Frequency family expresses concern for well-being,V06824,-,-,E6C
+V06825: Frequency family makes too many demands of you,V06825,-,-,E7A
+V06826: Frequency family criticizes you,V06826,-,-,E7B
+V06827: Frequency family takes advantage you,V06827,-,-,E7C
+V06828: Frequency see/write/phone friends,V06828,-,-,E8
+V06829: Frequency friends help you out,V06829,-,-,E9
+V06830: Frequency you help friends out,V06830,-,-,E10
+V06831: Closeness you feel toward friends,V06831,-,-,E11
+V06832: # people close to your family that are treated as relative,V06832,-,-,E12
+V06833: Frequency family friend helps you out,V06833,-,-,E12A
+V06837: Partner: Number of yrs lived together,V06837,-,-,E13B
+V06838: # mths lived with current partner,V06838,-,-,E13BB
+V06839: Ever been married,V06839,-,-,E13C
+V06849: Is this first marriage or have you been married before,V06849,-,-,E14
+V06851: Separated/divorced/widowed was first marriage,V06851,-,-,E15
+V06853: Main romantic involvement at this time,V06853,-,-,E16
+V06854: Mths in current romantic relationship,V06854,-,-,E16A
+V06855: Yrs in current romantic relationship,V06855,-,-,E16AB
+V06856: Want main romantic involvement,V06856,-,-,E16B
+V06857: Likelihood of marriage,V06857,-,-,E16C
+V06858: Partner's racial background,V06858,-,-,E18
+V06859: Satisfaction with current relationship,V06859,-,-,E19
+V06860: Partner has kids from other relationships,V06860,-,-,E20
+V06861: # of kids from partner's other relationships,V06861,-,-,E20A
+V06862: Partners child lives with you,V06862,-,-,E20B
+V06863: # of partner's kids that live w/ you,V06863,-,-,E20B1
+V06864: How well do you get along w/ partner's kids,V06864,-,-,E21
+V06865: # kids you fathered/gave birth to,V06865,-,-,E22
+V06867: # biological kids 13 yrs or older: Top Code,V06867,-,-,E23A
+V06868: Your age at 1st birth,V06868,-,-,E24
+V06870: General happiness these days,V06870,-,-,E25

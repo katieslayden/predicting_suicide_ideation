@@ -1,0 +1,42 @@
+Adult Demographics,CPES,NCSR,NLAAS,NSAL
+V05542: Identify with others of same racial/ethnic descent,V05542,DA27,DM1_5C,-
+V05543: Feel close in your ideas/feelings w/ ppl of same racial descent,V05543,DA28,DM1_5D,-
+V05544: Amt time would like to spend w/ ppl of same racial/ethnic grp,V05544,DA29,DM1_5E,-
+V05545: Importance for same racial/ethnic group to marry within group,V05545,DA30,DM1_5F,-
+V05546: Citizen of the United States,V05546,DA31,DM1_5G,-
+V05547: Citizenship in another country,V05547,DA31A,DM1_5H,-
+V05549: Religious preference:1st mention,V05549,DA31B_101,-,-
+V05571: Religious preference:2nd mention,V05571,DA31B_102,-,-
+V05593: Religious preference:3rd mention,V05593,DA31B_103,-,-
+V05629: Frequency attend religious services,V05629,DA33,DA33,-
+V09379: Frequency attend religious services,V09379,-,-,B3
+V05630: Importance of religious beliefs in daily life,V05630,DA34,-,-
+V05631: During difficult times-seek comfort in religion,V05631,DA35,DA35,-
+V05632: During decision-making-guided by religious belief,V05632,DA36,-,-
+V05634: Length of time homeless since 18 years old,V05634,DA36_1,-,-
+V05633: Ever been homeless,V05633,-,DA36_1,-
+V05662: Remember age 1st time homeless,V05662,-,DA36A_1,-
+V05663: Age 1st time homeless,V05663,-,DA36A_2,-
+V05664: Estimate age 1st time homeless,V05664,-,DA36A_3A,-
+V05665: 1st time homeless before teens,V05665,-,DA36A_3B,-
+V05666: 1st time homeless before twenties,V05666,-,DA36A_3C,-
+V05667: Age last time homeless,V05667,-,DA36A_4,-
+V05635: How long homeless since 18 years old,V05635,DA36_1A1,DA36_1A1,-
+"V05636: Unit of time homeless since 18, DA36.1A1",V05636,DA36_1A2,DA36_1A2,-
+V05649: INTERVIEWER CHECKPOINT: (SEE FN10),V05649,-,DA36_2B,-
+V05657: Received welfare/pub assistance since turning 18,V05657,DA36_3,DA36_5,H49
+V05658: # total years received public assistance since 18,V05658,DA36_3A,DA36_5A,H49A
+V05660: Age last time received public assistance,V05660,DA36_3C,DA36_5C,-
+V05668: Rank how well off now relative to US people,V05668,DA37,DA37,-
+V05669: Rank comm standing now relative to people in community,V05669,DA38,DA38,-
+V05671: Rank in country of origin,V05671,-,DA38B,-
+V05672: Biological mother still living,V05672,DA39,-,-
+V05673: Age biological mother died,V05673,DA39A,-,-
+V05674: Your age when biological mother died,V05674,DA39B,-,-
+V05675: Cause of death of biological mother,V05675,DA39C,-,-
+V05684: Age of mother when you were born,V05684,DA40,-,-
+V05686: Biological father still living,V05686,DA48,-,-
+V05687: Age biological father died,V05687,DA41A,-,-
+V05689: Your age when biological father died,V05689,DA41B,-,-
+V05690: Cause of death of biological father,V05690,DA41C,-,-
+V05691: Age of father when you were born,V05691,DA49,-,-

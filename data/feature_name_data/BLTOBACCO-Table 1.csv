@@ -1,0 +1,80 @@
+Tobacco,CPES,NCSR,NLAAS,NSAL
+V04594: Smoked more than 100 cigarettes in lifetime,V04594,-,-,TB1
+"V04596: Ever smoke cigarette/cigar/pipe, even single puff",V04596,TB2,-,-
+V04595: Age began smoking,V04595,-,-,TB2
+V09352: How old the very first time,V09352,ATB3,-,-
+V09353: Was it before your teens,V09353,ATB3A,-,-
+V09354: Was it before your twenties,V09354,ATB3B,-,-
+V04597: Currently smoke,V04597,-,-,TB3
+V04600: Ever smoke at least 1/week for 2 months or more,V04600,TB4,-,-
+V04599: Age stopped smoking,V04599,-,-,TB4
+"V09355: Current smoker, how old the very first time",V09355,ATB5ITR1,-,-
+"V09358: Ex smoker, how old the very first time",V09358,ATB5ITR2,-,-
+"V09356: Current smoker, was it before your teens",V09356,ATB5I1A,-,-
+"V09357: Current smoker, was it before your twenties",V09357,ATB5I1B,-,-
+"V09359: Ex smoker, was it before your teens",V09359,ATB5I2A,-,-
+"V09360: Ex smoker, was it before your twenties",V09360,ATB5I2B,-,-
+V04601: # cigarettes smoked per day,V04601,-,-,TB5
+V04604: Cigarettes or packs smoked per day,V04604,-,-,TB5A
+"V09361: How old, first time, once a week for 2 months",V09361,ATB6,-,-
+"V09364: How old, first time, every day for 2 months",V09364,ATB6A,-,-
+V09362: Was it before your teens,V09362,ATB6AA,-,-
+V09363: Was it before your twenties,V09363,ATB6AB,-,-
+V09365: Was it before your teens,V09365,ATB6AAA,-,-
+V09366: Was it before your twenties,V09366,ATB6AAB,-,-
+V04605: How soon after waking you smoke first cigarette,V04605,-,-,TB6
+V04608: Hours or minutes after waking smoked 1st cigarette,V04608,-,-,TB6A
+V04609: Smoked most freq-# cigarettes smoked per day,V04609,-,-,TB8
+V04610: Cigarettes or packs smoked per day,V04610,-,-,TB8A
+V04611: Past 12 months-# days smoked at least 1 cigarette/cigar/pipe,V04611,TB9,-,-
+V04612: Days smoked in past year-# of cigarrettes per day,V04612,TB10,-,-
+V04613: Days smoked in past year-# of cigars per day,V04613,TB10A,-,-
+V04614: Days smoked in past year-# of pipes per day,V04614,TB10B,-,-
+V04615: Year in life when smoked more than past year,V04615,TB11,-,-
+V04616: Year(s) smoked freq-# days at least 1 cigarette/cigar/pipe,V04616,TB12,-,-
+V04617: Year(s) smoked freq-# cigarette/cigar/pipe per day,V04617,TB13A,-,-
+V04618: Year(s) smoked freq-# cigars smoked per day,V04618,TB13B,-,-
+V04619: Year(s) smoked freq-# pipes smoked per day,V04619,TB13C,-,-
+V04620: # of different years in life smoked daily/almost daily,V04620,TB14,-,-
+V04621: Ever had irresistable desire to smoke that couldn't think of else,V04621,TB15,-,-
+V04622: Developed physical tolerance over time so no negative effects,V04622,TB15A,-,-
+V04623: Exp physical symptoms when cut down/stop smoking,V04623,TB15B,-,-
+V04624: Exp emotional symptoms when cut down/stop smoking,V04624,TB15C,-,-
+V04625: Smoked to avoid physical/emotional symptoms,V04625,TB15D,-,-
+V04626: Smoked even though promised self not to,V04626,TB15E,-,-
+V04627: Smoked more frequently/days in row than intended,V04627,TB15F,-,-
+V04628: Tried to cut down/stop smoking and unable to do so,V04628,TB15G,-,-
+V04629: Chain smoked for several days or more,V04629,TB15H,-,-
+V04630: Reduced/gave up important activities for month or more,V04630,TB15I,-,-
+V04631: Tobacco ever caused physical problems,V04631,TB15J,-,-
+V04632: Continue smoking regarless of physical problems,V04632,TB15K,-,-
+V04633: Tobacco ever caused emotional problems,V04633,TB15L,-,-
+V04634: Continue smoking regardless of emotional problems,V04634,TB15M,-,-
+V04635: Remember exact age of very 1st smoking problem,V04635,TB16_1,-,-
+V04636: Remember exact age 1st time any smoking related problems,V04636,TB21,-,-
+V04637: Age of very 1st smoking related problems,V04637,TB21A,-,-
+"V09367: How old, first time, any problem",V09367,ATB21B,-,-
+V09368: Was it before your teens,V09368,ATB211A,-,-
+V09369: Was it before your twenties,V09369,ATB211B,-,-
+V04639: Recent time of smoking related problems,V04639,TB22,-,-
+"V09370: How old, last time, any problem",V09370,ATB23,-,-
+V09371: Was it before your teens,V09371,ATB23A,-,-
+V09372: Was it before your twenties,V09372,ATB23B,-,-
+V04641: # different years ever had at least 1 smoking problem,V04641,TB24,-,-
+V04642: Had 3 or more smoking related problems in same year,V04642,TB25,-,-
+"V09373: How old, first time, 3 or more problems, same year",V09373,ATB26,-,-
+V09374: Was it before your teens,V09374,ATB26A,-,-
+V09375: Was it before your twenties,V09375,ATB26B,-,-
+V04644: How soon after waking you smoke 1st cigarette/cigar/pipe,V04644,TB31,-,-
+V04645: Difficult to refrain from smoking in forbidden places,V04645,TB32,-,TB7
+V04646: Cigarette/cigar/pipe would most hate to give up,V04646,TB33,-,-
+V04647: Smoke more frequently first hours after waking than rest of day,V04647,TB34,-,-
+V04648: Smoke even when so ill and in bed most of day,V04648,TB35,-,-
+V04649: # different times seriously attempted to quit smoking,V04649,TB36,-,-
+"V04650: Since serious attempt to quit, longest gone without smoking",V04650,TB38,-,-
+"V04651: Unit of time longest gone without smoking, TB38",V04651,TB38A,-,-
+V04652: # different times gone without smoking for 3 months +,V04652,TB40,-,-
+V04653: Used nicotine gum or patch to quit smoking,V04653,TB41A,-,-
+V04654: Used prescription medication to quit smoking,V04654,TB41B,-,-
+V04655: Used nicotine-free cigarettes to quit smoking,V04655,TB41C,-,-
+V04656: Went to groups or classes to quit smoking,V04656,TB41D,-,-

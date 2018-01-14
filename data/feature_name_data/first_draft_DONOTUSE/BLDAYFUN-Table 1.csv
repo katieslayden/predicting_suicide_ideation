@@ -1,0 +1,77 @@
+30-Day Functioning,CPES,NCSR,NLAAS,NSAL
+V04445: Status of overall physical health during past 30 days,V04445,FD1,FD1,-
+V04446: Amount of change in physical health in past 30 days,V04446,FD1A,FD1A,-
+V04447: Frequency experienced physical discomfort in past 30 days,V04447,FD2,FD2,-
+V04448: Severity of physical discomfort during past 30 days,V04448,FD2A,FD2A,-
+V04449: Overall mental health status in past 30 days,V04449,FD3,FD3,-
+V04451: Amount of change in mental health status in past 30 days,V04451,FD3A,FD3A,-
+V04452: # days in past 30-no work/norm acts due to phys/ment/subst,V04452,FD4,FD4,C29A
+V04454: No activities due to emotions/nerves/ment health/subst use,V04454,FD4A,FD4A,C29C
+V04455: # days no activities due to emot/nerves/ment health/subst use,V04455,FD4B,FD4B,C29D
+V04453: INTERVIEWER CHECKPOINT,V04453,-,FD4_1,C29B
+V04456: # days past mth in bed 1/2 day+ due to health/substance,V04456,FD5,FD5,C29E
+V04457: INTERVIEWER CHECKPOINT,V04457,-,FD6,C29F
+V04458: # days in past 30 reduced acts due to phys/ment/subs use,V04458,FD7,FD7,C29G
+V04460: Reduced activities due to emotion/nerves/substance use,V04460,FD7A,FD7A,C29I
+V04461: # of reduced act days were due to emotion/nerves/ment/subst,V04461,FD7B,FD7B,C29J
+V04459: INTERVIEWER CHECKPOINT,V04459,-,FD7_1,C29H
+V04462: # days in 30 cut quality of work due to phys/ment/subst use,V04462,FD8,FD8,C29K
+V04463: # days in 30 took extreme effort to do usual level of work/acts,V04463,FD9,FD9,C29L
+V04465: Extreme effort due to nerves/emotion/substance use,V04465,FD9A,FD9A,C29N
+V04466: # days extreme effort due to nerves/emotion/subst use,V04466,FD9B,FD9B,C29O
+V04464: INTERVIEWER CHECKPOINT,V04464,-,FD9_1,C29M
+V04467: Health probs caused diffic w/ concen/mem/think in past mth,V04467,FD10,FD10,C30
+V04468: # days had difficulty w/ concen/mem/think in past 30 days,V04468,FD10A,FD10A,C30A
+V04469: Amount of difficulty concentrating for 10 minutes,V04469,FD11A,FD11A,C31A
+V04470: Amount of difficulty understanding what was going on,V04470,FD11B,FD11B,C31B
+V04471: Amount of difficulty remembering to do important things,V04471,FD11C,FD11C,C31C
+V04472: Amount of difficulty learning a new task,V04472,FD11D,FD11D,C31D
+V04473: Difficulty w/ mobility due to health problems in past 30 days,V04473,FD12,FD12,C32
+V04474: # of days had difficulty w/ mobility in past 30 days,V04474,FD12A,FD12A,C32A
+V04475: During mobility problems-difficult standing for 30+ minutes,V04475,FD13A,FD13A,C33A
+V04476: During mobility problems-difficulty move around inside home,V04476,FD13B,FD13B,C33B
+V04477: During mobility problems-difficulty walking long distance,V04477,FD13C,FD13C,C33C
+V04478: Health related probs caused diff w/ self care in past 30 days,V04478,FD14,FD14,C34
+V04479: # days health-related probs caused difficulty w/ self-care,V04479,FD14A,FD14A,C34A
+V04480: During self-care probs-amount of difficulty washing whole body,V04480,FD15A,FD15A,C35A
+V04481: During self-care probs-amount of difficulty getting dressed,V04481,FD15B,FD15B,C35B
+V04482: During self-care probs-amount of diffic staying alone few days,V04482,FD15C,FD15C,C35C
+V04483: Health probs caused diffic w/ getting along/maint social life,V04483,FD16,FD16,C36
+V04484: # of days had diffic getting along/maint social life in past mth,V04484,FD16A,FD16A,C36A
+V04485: INTERVIEWER CHECKPOINT,V04485,-,FD17_1,-
+V04486: During trouble getting along-diffic start/maintain conversation,V04486,FD17A,FD17A,C37A
+V04487: During trouble getting along-diffic deal w/ people not know well,V04487,FD17B,FD17B,C37B
+V04488: During trouble getting along-difficulty maintaining friendships,V04488,FD17C,FD17C,C37C
+V04489: During trouble getting along-difficulty making new friends,V04489,FD17D,FD17D,C37D
+V04490: During trouble getting along-diffic cont emotions around ppl,V04490,FD17E,FD17E,C37E
+V04491: Severity of health-related diffic w/ house respons in past mth,V04491,FD18A,FD18A,-
+V04492: Severity which emotionally affected by health during past mth,V04492,FD18B,FD18B,-
+V04493: Severity of health drain on finances for past 30 days,V04493,FD18C,FD18C,-
+V04494: Severity of problem joining in community acts in past 30 days,V04494,FD18D,FD18D,-
+V04495: INTERVIEWER CHECKPOINT,V04495,-,FD19,C38
+V04496: Amt of embarrassment due to health probs in past 30 days,V04496,FD20,FD20,-
+V04497: Amt of discrimination due to health probs in past 30 days,V04497,FD21,FD21,-
+V04498: Amt health-related diffic interf w/ life of friends/fam in past mth,V04498,FD22,FD22,-
+V04499: Rate health of otherwise healthy person with broken leg,V04499,FD23A,FD23A,-
+V04500: Rate health of person with severe arthritis,V04500,FD23B,FD23B,-
+V04501: Rate health of person with terminal cancer,V04501,FD23C,FD23C,-
+V04502: Rate your own physical and mental health in past,V04502,FD23D,FD23D,-
+V04503: INTERVIEWER CHECKPOINT (FD23d),V04503,-,FD24,-
+V04504: # of months/years your health at this level,V04504,FD24_1A,FD24_1A,-
+"V04505: Unit of time health at this level, FD24_1A",V04505,FD24_1B,FD24_1B,-
+V04506: Willing to pay $100 for treatment to get score of 100,V04506,FD25,FD25,-
+V04507: Willing to pay $500 for treatment to get score of 100,V04507,FD25A,FD25A,-
+V04508: Willing to pay $50 for treatment to get score of 100,V04508,FD25B,FD25B,-
+V04509: Largest amt willing to pay for treatment to get score of 100,V04509,FD25C,FD25C,-
+V04510: Willing to take free treatment even if on bed rest for 3 days,V04510,FD26,FD26,-
+V04511: Willing to take free treatment even if on bed rest for 7 days,V04511,FD26A,FD26A,-
+V04512: Willing to take free treatment even if on bed rest for 1 day,V04512,FD26B,FD26B,-
+V04513: Longest time willing to give up per month for free treatment,V04513,FD26C1,FD26C1,-
+"V04514: Unit of time willing to give up for free treatment, FD26C1",V04514,FD26C2,FD26C2,-
+V04515: Past mth-depressed,V04515,-,FD27A,-
+V04516: Past mth-so depressed nothing could cheer you up,V04516,-,FD27B,NSD2A
+V04519: Past mth-so restless couldn't sit still,V04519,-,FD27E,-
+V04520: Past mth-tired for no good reason,V04520,-,FD27F,-
+V04521: Past mth-everything an effort,V04521,-,FD27G,NSD2E
+V04523: Past mth-nervous,V04523,-,FD27I,NSD2B
+V04524: Past mth-so nervous nothing could calm you,V04524,-,FD27J,-

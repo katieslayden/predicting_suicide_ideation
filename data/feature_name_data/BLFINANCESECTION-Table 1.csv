@@ -1,0 +1,19 @@
+Finances,CPES,NCSR,NLAAS,NSAL
+V05300: INTERVIEWER CHECKPOINT-R is able to read,V05300,-,FN1,-
+"V05304: INTERVIEWER CHECKPOINT-(SC3,SC3a)",V05304,-,FN4,-
+V05313: Would have any money left over after paying debt,V05313,FN12,-,-
+"V05312: After total liquidation, would have $ left over after paying debts",V05312,-,FN12,-
+V05315: # people support your household,V05315,-,FN13A,H47
+V05316: Send money to relatives in country of origin,V05316,-,FN13B,-
+V05317: How much money send to country of origin per month/year,V05317,-,FN13C,-
+V05318: Unit of time send money to country of origin,V05318,-,FN13CUNI,-
+"V05319: Total liquid in country of origin, still have $ left over after debts",V05319,-,FN13D,-
+V05320: How much money left over after paying debts,V05320,-,FN13E,-
+V05321: You have more/just enough/not enough money to meet needs,V05321,FN14,FN14,-
+V05322: Amt of difficulty paying monthly bills,V05322,FN14A,FN14A,-
+V09378: Amt of difficulty paying monthly bills,V09378,-,-,H40
+"V05323: In past yr-hungry, but didn't eat because couldn't afford food",V05323,FN15,-,-
+V05324: In past yr-ate less due to lack of money for food,V05324,FN16,-,-
+V05325: In past yr-how often not enough money to buy food,V05325,FN18,FN18,-
+V05326: In past yr-couldn't afford to eat balanced meals,V05326,FN19,FN19,-
+V05327: In past yr-cut/skip meal cause not enough money to buy food,V05327,FN20,FN20,-

@@ -1,0 +1,102 @@
+Obsessive-Compulsive Disorder,CPES,NCSR,NLAAS,NSAL
+V04805: Bothered by unpleasant thoughts like dirty hands/germs,V04805,-,-,O1
+V04806: Recurrent concern about germs/wash/dirt for 2+ weeks,V04806,O1A,-,-
+V04807: Recurrent impulse to re-check things for 2+ weeks,V04807,O1B,-,-
+V04808: Recurrent impulse to arrange/order things for 2+ weeks,V04808,O1C,-,-
+V04809: Compulsion to save unneeded things for 2+ weeks,V04809,O1D,-,-
+V04810: Recurrent disturb sexual/religious thoughts for 2+ weeks,V04810,O1E,-,-
+V04811: Recurrent unpleasant thought about morality/sin for 2+ weeks,V04811,O1F,-,-
+V04812: Recurrent concern might do something terrible for 2+ weeks,V04812,O1G,-,-
+V04813: Recurrent concern about illness/no symptoms for 2+ weeks,V04813,O1H,-,-
+V04814: Other recurrent bothersome comp to repeat for 2+ weeks,V04814,O1I,-,-
+V04815: Other unpleasant and persistent thoughts,V04815,-,-,O2
+V04816: INTERVIEWER CHECKPOINT,V04816,-,-,O3
+V04817: Freq OCD exp-# mins/hours each day exp OCD behavior (all),V04817,O3A,-,-
+"V04818: Unit of time # mins/hours experienced OCD, O3A",V04818,O3B,-,-
+V04819: Experienced OCD behavior at least 60 min/day (all),V04819,O3C,-,-
+V04820: Some thoughts seemed unreasonable,V04820,-,-,O4
+V04821: OCD thoughts returned regardless of effort to resist,V04821,-,-,O5
+V04822: Freq OCD exp-# mins/hours each day exp OCD behav (gt eq3),V04822,O5A,-,-
+"V04823: Unit of time # mins/hours experienced OCD behavior, O5A",V04823,O5B,-,-
+V04824: Experienced OCD behavior at least 60 min/day (gt eq3),V04824,O5C,-,-
+V04825: Talked to professional about thoughts,V04825,-,-,O6
+V04826: Amt time spent w/ unpleasant thoughts/image/impul on mind,V04826,O7,-,-
+V04827: OCD interfere with life/work or difficulty w/ friends/rels or upset,V04827,-,-,O7
+V04828: Amt of time spend on repetitive behav or mental acts,V04828,O8,-,-
+V04829: Age 1st time had unpleasant thoughts,V04829,-,-,O8
+V04830: Age 1st time had unpleasant thoughts,V04830,-,-,O8A
+V04831: Last time unable to get rid of unpleasant thoughts,V04831,-,-,O8B
+V04832: Age last time had unpleasant thoughts,V04832,-,-,O8B1
+V04833: Engage in foolish repetitive behavior,V04833,-,-,O9
+V04835: Considered thoughts/impulses excessive and unreasonable,V04835,O10,-,-
+V04834: Engage in compulsive ordering,V04834,-,-,O10
+V04836: Pay more attention to images/impulses than deserved,V04836,O10A,-,-
+V04837: Thoughts/images/impulses make you anxious,V04837,O11,-,-
+V04838: Period of several weeks when couldn't resist counting things,V04838,-,-,O11
+V04840: Extent to which thoughts/imulses interf w/ work/soc/relation,V04840,O12,-,-
+V04839: Compulsion to repeat things over and over,V04839,-,-,O12
+V04842: Attempted to get thoughts/images/impulses out of mind,V04842,O13,-,-
+V04841: INTERVIEWER CHECKPOINT,V04841,-,-,O13
+V04844: Thoughts/images/imp so strong couldn't get out of head,V04844,O14,-,-
+V04843: Thought compulsions were unreasonable,V04843,-,-,O14
+V04846: Had thoughts/images/impulses 2+ weeks in past year,V04846,O16,-,-
+V04847: Recent month had thoughts/images/impulses,V04847,O16A,-,-
+V04848: # weeks had thoughts/images/impulses most days in past yr,V04848,O16B,-,-
+V04849: Age last had thoughts/images/impul most days for 2+ wks,V04849,O16C,-,-
+V04845: OCD interfere with life/work or difficulty w/ friends/rel or upset,V04845,-,-,O16
+"V04850: 1st time had to do any of these things-RB, PG 79",V04850,-,-,O17
+"V04852: # mintes/hours in past yr had thought, image, im",V04852,O17A,-,-
+"V04854: Unit of time, O17A",V04854,O17B,-,-
+V04851: Age 1st time had unpleasant thoughts,V04851,-,-,O17A
+V04853: Last time had to do any of these things,V04853,-,-,O17B
+V09434: At least 60 minutes a day,V09434,O17C,-,-
+V04855: Age last time had unpleasant thoughts,V04855,-,-,O17B1
+V04856: Extent these images/impul make you upset/anxious in past yr,V04856,O18,-,-
+V04857: Amt effort to resist thoughts/images/impul in past yr,V04857,O19,-,-
+"V04858: When tried to resist, how much control over thoughts/impul",V04858,O20,-,-
+V04859: Considered repeated behavior excessive or unreasonable,V04859,O22,-,-
+V04860: Think behaviors were useless and unnecessary/overdone,V04860,O22A,-,-
+V04861: Feel bad thing will happen if not repetitive,V04861,O23,-,-
+V04862: Exent which repetitiveness inferf w/ work/social life/relations,V04862,O24,-,-
+V04863: Freq unable to conduct normal activities due to behaviors,V04863,O24A,-,-
+V04864: Tried to resist doing things over and over,V04864,O25,-,-
+V04865: Impul/urges so strong that couldn't resist regardless of effort,V04865,O25A,-,-
+V04866: Upset when prevented from carrying out repeated behavior,V04866,O26,-,-
+V04867: Repeated behav/mental acts most days 2+ wks in past yr,V04867,O28,-,-
+V04868: Recent repeated behav/mental acts,V04868,O28A,-,-
+V04869: # weeks carried out repeated behav/mental acts in past yr,V04869,O28B,-,-
+V04870: Age last carried out repet behavior most days for 2+ weeks,V04870,O28C,-,-
+V04871: # mins/hours spend each day conducting repetitive behavior,V04871,O29A,-,-
+"V04872: Unit of time spent conduct repetitive behavior each day, O29A",V04872,O29B,-,-
+V04873: Extent repeated behaviors make you upset/anxious in past yr,V04873,O30,-,-
+V04874: Extent upset when prevented from repetitive behavior in past yr,V04874,O30A,-,-
+V04875: Extent effort to resist repetitive behavior/mental acts,V04875,O31,-,-
+"V04876: When tried to resist, amt of control over doing repetitive behav",V04876,O32,-,-
+V04877: OCDB behavior ever result of physical cause,V04877,O37A,-,-
+V04878: OCD behavior always result of physical cause,V04878,O37B,-,-
+V04879: Physical cause resulting in OCD behavior-1st mention,V04879,O37C01,-,-
+V04885: Physical cause resulting in OCD behavior-2nd mention,V04885,O37C02,-,-
+V04893: Remember exact age of very 1st OCD behavior of 2+ wks,V04893,O45,-,-
+V04894: Age of very 1st OCD behavior of 2+ wks,V04894,O45A,-,-
+V04895: Estimate age of 1st time OCD behavior of 2+ wks,V04895,O45B,-,-
+V04896: Estimate age of 1st time OCD behavior of 2+ wks,V04896,O45B1,-,-
+V04897: 1st OCD behavior of 2+ weeks before started school,V04897,O45B2,-,-
+V04898: 1st OCD behavior of 2+ weeks before teens,V04898,O45B3,-,-
+V04899: # different years had OCD most days for 2+ weeks,V04899,O46,-,-
+V04900: Longest continous # wk/mth/year had OCD most days,V04900,O47A,-,-
+"V04901: Unit of time of longest continuous OCD most days, O47A",V04901,O47B,-,-
+V04902: Worst mth past yr-OCD behav interfere w/ home mgmt,V04902,O49A,-,-
+V04903: Worst mth past yr-OCD behav interfere w/ ability to work,V04903,O49B,-,-
+V04904: Worst mth past yr-OCD behav interf w/ form/maint relations,V04904,O49C,-,-
+V04905: Worst mth past yr-OCD behav interfere with social life,V04905,O49D,-,-
+V04906: # days in past year unable to work/normal acts due to OCD,V04906,O51,-,-
+V04907: Talked to professional about OCD behavior,V04907,O53A,-,O15
+V04908: Age 1st talked professional about OCD behavior,V04908,O54,-,-
+V04909: Received helpful/effective treatment for OCD behavior,V04909,O67,-,-
+V04910: Age 1st received helpful/effective treatment for OCD behavior,V04910,O67A,-,-
+V04911: # prof talked to about OCD behavior incl helpful trmt doc,V04911,O67B,-,-
+V04912: # professionals ever talked to about OCD behavior,V04912,O67C,-,-
+V04913: Received professional treatment for OCD behav in past yr,V04913,O69,-,-
+V04914: Hospitalized overnight for OCD behavior,V04914,O70,-,-
+V04915: Age 1st hospitalized overnight for OCD behavior,V04915,O70A,-,-
+V04916: # of separate times hospitalized for OCD behavior,V04916,O70B,-,-

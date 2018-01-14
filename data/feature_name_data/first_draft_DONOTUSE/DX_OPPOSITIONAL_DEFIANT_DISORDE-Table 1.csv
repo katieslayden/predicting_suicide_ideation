@@ -1,0 +1,11 @@
+DX Oppositional-Defiant Disorder,CPES,NCSR,NLAAS,NSAL
+V08452: ICD Oppositional Defiant Disorder (12Mo),V08452,I_ODD12,-,I_ODD12
+V08545: ICD Oppositional Defiant Disorder (LifeT),V08545,ICD_ODD,-,ICD_ODD
+V08837: ICD Oppositional Defiant Disorder Onset,V08837,ODD_ONI,-,ODD_ONI
+V08842: ICD Oppositional Defiant Disorder Recency,V08842,ODD_RECI,-,ODD_RECI
+V07689: DSM-IV Oppositional Defiant Disorder (12Mo),V07689,D_ODD12,-,D_ODD12
+V07881: DSM-IV Oppositional Defiant Disorder (LifeT),V07881,DSM_ODD,-,DSM_ODD
+V08835: DSM-IV Oppositional Defiant Disorder Onset,V08835,ODD_OND,-,ODD_OND
+V08840: DSM-IV Oppositional Defiant Disorder Recency,V08840,ODD_RECD,-,ODD_RECD
+V07698: DSM-IV Oppositionl Defiant Disorder w/ hierarchy (12Mo),V07698,D_ODDH12,-,D_ODDH12
+V07882: DSM-IV Oppositionl Defiant Disorder w/ hierarchy (LifeT),V07882,DSM_ODDH,-,DSM_ODDH

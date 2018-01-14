@@ -1,0 +1,269 @@
+Chronic Conditions,CPES,NCSR,NLAAS,NSAL
+V04044: Ever had arthritis/rheumatism,V04044,CC1A,CC1A,-
+V04045: Ever had chronic back/neck problems,V04045,CC1B,CC1B,-
+V04046: Ever had frequent or severe headaches,V04046,CC1C,CC1C,-
+V04047: Ever had any other chronic pain,V04047,CC1D,CC1D,-
+V04048: Ever had seasonal allergies like hay fever,V04048,CC1E,CC1E,-
+V04049: Ever had stroke,V04049,CC1F,CC1F,-
+V04050: Ever had heart disease,V04050,CC1G,CC1G,-
+V04051: Doctor or health professional told have heart,V04051,CC1H,CC1H,-
+V04052: Doctor or health professional told high blood pressure,V04052,CC1I,CC1I,-
+V04053: Doctor or health professional told have asthma,V04053,CC1J,CC1J,-
+V04055: Doctor/health professional told had chronic lung disease,V04055,CC1L,CC1L,-
+V04056: Doctor/health professional told have diabetes/high blood sugar,V04056,CC1N,CC1N,-
+V04057: Doctor or health professional told have ulcer in stomach/intest,V04057,CC1O,CC1O,-
+V04059: Doctor or health professional told have epilepsy,V04059,CC1S,CC1S,-
+V04060: Doctor or professional told have cancer,V04060,CC1T,CC1T,-
+V04061: Age 1st had arthritis/rhumatism,V04061,CC3A,CC3A,-
+V04062: Age 1st had back/neck problems,V04062,CC3B,CC3B,-
+V04063: Age 1st had frequent /severe headache,V04063,CC3C,CC3C,-
+V04064: Age 1st had any other chronic pain,V04064,CC3D,CC3D,-
+V04065: Age 1st had seasonal allergies,V04065,CC3E,CC3E,-
+V04066: Age 1st had stroke,V04066,CC3F,CC3F,-
+V04067: Age 1st had heart attack,V04067,CC3G,CC3G,-
+V04068: Age 1st diagnosed with heart disease,V04068,CC3H,CC3H,-
+V04069: Age 1st diagnosed with high blood pressure,V04069,CC3I,CC3I,-
+V04070: Age 1st diagnosed with asthma,V04070,CC3J,CC3J,-
+V04072: Age 1st diagnosed with chronic lung disease,V04072,CC3L,CC3L,-
+V04073: Age 1st diagnosed with diabetes/high blood sugar,V04073,CC3N,CC3N,-
+V04074: Age 1st diagnosed with ulcer,V04074,CC3O,CC3O,-
+V04076: Age 1st diagnosed with epilepsy/seizures,V04076,CC3S,CC3S,-
+V04077: Age 1st diagnosed with cancer,V04077,CC3T,CC3T,-
+V04078: Still have back/neck problems or receive treatment in past yr,V04078,CC4B,-,-
+V04079: 12 months still have back/neck problems,V04079,-,CC4B,-
+V04081: Still have severe headache or received treatment,V04081,CC4C,-,-
+V04080: Frequent or sever headaches in past 12 months,V04080,-,CC4C,-
+V04083: Still have Chronic Pain or received treatment pa,V04083,CC4D,-,-
+V04082: Still have other chronic pain in past 12 months,V04082,-,CC4D,-
+V04085: Still have season allergies or received treatmen,V04085,CC4E,-,-
+V04084: Still have seasonal allergies in past 12 months,V04084,-,CC4E,-
+V04086: Still have high blood pressure or receive treatm,V04086,CC4I,-,-
+V04087: 12 months rec treatment high blood pressure,V04087,-,CC4I,-
+V04090: Still have diabete/blood pressure or got treatme,V04090,CC4N,-,-
+V04091: Still have diabetes or got treatment in past 12 months,V04091,-,CC4N,-
+V04303: Still have ulcer or received treatment in past 12 months,V04303,CC4O,-,-
+V04304: 12 months still have ulcer,V04304,-,CC4O,-
+V04092: Received treatment for back/neck problems in past 12 months,V04092,-,CC5B,-
+V04093: Received treatment for severe headache in past 12 months,V04093,-,CC5C,-
+V04094: Received treatment for other chronic pain in past 12 months,V04094,-,CC5D,-
+V04095: Received treatment for seasonal allergies in past 12 months,V04095,-,CC5E,-
+V04096: Received treatment for high blood pressure in past 12 months,V04096,-,CC5I,-
+V04098: Received treatment for diabetes in past 12 months,V04098,-,CC5N,-
+V04099: Received treatment for ulcer in past 12 months,V04099,-,CC5O,-
+V04100: Currently in treatment for cancer/in remission/been cured,V04100,CC6,CC6,-
+V04101: In past yr-had accident/injury/posioning required medical atten,V04101,CC6_1,CC6_1,-
+V04102: # of accidents/injuries/poison needed medical atten in past yr,V04102,CC6_1A,-,-
+V04103: Most recent real accident/did on purpose/result of fight,V04103,CC6_1B,-,-
+V04104: Most recent at work/work related travel/or elsewhere,V04104,CC6_1C,-,-
+V04105: Condition on list resulting from injury:1st mention,V04105,CC6_21,-,-
+V04106: Condition on list resulting from injury:2nd mention,V04106,CC6_22,-,-
+V04107: Condition on list resulting from injury:3rd mention,V04107,CC6_23,-,-
+V04108: Condition on list resulting from injury:4th mention,V04108,CC6_24,-,-
+V04109: Condition on list resulting from injury:5th mention,V04109,CC6_25,-,-
+V04110: Condition on list resulting from injury:6th mention,V04110,CC6_26,-,-
+V04114: Where did injury occur - 1st mention,V04114,CC6_301,-,-
+V04116: Where did injury occur - 2nd mention,V04116,CC6_302,-,-
+V04117: Where did injury occur - 3rd mention,V04117,CC6_303,-,-
+V04124: Where cancer located:1st mention,V04124,CC6A01,-,-
+V04126: Where cancer located:2nd mention,V04126,CC6A02,-,-
+V04127: Where cancer located:3rd mention,V04127,CC6A03,-,-
+V04128: Where cancer located:4th mention,V04128,CC6A04,-,-
+V04134: INTERVIEWER CHECKPOINT (REFERENCE CARD),V04134,-,CC7,-
+V04136: 1 to continue,V04136,-,CC8A,-
+V04137: # times see doctor or other prof for treatment of condition,V04137,CC9,CC9,-
+V04138: Frequency of treatment for condition,V04138,-,CC9_1,-
+V04139: INTERVIEWER CHECKPOINT,V04139,-,CC9A,-
+V04140: Extent to which condition interfered with home management,V04140,CC10A,CC10A,-
+V04141: Extent to which condition interfered with ability to work,V04141,CC10B,CC10B,-
+V04142: Extent to which condition interfered w/ form/maintain relations,V04142,CC10C,CC10C,-
+V04143: The extent to which the condition interfered with social life,V04143,CC10D,CC10D,-
+V04144: INTERVIEWER CHECKPOINT (CC10a-CC10d),V04144,-,CC11,-
+V04145: # of day out 365 could not work/normall acts due to condition,V04145,CC12,CC12,-
+V04146: INTRO C13 - condition interfered with life,V04146,-,CC13,-
+V04147: Interfered with life - stomach pain,V04147,-,CC13B,-
+V04148: Interfered with life - diarrhea/constipation,V04148,-,CC13C,-
+V04149: Interfered with life - severe pain in arms/legs/joints,V04149,-,CC13D,-
+V04150: Interfered with life - severe chest pain,V04150,-,CC13E,-
+V04151: Interfered with life - heart race or pound,V04151,-,CC13F,-
+V04152: Interfered with life - shortness of breath/trouble breathing,V04152,-,CC13G,-
+V04153: Interfered with life - severe back pain,V04153,-,CC13H,-
+V04154: Interfered with life - nausea/gas/indigestion,V04154,-,CC13I,-
+V04155: Ever had severe menstrual pain/problems,V04155,-,CC13J,-
+V04156: Ever had severe pain/problems during sex,V04156,-,CC13K,-
+V04157: Ever had frequent/severe dizziness,V04157,-,CC13L,-
+V04158: Ever had frequent/severe fainting spells,V04158,-,CC13M,-
+V04159: Ever had frequent trouble swallowing/lump in throat,V04159,-,CC13N,-
+V04160: Ever had severe numbness/tingling,V04160,-,CC13O,-
+V04161: # of days had headache in past year,V04161,CC14,-,-
+V04162: # of days had severe headache in past,V04162,CC14A,-,-
+V04163: # of hours or minutes headache lasts,V04163,CC15A,-,-
+V04164: Talked to doctor/prof about stomach pain,V04164,-,CC15B,-
+"V04165: Unit of time, CC15A",V04165,CC15B,-,-
+V04166: Talked to doctor/prof about diarrhea,V04166,-,CC15C,-
+V04167: Talked to doctor/prof about joint/extremity pain,V04167,-,CC15D,-
+V04168: Talked to doctor/prof about chest pain,V04168,-,CC15E,-
+V04169: Talked to doctor/prof about heart pounding or palpitations,V04169,-,CC15F,-
+V04170: Talked to doctor/prof about shortness of breath,V04170,-,CC15G,-
+V04171: Talked to doctor/prof about back pain,V04171,-,CC15H,-
+V04172: Talked to doctor/prof about nausea/gas/indigestion,V04172,-,CC15I,-
+V04173: Talked to doctor/prof about menstrual problems,V04173,-,CC15J,-
+V04174: Talked to doctor/prof about sexual problems,V04174,-,CC15K,-
+V04175: Talked to doctor/prof about dizziness,V04175,-,CC15L,-
+V04176: Talked to doctor/prof about fainting/passing out,V04176,-,CC15M,-
+V04177: Talked to doctor/prof about trouble swallowing,V04177,-,CC15N,-
+V04178: Talked to doctor/prof about numbness/tingling,V04178,-,CC15O,-
+V04179: Rate headache pain at worst in past 12 months,V04179,CC16,-,-
+V04180: Rate headache pain at its least in past 12 months,V04180,CC17,-,-
+V04181: Take medication in past 12 months - stomach pain,V04181,-,CC17B,-
+V04182: Take medication in past 12 months - diarrhea,V04182,-,CC17C,-
+V04183: Take medication in past 12 months - joint pain,V04183,-,CC17D,-
+V04184: Take medication in past 12 months - chest pain,V04184,-,CC17E,-
+V04185: Take medication in past 12 months - heart race or pound,V04185,-,CC17F,-
+V04186: Take medication in past 12 months - short of breath,V04186,-,CC17G,-
+V04187: Take medication in past 12 months - back pain,V04187,-,CC17H,-
+V04188: Take medication in past 12 months - nausea,V04188,-,CC17I,-
+V04189: Take medication in past 12 months - menstrual pain,V04189,-,CC17J,-
+V04190: Take medication in past 12 months - sexual pain,V04190,-,CC17K,-
+V04191: Take medication in past 12 months - dizziness,V04191,-,CC17L,-
+V04192: Take medication in past 12 months - fainting spells,V04192,-,CC17M,-
+V04193: Take medication in past 12 months - trouble swallowing,V04193,-,CC17N,-
+V04194: Take medication in past 12 months - numbness or tingling,V04194,-,CC17O,-
+V04195: Scale 0-10 rate headache pain on average past 12,V04195,CC18,-,-
+V04196: INTERVIEWER CHECKPOINT,V04196,-,CC19,-
+V04197: Headaches accompanied by nausea/vomiting,V04197,CC19A,-,-
+V04198: Your headache accompanied by sensitivity to light/sound,V04198,CC19B,-,-
+V04199: See spot/lines/heat waves before headache starts,V04199,CC19C,-,-
+V04200: Headache only on one side of head,V04200,CC19D,-,-
+V04201: Pain behind 1 eye during headache,V04201,CC19E,-,-
+V04202: Partial loss of vision before headache,V04202,CC19F,-,-
+V04203: Pain throbs or comes in pulses during headaches,V04203,CC19G,-,-
+V04204: Took 2+ hours to fall asleep for 2+ weeks in past year,V04204,CC20A,-,-
+V04205: Took an hr + to get back to sleep for 2+ weeks in past year,V04205,CC20B,-,-
+V04206: Woke up 2+ hours too early for 2+ weeks in past year,V04206,CC20C,-,-
+V04207: Problems feeling sleepy during day for 2+ weeks in past year,V04207,CC20D,-,-
+V04208: # weeks in past 52 had problem with sleep,V04208,CC22,-,-
+"V04209: Worst month past year-fall asleep watching TV, reading",V04209,CC24A,-,-
+V04210: Worst month past yr-get drowsy within 10 minutes sitting still,V04210,CC24B,-,-
+V04211: Worst month in past year-doze off when relaxed,V04211,CC24C,-,-
+V04212: Worst month in past yr-fall asleep in conversation/visit friends,V04212,CC24D,-,-
+V04213: Worst month in past yr-feel fatigued due to poor sleep,V04213,CC24E,-,-
+V04214: Worst month in past year-wake up more than 3 times/night,V04214,CC24F,-,-
+V04215: Worst month in past year-wake up feeling rested,V04215,CC24G,-,-
+V04216: Worst month in past year-difficulty getting up,V04216,CC24H,-,-
+V04217: Worst month in past year-felt had not slept long enough,V04217,CC24J,-,-
+V04218: Worst month in past year-wake up more than 3 times/night,V04218,CC26A,-,-
+V04219: Worst month in past year-wake up feeling rested,V04219,CC26B,-,-
+V04220: Worst month in past yr-difficulty getting up,V04220,CC26C,-,-
+V04221: Worst month in past year-felt refreshed after sleeping,V04221,CC26D,-,-
+V04222: Worst month in past year-felt did not get enough sleep,V04222,CC26E,-,-
+V04223: Ever had medically unexplained chronic pain,V04223,CC28_1,CC28_1,-
+V04224: Part of body pain occurred:1st mention,V04224,CC28_1A1,CC28_1A1,-
+V04225: Part of body pain occurred:2nd mention,V04225,CC28_1A2,CC28_1A2,-
+V04226: Part of body pain occurred:3rd mention,V04226,CC28_1A3,CC28_1A3,-
+V04227: Part of body pain occurred:4th mention,V04227,CC28_1A4,CC28_1A4,-
+V04228: Part of body pain occurred:5th mention,V04228,CC28_1A5,CC28_1A5,-
+V04229: Part of body pain occurred:6th mention,V04229,CC28_1A6,-,-
+V04230: Severity of emotional distress because of pain at worst time,V04230,CC28_2,CC28_2,-
+V04231: Extent which pain interfered with work/social life/relationships,V04231,CC28_3,CC28_3,-
+V04232: Frequency unable to carry daily activities due to pain,V04232,CC28_3A,CC28_3A,-
+V04234: Age 1st medically unexplained chronic pain,V04234,CC29_1,CC29_1,-
+V04235: Total # of years had medically unexplained pain for 6+ mths,V04235,CC29_2,-,-
+V04236: Had medically unexplained pain for 6+ mths in past year,V04236,CC29_3,-,-
+V04237: # of months with pain in past 12 months,V04237,CC29_4,-,-
+V04238: In worst month-# of days per month had pain,V04238,CC30,-,-
+V04239: In worst month-# of minutes or hours/day had pain,V04239,CC31A,-,-
+"V04240: Unit of time, CC31A",V04240,CC31B,-,-
+V04241: Rate pain at its worst in past year,V04241,CC32,-,-
+V04242: Rate pain on average during worst months in past 12,V04242,CC34,-,-
+V04243: # of doctors seen regarding pain,V04243,CC34_1,-,-
+V04244: Psychological factors played role in tiredness/related probs,V04244,CC34_10,-,-
+V04245: Medically unexplained pain due to physical causes,V04245,CC34_2A,-,-
+V04246: Medically unexplainede pain always result of physical causes,V04246,CC34_2B,-,-
+V04247: Cause of pain according to doctor:1st mention,V04247,CC34_301,-,-
+V04258: Cause of pain according to doctor:2nd mention,V04258,CC34_302,-,-
+V04263: Cause of pain according to doctor:3rd mention,V04263,CC34_303,-,-
+V04264: Cause of pain according to doctor:4th mention,V04264,CC34_304,-,-
+V04270: Pain always result of taking medication/drugs/alcohol,V04270,CC34_5,-,-
+V04272: Find abnormality during examine/tests/x-rays,V04272,CC34_8,-,-
+V04273: Pain always result of physical illness/injury,V04273,CC34_9,-,-
+V04274: Had gallbladder removed,V04274,CC36,-,-
+V04275: Had abdominal/intestinal surgery,V04275,CC38INT1,CC38INT1,-
+V04276: Ever had abdominal or intestinal surgery,V04276,CC38INT2,CC38INT2,-
+V04277: Diagnosed with ulcerative colitis or Crohn's Disease,V04277,CC39,-,-
+V04278: Age when received diagnosis for colitis/Crohn's Disease,V04278,CC39_1,-,-
+V04279: Stomach pain releived w/ bowel move 1+ wk/mth for 12 mths,V04279,CC40,-,-
+V04280: Frequent diarreha/constipation during stomach/ab pain,V04280,CC41,-,-
+V04281: Cange in freq of bowel movement during stomach/ab pain,V04281,CC42,-,-
+V04282: Problems lasted week/mth for 12+ mths,V04282,CC43,-,-
+V04283: Age 1st time period of this sort,V04283,CC44,-,-
+V04284: # of years have bowel problems at least 1 week per month,V04284,CC44_1,-,-
+V04285: Have this problem at least 1 week per month in past 12 mths,V04285,CC44_2,-,-
+V04286: Severity of distress you had because of these problems,V04286,CC45,-,-
+V04287: Extent to which probs interfered with work/social/relations,V04287,CC46,-,-
+V04288: Poblem so severe could not carry out daily activities,V04288,CC46A,-,-
+V04289: Have regular med doctor for routine medical care,V04289,CC48,CC48,-
+V04290: Have regular place to go for routine medical care,V04290,CC48A,CC48A,-
+V04291: INTERVIEWER CHECKPOINT,V04291,-,CC49_1,-
+V04292: In past year-doctor asked you about alcohol or illegal drugs,V04292,CC49_2,CC49_2,-
+V04293: In past year-doctor advise to stop or cut drugs/alc use,V04293,CC49_2A,CC49_2A,-
+V04294: In past year-doc asked about emotions/ nerves/mental health,V04294,CC49_2B,CC49_2B,-
+V04295: INTERVIEWER CHECKPOINT,V04295,-,CC49_2C,-
+V04296: Past year-doctor advise see specialist for emot/subst probs,V04296,CC49_2D,CC49_2D,-
+V04297: Past year-doctor suggested meds for emot/subst probs,V04297,CC49_2E,CC49_2E,-
+V04298: Past year-doc spent 5 mins + counsel for emot/subst probs,V04298,CC49_2F,CC49_2F,-
+V04299: In past yr-# of visits to doctor/hosp/clinic for routine exam,V04299,CC49A,CC49A,-
+V04300: In past year-# of visits to dentist/optician for routine exam,V04300,CC49B,CC49B,-
+V04301: In past year-# of visits to ER/doctor/urgent care,V04301,CC49C,CC49C,-
+V04302: In past year-# of visits to doc/ortho/ophth for sched treatment,V04302,CC49D,CC49D,-
+V04305: Covered by type of military health insurance,V04305,CC50,CC50,-
+V04306: Health insurance obtained through employer/union,V04306,CC50_1,CC50_1,-
+V04331: Covered by health ins plan purchased from ins company,V04331,CC50_2,CC50_2,-
+V04332: Covered by Medicare,V04332,CC50_3,CC50_3,-
+V04333: Covered by Medicare supplemental or Medigap,V04333,CC50_3A,CC50_3A,-
+V04334: Covered by government assistant program for people in need,V04334,CC50_4,CC50_4,-
+V04335: Covered by state health ins for uninsured people,V04335,CC50_5,CC50_5,-
+V04337: Covered by other health insurances not mentioned,V04337,CC50_7,CC50_7,-
+V04338: INTERVIEWER CHECKPOINT,V04338,-,CC50_8,-
+"V04340: sign up with a certain primary care doctor, grou",V04340,CC50_9,-,-
+V04339: Plan requires certain doctor for all routine care,V04339,-,CC50_9,-
+V04307: Communicate with care provider in own language,V04307,-,CC50_10,-
+V04308: Interpreter available,V04308,-,CC50_10A,-
+V04309: Health insurance requires referral/approval for specialist,V04309,CC50_11,CC50_11,-
+V04311: Can see any doc if accepts ins or pick from network,V04311,CC50_12,CC50_12,-
+V04314: Pay higher co-pay for doctors not in the network,V04314,CC50_13,CC50_13,-
+V04315: Health plan is HMO,V04315,CC50_14,CC50_14,-
+"V04318: If not have referral, insurance cover the cost",V04318,CC50_15,CC50_15,-
+V04319: Cost of going to plan doctor for routine visit,V04319,CC50_16_5,CC50_16_,-
+V04320: Dollar or percent,V04320,CC50_16A,CC50_16A,-
+V04321: Cost for prescription medicines?,V04321,CC50_17_5,CC50_17_,-
+V04322: Dollars or percent,V04322,CC50_17A,CC50_17A,-
+V04323: Difficult to get doctor appt over phone in last year,V04323,-,CC50_18A,-
+V04324: Difficult getting referral to specialist,V04324,-,CC50_18B,-
+V04325: Provider spends limited time,V04325,-,CC50_18C,-
+V04326: Long waits of 1+ hour in waiting room,V04326,-,CC50_18D,-
+V04327: Difficulty getting info or advice over phone,V04327,-,CC50_18E,-
+V04328: Difficulty getting to assigned clinic,V04328,-,CC50_18F,-
+V04329: Difficulty getting prescribed meds,V04329,-,CC50_18G,-
+V04330: Lack of continuity of care/high turnover of providers,V04330,-,CC50_18H,-
+"V04341: If serious emot problem, probability of going to professional",V04341,CC51,CC51,-
+V04342: Comfort level of talking to prof about personal problems,V04342,CC52,CC52,-
+V04343: Embarrass level if friends knew getting prof help for emotions,V04343,CC53,CC53,-
+V04344: Percent people helped who see prof for serious emotional problems,V04344,CC54,-,-
+V04345: Percent people who get better without professional help,V04345,CC55,-,-
+V04346: # of days in past 30 carried gun outside home,V04346,CC60,-,-
+V04347: # days past 30 day carried other weapons outside home,V04347,CC61,-,-
+V04348: # of guns in working condition in house,V04348,CC62,-,-
+V04349: Gun(s) currently loaded and unlocked,V04349,CC64,-,-
+V04350: Gun easily accessable now or gun/ammo put away,V04350,CC66,-,-
+V04351: Had a job that required you to carry gun,V04351,CC67,DA36_1B1,-
+"V04352: Aside from job, # of times you threatened someone with gun",V04352,CC68,DA36_1C1,-
+V04353: Threat always in self-defense,V04353,CC70,DA36_1E1,-
+V04354: Age when threat with gun happened,V04354,CC72,DA36_1G1,-
+V04355: Age 1st time threatened someone with gun,V04355,CC73,DA36_1H1,-
+V04356: Threatened someone with gun in past 12 months,V04356,CC74,DA36_1I1,-
+V04357: # of times you threatened someone with other weapon,V04357,CC75,DA36_1J1,-
+V04358: Threat with other weapon always in self-defense?,V04358,CC77,-,-
+V04359: Age threatened someone with other weapons,V04359,CC79,-,-
+V04360: Age 1st time threatened someone with other weapon,V04360,CC80,-,-
+V04361: Threatened someone with other weapon in past 12 months,V04361,CC81,-,-
+V04363: BLCHRONIC.N_EVENTS,V04363,-,N_EVENTS,-

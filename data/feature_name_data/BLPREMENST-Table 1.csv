@@ -1,0 +1,38 @@
+Premenstrual Syndrome,CPES,NCSR,NLAAS,NSAL
+V04764: INTERVIEWER CHECKPOINT (R GENDER),V04764,-,PR1,-
+V04765: Age of 1st period,V04765,PR2,PR2,PR2
+V04803: 1st period earlier/later/same time compared to friends,V04803,PR3,PR3,PR3
+V04766: 1st period a lot/little earlier/later than friends,V04766,PR3A,PR3A,PR3A
+V04767: Taken birth control pills,V04767,PR4,PR4,PR4
+V04768: Age 1st taken birth control pills,V04768,PR4A,PR4A,PR4A
+V04769: Still take birth control pills,V04769,PR4B,PR4B,PR4B
+V04770: Age stopped taking birth control pills,V04770,PR4C,PR4C,PR4C
+V04771: Operation to remove ovaries/uterus,V04771,PR5,PR5,PR5
+V04772: Age ovaries/uterus removed,V04772,PR5A,PR5A,PR5A
+V04773: Still menstruating/stopped temporaily/stopped permanently,V04773,PR6,PR6,PR6
+V04774: Age last period,V04774,PR7,PR7,PR7
+V04775: Taken hormone replacement pills for menopausal symptoms,V04775,PR8,PR8,PR8
+V04776: Age 1st taken hormone replacements,V04776,PR9,PR9,PR9
+V04777: Still take hormone replacements,V04777,PR10,PR10,PR10
+V04778: Age stopped taking hormone replacements,V04778,PR11,PR11,PR11
+V04779: Why periods have stopped-1st mention,V04779,PR121,PR12_1,PR121
+V04780: Why periods have stopped-2nd mention,V04780,PR122,-,-
+V04785: Ever had PMS,V04785,PR13,PR13,PR13
+V04786: Most sev-# mths/yr mood changes worse wk before period,V04786,PR14,PR14,PR14
+V04787: INTERVIEWER CHECKPOINT (PR 14),V04787,-,PR15,-
+V04788: Most sev-# mths/yr mood changes worse wk before period,V04788,PR16,PR16,PR16
+V04789: Also had probs like concentration/tired/change in app/sleep,V04789,PR16A,PR16A,PR16A
+V04790: PMS interfered with work/social life/relationships,V04790,PR19,PR19,PR19
+V04791: Unable to work/acts due to PMS,V04791,PR19A,PR19A,PR19A
+V04792: Remember exact age lst had PMS,V04792,PR20,PR20,-
+V04793: Age 1st had PMS,V04793,PR20A,PR20A,-
+V04794: Estimate age 1st PMS,V04794,PR20B,-,-
+V04795: Estimate age 1st PMS,V04795,PR20B1,PR20B1,-
+V04796: 1st PMS before 20s,V04796,PR20B2,PR20B2,-
+V04797: Had PMS in past 12 months,V04797,PR21,PR21,-
+V04798: How recently in past months had PMS,V04798,PR21A,PR21A,-
+V04799: Age last time had PMS,V04799,PR21B,PR21B,-
+V04800: # different years in life with PMS,V04800,PR22,PR22,-
+V04801: Talked to professional about PMS,V04801,PR27,PR27,-
+V04802: Age 1st talked to profssional about PMS,V04802,PR27A,PR27A,-
+V04804: Received professional treatment for PMS in past year,V04804,PR30,PR30,-

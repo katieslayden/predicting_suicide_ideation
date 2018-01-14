@@ -1,0 +1,356 @@
+Services,CPES,NCSR,NLAAS,NSAL
+V02047: INTERVIEWER CHECKPOINT,V02047,-,SR1,-
+V02046: INTERVIEWER CHECKPOINT,V02046,-,-,SR1
+V02048: Overnight stay in hosp/facility for mental health/drug-alc use,V02048,SR2,SR2,SR2
+V02049: # times hospitalized for mental health/substance use,V02049,SR3,SR3,SR3
+V02050: INTERVIEWER CHECKPOINT,V02050,-,SR4,SR4
+V02051: When overnight stay in hosp/facility for mental health/drug-alc,V02051,SR5A,SR5A,SR5A
+V02052: Age hospitalized overnight for mental health/substance use,V02052,SR5B,SR5B,SR5B
+V02053: Length hospitalization mental health/substance use,V02053,SR5C,SR5C,SR5C
+V02054: Unit time hospitalized mental health/substance use,V02054,SR5D,SR5D,SR5C1
+V02055: Unit time hospitalized mental health/substance use,V02055,SR6B,SR6B,SR6A
+V02056: Age 1st hospitalized overnight for mental health/sub use,V02056,SR7,SR7,SR7
+V02057: Hospitalized for mental health in past 12 mths,V02057,SR8,SR8,SR8
+V02058: Age most recent hospitalization for mental health,V02058,SR8A,SR8A,SR8A
+V02062: Past year-duration hospitalized mental health,V02062,SR9A,SR9,SR9
+V02063: Unit of time hospitalized for mental health in past 12 mths,V02063,SR9B,-,SR9A
+V02059: Internet support group/chat room for help w/ emotions/nerves,V02059,SR9_1,SR9_1,SR9_1
+V02060: Last time used online support group for help w/ emotions,V02060,SR9_1A,SR9_1A,SR9_1A
+V02061: # of times used online support group for emot in past 12 mths,V02061,SR9_1B,SR9_1B,SR9_1B
+V02064: Attend self-help group for emotions in lifetime,V02064,SR10,SR10,SR10
+V02065: Age 1st self-help group for emotions,V02065,SR10A,SR10A,SR10A
+V02066: Last time used self-help group for emotion,V02066,SR10B,SR10B,SR10B
+V02067: # times self-help group meetings for emotions in past year,V02067,SR10C,SR10C,SR10C
+V02068: Used hotline for problems with emotions/nerves,V02068,SR11,SR11,SR11
+V02069: Age 1st used hotline for emotions/nerves,V02069,SR11A,SR11A,SR11A
+V02070: Last time used hotline for emotions/nerves,V02070,SR11B,SR11B,SR11B
+V02071: # of times used hotline for emotions/nerves in past year,V02071,SR11C,SR11C,SR11C
+V02072: Professional psych counsel or therapy for 30 min +,V02072,SR12,SR12,SR12
+V02074: Age 1st session of psych counsel/therapy,V02074,SR12A,SR12A,SR12A
+V02075: Received meds for emotions/mental health from professional,V02075,SR13,SR13,-
+V02076: Ever prescription for emotions,V02076,-,-,SR13
+V02077: Age 1st prescription for emotions,V02077,SR13A,SR13A,SR13A
+V02078: INTERVIEWER CHECKPOINT,V02078,-,SR14,-
+V02079: INTERVIEWER CHECKPOINT,V02079,-,-,SR14
+V02080: INTERVIEWER CHECKPOINT,V02080,-,SR15,SR15
+V02081: Seen professional for emotions/nerves/sub use in lifetime,V02081,SR16,SR16,SR16
+V02083: Talked to professional about mental health:1st mention,V02083,SR1701,-,SR1701
+V02090: Talked to professional about mental health:2nd mention,V02090,SR1702,-,SR1702
+V02092: Talked to professional about mental health:3rd mention,V02092,SR1703,-,SR1703
+V02096: Talked to professional about mental health:4th mention,V02096,SR1704,-,SR1704
+V02098: Talked to professional about mental health:5th mention,V02098,SR1705,-,SR1705
+V02103: Talked to professional about mental health:6th mention,V02103,SR1706,-,SR1706
+V02104: Talked to professional about mental health:7th mention,V02104,SR1707,-,SR1707
+V02107: Talked to professional about mental health:8th mention,V02107,SR1708,-,SR1708
+V02110: Talked to professional about mental health:9th mention,V02110,SR1709,-,SR1709
+V02086: Talked to professional about mental health:10th mention,V02086,SR1710,-,-
+V02082: Talked to professional about mental health:1st mention,V02082,-,SR17_01,-
+V02089: Talked to professional about mental health:2nd mention,V02089,-,SR17_02,-
+V02093: Talked to professional about mental health:3rd mention,V02093,-,SR17_03,-
+V02095: Talked to professional about mental health:4th mention,V02095,-,SR17_04,-
+V02100: Talked to professional about mental health:5th mention,V02100,-,SR17_05,-
+V02102: Talked to professional about mental health:6th mention,V02102,-,SR17_06,-
+V02105: Talked to professional about mental health:7th mention,V02105,-,SR17_07,-
+V02109: Talked to professional about mental health:8th mention,V02109,-,SR17_08,-
+V02112: Talked to professional about mental health:9th mention,V02112,-,SR17_09,-
+V02085: Talked to professional about mental health:10th mention,V02085,-,SR17_10,-
+V02114: INTERVIEWER CHECKPOINT,V02114,-,-,SR18
+V02113: INTERVIEWER CHECKPOINT,V02113,-,SR18,-
+V02115: Age 1st talk to psychiatrist about emotion/mental health,V02115,SR19,SR19,SR19
+V02116: Last time talk to psychiatrist about emotion/mental health,V02116,SR20,SR20,SR20
+V02117: Age last saw psychiatrist,V02117,SR21,SR21,SR21
+V02118: # visits to psychiatrist for emotions/sub use past year,V02118,SR22,SR22,SR22
+V02119: Average # of mins psychiatrist visits last,V02119,SR22A,SR22A,SR22A
+V02120: Satisfaction w/ treatment/serv from psychiatrist past year,V02120,SR23,SR23,SR23
+V02121: Amount psychiatrist helped,V02121,SR24,SR24,SR24
+V02122: Quality of service received rating for psychiatrist,V02122,-,SR24A,-
+V02123: Psychiatrist accepted/understood me,V02123,-,SR24B,-
+V02124: Stopped seeing psychiatrist or ongoing treatment,V02124,SR25,SR25,SR25
+V02125: Completed psychiatrist treatment or quit,V02125,SR25A,SR25A,SR25A
+V02126: INTERVIEWER CHECKPOINT,V02126,-,-,SR26
+V02127: INTERVIEWER CHECKPOINT,V02127,-,SR26,-
+V02128: Age 1st saw medical doctor for mental health/sub use,V02128,SR27,SR27,SR27
+V02129: Last saw medical doctor for mental health/sub use,V02129,SR28,SR28,SR28
+V02130: Age last saw medical doctor for mental health/sub use,V02130,SR29,SR29,SR29
+V02131: Medical doctor recommend clinic for emotions,V02131,SR30,SR30,SR30
+V02132: Age 1st clinic/specialist referral for ment health/sub use,V02132,SR31,SR31,SR31
+V02133: INTERVIEWER CHECKPOINT,V02133,-,SR32,SR32
+V02134: Med doctor recommend specialist/clinic past 12 mths,V02134,SR33,SR33,SR33
+V02135: INTERVIEWER CHECKPOINT,V02135,-,SR34,SR34
+V02136: # visits to med doc for emotions/sub use past 12 mths,V02136,SR35,SR35,SR35
+V02137: Average # min med doc visits lasted for emotions/sub use,V02137,SR35A,SR35A,SR35A
+V02138: Satisfaction w/ med doc treat/services past 12 mths,V02138,SR36,SR36,SR36
+V02139: Amount medical doctor helped,V02139,SR37,SR37,SR37
+V02140: Quality of service received rating for medical doctor,V02140,-,SR37A,-
+V02141: Medical doctor accepted/understood me,V02141,-,SR37B,-
+V02142: Stopped seeing medical doctor or ongoing treatment,V02142,SR38,SR38,SR38
+V02143: Completed medical doctor treatment or quit,V02143,SR38A,SR38A,SR38A
+V02145: INTERVIEWER CHECKPOINT,V02145,-,-,SR39
+V02144: INTERVIEWER CHECKPOINT,V02144,-,SR39,-
+V02146: Age 1st saw psychologist about mental health/sub use,V02146,SR40,SR40,SR40
+V02147: Last time saw psychologist for emotions/sub use,V02147,SR41,SR41,SR41
+V02148: Age last saw psychologist for emotions/sub use,V02148,SR42,SR42,SR42
+V02149: # of psychologist visits in past 12 mths,V02149,SR43,SR43,SR43
+V02150: Average # of minutes psychologist visits lasted,V02150,SR43A,SR43A,SR43A
+V02151: Satisfaction w/ psychologist treat/services past 12 mths,V02151,SR44,SR44,SR44
+V02152: Amount psychologist helped,V02152,SR45,SR45,SR45
+V02153: Quality of service received rating for psychologist,V02153,-,SR45A,-
+V02154: Psychologist accepted/understood me,V02154,-,SR45B,-
+V02155: Stopped seeing psychologist or ongoing treatment,V02155,SR46A,-,SR46A
+V02156: Completed psychologist treatment or quit,V02156,-,SR46A,-
+V02157: Completed psychologist treatment or quit,V02157,SR46B,SR46B,SR46B
+V02159: INTERVIEWER CHECKPOINT,V02159,-,-,SR47
+V02158: INTERVIEWER CHECKPOINT,V02158,-,SR47,-
+V02160: Age 1st saw social worker for mental health/sub use,V02160,SR48,SR48,SR48
+V02161: Last time saw social worker for mental health/sub use,V02161,SR49,SR49,SR49
+V02162: Age last saw social worker for mental health/sub use,V02162,SR50,SR50,SR50
+V02163: # social worker visits for mental health/sub use past 12 mths,V02163,SR51,SR51,SR51
+V02164: Average # of minutes social worker visits lasted,V02164,SR51A,SR51A,SR51A
+V02165: Location saw social worker-1st mention,V02165,SR521,SR52_1,SR521
+V02166: Location saw social worker-2nd mention,V02166,SR522,SR52_2,SR522
+V02167: Location saw social worker-3rd mention,V02167,SR523,SR52_3,SR523
+V02168: Location saw social worker-4th mention,V02168,SR524,SR52_4,-
+V02169: Location saw social worker-5th mention,V02169,SR525,-,-
+V02174: Satisfaction w/ social worker treat/services past 12 mths,V02174,SR53,SR53,SR53
+V02175: Amount social worker helped,V02175,SR54,SR54,SR54
+V02465: Quality of service received rating for social worker,V02465,-,SR54A,-
+V02176: Social worker accepted/understood me,V02176,-,SR54B,-
+V02177: Stopped seeing social worker or ongoing treatment,V02177,SR55,-,SR55
+V02178: Stopped seeing social worker or ongoing treatment,V02178,-,SR55,-
+V02179: Completed social worker treatment or quit,V02179,SR55A,SR55A,SR55A
+V02180: INTERVIEWER CHECKPOINT,V02180,-,-,SR56
+V02181: INTERVIEWER CHECKPOINT,V02181,-,SR56,-
+V02182: Age 1st saw counselor for mental health/sub use,V02182,SR57,SR57,SR57
+V02183: Last time saw counselor for mental health/sub use,V02183,SR58,SR58,SR58
+V02184: Age last saw counselor for mental health/sub use,V02184,SR59,SR59,SR59
+V02185: # counselor visits for mental health/sub use past 12 mths,V02185,SR60,SR60,SR60
+V02186: Average # of minutes counselor visits lasted,V02186,SR60A,SR60A,SR60A
+V02187: Location saw counselor-1st mention,V02187,SR611,SR61_1,SR611
+V02188: Location saw counselor-2nd mention,V02188,SR612,SR61_2,SR612
+V02189: Location saw counselor-3rd mention,V02189,SR613,SR61_3,SR613
+V02190: Location saw counselor-4th mention,V02190,SR614,SR61_4,SR614
+V02196: Satisfaction w/ counselor treat/services past 12 mths,V02196,SR62,SR62,SR62
+V02197: Amount counselor helped,V02197,SR63,SR63,SR63
+V02198: Quality of service received rating for counselor,V02198,-,SR63A,-
+V02199: Counselor accepted/understood me,V02199,-,SR63B,-
+V02201: Stopped seeing counselor or ongoing treatment,V02201,SR64,-,SR64
+V02200: Stopped seeing counselor or ongoing treatment,V02200,-,SR64,-
+V02202: Complete counselor treatments,V02202,SR64A,SR64A,SR64A
+V02204: INTERVIEWER CHECKPOINT,V02204,-,-,SR65
+V02203: INTERVIEWER CHECKPOINT,V02203,-,SR65,-
+V02205: Age 1st saw other ment health prof for ment health/sub use,V02205,SR66,SR66,SR66
+V02206: Last saw other mental health professional,V02206,SR67,SR67,SR67
+V02207: Age last saw mental health professional about emotions,V02207,SR68,SR68,SR68
+V02208: # other prof visits for mental health/sub use past 12 mths,V02208,SR69,SR69,SR69
+V02209: Average # of minutes professional visits lasted,V02209,SR69A,SR69A,SR69A
+V02210: Duration all hospitalizations mental health,V02210,SR6A,SR6A,SR6
+V02211: Satisf w/ non-MD health prof treat/services past 12 mths,V02211,SR70,SR70,SR70
+V02212: Amount professional helped,V02212,SR71,SR71,SR71
+V02213: Quality of service received rating for professional,V02213,-,SR71A,-
+V02214: Professional accepted/understood me,V02214,-,SR71B,-
+V02215: Stopped seeing professional or ongoing treatment,V02215,SR72,SR72,SR72
+V02216: Completed mental health professional treatments,V02216,SR72A,SR72A,SR72A
+V02218: INTERVIEWER CHECKPOINT,V02218,-,-,SR73
+V02217: INTERVIEWER CHECKPOINT,V02217,-,SR73,-
+V02219: Age 1st saw nurse/ot/non MD prof for ment health/sub use,V02219,SR74,SR74,SR74
+V02220: Last time saw nurse/ot/non MD prof for emotions,V02220,SR75,SR75,SR75
+V02221: Age last saw nurse/ot/non MD prof for emotions,V02221,SR76,SR76,SR76
+V02222: Nurse/ot/non MD prof recom ment health spec/clinic,V02222,SR77,SR77,SR77
+V02223: Age 1st time nurse/ot/non MD prof recommended clinic,V02223,SR78,SR78,SR78
+V02224: INTERVIEWER CHECKPOINT,V02224,-,SR79,SR79
+V02225: Other non MD prof recom mental health clinic past 12 mths,V02225,SR80,SR80,SR80
+V02226: INTERVIEWER CHECKPOINT,V02226,-,SR81,SR81
+V02227: # visits to non-MD health prof in past 12 mths,V02227,SR82,SR82,SR82
+V02228: Ave # of minutes non-MD health prof visits lasted,V02228,SR82A,SR82A,SR82A
+V02229: Satisf w/ spiritual advisor treat/services past 12 mths,V02229,SR83,SR83,SR83
+V02230: Amount non-MD health professional helped,V02230,SR84,SR84,SR84
+V02231: Quality of service received rating for non-MD health prof,V02231,-,SR84A,-
+V02232: Non-MD health professional accepted/understood me,V02232,-,SR84B,-
+V02233: Stopped seeing non-MD health prof or ongoing treatment,V02233,SR85,-,SR85
+V02234: Stopped seeing non-MD health prof or ongoing treatment,V02234,-,SR85,-
+V02235: Completed non-MD health professional treatments,V02235,SR85A,SR85A,SR85A
+V02236: INTERVIEWER CHECKPOINT,V02236,-,-,SR86
+V02237: INTERVIEWER CHECKPOINT,V02237,-,SR86,-
+V02238: Age 1st saw spiritual advisor for ment health/sub use,V02238,SR87,SR87,SR87
+V02239: Last saw spiritual advisor for ment health/sub use,V02239,SR88,SR88,SR88
+V02240: Age last saw spiritual advisor for ment health/sub use,V02240,SR89,SR89,SR89
+V02241: Spiritual advisor recom ment health specialist/clinic,V02241,SR90,SR90,SR90
+V02242: Age spiritual advisor 1st refer to ment health spec/clinic,V02242,SR91,SR91,SR91
+V02243: INTERVIEWER CHECKPOINT,V02243,-,SR92,SR92
+V02244: Spiritual advisor refer mental health spec/clinic past yr,V02244,SR93,SR93,SR93
+V02245: INTERVIEWER CHECKPOINT,V02245,-,SR94,SR94
+V02246: # visits to spiritual advisor in past 12 mths,V02246,SR95,SR95,SR95
+V02247: Average # of mins spiritual advisor visits lasted,V02247,SR95A,SR95A,SR95A
+V02248: Satisfaction w/ spirit advisor treat/services past 12 mths,V02248,SR96,SR96,SR96
+V02249: Amount spiritual advisor helped,V02249,SR97,SR97,SR97
+V02250: Quality of service received rating for spiritual advisor,V02250,-,SR97A,-
+V02251: Spiritual advisor accepted/understood me,V02251,-,SR97B,-
+V02252: Stopped seeing spiritual advisor or ongoing treatment,V02252,SR98,-,SR98
+V02253: Stopped seeing spiritual advisor or ongoing treatment,V02253,-,SR98,-
+V02254: Completed spiritual advisor treatments,V02254,SR98A,SR98A,SR98A
+V02255: INTERVIEWER CHECKPOINT,V02255,-,-,SR99
+V02256: INTERVIEWER CHECKPOINT,V02256,-,SR99,-
+V02257: Age 1st saw healer for mental health/substance use,V02257,SR100,SR100,SR100
+V02258: Last saw healer for mental health/substance use,V02258,SR101,SR101,SR101
+V02259: Age last saw healer for mental health/substance use,V02259,SR102,SR102,SR102
+V02260: # visits to healer in past 12 mths,V02260,SR103,SR103,SR103
+V02261: Average # of mins healer visits lasted,V02261,SR104,SR104,SR104
+V02277: Type of healer:1st mention,V02277,SR10501,-,SR10501
+V02283: Type of healer:2nd mention,V02283,SR10502,-,SR10502
+V02284: Type of healer:3rd mention,V02284,SR10503,-,-
+V02285: Type of healer:4th mention,V02285,SR10504,-,-
+V02286: Type of healer:5th mention,V02286,SR10505,-,-
+V02287: Type of healer:6th mention,V02287,SR10506,-,-
+V02288: Type of healer:7th mention,V02288,SR10507,-,-
+V02262: What kind of healer:1st mention,V02262,-,SR105_01,-
+V02269: What kind of healer:2nd mention,V02269,-,SR105_02,-
+V02270: What kind of healer:3rd mention,V02270,-,SR105_03,-
+V02271: What kind of healer:4th mention,V02271,-,SR105_04,-
+V02272: What kind of healer:5th mention,V02272,-,SR105_05,-
+V02273: What kind of healer:6th mention,V02273,-,SR105_06,-
+V02274: What kind of healer:7th mention,V02274,-,SR105_07,-
+V02275: What kind of healer:8th mention,V02275,-,SR105_08,-
+V02291: Satisfaction w/ treatment/services from healer past 12 mths,V02291,SR106,SR106,SR106
+V02292: Amount healer helped,V02292,SR107,SR107,SR107
+V02293: Quality of service received rating for healer,V02293,-,SR107A,-
+V02294: Healer accepted/understood me,V02294,-,SR107B,-
+V02295: Stopped seeing healer or ongoing treatment,V02295,SR108,SR108,SR108
+V02296: Completed healer course of treatment,V02296,SR108A,SR108A,SR108A
+V02297: INTERVIEWER CHECKPOINT,V02297,-,SR109,SR109
+V02298: Unreimbursed costs of trmnt of emotional probs past year,V02298,SR110,SR110,-
+V02299: Past yr-money spent on emotion trtmts,V02299,-,-,SR110
+V02300: Able to communicate in preferred language in past year,V02300,-,SR110A,-
+V02301: Volunteer or pressured to see prof about emot past yr,V02301,SR111,SR111,SR111
+V02302: Reason didn't want to see professional,V02302,SR112,SR112,SR112
+V02303: Encouraged or pressured to see prof about emotions,V02303,SR113,SR113,SR113
+V02304: Amout of time thinking needed to see prof before treated,V02304,SR114,SR114,SR114
+V02305: Unit time thought should see professional,V02305,SR114A,SR114A,SR114A
+V02306: INTERVIEWER CHECKPOINT,V02306,-,SR115,SR115
+V02307: Reason delay treatment-insurance,V02307,SR116A,SR116A,SR116A
+V02308: Reason delay treatment-problem get better by itself,V02308,SR116B,SR116B,SR116B
+V02309: Reason delay treatment-problem didn't bother you at 1st,V02309,SR116C,SR116C,SR116C
+V02310: Reason delay treatment-handle problem on own,V02310,SR116D,SR116D,SR116D
+V02311: Reason delay treatment-think treatment not work,V02311,SR116E,SR116E,SR116E
+V02312: Reason delay treatment-treatment didn't work before,V02312,SR116F,SR116F,SR116F
+V02313: Reason delay treatment-too expensive,V02313,SR116G,SR116G,SR116G
+V02314: Reason delay treatment-worry what people think,V02314,SR116H,SR116H,SR116H
+V02315: Reason delay treatment-conflicts/hard to get to trmnt,V02315,SR116I,SR116I,SR116I
+V02316: Reason delay treatment-unsure who/where to see/go,V02316,SR116J,SR116J,SR116J
+V02317: Reason delay treatment-time consuming/inconvenient,V02317,SR116K,SR116K,SR116K
+V02318: Reason delay treatment-could not get appointment,V02318,SR116L,SR116L,SR116L
+V02319: Reason delay treatment-scared of hospital against will,V02319,SR116M,SR116M,SR116M
+V02320: Reason delay treatment-dislike service options,V02320,SR116N,SR116N,SR116N
+V02321: Reason delay treatment-treated unfairly race/ethnicity,V02321,-,SR116O,-
+V02322: Reason delay treatment-language barrier,V02322,-,SR116P,-
+V02323: Reason delay treatment-unable get same race provider,V02323,-,SR116Q,-
+V02324: Reason delay treatment-could not choose provider,V02324,-,SR116R,-
+V02325: Reason delay treatment-not comfort discuss w/ prof,V02325,-,SR116S,-
+V02326: Reason delay treatment-other reason,V02326,SR117,SR117,SR117
+V02327: Main hope from tx:1st mention,V02327,SR1181,SR118_1,SR1181
+V02328: Main hope from tx:2nd mention,V02328,SR1182,SR118_2,SR1182
+V02329: Main hope from tx:3rd mention,V02329,SR1183,SR118_3,SR1183
+V02330: Main hope from tx:4th mention,V02330,SR1184,SR118_4,SR1184
+V02331: Main hope from tx:5th mention,V02331,SR1185,SR118_5,SR1185
+V02332: Main hope from tx:6th mention,V02332,SR1186,SR118_6,SR1186
+V02333: Main hope from tx:7th mention,V02333,SR1187,SR118_7,SR1187
+V02334: Main hope from tx:8th mention,V02334,SR1188,SR118_8,-
+V02335: INTERVIEWER CHECKPOINT,V02335,-,SR119,SR119
+V02336: Reason quit treatment-got better,V02336,SR120A,SR120A,SR120A
+V02337: Reason quit treatment-did not need more help,V02337,SR120B,SR120B,SR120B
+V02338: Reason quit treatment-not getting better,V02338,SR120C,SR120C,SR120C
+V02339: Reason quit treatment-handle problems on own,V02339,SR120D,SR120D,SR120D
+V02340: Reason quit treatment-bad exp w/ treatment providers,V02340,SR120E,SR120E,SR120E
+V02341: Reason quit treatment-worry what people think,V02341,SR120F,SR120F,SR120F
+V02342: Reason quit treatment-treated unfairly,V02342,SR120G,SR120G,SR120G
+V02343: Reason quit treatment-therapist left,V02343,SR120H,SR120H,SR120H
+V02344: Reason quit treatmt-felt out of place,V02344,SR120I,SR120I,SR120I
+V02345: Reason quit treatment-policies were hassle,V02345,SR120J,SR120J,SR120J
+V02346: Reason quit treatment-scheduling,V02346,SR120K,SR120K,SR120K
+V02347: Reason quit treatment-you moved,V02347,SR120L,SR120L,SR120L
+V02348: Reason quit treatment-expensive,V02348,SR120M,SR120M,SR120M
+V02349: Reason quit treatment-insurance stop paying,V02349,SR120N,SR120N,SR120N
+V02350: Reason quit treatment-family wanted stop,V02350,SR120O,SR120O,SR120O
+V02351: Reason quit treatment-could not communicate,V02351,-,SR120P,-
+V02352: Reason quit treatment-provider not comprehend probs,V02352,-,SR120Q,-
+V02353: Reason quit treatment-less attn because of race,V02353,-,SR120R,-
+V02354: Reason quit treatment-other,V02354,SR121,SR121,SR121
+V02355: Needed to see prof because of emotions/sub use past yr,V02355,SR122,SR122,SR122
+V02356: Amt of time thought needed professional help,V02356,SR122A,SR122A,SR122A
+V02357: Unit time thought need professional help,V02357,SR122B,SR122B,SR122A1
+V02358: Reason did not see professional,V02358,SR123,SR123,SR123
+V02359: Encour/pressured to see prof about ment health past yr,V02359,SR124,SR124,SR124
+V02360: INTERVIEWER CHECKPOINT,V02360,-,SR125,SR125
+V02361: Reason not get help-insurance won't cover,V02361,SR126A,SR126A,SR126A
+V02362: Reason not get help-problem went away/didn't need help,V02362,SR126B,SR126B,SR126B
+V02363: Reason not get help-think improve on own,V02363,SR126C,SR126C,SR126C
+V02364: Reason not get help-expensive,V02364,SR126D,SR126D,SR126D
+V02365: Reason not get help-unsure who to see,V02365,SR126E,SR126E,SR126E
+V02366: Reason not get help-not think treatment work,V02366,SR126F,SR126F,SR126F
+V02367: Reason not get help-worry what other think,V02367,SR126G,SR126G,SR126G
+V02368: Reason not get help-time consuming/inconvenient,V02368,SR126H,SR126H,SR126H
+V02369: Reason not get help-want handle on own,V02369,SR126I,SR126I,SR126I
+V02370: Reason not get help-could not get appointment,V02370,SR126J,SR126J,SR126J
+V02371: Reason not get help-scared of hospital against will,V02371,SR126K,SR126K,SR126K
+V02372: Reason quit treatment-dislike service options,V02372,SR126L,SR126L,SR126L
+V02373: Reason not get help-previous treatment failed,V02373,SR126M,SR126M,SR126M
+V02374: Reason not get help-problem didn't bother much,V02374,SR126N,SR126N,SR126N
+V02375: Reason not get help-scheduling,V02375,SR126O,SR126O,SR126O
+V02376: Reason not get help-no same language provider in area,V02376,-,SR126P,-
+V02377: Reason not get help-no insurance,V02377,-,SR126Q,-
+V02378: Reason not get help-treated unfairly because race/ethnicity,V02378,-,SR126R,-
+V02379: Reason not get help-linguistic barriers/unable to communicate,V02379,-,SR126S,-
+V02380: Reason not get help-unable to find provider of same race,V02380,-,SR126T,-
+V02381: Reason not get help-could not choose provider,V02381,-,SR126U,-
+V02382: Reason not get help-not comfortable discuss probs w/ prof,V02382,-,SR126V,-
+V02383: Reason not get help-other,V02383,SR127,SR127,SR127
+V02384: Used alternative therapies for emot/nerves in past 12 mths,V02384,SR128,SR128,SR128
+V02385: Alernative therapies used-1st mention,V02385,SR128A01,SR128A01,SR128A01
+V02393: Alernative therapies used-2nd mention,V02393,SR128A02,SR128A02,SR128A02
+V02394: Alernative therapies used-3rd mention,V02394,SR128A03,SR128A03,SR128A03
+V02395: Alernative therapies used-4th mention,V02395,SR128A04,SR128A04,SR128A04
+V02396: Alernative therapies used-5th mention,V02396,SR128A05,SR128A05,SR128A05
+V02397: Alernative therapies used-6th mention,V02397,SR128A06,SR128A06,SR128A06
+V02398: Alernative therapies used-7th mention,V02398,SR128A07,SR128A07,SR128A07
+V02399: Alernative therapies used-8th mention,V02399,SR128A08,SR128A08,SR128A08
+V02400: Alernative therapies used-9th mention,V02400,SR128A09,SR128A09,-
+V02386: Alernative therapies used-10th mention,V02386,SR128A10,SR128A10,-
+V02387: Alernative therapies used-11th mention,V02387,SR128A11,SR128A11,-
+V02388: Alernative therapies used-12th mention,V02388,SR128A12,SR128A12,-
+V02401: INTERVIEWER CHECKPOINT,V02401,-,SR128JUM,-
+V02402: INTERVIEWER CHECKPOINT,V02402,-,SR129,SR129
+V02404: Herbal meds for emtions/nerves/ment health:1st mention,V02404,SR1301,SR130_1,SR1301
+V02405: Herbal meds for emtions/nerves/ment health:2nd mention,V02405,SR1302,SR130_2,SR1302
+V02406: Herbal meds for emtions/nerves/ment health:3rd mention,V02406,SR1303,SR130_3,SR1303
+V02407: Herbal meds for emtions/nerves/ment health:4th mention,V02407,SR1304,SR130_4,SR1304
+V02408: Herbal meds for emtions/nerves/ment health:5th mention,V02408,SR1305,SR130_5,SR1305
+V02409: Herbal meds for emtions/nerves/ment health:6th mention,V02409,SR1306,SR130_6,SR1306
+V02410: Herbal meds for emtions/nerves/ment health:7th mention,V02410,SR1307,-,-
+V02412: # of days past year used herbal medicines,V02412,SR130A,SR130A,SR130A
+V02413: Professional advised use of herbal medicines,V02413,SR130B,SR130B,SR130B
+V02415: Professional advised use of herbal medicines:1st mention,V02415,SR130C01,-,-
+V02421: Professional advised use of herbal medicines:2nd mention,V02421,SR130C02,-,-
+V02424: Professional advised use of herbal medicines:3rd mention,V02424,SR130C03,-,-
+V02414: Professional advised use of herbal medicines:1st mention,V02414,-,SR130C01,SR130C01
+V02422: Professional advised use of herbal medicines:2nd mention,V02422,-,SR130C02,SR130C02
+V02437: Talked to telephone psychic in past 12 months,V02437,SR131,SR131,SR131
+V02438: # times talked to telephone psychic in past year,V02438,SR131A,SR131A,SR131A
+V02439: Average # minutes calls to telephone psychic lasted,V02439,SR131B,SR131B,SR131B
+V02441: Discussed w/ phone psychic-1st mention,V02441,SR131C1,-,-
+V02442: Discussed w/ phone psychic-2nd mention,V02442,SR131C2,-,-
+V02444: Discussed w/ phone psychic-3rd mention,V02444,SR131C3,-,-
+V02446: Discussed w/ phone psychic-4th mention,V02446,SR131C4,-,-
+V02448: Discussed w/ phone psychic-5th mention,V02448,SR131C5,-,-
+V02440: Discussed w/ phone psychic-1st mention,V02440,-,SR131C_1,SR131C1
+V02443: Discussed w/ phone psychic-2nd mention,V02443,-,SR131C_2,SR131C2
+V02445: Discussed w/ phone psychic-3rd mention,V02445,-,-,SR131C3
+V02447: Discussed w/ phone psychic-4th mention,V02447,-,-,SR131C4
+V02450: INTERVIEWER CHECKPOINT,V02450,-,SR132,SR132
+V02451: Type of self-help group attended in past 12 mths:1st mention,V02451,SR13301,SR133_01,SR13301
+V02454: Type of self-help group attended in past 12 mths:2nd mention,V02454,SR13302,SR133_02,SR13302
+V02455: Type of self-help group attended in past 12 mths:3rd mention,V02455,SR13303,SR133_03,SR13303
+V02456: Type of self-help group attended in past 12 mths:4th mention,V02456,SR13304,SR133_04,-
+V02457: Type of self-help group attended in past 12 mths:5th mention,V02457,SR13305,SR133_05,-
+V02458: Type of self-help group attended in past 12 mths:6th mention,V02458,SR13306,-,-
+V02462: INTERVIEWER CHECKPOINT,V02462,-,SR134,-
+V02463: INTERVIEWER CHECKPOINT,V02463,-,-,SR134
+V02464: Relationship of self-help group to professional help,V02464,SR135,SR135,SR135

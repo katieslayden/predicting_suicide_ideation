@@ -1,0 +1,66 @@
+Neurasthenia,CPES,NCSR,NLAAS,NSAL
+V04365: Sev mths + when tired/weak after minor phys/mental tasks,V04365,N1,N1,-
+"V04366: After rest, fully regained energy/strength or still tired",V04366,N2,N2,-
+V04367: During worst episode-how often get tired,V04367,N3,N3,-
+V04368: Exent to which tiredness interfered w work/soc life/relations,V04368,N4,N4,-
+V04369: Frequency too tired to carry out daily activities,V04369,N4A,N4A,-
+V04370: Worst episode of tiredness- have frequent headaches,V04370,N5A,N5A,-
+V04371: Worst episode of tiredness-oversleep/wake unrefreshed,V04371,N5B,N5B,-
+V04372: Worst episode of tiredness-frequent muscle pain,V04372,N5C,N5C,-
+V04373: Worst episode of tiredness-often feel dizzy,V04373,N5D,N5D,-
+V04374: Worst episode of tiredness-often unable to relax,V04374,N5E,N5E,-
+V04375: Worst month past year-often felt impatient and irritable,V04375,N5F,N5F,-
+V04376: Worst episode of tiredness-often sad and depressed,V04376,N5G,N5G,-
+V04377: Worst episode of tiredness-often nervous or worried,V04377,N5H,N5H,-
+V04378: INTERVIEWER CHECKPOINT,V04378,-,N6,-
+V04379: INTERVIEWER CHECKPOINT,V04379,-,N6A,-
+V04380: Talked to medical doctor about tiredness and related probs,V04380,N7,N7,-
+V04381: Tiredness ever occurred as result of physical cause,V04381,N7A,N7A,-
+V04382: Tiredness always result of physical cause,V04382,N7B,N7B,-
+V04383: Cause of tiredness according to doctor:1st mention,V04383,N801,N8_01,-
+V04394: Cause of tiredness according to doctor:2nd mention,V04394,N802,N8_02,-
+V04399: Cause of tiredness according to doctor:3rd mention,V04399,N803,N8_03,-
+V04400: Cause of tiredness according to doctor:4th mention,V04400,N804,N8_04,-
+V04401: Cause of tiredness according to doctor:5th mention,V04401,N805,N8_05,-
+V04402: Cause of tiredness according to doctor:6th mention,V04402,N806,N8_06,-
+V04403: Cause of tiredness according to doctor:7th mention,V04403,N807,N8_07,-
+V04404: Cause of tiredness according to doctor:8th mention,V04404,N808,N8_08,-
+V04405: Cause of tiredness according to doctor:9th mention,V04405,N809,N8_09,-
+V04384: Cause of tiredness according to doctor:10th mention,V04384,N810,N8_10,-
+V04406: INTERVIEWER CHECKPOINT (N8),V04406,-,N9,-
+V04407: Tiredness always result of medication/drug/alcohol,V04407,N10,N10,-
+V04410: Abnormality found when examined/tested/X-ray,V04410,N13,N13,-
+V04411: Frequent tiredness always result of physical illness/injury,V04411,N14,N14,-
+V04412: Psychological factors played part in tiredness and other probs,V04412,N15,N15,-
+V04413: Exact age 1st time sev mths+ when easily tired + other probs,V04413,N16,N16,-
+V04414: Age 1st time sev mths+ when easily tired + other probs,V04414,N16A,N16A,-
+V04415: Approx age of very 1st tiredness + other problems sev mths +,V04415,N16B,N16B,-
+V04416: Period 1 month + had tiredness and other probs in past year,V04416,N17,N17,-
+V04417: Most recent tiredness with other probs,V04417,N17A,N17A,-
+V04418: # months in past year had frequent tiredness + other probs,V04418,N17B,N17B,-
+V04419: Age last time frequent tiredness + other problems,V04419,N17C,N17C,-
+V04420: Total # episodes of tiredness lasting for several months +,V04420,N18,N18,-
+V04421: INTERVIEWER CHECKPOINT (N18),V04421,-,N19,-
+V04422: # of months/years episode of tiredness lasted,V04422,N20A,N20A,-
+"V04423: Unit of time, N20A",V04423,N20B,N20B,-
+V04424: # months/years the longest episode of tiredness lasted,V04424,N21A,N21A,-
+"V04425: Unit of time, N21A",V04425,N21B,N21B,-
+V04426: # different years in life at least 1 episode of tiredness,V04426,N22,N22,-
+V04427: INTERVIEWER QUERY (N17),V04427,-,N25,-
+V04428: Worst month past yr-tiredness interfered w/ home mgmt,V04428,N26A,N26A,-
+V04429: Worst month past year-tiredness interfered w/ ability to work,V04429,N26B,N26B,-
+V04430: Worst month past year-tiredness interf w/ form/maint relations,V04430,N26C,N26C,-
+V04431: Worst month past year-tiredness interfered w/ social life,V04431,N26D,N26D,-
+V04432: INTERVIEWER CHECKPOINT (N26a -N26d),V04432,-,N27,-
+V04433: # days past yr unable to work/normal activities due to tired,V04433,N28,N28,-
+V04434: INTERVIEWER CHECKPOINT (N7),V04434,-,N30,-
+V04435: Age 1st talked to professional about tiredness,V04435,N31,N31,-
+V04436: Ever talked to professional about tiredness,V04436,N32,N32,-
+V04437: Age 1st talked to professional about tiredness,V04437,N32A,N32A,-
+V04438: Received helpful/effective treatment for tiredness,V04438,N44,N44,-
+V04439: Age 1st received helpful/effective treatment for tiredness,V04439,N44A,N44A,-
+V04440: # prof talked to about tiredness include effective trmt doc,V04440,N44B,N44B,-
+V04441: # professionals ever talked to about tiredness,V04441,N44C,N44C,-
+V04442: Received professional treatment for tiredness in past year,V04442,N46,N46,-
+V04443: Hospitalized overnight for tiredness,V04443,N47,N47,-
+V04444: Age 1st hospitalized overnight for tiredness,V04444,N47A,N47A,-

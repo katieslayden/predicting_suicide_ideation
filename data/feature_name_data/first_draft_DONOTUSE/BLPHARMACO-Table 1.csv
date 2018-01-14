@@ -1,0 +1,301 @@
+Pharmacoepidemiology,CPES,NCSR,NLAAS,NSAL
+V02530: Medication names:1st mention,V02530,MEDICATION,MEDICATI,-
+V02541: Medication names:2nd mention,V02541,MEDICATION2,MEDICAT2,-
+V02543: Medication names:3rd mention,V02543,MEDICATION3,MEDICAT3,-
+V02544: Medication names:4th mention,V02544,MEDICATION4,MEDICAT4,-
+V02545: Medication names:5th mention,V02545,MEDICATION5,MEDICAT5,-
+V02546: Medication names:6th mention,V02546,MEDICATION6,MEDICAT6,-
+V02547: Medication names:7th mention,V02547,MEDICATION7,MEDICAT7,-
+V02548: Medication names:8th mention,V02548,MEDICATION8,MEDICAT8,-
+V02549: Medication names:9th mention,V02549,MEDICATION9,MEDICAT9,-
+V02531: Medication names:10th mention,V02531,MEDICATION10,MEDICA10,-
+V02532: Medication names:11th mention,V02532,MEDICATION11,MEDICA11,-
+V02533: Medication names:12th mention,V02533,MEDICATION12,MEDICA12,-
+V02534: Medication names:13th mention,V02534,MEDICATION13,MEDICA13,-
+V02535: Medication names:14th mention,V02535,MEDICATION14,MEDICA14,-
+V02536: Medication names:15th mention,V02536,MEDICATION15,MEDICA15,-
+V02537: Medication names:16th mention,V02537,MEDICATION16,-,-
+V02538: Medication names:17th mention,V02538,MEDICATION17,-,-
+V02509: Medication ID #:1st mention,V02509,ID,ID,ID
+V02520: Medication ID #:2nd mention,V02520,ID2,ID2,ID2
+V02522: Medication ID #:3rd mention,V02522,ID3,ID3,ID3
+V02523: Medication ID #:4th mention,V02523,ID4,ID4,ID4
+V02524: Medication ID #:5th mention,V02524,ID5,ID5,ID5
+V02525: Medication ID #:6th mention,V02525,ID6,ID6,ID6
+V02526: Medication ID #:7th mention,V02526,ID7,ID7,ID7
+V02527: Medication ID #:8th mention,V02527,ID8,ID8,ID8
+V02528: Medication ID #:9th mention,V02528,ID9,ID9,ID9
+V02510: Medication ID #:10th mention,V02510,ID10,ID10,ID10
+V02511: Medication ID #:11th mention,V02511,ID11,ID11,ID11
+V02512: Medication ID #:12th mention,V02512,ID12,ID12,ID12
+V02513: Medication ID #:13th mention,V02513,ID13,ID13,ID13
+V02514: Medication ID #:14th mention,V02514,ID14,ID14,ID14
+V02515: Medication ID #:15th mention,V02515,ID15,ID15,ID15
+V02516: Medication ID #:16th mention,V02516,ID16,-,-
+V02517: Medication ID #:17th mention,V02517,ID17,-,-
+V02628: BLPHARMACO.PH2COUNT,V02628,-,PH2COUNT,-
+V02632: Med1-# days taken in past month,V02632,PH5_01,PH5_01,PH5_01
+V02633: Med1-# days taken in past year,V02633,PH5_02,PH5_02,PH5_02
+V02635: Med1-day took for the first time in the past yr,V02635,PH5_03B,PH5_03B,PH5_03B
+V02637: Med1-estimate of day took most recently,V02637,PH5_04B,PH5_04B,PH5_04B
+V02638: Med1-amount taken on medicated days,V02638,PH5_05A,PH5_05A,PH5_05A
+V02639: Med1-method of dosage,V02639,PH5_05B,PH5_05B,PH5_05B
+V02640: Med1-milligrams of dosage,V02640,PH5_06,PH5_06,PH5_06
+V02642: Med2-# days taken in past month,V02642,PH6_01,PH6_01,PH6_01
+V02643: Med2-# days taken in past year,V02643,PH6_02,PH6_02,PH6_02
+V02645: Med2-day took for the first time in the past yr,V02645,PH6_03B,PH6_03B,PH6_03B
+V02647: Med2-estimate of day took most recently,V02647,PH6_04B,PH6_04B,PH6_04B
+V02648: Med2-amount taken on medicated days,V02648,PH6_05A,PH6_05A,PH6_05A
+V02649: Med2-method of dosage,V02649,PH6_05B,PH6_05B,PH6_05B
+V02650: Med2-milligrams of dosage,V02650,PH6_06,PH6_06,PH6_06
+V02651: Med3-# days taken in past month,V02651,PH7_01,PH7_01,PH7_01
+V02652: Med3-# days taken in past year,V02652,PH7_02,PH7_02,PH7_02
+V02654: Med3-day took for the first time in the past yr,V02654,PH7_03B,PH7_03B,PH7_03B
+V02656: Med3-estimate of day took most recently,V02656,PH7_04B,PH7_04B,PH7_04B
+V02657: Med3-amount taken on medicated days,V02657,PH7_05A,PH7_05A,PH7_05A
+V02658: Med3-method of dosage,V02658,PH7_05B,PH7_05B,PH7_05B
+V02659: Med3-milligrams of dosage,V02659,PH7_06,PH7_06,PH7_06
+V02660: Med4-# days taken in past month,V02660,PH8_01,PH8_01,PH8_01
+V02661: Med4-# days taken in past year,V02661,PH8_02,PH8_02,PH8_02
+V02663: Med4-day took for the first time in the past yr,V02663,PH8_03B,PH8_03B,PH8_03B
+V02665: Med4-estimate of day took most recently,V02665,PH8_04B,PH8_04B,PH8_04B
+V02666: Med4-amount taken on medicated days,V02666,PH8_05A,PH8_05A,PH8_05A
+V02667: Med4-method of dosage,V02667,PH8_05B,PH8_05B,PH8_05B
+V02668: Med4-milligrams of dosage,V02668,PH8_06,PH8_06,PH8_06
+V02669: Med5-# days taken in past month,V02669,PH9_01,PH9_01,PH9_01
+V02670: Med5-# days taken in past year,V02670,PH9_02,PH9_02,PH9_02
+V02672: Med5-day took for the first time in the past yr,V02672,PH9_03B,PH9_03B,PH9_03B
+V02674: Med5-estimate of day took most recently,V02674,PH9_04B,PH9_04B,PH9_04B
+V02675: Med5-amount taken on medicated days,V02675,PH9_05A,PH9_05A,PH9_05A
+V02676: Med5-method of dosage,V02676,PH9_05B,PH9_05B,PH9_05B
+V02677: Med5-milligrams of dosage,V02677,PH9_06,PH9_06,PH9_06
+V02678: Med6-# days taken in past month,V02678,PH10_01,PH10_01,PH10_01
+V02679: Med6-# days taken in past year,V02679,PH10_02,PH10_02,PH10_02
+V02681: Med6-day took for the first time in the past yr,V02681,PH10_03B,PH10_03B,PH10_03B
+V02683: Med6-estimate of day took most recently,V02683,PH10_04B,PH10_04B,PH10_04B
+V02684: Med6-amount taken on medicated days,V02684,PH10_05A,PH10_05A,PH10_05A
+V02685: Med6-method of dosage,V02685,PH10_05B,PH10_05B,PH10_05B
+V02686: Med6-milligrams of dosage,V02686,PH10_06,PH10_06,PH10_06
+V02687: Med7-# days taken in past month,V02687,PH11_01,PH11_01,PH11_01
+V02688: Med7-# days taken in past year,V02688,PH11_02,PH11_02,PH11_02
+V02690: Med7-day took for the first time in the past yr,V02690,PH11_03B,PH11_03B,PH11_03B
+V02692: Med7-estimate of day took most recently,V02692,PH11_04B,PH11_04B,PH11_04B
+V02693: Med7-amount taken on medicated days,V02693,PH11_05A,PH11_05A,PH11_05A
+V02694: Med7-method of dosage,V02694,PH11_05B,PH11_05B,PH11_05B
+V02695: Med7-milligrams of dosage,V02695,PH11_06,PH11_06,PH11_06
+V02696: Med8-# days taken in past month,V02696,PH12_01,PH12_01,PH12_01
+V02697: Med8-# days taken in past year,V02697,PH12_02,PH12_02,PH12_02
+V02699: Med8-day took for the first time in the past yr,V02699,PH12_03B,PH12_03B,PH12_03B
+V02701: Med8-estimate of day took most recently,V02701,PH12_04B,PH12_04B,PH12_04B
+V02702: Med8-amount taken on medicated days,V02702,PH12_05A,PH12_05A,PH12_05A
+V02703: Med8-method of dosage,V02703,PH12_05B,PH12_05B,PH12_05B
+V02704: Med8-milligrams of dosage,V02704,PH12_06,PH12_06,PH12_06
+V02705: Med9-# days taken in past month,V02705,PH13_01,PH13_01,PH13_01
+V02706: Med9-# days taken in past year,V02706,PH13_02,PH13_02,PH13_02
+V02708: Med9-day took for the first time in the past yr,V02708,PH13_03B,PH13_03B,PH13_03B
+V02710: Med9-estimate of day took most recently,V02710,PH13_04B,PH13_04B,PH13_04B
+V02711: Med9-amount taken on medicated days,V02711,PH13_05A,PH13_05A,PH13_05A
+V02712: Med9-method of dosage,V02712,PH13_05B,PH13_05B,PH13_05B
+V02713: Med9-milligrams of dosage,V02713,PH13_06,PH13_06,PH13_06
+V02714: Med10-# days taken in past month,V02714,PH14_01,PH14_01,PH14_01
+V02715: Med10-# days taken in past year,V02715,PH14_02,PH14_02,PH14_02
+V02717: Med10-day took for the first time in the past yr,V02717,PH14_03B,PH14_03B,PH14_03B
+V02719: Med10-estimate of day took most recently,V02719,PH14_04B,PH14_04B,PH14_04B
+V02720: Med10-amount taken on medicated days,V02720,PH14_05A,PH14_05A,PH14_05A
+V02721: Med10-method of dosage,V02721,PH14_05B,PH14_05B,PH14_05B
+V02722: Med10-milligrams of dosage,V02722,PH14_06,PH14_06,PH14_06
+V02756: Med11-# days taken in past month,V02756,PH15_01,PH15_01,PH15_01
+V02757: Med11-# days taken in past year,V02757,PH15_02,PH15_02,PH15_02
+V02759: Med11-Day took for the first time in the past yr,V02759,PH15_03B,PH15_03B,PH15_03B
+V02761: Med11-estimate of day took most recently,V02761,PH15_04B,PH15_04B,PH15_04B
+V02762: Med11-amount taken on medicated days,V02762,PH15_05A,PH15_05A,PH15_05A
+V02763: Med11-method of dosage,V02763,PH15_05B,PH15_05B,PH15_05B
+V02764: Med11-milligrams of dosage,V02764,PH15_06,PH15_06,-
+V02767: Med12-# days taken in past month,V02767,PH16_01,PH16_01,PH16_01
+V02768: Med12-# days taken in past year,V02768,PH16_02,PH16_02,PH16_02
+V02770: Med12-day took for the first time in the past yr,V02770,PH16_03B,PH16_03B,PH16_03B
+V02772: Med12-estimate of day took most recently,V02772,PH16_04B,PH16_04B,PH16_04B
+V02773: Med12-amount taken on medicated days,V02773,PH16_05A,PH16_05A,PH16_05A
+V02774: Med12-method of dosage,V02774,PH16_05B,PH16_05B,PH16_05B
+V02775: Med12-milligrams of dosage,V02775,PH16_06,PH16_06,PH16_06
+V02777: Med13-# days taken in past month,V02777,PH17_01,PH17_01,PH17_01
+V02778: Med13-# days taken in past year,V02778,PH17_02,PH17_02,PH17_02
+V02780: Med13-day took for the first time in the past yr,V02780,PH17_03B,PH17_03B,PH17_03B
+V02782: Med13-estimate of day took most recently,V02782,PH17_04B,PH17_04B,PH17_04B
+V02783: Med13-amount taken on medicated days,V02783,PH17_05A,PH17_05A,PH17_05A
+V02784: Med13-method of dosage,V02784,PH17_05B,PH17_05B,PH17_05B
+V02785: Med13-milligrams of dosage,V02785,PH17_06,PH17_06,PH17_06
+V02787: Med14-# days taken in past month,V02787,PH18_01,PH18_01,PH18_01
+V02788: Med14-# days taken in past year,V02788,PH18_02,PH18_02,PH18_02
+V02790: Med14-day took for the first time in the past yr,V02790,PH18_03B,PH18_03B,PH18_03B
+V02792: Med14-estimate of day took most recently,V02792,PH18_04B,PH18_04B,PH18_04B
+V02793: Med14-amount taken on medicated days,V02793,PH18_05A,PH18_05A,PH18_05A
+V02794: Med14-method of dosage,V02794,PH18_05B,PH18_05B,PH18_05B
+V02795: Med14-milligrams of dosage,V02795,PH18_06,PH18_06,PH18_06
+V02797: Med15-# days taken in past month,V02797,PH19_01,PH19_01,PH19_01
+V02798: Med15-# days taken in past year,V02798,PH19_02,PH19_02,PH19_02
+V02800: Med15-day took for the first time in the past yr,V02800,PH19_03B,PH19_03B,PH19_03B
+V02802: Med15-estimate of day took most recently,V02802,PH19_04B,PH19_04B,PH19_04B
+V02803: Med15-amount taken on medicated days,V02803,PH19_05A,PH19_05A,PH19_05A
+V02804: Med15-method of dosage,V02804,PH19_05B,PH19_05B,PH19_05B
+V02805: Med15-milligrams of dosage,V02805,PH19_06,PH19_06,PH19_06
+V02809: Med16-# days taken in past month,V02809,PH20_01,-,-
+V02810: Med16-# days taken in past year,V02810,PH20_02,-,-
+V02812: Med16-Mth and day took for the first time in the past yr,V02812,PH20_03B,-,-
+V02814: Med16-estimate of day took most recently,V02814,PH20_04B,-,-
+V02815: Med16-amount taken on medicated days,V02815,PH20_05A,-,-
+V02816: Med16-method of dosage,V02816,PH20_05B,-,-
+V02817: Med16-milligrams of dosage,V02817,PH20_06,-,-
+V02858: Med17-# days taken in past month,V02858,PH21_01,-,-
+V02859: Med17-# days taken in past year,V02859,PH21_02,-,-
+V02861: Med17-Day took 1st time in past yr,V02861,PH21_03B,-,-
+V02863: Med17-estimate of day took most recently,V02863,PH21_04B,-,-
+V02864: Med17-amount taken on medicated days,V02864,PH21_05A,-,-
+V02865: Med17-method of dosage,V02865,PH21_05B,-,-
+V02866: Med17-milligrams of dosage,V02866,PH21_06,-,-
+V02724: Med1-problems took medicine for:1st mention,V02724,PH14_101,PH14_101,PH14_101
+V02735: Med1-problems took medicine for:2nd mention,V02735,PH14_102,PH14_102,PH14_102
+V02738: Med1-problems took medicine for:3rd mention,V02738,PH14_103,PH14_103,PH14_103
+V02739: Med1-problems took medicine for:4th mention,V02739,PH14_104,PH14_104,PH14_104
+V02742: Med1-problems took medicine for:5th mention,V02742,PH14_105,PH14_105,PH14_105
+V02743: Med1-problems took medicine for:6th mention,V02743,PH14_106,PH14_106,PH14_106
+V02745: Med1-problems took medicine for:7th mention,V02745,PH14_107,PH14_107,PH14_107
+V02748: Med1-problems took medicine for:8th mention,V02748,PH14_108,PH14_108,PH14_108
+V02749: Med1-problems took medicine for:9th mention,V02749,PH14_109,PH14_109,PH14_109
+V02726: Med1-problems took medicine for:10th mention,V02726,PH14_110,PH14_110,PH14_110
+V02727: Med1-problems took medicine for:11th mention,V02727,PH14_111,PH14_111,-
+V02728: Med1-problems took medicine for:12th mention,V02728,PH14_112,PH14_112,-
+V02729: Med1-problems took medicine for:13th mention,V02729,PH14_113,PH14_113,-
+V02730: Med1-problems took medicine for:14th mention,V02730,PH14_114,PH14_114,-
+V02731: Med1-problems took medicine for:15th mention,V02731,PH14_115,PH14_115,-
+V02732: Med1-problems took medicine for:16th mention,V02732,PH14_116,PH14_116,-
+V02751: Med1-overall effectiveness,V02751,PH14_2,PH14_2,PH14_2
+V02752: Med1-why not effective as you expected,V02752,-,PH14_3,-
+V02753: Med1-problems with med since started taking it,V02753,-,PH14_4,-
+"V02754: Med1-problems so bad, had to stop taking med",V02754,-,PH14_5,-
+V02755: Med1-took under supervision or on own,V02755,PH15,PH15,PH15
+V02765: Med1-who prescribed,V02765,PH15_1,PH15_1,PH15_1
+V02766: Med1-typical month-# days forget or take less,V02766,PH16,PH16,PH16
+V02776: Med1-still taking medicine,V02776,PH17,PH17,PH17
+V02786: INTERVIEWER CHECKPOINT,V02786,-,PH18,PH18
+V02796: Med1-health professional tell you stop taking,V02796,PH19,PH19,PH19
+V02806: Med1-health professional agree with stop taking,V02806,PH19A,PH19A,PH19A
+V02808: Med1-stopped taking because better or other reason,V02808,PH20,PH20,PH20
+V02818: Med16-took another med in its place,V02818,-,PH20_1,-
+V02819: Med16-new med works better,V02819,-,PH20_2,-
+V02821: Med1-reason stop taking:1st mention,V02821,PH20A1,PH20A_01,PH20A1
+V02826: Med1-reason stop taking:2nd mention,V02826,PH20A2,PH20A_02,PH20A2
+V02829: Med1-reason stop taking-3rd mention,V02829,PH20A3,PH20A_03,PH20A3
+V02830: Med1-reason stop taking:4th mention,V02830,PH20A4,PH20A_04,-
+V02832: Med1-reason stop taking:5th mention,V02832,PH20A5,PH20A_05,-
+V02835: Med1-reason stop taking:6th mention,V02835,-,PH20A_06,-
+V02820: INTERVIEWER CHECKPOINT,V02820,-,PH20A_1,PH20A_1
+V02843: Med1-side effects made you stop:1st mention,V02843,PH20B01,PH20B_01,PH20B01
+V02850: Med1-side effects made you stop:2nd mention,V02850,PH20B02,PH20B_02,PH20B02
+V02851: Med1-side effects made you stop:3rd mention,V02851,PH20B03,PH20B_03,PH20B03
+V02852: Med1-side effects made you stop:4th mention,V02852,PH20B04,PH20B_04,PH20B04
+V02853: Med1-side effects made you stop:5th mention,V02853,PH20B05,PH20B_05,-
+V02854: Med1-side effects made you stop:6th mention,V02854,PH20B06,PH20B_06,-
+V02855: Med1-side effects made you stop:7th mention,V02855,PH20B07,PH20B_07,-
+V02856: Med1-side effects made you stop:8th mention,V02856,PH20B08,PH20B_08,-
+V02857: Med1-side effects made you stop:9th mention,V02857,PH20B09,-,-
+V02844: Med1-side effects made you stop:10th mention,V02844,PH20B10,-,-
+V02845: Med1-side effects made you stop:11th mention,V02845,PH20B11,-,-
+V02846: Med1-side effects made you stop:12th mention,V02846,PH20B12,-,-
+V02868: Med2-problems took medicine for:1st mention,V02868,PH21_101,PH21_101,PH21_101
+V02878: Med2-problems took medicine for:2nd mention,V02878,PH21_102,PH21_102,PH21_102
+V02880: Med2-problems took medicine for:3rd mention,V02880,PH21_103,PH21_103,PH21_103
+V02882: Med2-problems took medicine for:4th mention,V02882,PH21_104,PH21_104,PH21_104
+V02884: Med2-problems took medicine for:5th mention,V02884,PH21_105,PH21_105,PH21_105
+V02886: Med2-problems took medicine for:6th mention,V02886,PH21_106,PH21_106,PH21_106
+V02888: Med2-problems took medicine for:7th mention,V02888,PH21_107,PH21_107,PH21_107
+V02891: Med2-problems took medicine for:8th mention,V02891,PH21_108,PH21_108,PH21_108
+V02892: Med2-problems took medicine for:9th mention,V02892,PH21_109,PH21_109,PH21_109
+V02869: Med2-problems took medicine for:10th mention,V02869,PH21_110,PH21_110,-
+V02870: Med2-problems took medicine for:11th mention,V02870,PH21_111,PH21_111,-
+V02871: Med2-problems took medicine for:12th mention,V02871,PH21_112,PH21_112,-
+V02872: Med2-problems took medicine for:13th mention,V02872,PH21_113,PH21_113,-
+V02873: Med2-problems took medicine for:14th mention,V02873,PH21_114,PH21_114,-
+V02874: Med2-problems took medicine for:15th mention,V02874,PH21_115,-,-
+V02875: Med2-problems took medicine for:16th mention,V02875,PH21_116,-,-
+V02894: Med2-overall effectiveness,V02894,PH21_2,PH21_2,PH21_2
+V02895: Med2-why not as effective as you expected,V02895,-,PH21_3,-
+V02896: Med2-problems with med since started taking it,V02896,-,PH21_4,-
+"V02897: Med2-problems so bad, had to stop taking med",V02897,-,PH21_5,-
+V02898: Med2-took under supervision or on own,V02898,PH22,PH22,PH22
+V02908: Med2-who prescribed,V02908,PH22_1,PH22_1,PH22_1
+V02909: Med2-typical month-# days forget to take,V02909,PH23,PH23,PH23
+V02919: Med2-still taking med,V02919,PH24,PH24,PH24
+V02929: INTERVIEWER CHECKPOINT,V02929,-,PH25,PH25
+V02930: Med2-health professional tell you to stop taking,V02930,PH26,PH26,PH26
+V02931: Med2-health professional agree with stop taking,V02931,PH26A,PH26A,PH26A
+V02932: Med2-stopped because no longer needed or other reason,V02932,PH27,PH27,PH27
+V02933: Med2-take another med in its place,V02933,-,PH27_1,-
+V02934: Med2-new med works better,V02934,-,PH27_2,-
+V02936: Med2-reason stop taking:1st mention,V02936,PH27A1,PH27A_01,PH27A1
+V02941: Med2-reason stop taking:2nd mention,V02941,PH27A2,PH27A_02,PH27A2
+V02944: Med2-reason stop taking:3rd mention,V02944,PH27A3,PH27A_03,PH27A3
+V02945: Med2-reason stop taking:4th mention,V02945,PH27A4,-,-
+V02947: Med2-reason stop taking:5th mention,V02947,PH27A5,-,-
+V02946: Med2-reason stop taking:4th mention,V02946,-,PH27A_04,-
+V02935: INTERVIEWER CHECKPOINT,V02935,-,PH27A_1,PH27A_1
+V02958: Med2-side effects made you stop:1st mention,V02958,PH27B01,PH27B_01,PH27B01
+V02965: Med2-side effects made you stop:2nd mention,V02965,PH27B02,PH27B_02,PH27B02
+V02966: Med2-side effects made you stop:3rd mention,V02966,PH27B03,-,PH27B03
+V02967: Med2-side effects made you stop:4th mention,V02967,PH27B04,-,PH27B04
+V02968: Med2-side effects made you stop:5th mention,V02968,PH27B05,-,PH27B05
+V02974: Med3-problems took medicine for:1st mention,V02974,PH28_101,PH28_101,PH28_101
+V02984: Med3-problems took medicine for:2nd mention,V02984,PH28_102,PH28_102,PH28_102
+V02987: Med3-problems took medicine for:3rd mention,V02987,PH28_103,PH28_103,PH28_103
+V02988: Med3-problems took medicine for:4th mention,V02988,PH28_104,PH28_104,PH28_104
+V02990: Med3-problems took medicine for:5th mention,V02990,PH28_105,PH28_105,-
+V02991: Med3-problems took medicine for:6th mention,V02991,PH28_106,PH28_106,-
+V02992: Med3-problems took medicine for:7th mention,V02992,PH28_107,PH28_107,-
+V02993: Med3-problems took medicine for:8th mention,V02993,PH28_108,PH28_108,-
+V02994: Med3-problems took medicine for:9th mention,V02994,PH28_109,PH28_109,-
+V02975: Med3-problems took medicine for:10th mention,V02975,PH28_110,PH28_110,-
+V02995: Med3-overall effectiveness,V02995,PH28_2,PH28_2,PH28_2
+V02996: Med3-why not as effective as you expected,V02996,-,PH28_3,-
+V02997: Med3-problems with med since started taking it,V02997,-,PH28_4,-
+"V02998: Med3-problems so bad, had to stop taking med",V02998,-,PH28_5,-
+V02999: Med3-took under supervision or on own,V02999,PH29,PH29,PH29
+V03000: Med3-who prescribed,V03000,PH29_1,PH29_1,PH29_1
+V03001: Med3-typical month-# days forget to take,V03001,PH30,PH30,PH30
+V03002: Med3-still taking med,V03002,PH31,PH31,PH31
+V03003: INTERVIEWER CHECKPOINT,V03003,-,PH32,PH32
+V03004: Med3-health professional tell you to stop taking,V03004,PH33,PH33,PH33
+V03005: Med3-health professional agree with stop taking,V03005,PH33A,PH33A,PH33A
+V03006: Med3-stopped because no longer needed or other reason,V03006,PH34,PH34,PH34
+V03007: Med3-take another med in its place,V03007,-,PH34_1,-
+V03008: Med3-new med works better,V03008,-,PH34_2,-
+V03031: Med3-reason stop taking:1st mention,V03031,PH34A1,-,-
+V03016: Med3-reason stop taking:2nd mention,V03016,PH34A2,PH34A_02,-
+V03018: Med3-reason stop taking:3rd mention,V03018,PH34A3,-,-
+V03020: Med3-reason stop taking:4th mention,V03020,PH34A4,-,-
+V03022: Med3-reason stop taking:5th mention,V03022,PH34A5,-,-
+V03011: Med3-reason stop taking:1st mention,V03011,-,PH34A_01,PH34A1
+V03009: INTERVIEWER CHECKPOINT: (see PH20a),V03009,-,PH34A_1,PH34A_1
+V03032: Med3-side effects made you stop:1st mention,V03032,PH34B01,-,PH34B01
+V03039: Med3-side effects made you stop:2nd mention,V03039,PH34B02,-,-
+V03040: Med3-side effects made you stop:3rd mention,V03040,PH34B03,-,-
+V03041: Med3-side effects made you stop:4th mention,V03041,PH34B04,-,-
+V03042: Med3-side effects made you stop:5th mention,V03042,PH34B05,-,-
+V02610: # diff kinds of prescrip meds taken during past 7 days,V02610,PH1,PH1,PH1
+V02611: # diff kinds of non-prescrip meds taken during past 7 days,V02611,PH2,PH2,PH2
+V02625: How many per day,V02625,-,PH2A,-
+V02624: # tablets of vitamins/mins/supp on average day,V02624,-,-,PH2A
+V02626: Any non-prescript meds for mood/nerves/emotional probs,V02626,-,PH2B,-
+V02627: Non-prescript meds for mood/nervs/emo under doc super,V02627,-,PH2C,-
+V02807: Took sleeping pills/sed under doc super in past 12 mths,V02807,PH2_1A,PH2_1A,PH2_1A
+V02614: Prescrip meds taken in last 12 mths-anti-depressants,V02614,PH2_1B,PH2_1B,PH2_1B
+V02616: Prescrip meds taken in last 12 mths-tranquilizers,V02616,PH2_1C,PH2_1C,PH2_1C
+V02617: Prescrip meds taken in last 12 mths-amphetamines/stims,V02617,PH2_1D,PH2_1D,PH2_1D
+V02620: Prescrip meds taken in last 12 mths-anti-psychotic meds,V02620,PH2_1E,PH2_1E,PH2_1E
+V02622: INTERVIEWER CHECKPOINT: (SEE *PH2.1a - *PH2.1f),V02622,-,PH2_2,-
+V02621: INTERVIEWER CHECKPOINT,V02621,-,-,PH2_2
+"V02623: Scrip meds for emotions, sleep, stress, etc in past 12 mths",V02623,PH2_3,PH2_3,PH2_3
+"V02629: Meds taken in past 12 mths for emotion, etc:1st mention",V02629,-,PH4INTR1,-
+"V02630: Meds taken in past 12 mths for emotion, etc:2nd mention",V02630,-,PH4INTR2,-
+"V02631: Meds taken in past 12 mths for emotion, etc:3rd mention",V02631,-,PH4INTR3,-
+V02641: INTERVIEWER CHECKPOINT,V02641,-,PH6,PH6
+V02508: PRESS '1' TO VERIFY THE MEDICATION LISTING,V02508,-,ENDMEDS,-

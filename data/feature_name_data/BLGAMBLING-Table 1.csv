@@ -1,0 +1,85 @@
+Gambling,CPES,NCSR,NLAAS,NSAL
+V04950: # of times in life made bet of any kind,V04950,GM1,-,GM1
+V04951: # times in life bet on sports w/ friends or office pool,V04951,GM1_1A,-,-
+V04952: # times in life bet on sports w/ bookie or parlay cards,V04952,GM1_1B,-,-
+V04953: # times in life played cards/dice/chess/mental skill for money,V04953,GM1_1C,-,-
+V04954: # times in life played games of physical skill for money,V04954,GM1_1D,-,-
+V04955: # times in life specul on high risk stocks/real estate/futures,V04955,GM1_1E,-,-
+V04956: # times in life playing #s/lotto/video lottery/inst lotto,V04956,GM1_1F,-,-
+V04957: # times in life gambling on internet,V04957,GM1_1G,-,-
+V04958: # times in life playing video poker/other gambling machines,V04958,GM1_1H,-,-
+V04959: # times in life playing slot machines/bingo/pull tabs,V04959,GM1_1I,-,-
+V04960: # times in life betting on horse/dog races or dog/cock fights,V04960,GM1_1J,-,-
+V04961: # times in life gambling at casino,V04961,GM1_1K,-,-
+V04962: Age 1st placed bet or gambled with money,V04962,GM2,-,GM2
+V04963: Gambled at least weekly for 6 months or more in a row,V04963,GM4,-,GM4
+V04964: Age 1st started gambling weekly for 6 months in a row,V04964,GM5,-,GM5
+V04965: Largest amount of money lost in single year,V04965,GM6,-,GM6
+V04966: Gambling interfered with work/school/home,V04966,GM8A,-,-
+V04967: Gambling caused argument/probs w/ family/friends/coworkers,V04967,GM8B,-,-
+V04968: Tried to keep family/friends from knowing how much gambled,V04968,GM8C,-,-
+V04969: Sometimes claimed to be winning when actually losing,V04969,GM8D,-,-
+V04970: Spend lots of time thinking about gambling when shouldn't,V04970,GM10A,-,-
+V04971: Lots of time planning bets or studying odds when shouldn't,V04971,GM10B,-,-
+V04972: Increased amt of bets over time to keep it exciting,V04972,GM10C,-,-
+V04973: Often used betting/gambling to improve mood,V04973,GM10D,-,-
+V04974: Gamble to escape or stop thinking about personal problems,V04974,GM10E,-,-
+V04975: After losing money would return soon to win back losses,V04975,GM10F,-,-
+V04976: Gambled more in hope of winning back big gambling debt,V04976,GM10G,-,-
+V04977: Try to raise gambling money by writing bad checks/steal/illegal,V04977,GM10H,-,-
+V04978: Repeatedly borrow from family/friends to support gambling,V04978,GM10I,-,-
+V04979: Strong irrestistable desire to bet/gamble,V04979,GM10J,-,-
+V04980: Gambled when promised self not to/bet more than intended,V04980,GM10K,-,-
+V04981: # of serious attempts to cut down/stop gambling,V04981,GM10L,-,-
+V04982: Trying to cut down gambling make you feel restless/irritable,V04982,GM13,-,-
+"V04983: Since 1st tried to stop, longest time not gambled",V04983,GM14A,-,-
+"V04984: Unit of time longest period of not gambling, GM14",V04984,GM14B,-,-
+V04985: Remember exact age of very 1st gambling problem,V04985,GM16,-,-
+V04986: Exact age of 1st problem because of gambling,V04986,GM16A,-,-
+V04987: Age 1st problem because of gambling before teens,V04987,GM16A1,-,-
+V04988: Age 1st problem because of gambling before 20s,V04988,GM16A2,-,-
+V04989: Estimate age 1st problem because of gambling,V04989,GM16B,-,-
+V04990: Recent problem because of gambling in past months,V04990,GM17,-,-
+V04991: Age of last problem because of gambling,V04991,GM18,-,-
+V04992: # of diff years in life ever had problem because of gambling,V04992,GM19,-,-
+V04993: Remember exact age 1st gambling problem,V04993,GM20,-,-
+V04994: Exact age 1st gambling problem,V04994,GM20A,-,-
+V04995: Estimate age 1st problems because of gambling,V04995,GM20B,-,-
+V04996: Age 1st problems because of gambling before teens,V04996,GM20B1,-,-
+V04997: Age 1st problems because of gambling before 20s,V04997,GM20B2,-,-
+V04998: Recent problems because of gambling in past months,V04998,GM21,-,-
+V04999: Age last time any problems because of gambling,V04999,GM22,-,-
+V05000: Age last time problems because of gambling before teens,V05000,GM22A1,-,-
+V05001: Age last time problems because of gambling before 20s,V05001,GM22A2,-,-
+V05002: # of different years in life at least 1 gambling problem,V05002,GM23,-,-
+V05003: Had 5 or more gambling problems in same year,V05003,GM24,-,-
+V05004: Age 1st had 5 or more of gambling problems in same year,V05004,GM25,-,-
+V05005: Age 1st had 5 or more of gamb probs same year before teens,V05005,GM25A1,-,-
+V05006: Age 1st had 5 or more of gamb probs same year before 20s,V05006,GM25A2,-,-
+V05007: # of days made any sort of bet in past year,V05007,GM27,-,-
+V05008: Overall ahead or behind in all losses and wins over past year,V05008,GM29,-,-
+V05009: How much ahead/behind over past year,V05009,GM29A,-,-
+V05010: Year in life when gambled more frequently than in past year,V05010,GM30,-,-
+V05011: Prefer to gamble alone or with friends,V05011,GM31,-,-
+"V05012: If same payoff, would pick instant ticket or wait to hear ticket",V05012,GM32,-,-
+V05013: Age last bet or gambled,V05013,GM33,-,-
+V05014: In year gambled most-# days bet or gambled,V05014,GM34,-,-
+V05015: In year gambled most-prefer to gamble alone or w/ friends,V05015,GM35,-,-
+V05016: During gambl pick instant/wait to hear ticket for same payoff,V05016,GM36,-,-
+V05017: Extent gambled for excitement,V05017,GM37A,-,-
+V05018: Extent gambled to relax/have fun,V05018,GM37B,-,-
+V05019: Extent gambled to win money,V05019,GM37C,-,-
+V05020: Extent gambled to be with/make new friends,V05020,GM37D,-,-
+V05021: Lost track of time when gambling,V05021,GM38A,-,-
+V05022: In trance-like state when gambling,V05022,GM38B,-,-
+V05023: Feel you are watching yourself gamble,V05023,GM38C,-,-
+V05024: Talked to professional about problems with gambling,V05024,GM40,-,-
+V05025: Age 1st talked toprofessional about gambling problems,V05025,GM40A,-,-
+V05026: # of visits to professional about gambling probs in past year,V05026,GM40B,-,-
+V05027: Went to self-help group for people w/ gambling problems,V05027,GM41,-,-
+V05028: Age 1st went to self-help group for gambling problems,V05028,GM41A,-,-
+V05029: # of self-help group phone calls/mtgs attended in past year,V05029,GM41B,-,-
+V05030: Received helpful/effective trmt/cousel for gambling problem,V05030,GM43,-,-
+V05031: Age 1st helpful treatment/counsel for gambling problem,V05031,GM43A,-,-
+V05032: # of different profs seen for gambling incl helpful trmt doc,V05032,GM43B,-,-
+V05033: # of different profs or self-help groups seen for gambling probs,V05033,GM43C,-,-

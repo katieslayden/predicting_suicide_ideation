@@ -1,0 +1,157 @@
+Employment,CPES,NCSR,NLAAS,NSAL
+V05065: TEST VARIABLE,V05065,-,ASIALAT2,-
+V05119: Age 1st yr worked 6 mths + at paid job,V05119,EM1,EM1,-
+V05121: # years employed at least 6 mths/year part/full time,V05121,EM2,EM2,-
+V05122: # years employed 35+ hrs/wk for 6+ months,V05122,EM3,EM3,-
+V05123: Longest time not working for pay excl student/retirement,V05123,EM4A,EM4A,-
+"V05124: Unit of time not working for pay, EM4",V05124,EM4B,EM4B,-
+V05126: Reason not work for longest time:1st mention,V05126,EM601,EM6_01,-
+V05129: Reason not work for longest time:2nd mention,V05129,EM602,EM6_02,-
+V05130: Reason not work for longest time:3rd mention,V05130,EM603,EM6_03,-
+V05131: Reason not work for longest time:4th mention,V05131,EM604,EM6_04,-
+V05132: Reason not work for longest time:5th mention,V05132,EM605,EM6_05,-
+V05138: Current employ situation:1st mention: Recoded,V05138,EM7_101,-,-
+V05144: Current employ situation:2nd mention: Recoded,V05144,EM7_102,-,-
+V05146: Current employ situation:3rd mention: Recoded,V05146,EM7_103,-,-
+V05148: Current employ situation:4th mention: Recoded,V05148,EM7_104,-,-
+V05160: # weeks worked for pay or profit in past 12 mths,V05160,EM7A,EM7A,-
+V05161: # weeks not working due to unpaid leave in past 12 mths,V05161,EM7B,EM7B,-
+V05162: # weeks unemployed and looking for job in past 12 mths,V05162,EM7C,EM7C,-
+V05163: # weeks not working or looking for paid job in past 12 mths,V05163,EM7D,EM7D,-
+V05164: Worked for pay or profit last week,V05164,EM7E,EM7E,-
+V05165: Disability prevents accepting any kind of work for next 6 mths,V05165,EM7F,EM7F,-
+V05166: Employed for pay/profit full/part time last week,V05166,EM7H,EM7H,-
+V05168: Disability prevents accepting any kind of work for next 6 mths,V05168,EM7I,EM7I,-
+V05169: Disability prevents accepting any kind of work for next 6 mths,V05169,EM7J,EM7J,-
+V05170: Reason absent from work last week,V05170,EM7K,EM7K,-
+V05172: BLEMPLOYM.EM8A_5[1],V05172,-,EM8A_501,-
+V05253: BLEMPLOYM.EM8A_5[2],V05253,-,EM8A_502,-
+V05177: BLEMPLOYM.EM8A_5[3],V05177,-,EM8A_503,-
+V05178: BLEMPLOYM.EM8A_5[4],V05178,-,EM8A_504,-
+V05179: BLEMPLOYM.EM8A_5[5],V05179,-,EM8A_505,-
+V05180: BLEMPLOYM.EM8A_5[6],V05180,-,EM8A_506,-
+V05181: BLEMPLOYM.EM8A_5[7],V05181,-,EM8A_507,-
+V05182: BLEMPLOYM.EM8A_5[8],V05182,-,EM8A_508,-
+V05183: BLEMPLOYM.EM8A_5[9],V05183,-,EM8A_509,-
+V05173: BLEMPLOYM.EM8A_5[10],V05173,-,EM8A_510,-
+V05174: BLEMPLOYM.EM8A_5[11],V05174,-,EM8A_511,-
+V05175: BLEMPLOYM.EM8A_5[12],V05175,-,EM8A_512,-
+V05176: BLEMPLOYM.EM8A_5[13],V05176,-,EM8A_513,-
+V05184: INTERVIEWER CHECKPOINT,V05184,-,EM9A,-
+V05185: Disability due to physical/emotional disorder or combination,V05185,EM10,-,-
+V05186: Length of time expect ill/disability to prevent you from working,V05186,EM10_1A,-,-
+"V05187: Unit of time ill/disability prevent from working, EM10_1A",V05187,EM10_1B,-,-
+V05188: Working for pay at present time,V05188,EM11,EM11,-
+V05189: Length of time since last worked,V05189,EM12A,-,-
+"V05190: Unit of time since last worked, EM12A",V05190,EM12B,-,-
+V05191: INTERVIEWER CHECKPOINT,V05191,-,EM13,-
+V05192: Reason left last job:1st mention,V05192,EM141,-,-
+V05193: Reason left last job:2nd mention,V05193,EM142,-,-
+V05202: Kind of work you normally do: Recoded,V05202,EM15,EM15,D4
+"V05203: Kind of place you work for, they make/do: Recode",V05203,EM16,EM16,D5
+V05204: # hours work for pay/profit in average week,V05204,EM17,-,D6
+V05205: Last job-had employer or self -employed,V05205,EM18,-,-
+V05206: Kind of work you did at last job: Recoded,V05206,EM19,EM19,D23
+V05207: Kind of place you worked for at last job: Recode,V05207,EM20,EM20,D24
+V05208: INTERVIEWER CHECKPOINT(EM7_1),V05208,-,EM21,-
+V05209: Physical/emotional prob prevents you from working for pay,V05209,EM22,EM22,-
+V05210: Physical health/emotional problem or combination,V05210,EM22A,EM22A,-
+V05211: Limited in kind/amount work due to physical /emot health,V05211,EM23,EM23,-
+V05212: Physical health/emotional problem or combination,V05212,EM23A,EM23A,-
+V05213: Amt of $ could earn w/ your health/ed/training if employed,V05213,EM23B,EM23B,-
+V05214: # full days of work missed in last 30 days,V05214,EM24,EM24,-
+V05215: Reason missed 1 day of work:1st mention,V05215,EM251,-,-
+V05216: Reason missed 1 day of work:2nd mention,V05216,EM252,-,-
+V05218: # days missed because of own health problem,V05218,EM26,-,-
+V05219: # days came in late/went home early in past 30 days,V05219,EM27,-,-
+V05220: # hours work missed on that day,V05220,EM28,-,-
+V05221: Reason missed time:1st mention,V05221,EM291,-,-
+V05222: Reason missed time:2nd mention,V05222,EM292,-,-
+V05224: Average # hours of work missed each day,V05224,EM30,-,-
+V05225: # days reduced time at work due to own health,V05225,EM31,-,-
+V05226: # days came early/work late to catch up work in past 30 days,V05226,EM32,-,-
+V05227: # of extra hours of work in that day,V05227,EM34,-,-
+V05228: Total # of extra hours of work on those days,V05228,EM35,-,-
+V05229: Past month-speed/productivity higher than expected,V05229,EM36A,-,-
+V05230: Past month-speed/productivity lower than expected,V05230,EM36B,-,-
+V05231: Past month-didn't work at time supposed to work,V05231,EM36C,-,-
+V05232: Past month-find yourself not working as carefully as should,V05232,EM36D,-,-
+V05233: Past month-quality of work lower than expected,V05233,EM36E,-,-
+V05234: Past month-find yourself daydreaming/ not concentrating,V05234,EM36F,-,-
+V05235: Past month-freq of trouble getting along with others at work,V05235,EM36G,-,-
+V05236: Past month-difficulty controlling emotions around co-workers,V05236,EM36H,-,-
+V05237: Past month-avoided interactactions w/ others,V05237,EM36I,-,-
+V05238: Past month-health problems limited you in kind/amt of work,V05238,EM36J,-,-
+V05239: Overall performance on days worked in past 30 days,V05239,EM37,-,-
+V05240: Usual job performance in past year or 2,V05240,EM38,-,-
+V05241: Usual peformance of most workers on your job,V05241,EM39,-,-
+V05242: Achieved special success/achieve in past 30 days,V05242,EM40,-,-
+V05243: Work failure any time in past 30 days,V05243,EM41,-,-
+V05244: Caused accident or created saftey risk for others in past mth,V05244,EM42,-,-
+V05245: Directly supervise others,V05245,EM43,-,-
+V05246: # people directly supervise,V05246,EM43A,-,-
+V05247: Quantity of money give to worker w/ score 0,V05247,EM44A,-,-
+V05248: Quantity of money give to worker w/ score 2,V05248,EM44B,-,-
+V05249: Quantity of money give to worker w/ score 4,V05249,EM44C,-,-
+V05250: Quantity of money give to worker w/ score 6,V05250,EM44D,-,-
+V05251: Quantity of money give to worker w/ score 8,V05251,EM44E,-,-
+V05252: Quantity of money give to worker w/ score 10,V05252,EM44F,-,-
+V05255: # years school spouse/partner completed: Top/Bot Code,V05255,SE2,-,-
+V05256: Spouse/partner current employ status:1st mention: Recoded,V05256,SE401,-,-
+V05260: Spouse/partner current employ status:2nd mention: Recoded,V05260,SE402,-,-
+V05261: Spouse/partner current employ status:3rd mention: Recoded,V05261,SE403,-,-
+V05268: Spouse/partner working for pay at present time,V05268,SE5,SE5,-
+V05270: Length of time since spouse/partner worked,V05270,SE6A,-,-
+"V05271: Unit of time since spouse/partner worked, SE6",V05271,SE6B,-,-
+V05272: Kind work spouse/partner did last job: Recoded,V05272,SE7,SE7,H17D
+V05273: Kind of place your spouse/partner worked:Rcde,V05273,SE8,SE8,H17E
+V05274: Kind work spouse/partner does: Recoded,V05274,SE9,SE9,H17A
+V05275: Kind of place your spouse/partner work: Recode,V05275,SE10,-,H17B
+V05276: # hours spouse/partner works for pay in average week,V05276,SE11,SE11,-
+V05279: Race of spouse/partner:1st mention,V05279,-,SE1301,-
+V05290: Race of spouse/partner:2nd mention,V05290,-,SE1302,-
+V05293: Race of spouse/partner:3rd mention,V05293,-,SE1303,-
+V05070: Working for pay at present time,V05070,-,-,D2
+V05071: Self-employed or work for someone,V05071,-,-,D3
+V05075: Pay period-hour/week/month/year,V05075,-,-,D7A
+V05076: Have skills/abilities for better job,V05076,-,-,D8
+V05077: Extent to which satisfied with job,V05077,-,-,D9
+V05078: Satisfaction if son/daughter had your job,V05078,-,-,D10
+V05079: Black ppl get better/worse/same jobs as white at workplace,V05079,-,-,D11
+V05080: Caribbeans get better/worse/same jobs as black at workplace,V05080,-,-,D11BCB
+V05081: Caribbeans get better/worse/same jobs as whites,V05081,-,-,D11CB
+V05082: Your job is one black people tend to get more than white,V05082,-,-,D12
+V05083: Black ppl treated unfairly at your workplace,V05083,-,-,D13
+V05084: Caribbeans treated unfairly at your workplace,V05084,-,-,D13CB
+V05085: Race/gender of your supervisor,V05085,-,-,D14
+V05086: Group with same work/supervisor at workplace,V05086,-,-,D15
+V05087: Race of work group,V05087,-,-,D16
+V05088: Blacks mostly Caribbeans or Americans,V05088,-,-,D16CB
+V05089: Out of work or laid off any time during past 6 mths,V05089,-,-,D17
+V05090: How long out of work in past 6 mths,V05090,-,-,D18
+V05091: Unit of time laid off,V05091,-,-,D181
+V05092: Reduced hours or pay cut any time during past 6 mths,V05092,-,-,D19
+V05093: Extent worried about losing job in near future,V05093,-,-,D20
+V05094: Ever worked for pay,V05094,-,-,D21
+V05095: Self-employed or work for someone,V05095,-,-,D22
+V05098: # hours worked on last job in average week,V05098,-,-,D25
+"V05099: At job, had skills and abilities for better job",V05099,-,-,D26
+V05100: Satisfaction with your job,V05100,-,-,D27
+V05101: Satisfaction if son/daughter had your job,V05101,-,-,D28
+V05102: Black ppl get better/worse/same job as white at workplace,V05102,-,-,D29
+V05103: Carib ppl get better/worse/same job as black ppl at workplace,V05103,-,-,D29BCB
+V05104: Carib ppl get better/worse job than white at workplace,V05104,-,-,D29CB
+V05105: Your job is one black ppl tend to get more than white ppl,V05105,-,-,D30
+V05106: Black ppl treated unfairly at your workplace,V05106,-,-,D31
+V05107: Caribbeans treated unfairly at your workplace,V05107,-,-,D31CB
+V05108: Race/gender of supervisor,V05108,-,-,D32
+V05109: Was group of people w/ same work/supervisor at workplace,V05109,-,-,D33
+V05110: Work group race make-up,V05110,-,-,D34
+V05111: Blacks mostly Caribbean or Black American,V05111,-,-,D34CB
+V05112: Worked for pay in last 6 mths,V05112,-,-,D35
+V05113: Length of time out of work,V05113,-,-,D36
+V05114: Unit of time out of work D36,V05114,-,-,D361
+V05115: Presently looking for work,V05115,-,-,D37
+V05116: Take job if offered,V05116,-,-,D38
+V05117: Extent worried about not finding job in near future,V05117,-,-,D39
+V05118: Lost hope finding decent job,V05118,-,-,D40

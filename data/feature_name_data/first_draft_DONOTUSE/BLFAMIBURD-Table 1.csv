@@ -1,0 +1,68 @@
+Family Burden,CPES,NCSR,NLAAS,NSAL
+V06280: # of close family members alive,V06280,FB2INTR1,-,-
+V06281: Remind # close family members alive,V06281,FB2INTR2,-,-
+V06282: Close relative health prob-cancer,V06282,FB6A,-,-
+V06283: Close relative with cancer:1st mention,V06283,FB6A11,-,-
+V06284: Close relative with cancer:2nd mention,V06284,FB6A12,-,-
+V06285: Close relative with cancer:3rd mention,V06285,FB6A13,-,-
+V06286: Close relative with cancer:4th mention,V06286,FB6A14,-,-
+V06287: Close relative with cancer:5th mention,V06287,FB6A15,-,-
+V06288: Close relative with cancer:6th mention,V06288,FB6A16,-,-
+V06290: Close relative health prob-serious heart problem,V06290,FB6B,-,-
+V06291: Close relative with serious heart prob:1st mention,V06291,FB6B11,-,-
+V06292: Close relative with serious heart prob:2nd mention,V06292,FB6B12,-,-
+V06293: Close relative with serious heart prob:3rd mention,V06293,FB6B13,-,-
+V06294: Close relative with serious heart prob:4th mention,V06294,FB6B14,-,-
+V06298: Close relative health prob-serious memory problem,V06298,FB6C,-,-
+V06299: Close relative with serious memory prob:1st mention,V06299,FB6C11,-,-
+V06300: Close relative with serious memory prob:2nd mention,V06300,FB6C12,-,-
+V06301: Close relative with serious memory prob:3rd mention,V06301,FB6C13,-,-
+V06302: Close relative with serious memory prob:4th mention,V06302,FB6C14,-,-
+V06303: Close relative with serious memory prob:5th mention,V06303,FB6C15,-,-
+V06304: Close relative with serious memory prob:6th mention,V06304,FB6C16,-,-
+V06306: Close relative health prob-mental retardation,V06306,FB6D,-,-
+V06307: Close relative with mental retardation:1st mention,V06307,FB6D11,-,-
+V06308: Close relative with mental retardation:2nd mention,V06308,FB6D12,-,-
+V06314: Close relative health prob-perm physical disability,V06314,FB6E,-,-
+V06315: Close relative with perm physical disability:1st mention,V06315,FB6E11,-,-
+V06316: Close relative with perm physical disability:2nd mention,V06316,FB6E12,-,-
+V06322: Close relative health prob-serious chronic phys illness,V06322,FB6F,-,-
+V06329: Close relative with other serious chronic phy ill:1st mention,V06329,FB6F11,-,-
+V06330: Close relative with other serious chronic phy ill:2nd mention,V06330,FB6F12,-,-
+V06331: Close relative with other serious chronic phy ill:3rd mention,V06331,FB6F13,-,-
+V06332: Close relative with other serious chronic phy ill:4th mention,V06332,FB6F14,-,-
+V06336: Close relative health prob-drug/alcohol problem,V06336,FB6G,-,-
+V06337: Close relative with drug/alcohol problem:1st mention,V06337,FB6G11,-,-
+V06338: Close relative with drug/alcohol problem:2nd mention,V06338,FB6G12,-,-
+V06339: Close relative with drug/alcohol problem:3rd mention,V06339,FB6G13,-,-
+V06340: Close relative with drug/alcohol problem:4th mention,V06340,FB6G14,-,-
+V06344: Close relative health problem-depression,V06344,FB6H,-,-
+V06345: Close relative with depression:1st mention,V06345,FB6H11,-,-
+V06346: Close relative with depression:2nd mention,V06346,FB6H12,-,-
+V06347: Close relative with depression:3rd mention,V06347,FB6H13,-,-
+V06348: Close relative with depression:4th mention,V06348,FB6H14,-,-
+V06349: Close relative with depression:5th mention,V06349,FB6H15,-,-
+V06352: Close relative health problem-anxiety,V06352,FB6I,-,-
+V06353: Close relative with anxiety:1st mention,V06353,FB6I11,-,-
+V06354: Close relative with anxiety:2nd mention,V06354,FB6I12,-,-
+V06355: Close relative with anxiety:3rd mention,V06355,FB6I13,-,-
+V06356: Close relative with anxiety:4th mention,V06356,FB6I14,-,-
+V06357: Close relative with anxiety:5th mention,V06357,FB6I15,-,-
+V06361: Close relative with schizophrenia/psychosis:1st mention,V06361,FB6J11,-,-
+V06368: Close relative health problem-manic-depressive,V06368,FB6K,-,-
+V06369: Close relative with manic-depression:1st mention,V06369,FB6K11,-,-
+V06370: Close relative with manic-depression:2nd mention,V06370,FB6K12,-,-
+V06371: Close relative with manic-depression:3rd mention,V06371,FB6K13,-,-
+V06376: Close relative health problem-other serious chronic mental prob,V06376,FB6L,-,-
+V06377: Close relative with other chronic ment health prob:1st mention,V06377,FB6L11,-,-
+V06378: Close relative with other chronic ment health prob:2nd mention,V06378,FB6L12,-,-
+V06384: Extent health of relative affects your life,V06384,FB8,-,-
+V06385: Help relative w/ washing/dressing/eating due to health probs,V06385,FB9A,-,-
+V06386: Help relative w/ practical things due to health probs,V06386,FB9B,-,-
+V06387: Spend more time w/ relative because of health probs,V06387,FB9C,-,-
+V06323: Spend time doing other things related to health problem,V06323,FB11,-,-
+V06324: Amt of time ave week do things related to health probs,V06324,FB12,-,-
+V06325: Extent health problems cause embarrassment,V06325,FB13,-,-
+V06326: Extent health problems cause worry and anxiousness,V06326,FB14,-,-
+V06327: Health problems impact financial expense/loss,V06327,FB15,-,-
+V06328: Amount of $ health probs cost you in ave mth in past yr,V06328,FB15A,-,-

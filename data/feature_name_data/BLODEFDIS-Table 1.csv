@@ -1,0 +1,69 @@
+Oppositional-Defiant Disorder,CPES,NCSR,NLAAS,NSAL
+V06050: In childhood or adol-often lose temper,V06050,OD1A,-,OD1A
+V06051: In childhood or adol-often argue with adults,V06051,OD1B,-,OD1B
+V06052: In childhood or adol-often disobey rules,V06052,OD1C,-,OD1C
+V06053: In childhood or adol-refuse to follow directions from adults,V06053,OD1D,-,OD1D
+V06054: INTERVIEWER CHECKPOINT,V06054,-,-,OD1D_1
+V06055: In childhood or adol- angry a lot of the time,V06055,OD1E,-,OD1E
+V06056: INTERVIEWER CHECKPOINT,V06056,-,-,OD1E_1
+V06057: In childhood or adol-felt you were treated unfairly,V06057,OD1F,-,OD1F
+V06058: INTERVIEWER CHECKPOINT,V06058,-,-,OD1F_1
+V06059: In childhood or adol-annoy people on purpose,V06059,OD1G,-,OD1G
+V06060: INTERVIEWER CHECKPOINT,V06060,-,-,OD1G_1
+V06061: In childhood or adol-blame others for your mistakes/behavior,V06061,OD1H,-,OD1H
+V06062: INTERVIEWER CHECKPOINT,V06062,-,-,OD1H_1
+V06063: In childhood or adol-did mean things to pay people back,V06063,OD1I,-,OD1I
+V06064: INTERVIEWER CHECKPOINT,V06064,-,-,OD1I_1
+V06065: In childhood or adol-easily take offense at way ppl treated you,V06065,OD1J,-,OD1J
+V06066: INTERVIEWER CHECKPOINT,V06066,-,-,OD1J_1
+V06067: In childhood or adol-easily annoyed by others,V06067,OD1K,-,OD1K
+V06068: INTERVIEWER CHECKPOINT,V06068,-,-,OD2
+V06069: Remember exact age 1st behavior problems for 6+ mths,V06069,OD3,-,OD3
+V06070: Exact age 1st behavior problems for 6+ mths,V06070,OD3A,-,OD3A
+V06071: Estimate age of 1st behavior problems for 6+ mths-compute,V06071,OD3B,-,OD3B
+V06072: Estimate age 1st behavior problems for 6+ mths,V06072,OD3B1,-,OD3B1
+V06073: 1st behavior problems for 6+ mths before first started school,V06073,OD3B2,-,OD3B2
+V06074: 1st behavior problems for 6+ mths before teen,V06074,OD3B3,-,OD3B3
+V06075: Had behavior trouble in past year,V06075,OD4,-,OD4
+V06076: Age last had behavior trouble for 6+ months,V06076,OD4A,-,OD4A
+V06077: Total # of years had trouble with behavior,V06077,OD5,-,OD5
+V06078: Extent behavior trouble interf w/ school/work/social/relations,V06078,OD6,-,OD6
+V06079: INTERVIEWER CHECKPOINT,V06079,-,-,OD7
+V06080: Worst month in past year-behavior interfered w/ home mgmt,V06080,OD8A,-,OD8A
+V06081: Worst month in past year-behavior interfered w/ ability to work,V06081,OD8B,-,OD8B
+V06082: Worst month in past year-behav interf w/ form/maint relations,V06082,OD8C,-,OD8C
+V06083: Worst month in past year-behavior interfered w/ social life,V06083,OD8D,-,OD8D
+V06084: INTERVIEWER CHECKPOINT,V06084,-,-,OD9
+V06085: # days past yr unable to work due to behavior,V06085,OD10,-,OD10
+V06087: Ever talked to prof about behavior,V06087,OD12,-,-
+V06086: Talked to prof about behavior in past year,V06086,-,-,OD12
+V06089: Age 1st talked to professional about behavior,V06089,OD12A,-,-
+V06088: Ever talked to prof about behavior,V06088,-,-,OD12A
+V06090: Tried to get help from prof for behavior,V06090,-,-,OD12B
+V06091: Reason didn't get help for behavior-1st mention,V06091,-,-,OD12C1
+V06092: Reason didn't get help for behavior-2nd mention,V06092,-,-,OD12C2
+V06093: Was this 1st time saw prof for behavior,V06093,-,-,OD13
+V06094: Age 1st saw prof for behavior,V06094,-,-,OD14
+V06095: Saw a psychiatrist for behavior,V06095,-,-,OD15A
+V06096: Saw other mental health prof for behavior,V06096,-,-,OD15B
+V06097: Saw family doctor for behavior,V06097,-,-,OD15C
+V06098: Saw other medical doctor for behavior,V06098,-,-,OD15D
+V06099: Saw other health prof for behavior,V06099,-,-,OD15E
+V06100: Saw religious/spiritual advisor for behavior,V06100,-,-,OD15F
+V06101: Saw other healer for behavior,V06101,-,-,OD15G
+V06102: Professional was helpful,V06102,-,-,OD16
+V06103: Treatment received for behavior-1st mention,V06103,-,-,OD171
+V06104: Treatment received for behavior-2nd mention,V06104,-,-,OD172
+V06105: Treatment received for behavior-3rd mention,V06105,-,-,OD173
+V06109: Received help from family/friends/acquaint for behavior,V06109,-,-,OD19
+V06110: Tried to get help from family/friends/acquaint for behavior,V06110,-,-,OD19A
+V09205: Why not ODD help from fam/friends-1st mention,V09205,-,-,OD19B1
+V09206: Why not ODD help from fam/friends-2nd mention,V09206,-,-,OD19B2
+V06111: Received helpful/effective treatment for behavior,V06111,OD23,-,-
+V06112: Age 1st got helpful/effective treatment for behavior,V06112,OD23A,-,-
+V06113: # profs talked to about behavior incl helpful trmt doc,V06113,OD23B,-,-
+V06114: # professionals ever talked to about behavior,V06114,OD23C,-,-
+V06115: Received professional treatment for behaviors in past 12 mths,V06115,OD25,-,-
+V06116: Hospitalized overnight for behavior,V06116,OD26,-,OD18
+V06117: Age 1st hospitalized overnight for behavior,V06117,OD26A,-,-
+V06118: INTERVIEWER CHECKPOINT,V06118,-,-,OD27

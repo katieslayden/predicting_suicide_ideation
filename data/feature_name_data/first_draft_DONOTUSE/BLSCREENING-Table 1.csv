@@ -1,0 +1,249 @@
+Screening,CPES,NCSR,NLAAS,NSAL
+V00232: Smoker,V00232,SC7,SC7,-
+V00233: Physical health rating,V00233,SC8_1,SC8_1,C8
+V00234: Mental health rating,V00234,SC8_2,SC8_2,C8B
+V00240: General health status compared to year ago,V00240,SC9A,-,-
+V00241: General health how much better/worse than year ago,V00241,SC9B,-,-
+V00242: Frequency trouble sleeping or staying asleep,V00242,SC9C,-,-
+"V00243: Frequency bothered by nervousness, fidgety, tense",V00243,SC9D,-,-
+V00244: Frequency bothered by headaches,V00244,SC9E,-,-
+V00245: Frequency of loss of appetite,V00245,SC9F,-,-
+V00246: Freq bothered by upset stomach,V00246,SC9G,-,-
+V00247: Extent health probs put in risk of dying earlier than age grp,V00247,SC9H,-,-
+V00235: Freq of vig activity in summer greater than 15min,V00235,SC9_01,-,-
+V00236: Freq of vig activity in winter greater than 15min,V00236,SC9_02,-,-
+V00237: Freq of mod activity in summer greater than 30min,V00237,SC9_03,-,-
+V00238: Freq of mod activity in winter greater than 30min,V00238,SC9_04,-,-
+V00239: # days past month PH/MH/SU limit daily activities,V00239,SC9_1,SC9_1,-
+V00252: Difficulty in learn/remember/concentrate due to condition,V00252,SC10_1A,SC10_1A,-
+V00253: Difficulty getting along with others due to condition,V00253,SC10_1B,SC10_1B,-
+V00254: Difficulty dress/bathe/getting around house due to cond,V00254,SC10_1C,SC10_1C,-
+V00255: Difficulty leave home alone/go doctor due to condition,V00255,SC10_1D,SC10_1D,-
+V00256: Difficulty working at job/business due to condition,V00256,SC10_1E,SC10_1E,-
+V00257: Difficulty participating in school/housework/daily activities,V00257,SC10_1F,SC10_1F,-
+V00258: Limited in past 3 months due to health problem,V00258,SC10_1H,-,-
+V00259: Require help w/ personal care needs,V00259,SC10_2,-,-
+V00260: Require help w/ routine needs,V00260,SC10_3,-,-
+V00264: Have learning disability,V00264,SC10_4D,SC10_4D,-
+V00265: Have physical disability,V00265,SC10_4E,SC10_4E,-
+V00266: Have cond that substantially limits physical activity,V00266,SC10_4F,SC10_4F,-
+V00267: Have emotional/mental disability,V00267,SC10_4G,SC10_4G,-
+V00273: Learning disability:1st mention,V00273,SC10_5C1,-,-
+V00274: Learning disability:2nd mention,V00274,SC10_5C2,-,-
+V00281: Other physical disability:1st mention,V00281,SC10_5E1,-,-
+V00282: Other physical disability:2nd mention,V00282,SC10_5E2,-,-
+V00283: Other physical disability:3rd mention,V00283,SC10_5E3,-,-
+V00284: Other physical disability:4th mention,V00284,SC10_5E4,-,-
+V00285: Other physical disability:5th mention,V00285,SC10_5E5,-,-
+V00287: Learning disability:1st mention,V00287,SC10_5E11,-,-
+V00335: Physical Handicap: Recoded to Number of Mentions,V00335,SC10_5EB01,-,-
+V00292: Physical illness:1st mention,V00292,SC10_5E201,-,-
+V00303: Physical illness:2nd mention,V00303,SC10_5E202,-,-
+V00307: Physical illness:3rd mention,V00307,SC10_5E203,-,-
+V00308: Physical illness:4th mention,V00308,SC10_5E204,-,-
+V00309: Physical illness:5th mention,V00309,SC10_5E205,-,-
+V00310: Physical illness:6th mention,V00310,SC10_5E206,-,-
+V00311: Physical illness:7th mention,V00311,SC10_5E207,-,-
+V00312: Physical illness:8th mention,V00312,SC10_5E208,-,-
+V00314: Mental illness:1st mention,V00314,SC10_5E301,-,-
+V00325: Mental illness:2nd mention,V00325,SC10_5E302,-,-
+V00328: Mental illness:3rd mention,V00328,SC10_5E303,-,-
+V00329: Mental illness:4th mention,V00329,SC10_5E304,-,-
+V00330: Mental illness:5th mention,V00330,SC10_5E305,-,-
+V00331: Mental illness:6th mention,V00331,SC10_5E306,-,-
+V00332: Mental illness:7th mention,V00332,SC10_5E307,-,-
+V00355: Mentioned mental or emotion disability:1st mention,V00355,SC10_5I01,-,-
+V00366: Mentioned mental or emotion disability:2nd mention,V00366,SC10_5I02,-,-
+V00369: Mentioned mental or emotion disability:3rd mention,V00369,SC10_5I03,-,-
+V00370: Mentioned mental or emotion disability:4th mention,V00370,SC10_5I04,-,-
+V00371: Mentioned mental or emotion disability:5th mention,V00371,SC10_5I05,-,-
+V00372: Mentioned mental or emotion disability:6th mention,V00372,SC10_5I06,-,-
+V00373: Mentioned mental or emotion disability:7th mention,V00373,SC10_5I07,-,-
+V00374: Mentioned mental or emotion disability:8th mention,V00374,SC10_5I08,-,-
+V00375: Mentioned mental or emotion disability:9th mention,V00375,SC10_5I09,-,-
+V00356: Mentioned mental or emotion disability:10th mention,V00356,SC10_5I10,-,-
+V00357: Mentioned mental or emotion disability:11th mention,V00357,SC10_5I11,-,-
+V00446: What disability would they think you have:1st mention,V00446,SC10_7AA1,-,-
+V00378: Physical handicap:1st mention,V00378,SC10_7A01,-,-
+V00403: Physical illness:1st mention,V00403,SC10_7A201,-,-
+V00414: Physical illness:2nd mention,V00414,SC10_7A202,-,-
+V00425: Mental illness:1st mention,V00425,SC10_7A301,-,-
+V00436: Mental illness:2nd mention,V00436,SC10_7A302,-,-
+V00452: How long had these difficulties mentioned,V00452,SC10_8B,-,-
+"V00453: Difficulties unit of time, SC10.8B",V00453,SC10_8B1,-,-
+V00454: Had difficulties longer than 3 months,V00454,SC10_8B2,-,-
+V00455: How long limited activity due to difficulties in 3 mths,V00455,SC10_8C,-,-
+V00456: Limited activity unit of time,V00456,SC10_8C1,-,-
+V00458: How long assisted care for personal/routine needs,V00458,SC10_8D,-,-
+"V00459: Assisted care unit time, SC10.8D",V00459,SC10_8D1,-,-
+V00460: Has assisted care longer than 3 months,V00460,SC10_8D2,-,-
+V00529: What phys or emo cond causes difficulty:1st mention,V00529,SC10_8FF1,-,-
+V00530: What phys or emo cond causes difficulty:2nd mention,V00530,SC10_8FF2,-,-
+V00461: Physical handicap:1st mention,V00461,SC10_8F01,-,-
+V00481: Learning disability:1st mention,V00481,SC10_8F21,-,-
+V00486: Physical illness:1st mention,V00486,SC10_8F201,-,-
+V00497: Physical illness:2nd mention,V00497,SC10_8F202,-,-
+V00501: Physical illness:3rd mention,V00501,SC10_8F203,-,-
+V00502: Physical illness:4th mention,V00502,SC10_8F204,-,-
+V00503: Physical illness:5th mention,V00503,SC10_8F205,-,-
+V00508: Mental illness:1st mention,V00508,SC10_8F301,-,-
+V00519: Mental illness:2nd mention,V00519,SC10_8F302,-,-
+V00522: Mental illness:3rd mention,V00522,SC10_8F303,-,-
+V00523: Mental illness:4th mention,V00523,SC10_8F304,-,-
+V00524: Mental illness:5th mention,V00524,SC10_8F305,-,-
+V00525: Mental illness:6th mention,V00525,SC10_8F306,-,-
+V00526: Mental illness:7th mention,V00526,SC10_8F307,-,-
+V00603: Disability causes limitations past 3 mths:1st mention,V00603,SC10_8GG1,-,-
+V00604: Disability causes limitations past 3 mths:2nd mention,V00604,SC10_8GG2,-,-
+V00535: Physical handicap:1st mention,V00535,SC10_8G01,-,-
+V00560: Physical illness:1st mention,V00560,SC10_8G201,-,-
+V00571: Physical illness:2nd mention,V00571,SC10_8G202,-,-
+V00575: Physical illness:3rd mention,V00575,SC10_8G203,-,-
+V00576: Physical illness:4th mention,V00576,SC10_8G204,-,-
+V00582: Mental illness:1st mention,V00582,SC10_8G301,-,-
+V00593: Mental illness:2nd mention,V00593,SC10_8G302,-,-
+V00677: Disab causes assist care for pers/rout needs:1st mention,V00677,SC10_8HH1,-,-
+V00248: How long activities limited because condition/problem,V00248,SC10_12A,SC10_12A,-
+V00249: Unit of time activities limited,V00249,SC10_12B,SC10_12B,-
+V00250: Activities limited longer than 3 months,V00250,SC10_12C,-,-
+V00251: # describes amt health probs limit activities in past 3 mths,V00251,SC10_14,SC10_14,-
+V00683: Willing careful response for following questions,V00683,SC19,SC19,-
+V00684: Fear or panic attack leaving frightened/anxious/uneasy,V00684,SC20,SC20,SC20
+V00688: Attack leads to phys symptoms/loss control/dire outcome,V00688,SC20A,SC20A,SC20A
+V00689: Anxiety attack leading to fear of losing mind,V00689,-,SC20B,-
+V00685: Anger attack leading to breaking item of some value,V00685,SC20_1,SC20_1,SC20_1
+V00686: Anger attack leading to hitting/attempt hitting person,V00686,SC20_2,SC20_2,SC20_2
+V00687: Anger attack leading to threat of harm to person,V00687,SC20_3,SC20_3,SC20_3
+V00690: Sad/empty/depressed for several day period,V00690,SC21,SC21,SC21
+V00691: Discouraged about life for several day period,V00691,SC22,SC22,SC22
+V00692: Lost interest in enjoyable things for several day period,V00692,SC23,SC23,SC23
+V00693: Life seems meaningless for several day period,V00693,-,SC23A,-
+V00694: Energetic/restless/talkative/unusual behavior period,V00694,SC24,SC24,SC24
+V00695: Irritable/grumpy/bad mood for several day period,V00695,SC25,SC25,SC25
+V00696: Irritation led to shout/argue/hit for several day period,V00696,SC25A,SC25A,SC25A
+V00697: Restless/uncontrolled thoughts and behavior period,V00697,-,SC25B,-
+V00698: Worried more than others about same problems,V00698,SC26,SC26,SC26
+V00708: More nervous/anxious than most with same problems,V00708,SC26A,SC26A,SC26A
+V00709: Anxious/worried most days for one month or more,V00709,SC26B,SC26B,SC26B
+V00710: Excessive worries/nervous when on the edge,V00710,-,SC26C,-
+V00699: Family worried about health due to excess smoking,V00699,SC26_1,SC26_1,SC26_1
+V00700: Age first smoked,V00700,-,SC26_1B1,-
+V00701: Before your teens,V00701,-,SC26_1B2,-
+V00702: Before your twenties,V00702,-,SC26_1B3,-
+V00703: How many days smoke in last year,V00703,-,SC26_1C,-
+V00704: How many cigarettes per day last year,V00704,-,SC26_1E,-
+V00705: Family worried or compl about drug/alcohol use,V00705,SC26_2,SC26_2,SC26_2
+V00706: Alcohol/drug use caused problems/argue with others,V00706,SC26_3,SC26_3,SC26_3
+V00707: Alcohol/drugs interfered with responsibilities,V00707,SC26_4,SC26_4,SC26_4
+"V00715: Strong fear of bugs, snakes, animals",V00715,SC27A,SC27A,SC27A
+V00716: Strong fear of still water/weather events,V00716,SC27B,SC27B,SC27B
+V00717: Strong fear of going to doc or hosp/injections/blood/injury,V00717,SC27C,SC27C,SC27C
+V00718: Strong fear of closed spaces,V00718,SC27D,SC27D,SC27D
+V00719: Strong fear of heights,V00719,SC27E,SC27E,SC27E
+V00720: Strong fear of flying/airplanes,V00720,SC27F,SC27F,SC27F
+V00711: INTERVIEWER CHECKPOINT,V00711,-,SC27_1,SC27_1
+V00712: Upset/nervous when faced specified fear(s),V00712,SC27_2,SC27_2,SC27_2
+V00713: Avoid situation(s) due to fear,V00713,SC27_3,SC27_3,SC27_3
+V00714: Think fear stronger than normal,V00714,SC27_4,SC27_4,SC27_4
+V00721: INTERVIEWER CHECKPOINT,V00721,-,-,SC28
+V00722: Extremely afraid or shy in social situations,V00722,SC29,SC29,SC29
+V00727: Afraid/uncomfortable with public speaking,V00727,SC29A,SC29A,SC29A
+V00723: Very upset/nervous in social sit or in front of group,V00723,SC29_1,SC29_1,SC29_1
+V00724: Avoid social sit or activity in front of group due to fear,V00724,SC29_2,SC29_2,SC29_2
+V00725: Think social fear stronger than normal,V00725,SC29_3,SC29_3,SC29_3
+V00726: INTERVIEWER CHECKPOINT,V00726,-,SC29_4,SC29_4
+V00728: Afraid of crowds/public places/traveling,V00728,SC30,SC30,SC30
+V00729: Upset/nervous when in crowds/public places/traveling,V00729,SC30_1,SC30_1,SC30_1
+V00730: Avoid crowds/public places/traveling due to fear,V00730,SC30_2,SC30_2,SC30_2
+V00731: Think fear stronger than normal,V00731,SC30_3,SC30_3,SC30_3
+V00732: INTERVIEWER CHECKPOINT,V00732,-,SC30_4,SC30_4
+V00733: 6-10 more troub than most with concentration for 6+ mths,V00733,SC31,-,-
+V00735: Concentration probs before age 7,V00735,-,SC31,-
+V00734: Concentration probs childhood,V00734,-,-,SC31
+V00736: Restless led to interrupt/troub wait turn 6+ mths in chldhd,V00736,SC32,-,-
+V00737: Fidgety childhood,V00737,-,SC32,SC32
+V00738: Freq in trouble with adults for 6+ mths in chldhd or adol,V00738,SC33,SC33,SC33
+V00739: Lie/steal/break rules as child or teen,V00739,SC33_1,SC33_1,SC33_1
+V00740: Broke into cars/set fires/destroy prop as child/teen,V00740,SC33_2,SC33_2,SC33_2
+V00741: Run away/freq hooky/stay out too late as child/teen,V00741,SC33_3,SC33_3,SC33_3
+V00742: Separation anxiety for 1+ mth as child,V00742,SC34,SC34,SC34
+V00744: Ever separation prob gt 1mo when adult,V00744,SC35,-,-
+V00743: Separation anxiety for 1+ mth as adult,V00743,-,SC35,SC35
+V00745: INTERVIEWER CHECKPOINT,V00745,-,SC35_1,-
+V00746: INTERVIEWER CHECKPOINT,V00746,-,-,SC36
+V00747: Felt out of control due to nervous attack,V00747,-,SCAT1,-
+V00749: INTERVIEWER CHECKPOINT,V00749,-,SCS1_0,-
+V00748: Night in hosp/facil for mental health/drug/alc/nerves/emot,V00748,-,SCS1,-
+V00750: Psychiatrist for mental health/drug/alc/nerves/emot,V00750,-,SCS2A,-
+V00751: Gen pract or doc for ment health/drug/alc/nerves/emot,V00751,-,SCS2B,-
+V00752: Other med doc for mental health/drug/alc/nerves/emot,V00752,-,SCS2C,-
+V00753: Psychologist for mental health/drug/alc/nerves/emot,V00753,-,SCS2D,-
+V00754: Social worker for mental health/drug/alc/nerves/emot,V00754,-,SCS2E,-
+V00755: Counselor for mental health/drug/alc/nerves/emot,V00755,-,SCS2F,-
+V00756: Other ment health prof for ment health/drug/alc/nerve/emot,V00756,-,SCS2G,-
+V00757: Nurse/OT/other health pro for ment health/drg/alc/nerve/emo,V00757,-,SCS2H,-
+V00758: Relig or spiritual adv for mental health/drug/alc/nerves/emo,V00758,-,SCS2I,-
+V00759: Other healer for mental health/drug/alc/nerves/emot,V00759,-,SCS2J,-
+V00760: Age first time psychiatrist,V00760,-,SCS3A,-
+V00770: When last saw psychiatrist,V00770,-,SCS4A,-
+V00780: Times saw psychiatrist last 12 months,V00780,-,SCS5A,-
+V00761: Age first time GP or family doc,V00761,-,SCS3B,-
+V00771: When last saw GP or family doc,V00771,-,SCS4B,-
+V00781: Times saw GP or family doc last 12 months,V00781,-,SCS5B,-
+V00762: Age first time other medical doc,V00762,-,SCS3C,-
+V00772: When last saw other med doc,V00772,-,SCS4C,-
+V00782: Times saw other med doc last 12 months,V00782,-,SCS5C,-
+V00763: Age first time psychologist,V00763,-,SCS3D,-
+V00773: When last saw psychologist,V00773,-,SCS4D,-
+V00783: Times saw psychologist last 12 months,V00783,-,SCS5D,-
+V00764: Age first time social worker,V00764,-,SCS3E,-
+V00774: When last saw social worker,V00774,-,SCS4E,-
+V00784: Times saw social worker last 12 months,V00784,-,SCS5E,-
+V00765: Age first time counselor,V00765,-,SCS3F,-
+V00775: When last saw counselor,V00775,-,SCS4F,-
+V00785: Times saw counselor last 12 months,V00785,-,SCS5F,-
+V00766: Age first time other mental health prof,V00766,-,SCS3G,-
+V00776: When last saw other mental health prof,V00776,-,SCS4G,-
+V00786: Times saw other mental health prof last 12 months,V00786,-,SCS5G,-
+"V00767: Age first time nurse, OT, other health prof",V00767,-,SCS3H,-
+"V00777: When last saw nurse, OT, other health prof",V00777,-,SCS4H,-
+"V00787: Times saw nurse, OT, other health last 12 months",V00787,-,SCS5H,-
+V00768: Age first time relig or spiritual advisor,V00768,-,SCS3I,-
+V00778: When last saw relig or spiritual advisor,V00778,-,SCS4I,-
+V00788: Times saw relig or spiritual advisor last 12 months,V00788,-,SCS5I,-
+V00769: Age first time other healer,V00769,-,SCS3J,-
+V00779: When last saw other healer,V00779,-,SCS4J,-
+V00789: Times saw other healer last 12 months,V00789,-,SCS5J,-
+V00790: Internet support group for mental health/drug/alc/nerves/emo,V00790,-,SCS6A,-
+V00791: Self-help group for mental health/drug/alc/nerves/emo,V00791,-,SCS6B,-
+V00792: Hotline for mental health/drug/alc/nerves/emo,V00792,-,SCS6C,-
+V00793: Psych counseling with professional for 30+ min,V00793,-,SCS6D,-
+V00794: Type of professional:1st mention,V00794,-,SCS6G_01,-
+V00797: Type of professional:2nd mention,V00797,-,SCS6G_02,-
+V00798: Type of professional:3rd mention,V00798,-,SCS6G_03,-
+V00799: Type of professional:4th mention,V00799,-,SCS6G_04,-
+V00800: Type of professional:5th mention,V00800,-,SCS6G_05,-
+V00801: Type of professional:6th mention,V00801,-,SCS6G_06,-
+V00802: Type of professional:7th mention,V00802,-,SCS6G_07,-
+V00803: Type of professional:8th mention,V00803,-,SCS6G_08,-
+V00804: Type of professional:9th mention,V00804,-,SCS6G_09,-
+V00795: Type of professional:10th mention,V00795,-,SCS6G_10,-
+V00805: Age first used internet support group,V00805,-,SCS7A,-
+V00809: When last use internet support group,V00809,-,SCS8A,-
+V00813: Times used internet support group last 12 mths,V00813,-,SCS9A,-
+V00806: Age first used self-help group,V00806,-,SCS7B,-
+V00810: When last use self-help group,V00810,-,SCS8B,-
+V00814: Times used self-help group last 12 mths,V00814,-,SCS9B,-
+V00807: Age first used hot line,V00807,-,SCS7C,-
+V00811: When last use hot line,V00811,-,SCS8C,-
+V00815: Times used hotline last 12 mths,V00815,-,SCS9C,-
+V00808: Age first used professional counsel 30+ min,V00808,-,SCS7D,-
+V00812: When last use professional counsel 30+ min,V00812,-,SCS8D,-
+V00816: Times used professional counsel last 12 mths 30+ min,V00816,-,SCS9D,-
+V00817: Medicine for mental health/drug/alc/nerves/emo from prof,V00817,-,SCS10,-
+V00818: Type professional gave meds:1st mention,V00818,-,SCS10A_1,-
+V00819: Type professional gave meds:2nd mention,V00819,-,SCS10A_2,-
+V00820: Type professional gave meds:3rd mention,V00820,-,SCS10A_3,-
+V00821: Type professional gave meds:4th mention,V00821,-,SCS10A_4,-
+V00822: Type professional gave meds:5th mention,V00822,-,SCS10A_5,-
+V00826: Age first time given medicine for mental health,V00826,-,SCS11,-

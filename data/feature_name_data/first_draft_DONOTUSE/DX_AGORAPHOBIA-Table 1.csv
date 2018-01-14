@@ -1,0 +1,16 @@
+DX Agoraphobia,CPES,NCSR,NLAAS,NSAL
+V08287: ICD Agoraphobia with Panic Disorder (30 day),V08287,I_AGP30,I_AGP30,I_AGP30
+V08286: ICD Agoraphobia with Panic Disorder (12Mo),V08286,I_AGP12,I_AGP12,I_AGP12
+V08512: ICD Agoraphobia with Panic Disorder (LifeT),V08512,ICD_AGP,ICD_AGP,ICD_AGP
+V07320: ICD Agoraphobia with Panic Disorder Onset,V07320,AGP_ONI,AGP_ONI,AGP_ONI
+V07325: ICD Agoraphobia with Panic Disorder Recency,V07325,AGP_RECI,AGP_RECI,AGP_RECI
+V07514: DSM-IV Agoraphobia without Panic Disorder (30Day),V07514,D_AGO30,D_AGO30,D_AGO30
+V07513: DSM-IV Agoraphobia without Panic Disorder (12Mo),V07513,D_AGO12,D_AGO12,D_AGO12
+V07829: DSM-IV Agoraphobia without Panic Disorder (LifeT),V07829,DSM_AGO,DSM_AGO,DSM_AGO
+V07312: DSM-IV Agoraphobia without Panic Disorder Onset,V07312,AGO_OND,AGO_OND,AGO_OND
+V07315: DSM-IV Agoraphobia without Panic Disorder Recency,V07315,AGO_RECD,AGO_RECD,AGO_RECD
+V07516: DSM-IV Agoraphobia with Panic Disorder (30Day),V07516,D_AGP30,D_AGP30,D_AGP30
+V07515: DSM-IV Agoraphobia with Panic Disorder (12Mo),V07515,D_AGP12,D_AGP12,D_AGP12
+V07830: DSM-IV Agoraphobia with Panic Disorder (LifeT),V07830,DSM_AGP,DSM_AGP,DSM_AGP
+V07319: DSM-IV Agoraphobia with Panic Disorder Onset,V07319,AGP_OND,AGP_OND,AGP_OND
+V07323: DSM-IV Agoraphobia with Panic Disorder Recency,V07323,AGP_RECD,AGP_RECD,AGP_RECD

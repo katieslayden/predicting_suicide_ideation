@@ -1,0 +1,173 @@
+Generalized Anxiety Disorder,CPES,NCSR,NLAAS,NSAL
+V01739: G1_INTR1,V01739,-,G1INTR1,-
+V01740: G1_INTR2,V01740,-,G1INTR2,-
+V01741: G1_INTR3,V01741,-,G1INTR3,-
+V01742: G1_INTR4,V01742,-,G1INTR4,-
+V01743: Worried period-what was anxious about-1st mention,V01743,G101,G1_01,GA101
+V01744: Worried period-what was anxious about-2nd mention,V01744,G102,G1_02,GA102
+V01745: Worried period-what was anxious about-3rd mention,V01745,G103,G1_03,GA103
+V01746: Worried period-what was anxious about-4th mention,V01746,G104,G1_04,GA104
+V01747: Worried period-what was anxious about-5th mention,V01747,G105,G1_05,GA105
+V01748: Worried period-what was anxious about-6th mention,V01748,G106,G1_06,GA106
+V01749: Worried period-what was anxious about-7th mention,V01749,G107,G1_07,GA107
+V01774: Worried period-what was anxious about-8th mention,V01774,G108,G1_08,GA108
+V01750: Worried period-what was anxious about-9th mention,V01750,G109,G1_09,GA109
+V01751: Worried period-what was anxious about-10th mention,V01751,G110,G1_10,GA110
+V01752: Worried period-what was anxious about-11th mention,V01752,G111,G1_11,GA111
+V01753: Worried period-what was anxious about-12th mention,V01753,G112,G1_12,GA112
+V01754: Worried period-what was anxious about-13th mention,V01754,G113,G1_13,GA113
+V01755: Worried period-what was anxious about-14th mention,V01755,G114,G1_14,GA114
+V01756: Worried period-what was anxious about-15th mention,V01756,G115,G1_15,GA115
+V01757: Worried period-what was anxious about-16th mention,V01757,G116,G1_16,GA116
+V01758: Worried period-what was anxious about-17th mention,V01758,G117,G1_17,GA117
+V01759: Worried period-what was anxious about-18th mention,V01759,G118,G1_18,GA118
+V01760: Worried period-what was anxious about-19 mention,V01760,G119,G1_19,-
+V01761: Worried period-what was anxious about-20th mention,V01761,G120,G1_20,-
+V01762: Worried period-what was anxious about-21st mention,V01762,G121,G1_21,-
+V01763: Worried period-what was anxious about-22nd mention,V01763,G122,G1_22,-
+V01764: Worried period-what was anxious about-23th mention,V01764,G123,G1_23,-
+V01765: Worried period-what was anxious about-24th mention,V01765,G124,G1_24,-
+V01766: Worried period-what was anxious about-25th mention,V01766,G125,G1_25,-
+V01767: Worried period-what was anxious about-26th mention,V01767,G126,G1_26,-
+V01775: INTERVIEWER CHECKPOINT,V01775,-,G2,GA2
+V01776: Ever think worry/anxious/nervous excessive,V01776,G3,G3,GA3
+V01777: How often hard to control worry/anxious/nervous,V01777,G4,G4,GA4
+V01778: Freq so nervous that could not think of else regardless,V01778,G4A,G4A,GA4A
+V01779: INTERVIEWER CHECKPOINT,V01779,-,G4B,GA4B
+V01780: Longest period mths/years worry/anxious/nerv most days,V01780,G5,G5,GA5
+V01781: Worried period of time last 6 months or longer,V01781,-,G5_1,GA5_1
+V01782: Worried period of time last 1 month or longer,V01782,-,G5_2,GA5_2
+"V01783: Unit of time worried 1+ mths, G5",V01783,G5A,G5A,GA5A
+V01784: INTERVIEWER CHECKPOINT,V01784,-,G6,GA6
+V01785: Worst worried mth +- felt restless/on edge,V01785,G9A,G9A,GA9A
+V01786: Worst worried mth +- got tired easily,V01786,G9B,G9B,GA9B
+V01787: Worst worried mth +- more irritable,V01787,G9C,G9C,GA9C
+V01788: Worst worried mth + - difficulty concentrate,V01788,G9D,G9D,GA9D
+V01789: Worst worried mth +- tense/sore muscles,V01789,G9E,G9E,GA9E
+V01790: Worst worried mth +-sleep problems,V01790,G9F,G9F,GA9F
+V01791: Worst worried mth +-heart racing,V01791,G10A,G10A,GA10A
+V01792: Worst worried mth +-often sweat,V01792,G10B,G10B,GA10B
+V01793: Worst worried mth +- tremble,V01793,G10C,G10C,GA10C
+V01794: Worst worried mth +- had dry mouth,V01794,G10D,G10D,GA10D
+V01795: Worst worried mth +- felt sad/depressed most of time,V01795,G10E,G10E,GA10E
+V01796: INTERVIEWER CHECKPOINT,V01796,-,G11,GA11
+V01797: INTERVIEWER CHECKPOINT,V01797,-,G12,GA12
+V01799: Worst worried mth +- feel dizzy/lightheaded,V01799,G13A,G13A,GA13A
+V01800: Worst worried month +-short of breath,V01800,G13B,G13B,GA13B
+V01801: Worst worried mth +-felt like choking,V01801,G13C,G13C,GA13C
+V01802: Worst worried month+- had chest pain,V01802,G13D,G13D,GA13D
+V01803: Worst worried month +- had stomach pain,V01803,G13E,G13E,GA13E
+V01804: Worst worried mth +-felt nausea,V01804,G13F,G13F,GA13F
+V01805: Worst worried mth +-feel unreal,V01805,G13G,G13G,GA13G
+V01806: Worst worried mth +-feel things unreal,V01806,G13H,G13H,GA13H
+V01807: Worst worried mth +-fear of losing control/going crazy,V01807,G13I,G13I,GA13I
+V01808: Worst worried mth +-fear passing out,V01808,G13J,G13J,GA13J
+V01809: Worst worried mth +-afraid you might die,V01809,G13K,G13K,GA13K
+V01810: Worst worried mth +hot flushes/chills,V01810,G13L,G13L,GA13L
+V01811: Worst worried mth +-numbness,V01811,G13M,G13M,GA13M
+V01812: Worst worried mth +-lump in throat,V01812,G13N,G13N,GA13N
+V01813: Worst worried mth +-easily startled,V01813,G13O,G13O,GA13O
+V01814: INTERVIEWER CHECKPOINT,V01814,-,G14,GA14
+V01815: Severity of emotional distress exp due to worry/anxiety,V01815,G15,G15,GA15
+V01816: Extent which wry/anx/nerv interf with work/social/relations,V01816,G17,G17,GA17
+V01818: INTERVIEWER CHECKPOINT,V01818,-,G17_1,-
+V01817: INTERVIEWER CHECKPOINT,V01817,-,-,GA17_1
+V01819: How often unable work/acts due to worry/anxious/nervous,V01819,G17A,G17A,GA17A
+V01820: Worry/anxious/nervous ever due to phys ill/med/drugs/alc,V01820,G18A,G18A,GA18A
+V01821: Worry/anxious/nervous always due to phys ill/med/drug/alc,V01821,G18B,G18B,GA18B
+V01822: Remember age 1st worry/anxious/nervous + other probs,V01822,G26,G26,GA26
+V01823: Age 1st worry/anxious/nervous episode + other probs,V01823,G26A,G26A,GA26A
+V01824: Estimate age 1st worry/anxious/nervous + other probs,V01824,-,-,GA26B
+V01825: Estimate age 1st worry/anxious/nervous + other probs,V01825,AG26B1,AG26B1,GA26B1
+V01826: 1st worry + other problems before started school,V01826,AG26B2,AG26B2,GA26B2
+V01827: 1st worry + other problems before teenager,V01827,AG26B3,AG26B3,GA26B3
+V01828: 1st worry/anx/nerv episode due to stressful exp/out of blue,V01828,G26C,-,GA26C
+V01829: 1st worry/anx/nerv episode due to stressful exp/out of blue,V01829,-,G26C,-
+V01830: Worry/anxious/nervous epis 1+ mth in past year,V01830,G27,G27,GA27
+V01831: Recent worry/anxiety episode,V01831,G27A,G27A,GA27A
+V01832: # of worry/anxious/nervous episodes past year,V01832,G27A_1,G27A_1,GA27A_1
+V01833: INTERVIEWER CHECKPOINT,V01833,-,G27A_2,GA27A_2
+V01836: Length so far of last worried episode,V01836,G27A_4,G27A_4,GA27A_4
+"V01837: Unit of time of last worried episode, G27A.4A",V01837,G27A_4A,G27A_4A,GA27A_4A
+V01838: INTERVIEWER CHECKPOINT,V01838,-,G27A_5,GA27A_5
+V01839: Worried episode ended or still ongoing,V01839,G27A_6,-,GA27A_6
+V01840: Worried episode ended or still ongoing,V01840,-,G27A_6,-
+V01841: Length of 1st worried episode in past year,V01841,G27A_7,G27A_7,GA27A_7
+"V01842: Unit of time of 1st worried episode in past yr, G27A.7",V01842,G27A_7A,G27A_7A,GA27A_7A
+V01843: INTERVIEWER CHECKPOINT,V01843,-,G27A_8,GA27A_8
+V01845: Recent worried episode ended or ongoing,V01845,G27A_9,-,GA27A_9
+V01844: Recent worried episode ended or ongoing,V01844,-,G27A_9,-
+V01846: # of months in past year had worried episode,V01846,G27B,G27B,GA27B
+V01847: Age last time had 1 of these worried episodes,V01847,G27C,G27C,GA27C
+V01848: Lifetime # of worry/anxious/nervous episodes 1+ mth,V01848,G28,G28,GA28
+V01849: INTERVIEWER CHECKPOINT,V01849,-,G29,GA29
+V01850: Length of worried episode,V01850,G30,G30A,GA30A
+V01851: Unit time episode last,V01851,G30A,G30,GA30
+V01852: Length of longest worried episode,V01852,G31,G31A,GA31A
+V01853: # episodes brought on by stressful experience,V01853,G31_1,G31_1,GA31_1
+V01854: Unit time longest episode,V01854,G31A,G31,GA31
+V01855: # years in lifetime having at least 1 episode,V01855,G32,G32,GA32
+V01856: INTERVIEWER CHECKPOINT,V01856,-,G33,GA33
+V01857: Longest continuous # of years w/ 1 + episodes per year,V01857,G34,G34,GA34
+V01858: INTERVIEWER CHECKPOINT,V01858,-,G35,GA35
+V01859: Worst worried mth +-often tense,V01859,G36A,G36A,GA36A
+V01860: Worst worried mth +-often butterflies in stomach,V01860,G36B,G36B,GA36B
+V01861: Worst worried mth +-often restless,V01861,G36C,G36C,GA36C
+V01862: Worst worried mth +-often sudden panic,V01862,G36D,G36D,GA36D
+V01863: Worst worried mth +-often worrying thoughts,V01863,G36E,G36E,GA36E
+V01864: Worst worried mth +-often at ease and relaxed,V01864,G36F,G36F,GA36F
+V01865: Worst worried mth +-often frighten/awful going to happen,V01865,G36G,G36G,GA36G
+V01866: Worried by frightened feeling,V01866,G37,G37,GA37
+V01867: Extent which severe worry interfered w/ home mgmt,V01867,G38A,G38A,GA38A
+V01868: Extent which severe worry interfered w/ ability to work,V01868,G38B,G38B,GA38B
+V01869: Extent which severe worry interf w/ form/maint relations,V01869,G38C,G38C,GA38C
+V01870: Extent which severe worry interfered w/ social life,V01870,G38D,G38D,GA38D
+V01872: INTERVIEWER CHECKPOINT,V01872,-,G39,-
+V01871: INTERVIEWER CHECKPOINT,V01871,-,-,GA39
+V01873: # of days past year unable to work/acts due worry/anxious,V01873,G40,G40,GA40
+V01874: Saw medical doc or professional for worry/anxious/nervous,V01874,G44,G44,GA44A
+V01875: Talked to professional about worry/anx/nerv:1st mention,V01875,-,G44_1_01,-
+V01878: Talked to professional about worry/anx/nerv:2nd mention,V01878,-,G44_1_02,-
+V01879: Talked to professional about worry/anx/nerv:3rd mention,V01879,-,G44_1_03,-
+V01880: Talked to professional about worry/anx/nerv:4th mention,V01880,-,G44_1_04,-
+V01881: Talked to professional about worry/anx/nerv:5th mention,V01881,-,G44_1_05,-
+V01882: Talked to professional about worry/anx/nerv:6th mention,V01882,-,G44_1_06,-
+V01883: Talked to professional about worry/anx/nerv:7th mention,V01883,-,G44_1_07,-
+V01884: Talked to professional about worry/anx/nerv:8th mention,V01884,-,G44_1_08,-
+V01885: Talked to professional about worry/anx/nerv:9th mention,V01885,-,G44_1_09,-
+V01876: Talked to professional about worry/anx/nerv:10th mention,V01876,-,G44_1_10,-
+V01877: Talked to professional about worry/anx/nerv:11th mention,V01877,-,G44_1_11,-
+V01886: Age 1st talked to med professional about worry/anx/nerv,V01886,G44A,G44A,-
+V01887: Received helpful/effective treatment for worry/anxious/nerv,V01887,G56,G56,-
+V01888: Age 1st received helpful/effective trmt for worry/anx/nerv,V01888,G56A,G56A,-
+V01889: # prof talked to for worry/anxiety incl helpful trmt doc,V01889,G56B,G56B,-
+V01890: # professional talked to about worry/anxious/nervous,V01890,G56C,G56C,-
+V01891: Received professional treatment for worry in past 12 mths,V01891,G58,G58,-
+V01892: Hospitalized overnight for worry/anxious/nervous,V01892,G59,G59,GA50
+V01893: # close relatives were worried/anxious people,V01893,G59_1,G59_1,-
+V01894: Age 1st hospitalized overnight for worry/anxious/nervous,V01894,G59A,G59A,GA50A
+V01895: Talked to med doc or prof about worry in past 12 mths,V01895,-,-,GA44
+V01896: Tried to get professional help for worry,V01896,-,-,GA44B
+V01897: Reason didn't get help for worry-1st mention,V01897,-,-,GA44C1
+V01898: Reason didn't get help for worry-2nd mention,V01898,-,-,GA44C2
+V01899: 1st time seen professional for worry,V01899,-,-,GA45
+V01900: Age 1st seen professional for worry,V01900,-,-,GA46
+V01901: Talked to psychiatrist for worry,V01901,-,-,GA47A
+V01902: Talked to other mental health professional for worry,V01902,-,-,GA47B
+V01903: Talked to family doctor for worry,V01903,-,-,GA47C
+V01904: Talked to other medical doctor for worry,V01904,-,-,GA47D
+V01905: Talked to other hlth professional for worry,V01905,-,-,GA47E
+V01906: Talked to religious or spiritual advisor for worry,V01906,-,-,GA47F
+V01907: Talked to healer for worry,V01907,-,-,GA47G
+V01908: Professional was helpful,V01908,-,-,GA48
+V01909: Treatment received for worry-1st mention,V01909,-,-,GA491
+V01910: Treatment received for worry-2nd mention,V01910,-,-,GA492
+V01911: Treatment received for worry-3rd mention,V01911,-,-,GA493
+V01912: Treatment received for worry-4th mention,V01912,-,-,GA494
+V01913: # times hospitalized for worry,V01913,-,-,GA50B
+V01914: Received help from family/friends/acquaint for worry,V01914,-,-,GA51
+V01915: Tried to get help from family/friends/acquaint for worry,V01915,-,-,GA51A
+V09200: Why not GAD help from fam/friends-1st mention,V09200,-,-,GA51B1
+V09201: Why not GAD help from fam/friends-2nd mention,V09201,-,-,GA51B2
+V01916: INTERVIEWER CHECKPOINT,V01916,-,AGNTRSC,-
+V01917: INTERVIEWER CHECKPOINT,V01917,-,-,AGNTRSC

@@ -1,0 +1,40 @@
+Use of Help Resources,CPES,NCSR,NLAAS,NSAL
+V06871: During personal prob-felt at point of nervous breakdown,V06871,-,-,F1
+"V06872: During personal problem-so nervous, couldn't do anything",V06872,-,-,F2
+V06873: Ever felt really down and depressed/couldn't get going,V06873,-,-,F3
+V06874: Most serious personal problem faced in your life,V06874,-,-,F4
+V06875: Most serious problem is ongoing now,V06875,-,-,F6
+V06876: How long ago most serious problem happened,V06876,-,-,F6A
+V06877: Unit of time of most serious problem,V06877,-,-,F6A1
+V06878: How long was most serious incident a problem,V06878,-,-,F6B
+V06879: How long has most serious incident been a problem,V06879,-,-,F6C
+V06880: Person #1 talked to about problem,V06880,-,-,F7A1
+V06881: Gender of person #1,V06881,-,-,F7B1
+V06883: Person #2 talked to about problem,V06883,-,-,F7A2
+V06884: Gender of person #2,V06884,-,-,F7B2
+V06886: Person #3 talked to about problem,V06886,-,-,F7A3
+V06887: Gender of person #3,V06887,-,-,F7B3
+V06889: Person #4 talked to about problem,V06889,-,-,F7A4
+V06890: Gender of person #4,V06890,-,-,F7B4
+V06892: Person #5 talked to about problem,V06892,-,-,F7A5
+V06893: Gender of person #5,V06893,-,-,F7B5
+V06895: Talked to psychiatrist about problem,V06895,-,-,F8AA
+V06896: Location where saw psychiatrist,V06896,-,-,F8BA
+V06898: Talked to other mental health prof about problem,V06898,-,-,F8AB
+V06899: Location where saw other mental health prof,V06899,-,-,F8BB
+V06901: Talked to family doctor about problem,V06901,-,-,F8AC
+V06902: Location where saw family doctor,V06902,-,-,F8BC
+V06904: Talked to other doctor about problem,V06904,-,-,F8AD
+V06905: Location where saw other doctor,V06905,-,-,F8BD
+V06907: Talked to other health prof about problem,V06907,-,-,F8AE
+V06908: Location where saw other health prof,V06908,-,-,F8BE
+V06910: Talked to religious or spiritual advisor about problem,V06910,-,-,F8AF
+V06911: Location where saw clergy,V06911,-,-,F8BF
+V06913: Talked to other healer about problem,V06913,-,-,F8AG
+V06914: Location where saw other healer,V06914,-,-,F8BG
+V06916: Gone to self-help or support group,V06916,-,-,F8AH
+V06917: Location where met w/ support group,V06917,-,-,F8BH
+V06918: Talked to any other prof about problem,V06918,-,-,F8AI
+V06919: Location where saw other prof,V06919,-,-,F8BI
+V06921: Reason didn't get help for problem-1st mention,V06921,-,-,F101
+V06922: Reason didn't get help for problem-2nd mention,V06922,-,-,F102

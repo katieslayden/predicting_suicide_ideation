@@ -1,0 +1,116 @@
+Agoraphobia,CPES,NCSR,NLAAS,NSAL
+V01626: Ever strongly fear being home alone,V01626,AG1,AG1A,AG1
+V01627: Ever strongly fear being in crowds,V01627,AG1B,AG1B,AG1B
+V01628: Ever strongly fear traveling away from home,V01628,AG1C,AG1C,AG1C
+V01629: Ever strongly fear traveling alone or away from home alone,V01629,AG1D,AG1D,AG1D
+V01630: Ever strongly fear using public transportation,V01630,AG1E,AG1E,AG1E
+V01631: Ever strongly fear driving a car,V01631,AG1F,AG1F,AG1F
+V01632: Ever strongly fear standing in line in public places,V01632,AG1G,AG1G,AG1G
+V01633: Ever strongly fear being in stores/malls,V01633,AG1H,AG1H,AG1H
+V01634: Ever strongly fear being in large auditoriums,V01634,AG1I,AG1I,AG1I
+V01635: Ever strongly fear being in restaurants or other public place,V01635,AG1J,AG1J,AG1J
+V01636: Ever strongly fear being in wide open field or street,V01636,AG1K,AG1K,AG1K
+V01637: INTERVIEWER CHECKPOINT,V01637,-,AG2,AG2
+V01638: Remember exact age 1st time had fear of one situation,V01638,AG3INTR1,AG3INTR1,AG3INTR1
+V01639: Remember exact age 1st time had fear of one situation,V01639,AG3INTR2,AG3INTR2,AG3INTR2
+V01640: Age 1st fear when being alone or in public situation,V01640,AG3A,AG3A,AG3A
+V01641: Estimate age 1st fears-computed,V01641,-,-,AG3B
+V01642: Estimate age 1st fears,V01642,AAG3B1,AAG3B1,AG3B1
+"V01643: 1st fears before start school, AG3B",V01643,AAG3B2,AAG3B2,AG3B2
+"V01644: 1st fears before teenager, AG3B",V01644,AAG3B3,AAG3B3,AG3B3
+"V01645: Qualifier, AG3B",V01645,AAG3B4,-,-
+V01646: Fear experienced: being alone or separate from love,V01646,AG4A,AG4A,AG4A
+V01647: Which fear experienced:danger/being robbed or assaulted,V01647,AG4B,AG4B,AG4B
+V01648: Fear experienced: getting sick to stomach or diarrhea,V01648,AG4C,AG4C,AG4C
+V01649: Which fear experienced: having panic attack,V01649,AG4D,AG4D,AG4D
+V01650: Fear experienced: heart attack or other emergency,V01650,AG4E,AG4E,AG4E
+V01651: Fear experienced: physically ill/unable to get help,V01651,AG4F,AG4F,AG4F
+V01652: Fear experienced: difficult or embarrassing to escape,V01652,AG4G,AG4G,AG4G
+V01653: Fear experienced: other terrible things might happen,V01653,AG4H,AG4H,AG4H
+V01654: INTERVIEWER CHECKPOINT,V01654,-,AG6,AG6
+V01655: Age 1st avoid public situations-compute,V01655,-,-,AG6A
+V01656: Age 1st avoid public situations,V01656,AAG6A1,AAG6A1,AG6A1
+"V01657: Avoided public before started school, AAG6A1",V01657,AAG6A2,AAG6A2,AG6A2
+"V01658: Avoided public before teeager, AAG6A1",V01658,AAG6A3,AAG6A3,AG6A3
+V09351: Was it not before teenager,V09351,AAG6A4,-,-
+V01659: Particular event 1st caused fears,V01659,AG8,AG8,AG8
+V01660: Had panic attack as result of event,V01660,AG8A,AG8A,AG8A
+V01661: In most severe fear-heart raced,V01661,AG9A,AG9A,AG9A
+V01662: In most severe fear-sweat,V01662,AG9B,AG9B,AG9B
+V01663: In most severe fear-tremble,V01663,AG9C,AG9C,AG9C
+V01664: In most severe fear-dry mouth,V01664,AG9D,AG9D,AG9D
+V01665: INTERVIEWER CHECKPOINT,V01665,-,AG10,AG10
+V01666: During fear-ever have one/more reaction,V01666,AG11,AG11,AG11
+V01667: During fear-trouble breathing,V01667,AG11A,AG11A,AG11A
+V01668: During fear- feel like choking,V01668,AG11B,AG11B,AG11B
+V01669: During fear-have pain in chest,V01669,AG11C,AG11C,AG11C
+V01670: During fear-sick to stomach,V01670,AG11D,AG11D,AG11D
+V01671: During fear-feel dizzy/faint,V01671,AG11E,AG11E,AG11E
+V01672: During fear-fear losing control/go crazy/pass out,V01672,AG11F,AG11F,AG11F
+V01673: During fear-afraid you might die,V01673,AG11G,AG11G,AG11G
+V01674: During fear-chills/hot flushes,V01674,AG11H,AG11H,AG11H
+V01675: During fear- felt numbness or tingling,V01675,AG11I,AG11I,AG11I
+V01676: During fear-feel like not really there,V01676,AG11J,AG11J,AG11J
+V01677: During fear-feel things unreal/dreamlike,V01677,AG11K,AG11K,-
+V01678: Ever unable to leave home for day due to fear,V01678,AG13,AG13,AG13
+V01679: Length time unable to leave home due to fear,V01679,AG13A,AG13A,AG13A
+"V01680: Unit of time unable to leave home due to fear, AG13A",V01680,AG13A1,AG13A1,AG13A1
+V01681: Unable to leave home without family/friend,V01681,AG14,AG14,AG14
+V01682: Extent fear situations interf with work/social life/relations,V01682,AG15,AG15,AG15
+V01683: Ever time felt emotionally upset/worried/disapp due to fear,V01683,AG16,AG16,AG16
+V01684: Strong fear or avoid situations in the past year,V01684,AG17,AG17,AG17
+V01685: When avoided situations in the past year,V01685,AG17A,AG17A,AG17A
+V01686: Age last time avoided situations due to fear,V01686,AG17B,AG17B,AG17B
+V01687: Severity of fear if faced today with sit that scares most,V01687,AG18,AG18,AG18
+V01688: How often avoid feared situations in the past year,V01688,AG19,AG19,AG19
+V01689: Severe mth-extent to which fear interfere home mgmt,V01689,AG20A,AG20A,AG20A
+V01690: Severe mth-extent to which fear interf with ability to work,V01690,AG20B,AG20B,AG20B
+V01691: Severe month-extent to which fear interf form/maintain rel,V01691,AG20C,AG20C,AG20C
+V01692: Severe month-exent to which fear interfere with social life,V01692,AG20D,AG20D,AG20D
+V01693: INTERVIEWER CHECKPOINT,V01693,-,AG21,-
+V01694: INTERVIEWER CHECKPOINT,V01694,-,-,AG21
+V01695: # of days in past yr unable to carry out acts due to fear,V01695,AG22,AG22,AG22
+V01696: Talked to professional about fear in past 12 mths,V01696,-,-,AG24
+V01697: Ever talked to Medical professional about fear,V01697,AG24,AG24,AG24A
+V01698: Talked to professional about fear:1st mention,V01698,-,AG24_101,-
+V01701: Talked to professional about fear:2nd mention,V01701,-,AG24_102,-
+V01702: Talked to professional about fear:3rd mention,V01702,-,AG24_103,-
+V01703: Talked to professional about fear:4th mention,V01703,-,AG24_104,-
+V01704: Talked to professional about fear:5th mention,V01704,-,AG24_105,-
+V01705: Talked to professional about fear:6th mention,V01705,-,AG24_106,-
+V01706: Talked to professional about fear:7th mention,V01706,-,AG24_107,-
+V01707: Talked to professional about fear:8th mention,V01707,-,AG24_108,-
+V01708: Talked to professional about fear:9th mention,V01708,-,AG24_109,-
+V01699: Talked to professional about fear:10th mention,V01699,-,AG24_110,-
+V01700: Talked to professional about fear:11th mention,V01700,-,AG24_111,-
+V01709: Age 1st time talk professional for fear,V01709,AG24A,AG24A,AG26
+V01710: Tried to get professional help for fear,V01710,-,-,AG24B
+V01711: Reason didn't get help for fear-1st mention,V01711,-,-,AG24C1
+V01712: Reason didn't get help for fear-2nd mention,V01712,-,-,AG24C2
+V01713: 1st time talked to professional about fear,V01713,-,-,AG25
+V01714: Talked to psychiatrist about fear,V01714,-,-,AG27A
+V01715: Talked to other mental health professional about fear,V01715,-,-,AG27B
+V01716: Talked to family doctor about fear,V01716,-,-,AG27C
+V01717: Talked to other medical doctor about fear,V01717,-,-,AG27D
+V01718: Talked to other health professional about fear,V01718,-,-,AG27E
+V01719: Talked to religious or spiritual advisor about fear,V01719,-,-,AG27F
+V01720: Talked to other healer about fear,V01720,-,-,AG27G
+V01721: Professional was helpful,V01721,-,-,AG28
+V01722: Treatment received for fear-1st mention,V01722,-,-,AG291
+V01723: Treatment received for fear-2nd mention,V01723,-,-,AG292
+V01724: Treatment received for fear-3rd mention,V01724,-,-,AG293
+V01725: Treatment received for fear-4th mention,V01725,-,-,AG294
+V01727: # times hospitalized for fear,V01727,-,-,AG30B
+V01728: Received help from family/friends/acquaint for fear,V01728,-,-,AG31
+V01729: Tried to get help from family/friends/acquaint fear,V01729,-,-,AG31A
+V09194: Why not agora help from fam/friends-1st mention,V09194,-,-,AG31B1
+V09195: Why not agora help from fam/friends-2nd mention,V09195,-,-,AG31B2
+V01730: Received helpful/effective treatment for fear,V01730,AG35,AG35,-
+V01731: Age 1st got helpful/effective treatment for fear,V01731,AG35A,AG35A,-
+V01732: Total profs seen for fear incl helpful treatment doc,V01732,AG35B,AG35B,-
+V01733: # of professionals ever talked to about fear,V01733,AG35C,AG35C,-
+V01734: Received professional treatment for fear in past year,V01734,AG37,AG37,-
+V01735: Ever hospitalized overnight for fear?,V01735,AG38,AG38,AG30
+V01736: # of close relatives w/ fear of home alone/crowds/away,V01736,AG38_1,AG38_1,-
+V01737: Age 1st time hospitalized overnight for fear,V01737,AG38A,AG38A,AG30A
+V01738: INTERVIEWER CHECKPOINT,V01738,-,-,AG39

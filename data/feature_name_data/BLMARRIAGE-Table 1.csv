@@ -1,0 +1,77 @@
+Marriage,CPES,NCSR,NLAAS,NSAL
+V05328: Age at first date,V05328,MR1_2,-,-
+V05329: First date before 21,V05329,MR1B,-,-
+V05330: # different people dated before age 21,V05330,MR3,-,-
+V05331: # of your dates at least 2 years older,V05331,MR4_5,-,-
+V05332: # relationships you did list things on list A to your date,V05332,MR5,-,-
+V05333: # relationships your date did things on list A to you,V05333,MR6,-,-
+V05334: # relationships you did things on list B to your date,V05334,MR7,-,-
+V05335: # relationships your date did things on list B to you,V05335,MR8,-,-
+V05336: Person older/younger/same age as you,V05336,MR10_0,-,-
+V05337: # years older/younger,V05337,MR10_1,-,-
+V05338: Ever did anything on list A to this person,V05338,MR10_2,-,-
+V05339: Person did anything on list A to you,V05339,MR11,-,-
+V05340: Ever did anything on list B to this person,V05340,MR12,-,-
+V05341: Person did anything on list B to you,V05341,MR13,-,-
+V05342: Who started physical arguments,V05342,MR15,-,-
+V05344: # times married: Top Code,V05344,MR16A,-,-
+V05346: # marriages ended in divorce/annulment: Top Code,V05346,MR18,-,-
+V05347: Age you married 1st time: Top/Bot Code,V05347,MR19,-,-
+V05348: Length dated 1st spouse before marriage,V05348,MR20,-,-
+"V05349: Unit of time dated 1st spouse before married, MR20",V05349,MR20A,-,-
+V05355: First marriage ended in divorce or widowed,V05355,MR23,-,-
+V05356: First marriage ended in divorce or widowed,V05356,-,MR23,-
+V05357: Age separated 1st spouse for last time,V05357,MR24,MR24,-
+V05362: Length time separate/divorce/widow from most recent spouse,V05362,MR25_4A,-,-
+"V05363: Unit of time separate/divorce/widow from spouse, MR25_4A",V05363,MR25_4B,-,-
+V05365: Length of time living together,V05365,MR35,MR35,-
+"V05367: Unit of time living together, MR35",V05367,MR35A,MR35A,-
+V05369: Length of time married to current spouse,V05369,MR36,MR36,-
+"V05371: Unit of time married to current spouse, MR36",V05371,MR36A,MR36A,-
+V05372: Rate current marriage/relationship,V05372,MR37,MR37,-
+V05373: Freq you and spouse disagree on handling family finances,V05373,MR40A,-,-
+V05374: Freq you and spouse disagree on matters of recreation,V05374,MR40B,-,-
+V05375: Freq you and spouse disagree on friends,V05375,MR40C,-,-
+V05376: Freq you and spouse disagree on philosophy of life,V05376,MR40D,-,-
+V05377: Freq you and spouse disagree on making major decisions,V05377,MR40E,-,-
+V05378: Freq you think things between you and partner are going well,V05378,MR40F,-,-
+V05379: Freq you and your spouse quarrel,V05379,MR40G,-,-
+V05380: Freq regret ever marry/live together,V05380,MR40H,-,-
+V05381: Freq think about divorce/ending relationship,V05381,MR40I,-,-
+V05382: Who has final say in major decisions,V05382,MR41,MR41,-
+V05383: Spouse/partner really cares about you,V05383,MR41_1A,MR41_1A,-
+V05384: Spouse/partner understands the way you feel,V05384,MR41_1B,MR41_1B,-
+V05385: Can rely on spouse/partner to help with serious problems,V05385,MR41_1C,MR41_1C,-
+V05386: Can open up and discuss worries with spouse/partner,V05386,MR41_1D,MR41_1D,-
+V05387: Spouse/partner makes too many demands on you,V05387,MR41_2A,MR41_2A,-
+V05388: Spouse/partner criticizes you,V05388,MR41_2B,MR41_2B,-
+V05389: Spouse/partner lets you down when counting on them,V05389,MR41_2C,MR41_2C,-
+V05390: Spouse/partner gets on nerves,V05390,MR41_2D,MR41_2D,-
+V05391: Lot more/somewhat/only a little more to say than spouse/part,V05391,MR41A,MR41A,-
+V05392: Spouse/part has lot more/somewhat/only a little more to say,V05392,MR41B,MR41B,-
+V05393: Most responsibility for chores,V05393,-,MR41C,-
+V05394: Most responsibility for household expenses,V05394,-,MR41D,-
+V05395: Freq do things on list A to current spouse/partner,V05395,MR42,MR42,-
+V05396: # days did things on list A to current spouse in past year,V05396,MR42A,MR42A,-
+V05397: Freq spouse/partner do things on list A to you,V05397,MR43,MR43,-
+V05398: # days spouse/partner did things on list A to you in past year,V05398,MR43A,MR43A,-
+V05399: Freq do things on list B to spouse/partner,V05399,MR44,MR44,-
+V05400: # days did things on list B to spouse/partner in past year,V05400,MR44A,MR44A,-
+V05401: Freq spouse/partner do things on list B to you,V05401,MR45,MR45,-
+V05402: # days spouse/partner did things on list B to you in past year,V05402,MR45A,MR45A,-
+V05404: Who starts physicial arguments,V05404,MR47,MR47,-
+V05406: How often spouse/partner drinks/use drugs too much,V05406,MR49A,MR49A,-
+V05407: How often spouse/part wastes money needed for other things,V05407,MR49B,-,-
+V05408: How often spouse/partner has extramarital affair,V05408,MR49C,-,-
+V05409: How often spouse/part so depressed interfere w/ normal acts,V05409,MR49D,-,-
+V05410: How often spouse/partner very disagreeable,V05410,MR49E,-,-
+V05411: How often spouse/partner threaten to end relationship,V05411,MR49F,-,-
+V05412: How often spouse/partner has temper tantrums,V05412,MR49G,-,-
+V05413: How often spouse/partner so nervous interfere w/ normal acts,V05413,MR49H,-,-
+V05414: How often spouse/partner has trouble holding job,V05414,MR50,-,-
+V05415: Spouse/partner has trouble holding down a job,V05415,-,MR50,-
+V05418: You and spouse engage in outside interests together,V05418,MR53A,-,-
+V05419: How often you and spouse work together on project,V05419,MR53B,-,-
+V05420: How often you and spouse calmly discuss something,V05420,MR53C,-,-
+V05421: How often you and spouse laugh together,V05421,MR53D,-,-
+V05422: How often you and spouse exchange ideas,V05422,MR53E,-,-

@@ -1,0 +1,52 @@
+Family History,CPES,NCSR,NLAAS,NSAL
+V06924: Any close relatives you know nothing about,V06924,-,-,FH2
+V06925: # relatives you know nothing about,V06925,-,-,FH2A
+V06929: # close relatives w/ depression,V06929,-,-,FH3A
+V06930: # close relatives w/ depression that interfere w/ life,V06930,-,-,FH4A
+V06931: # close relatives that received treatment for depression,V06931,-,-,FH5A
+V06932: # close relatives hospitalized for depression,V06932,-,-,FH6A
+V06933: # close relatives excited/irritabe for 4+ days,V06933,-,-,FH3B
+V06934: # close relatives excited/irritability interfered w/ life,V06934,-,-,FH4B
+V06935: # close relatives received treatment for excited/irritable,V06935,-,-,FH5B
+V06936: # close relatives hospitalized for excited/irritability,V06936,-,-,FH6B
+V06937: # close relatives w/ panic attacks,V06937,-,-,FH3C
+V06938: # close relatives w/ panic attacks that interfere w/ life,V06938,-,-,FH4C
+V06939: # close relatives received treatment for panic attacks,V06939,-,-,FH5C
+V06940: # close relatives hospitalized for panic attacks,V06940,-,-,FH6C
+V06941: # close relatives w/ fear of public places,V06941,-,-,FH3D
+V06942: # close relatives w/ fear of public places that interf w/ life,V06942,-,-,FH4D
+V06943: # close relatives public fear treatment,V06943,-,-,FH5D
+V06944: # close relatives hospitalized for fear of public places,V06944,-,-,FH6D
+V06945: # close relatives w/ severe anxiety,V06945,-,-,FH3E
+V06946: # close relatives w/ anxiety that interferes w/ life,V06946,-,-,FH4E
+V06947: # close relatives received treatment for severe anxiety,V06947,-,-,FH5E
+V06948: # close relatives hospitalized for severe anxiety,V06948,-,-,FH6E
+V06949: # close relatives w/ fear public speaking,V06949,-,-,FH3F
+V06950: # close relatives w/ fear of speaking that interferes w/ life,V06950,-,-,FH4F
+V06951: # close relatives received treatment for fear of speaking,V06951,-,-,FH5F
+V06952: # close relatives hospitalized for fear of speaking,V06952,-,-,FH6F
+V06953: # close relatives that smoke,V06953,-,-,FH3G
+V06954: # close relatives where smoking interferes w/ life,V06954,-,-,FH4G
+V06955: # close relatives received treatment for smoking,V06955,-,-,FH5G
+V06956: # close relatives hospitalized for smoking,V06956,-,-,FH6G
+V06957: # close relatives w/ extreme specific fear,V06957,-,-,FH3H
+V06958: # close relatives w/ ext specific fear that interferes w/ life,V06958,-,-,FH4H
+V06959: # close relatives received treatment for ext specific fear,V06959,-,-,FH5H
+V06960: # close relatives hospitalized for ext specific fear,V06960,-,-,FH6H
+V06961: # close relatives w/ alcohol problems,V06961,-,-,FH3I
+V06962: # close relatives w/ alcohol probs that interfere w/ life,V06962,-,-,FH4I
+V06963: # close relatives received treatment for alcohol problem,V06963,-,-,FH5I
+V06964: # close relatives hospitalized for alcohol problem,V06964,-,-,FH6I
+V06965: # close relatives w/ drug problem,V06965,-,-,FH3J
+V06966: # close relatives w/ drug problem that interferes w/ life,V06966,-,-,FH4J
+V06967: # close relatives received treatment for drug problem,V06967,-,-,FH5J
+V06968: # close relatives hospitalized for drug problem,V06968,-,-,FH6J
+V06969: # close relatives w/ schizophrenia,V06969,-,-,FH3K
+V06970: # close relatives w/ schizo that interferes w/ life,V06970,-,-,FH4K
+V06971: # close relatives received treatment for schizophrenia,V06971,-,-,FH5K
+V06972: # close relatives hospitalized for schizophrenia,V06972,-,-,FH6K
+V06973: # close relatives who tried to commit suicide,V06973,-,-,FH3L
+V06974: # close relatives who committed suicide,V06974,-,-,FH4L
+V06926: INTERVIEWER CHECKPOINT,V06926,-,-,FH37
+V06927: INTERVIEWER CHECKPOINT,V06927,-,-,FH38
+V06928: INTERVIEWER CHECKPOINT,V06928,-,-,FH39

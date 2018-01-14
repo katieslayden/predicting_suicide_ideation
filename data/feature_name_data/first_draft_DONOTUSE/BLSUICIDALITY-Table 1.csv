@@ -1,0 +1,36 @@
+Suicidality,CPES,NCSR,NLAAS,NSAL
+V01992: INTERVIEWER CHECKPOINT,V01992,-,SD1,SD1
+V01993: Seriously thought about committing suicide,V01993,SD2,SD2,SD2
+V01994: Age 1st thought seriously about commiting suicide,V01994,SD2A,SD2A,SD2A
+V01995: Seriously thought about committing suicide in past 12 mths,V01995,SD3,SD3,SD3
+V01996: Age last seriously thought about suicide,V01996,SD3A,SD3A,SD3A
+V01997: Made plan for committing suicide,V01997,SD4,SD4,SD4
+V01998: Age 1st made suicide plan,V01998,SD4A,SD4A,SD4A
+V01999: Made suicide plan in past 12 mths,V01999,SD5,SD5,SD5
+V02000: Age last made suicide plan,V02000,SD5A,SD5A,SD5A
+V02044: Ever attempted suicide,V02044,SD6,SD6,SD6
+V02045: # suicide attempts in lifetime,V02045,SD6A,SD6A,SD6A
+V02001: INTERVIEWER CHECKPOINT,V02001,-,SD7,SD7
+V02002: Age 1st time attempted suicide,V02002,SD8,SD8,SD8
+V02003: Situation during 1st suicide attempt,V02003,SD9,SD9,SD9
+V02004: Attempted suicide in past 12 mths,V02004,SD10,SD10,SD10
+V02005: Age last time attempted suicide,V02005,SD10A,SD10A,SD10A
+V02009: Situation during last suicide attempt,V02009,SD14,SD14,SD14
+V02010: INTERVIEWER CHECKPOINT,V02010,-,SD14_1,SD14_1
+V02023: Seriously thought about committing suicide,V02023,SD15,SD15,SD15
+V02024: Age 1st thought of committing suicide,V02024,SD15A,SD15A,SD15A
+V02025: Seriously thought about committing suicide in past 12 mths,V02025,SD16,SD16,SD16
+V02026: Age last thoughts about committing suicide,V02026,SD16A,SD16A,SD16A
+V02027: Made plan for committing suicide,V02027,SD17,SD17,SD17
+V02028: Age 1st made suicide plan,V02028,SD17A,SD17A,SD17A
+V02029: Made suicide plan in last 12 mths,V02029,SD18,SD18,SD18
+V02030: Age last made suicide plan,V02030,SD18A,SD18A,SD18A
+V02031: Ever attempted suicide,V02031,SD19,SD19,SD19
+V02032: # of times attempted suicide in lifetime,V02032,SD19A,SD19A,SD19A
+V02033: INTERVIEWER CHECKPOINT,V02033,-,SD20,SD20
+V02034: Age 1st time attempted suicide,V02034,SD21,SD21,SD21
+V02035: Situation during 1st suicide attempt,V02035,SD22,SD22,SD22
+V02036: Attempted suicide in past 12 mths,V02036,SD23,SD23,SD23
+V02037: Age last time attempted suicide,V02037,SD23A,SD23A,SD23A
+V02041: Situation during last suicide attempt,V02041,SD27,SD27,SD27
+V02042: INTERVIEWER CHECKPOINT,V02042,-,SD28,SD28

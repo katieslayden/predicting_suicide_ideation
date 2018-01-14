@@ -1,0 +1,138 @@
+Panic Disorder,CPES,NCSR,NLAAS,NSAL
+V01262: Problems during bad fear or panic episode,V01262,-,PD1INTR1,-
+V01263: Problems during bad episode of short breath/heart race/dizzy,V01263,-,PD1INTR2,-
+V01264: Problems during anxiety attack/thought losing mind,V01264,-,PD1INTR3,-
+V01265: During attack-heart racing,V01265,PD1A,PD1A,PD1A
+V01266: During attack-short of breath,V01266,PD1B,PD1B,PD1B
+V01267: During attack-nausea/stomach discomfort,V01267,PD1C,PD1C,PD1C
+V01268: During attack-feel dizzy,V01268,PD1D,PD1D,PD1D
+V01269: During attack-sweating,V01269,PD1E,PD1E,PD1E
+V01270: During attack-trembling or shaking,V01270,PD1F,PD1F,PD1F
+V01271: During attack-dry mouth,V01271,PD1G,PD1G,PD1G
+V01272: During attack-felt you are choking,V01272,PD1H,PD1H,PD1H
+V01273: During attack-chest discomfort,V01273,PD1I,PD1I,PD1I
+V01274: During attack-might lose control or go crazy,V01274,PD1J,PD1J,PD1J
+V01275: During attack-felt you were not really there,V01275,PD1K,PD1K,PD1K
+V01276: During attack-feel things around you unreal/dreamlike,V01276,PD1L,PD1L,PD1L
+V01277: During attack-afraid of passing out,V01277,PD1M,PD1M,PD1M
+V01278: During attack-afraid might die,V01278,PD1N,PD1N,PD1N
+V01279: During attack-hot flushes or chills,V01279,PD1O,PD1O,PD1O
+V01280: During attack-numbness or tingling,V01280,PD1P,PD1P,PD1P
+V01281: INTERVIEWER CHECKPOINT,V01281,-,PD2,PD2
+V01282: Attack symptoms began and reached peak within 10 min,V01282,PD3,PD3,PD3
+V01283: # of sudden attacks in lifetime,V01283,PD4,PD4,PD4
+V01284: INTERVIEWER CHECKPOINT,V01284,-,PD5,PD5
+V01285: When did attack occur,V01285,PD6,PD6,PD6
+V01286: Remember exact age at attack,V01286,PD7,PD7,PD7
+V01287: Age at attack,V01287,PD7A,PD7A,PD7A
+V01288: Estimate age at attack-computed,V01288,PD7B,-,PD7B
+V01289: Estimate age at attack,V01289,PD7B1,PD7B1,PD7B1
+V01290: Attack before started school,V01290,PD7B2,PD7B2,PD7B2
+V01291: Attack before teenager,V01291,PD7B3,PD7B3,PD7B3
+V01292: Situation in which attack occurred,V01292,PD8,PD8,PD8
+V01293: Remember exact age of 1st attack,V01293,PD9,PD9,PD9
+V01294: Age 1st attack,V01294,PD9A,PD9A,PD9A
+V01295: Estimate age 1st attack-computed,V01295,PD9B,-,PD9B
+V01296: Estimate age 1st attack,V01296,PD9B1,PD9B1,PD9B1
+V01297: 1st attack before started school,V01297,PD9B2,PD9B2,PD9B2
+V01298: 1st attack before teenager,V01298,PD9B3,PD9B3,PD9B3
+V01299: DID R SAY YES TO SC20 or SC20a?,V01299,-,-,PD0A
+V01300: Any attack in past year,V01300,PD10,PD10,PD10
+V01301: How recent in past year attack occurred,V01301,PD10A,PD10A,PD10A
+V01302: # of weeks in past year had at least one attack,V01302,PD10B,PD10B,PD10B
+V01303: Total # of attacks in past year,V01303,PD10C,PD10C,PD10C
+V01304: Age at last attack,V01304,PD10D,PD10D,PD10D
+V01305: Largest number attacks in any single year,V01305,PD11,PD11,PD11
+V01306: # of separate years at least had 1 attack,V01306,PD12,PD12,PD12
+"V01307: After attack, worried for month or more about another attack",V01307,PD13A,PD13A,PD13A
+V01308: Worried for mth or more something terrible might happen,V01308,PD13B,PD13B,PD13B
+V01309: Changed everyday activities for month or more,V01309,PD13C,PD13C,PD13C
+V01310: Avoided situations due to fear another attack for mth or more,V01310,PD13D,PD13D,PD13D
+V01311: INTERVIEWER CHECKPOINT,V01311,-,PD14,PD14
+V01312: Age 1st mth of worry/change activities/avoid sits due to attack,V01312,PD15,PD15,PD15
+V01313: Month of worry or change in activities in past 12 mths,V01313,PD16,PD16,PD16
+V01314: How recent the worry and change in activities,V01314,PD16A,PD16A,PD16A
+V01315: # of months of worry or change in activities in past 12 mths,V01315,PD16B,PD16B,PD16B
+V01316: Frequency of worry in severe episode in past 12 mths,V01316,PD16C,PD16C,PD16C
+V01317: Severity of worry during severe episode,V01317,PD16D,PD16D,PD16D
+V01318: Age last time had month of worry about attack,V01318,PD16E,PD16E,PD16E
+V01319: Ever have attack occur unexpectedly out of blue,V01319,PD17,PD17,PD17
+V01320: # of lifetime attacks occur unexpectedly,V01320,PD17A,PD17A,PD17A
+V01321: INTERVIEWER CHECKPOINT,V01321,-,-,PD17A_1
+V01322: # of lifetime attacks due to unreasonable fear of situation,V01322,PD18,PD18,PD18
+V01323: # of lifetime attacks due to real danger,V01323,PD19,PD19,PD19
+V01324: INTERVIEWER CHECKPOINT,V01324,-,PD20,PD20
+V01325: INTERVIEWER CHECKPOINT,V01325,-,PD20A,PD20A
+V01326: Age 1st out of blue attack-computed,V01326,PD21,-,PD21
+V01327: Age of 1st out of blue attack,V01327,PD21B1,PD21B1,PD21B1
+"V01328: 1st sudden attack before started school, PD21B1",V01328,PD21B2,PD21B2,PD21B2
+"V01329: 1st sudden attack before teenager, PD21B1",V01329,PD21B3,PD21B3,PD21B3
+V01330: Sudden attacks interfere w/ work/social life/relationships,V01330,PD22,PD22,PD22
+V01331: INTERVIEWER CHECKPOINT,V01331,-,PD23,PD23
+V01332: Sudden attack occurred while asleep,V01332,PD24,PD24,PD24
+V01333: # sudden attacks occuring while asleep,V01333,PD24A,PD24A,PD24A
+V01334: Sudden attacks ever due to physical illness or med/drug/alc,V01334,PD25A,PD25A,PD25A
+V01335: All sudden attacks due to physical causes,V01335,PD25B,PD25B,PD25B
+V01336: INTERVIEWER CHECKPOINT,V01336,-,PD33,PD33
+V01337: INTERVIEWER CHECKPOINT,V01337,-,PD34,PD34
+V01338: INTERVIEWER CHECKPOINT,V01338,-,PD35,PD35
+V01339: # unexpected sudden attacks in past year,V01339,PD36,PD36,PD36
+V01340: INTERVIEWER CHECKPOINT,V01340,-,PD37,PD37
+V01341: Age at last sudden attack,V01341,PD37A,PD37A,PD37A
+V01342: # of weeks in past year had at least one sudden attack,V01342,PD37B,PD37B,PD37B
+V01343: How recently in past year did attack occur,V01343,PD38,PD38,PD38
+V01344: INTERVIEWER CHECKPOINT,V01344,-,PD39,PD39
+V01345: Severity of emotional distress during attacks in last 12 mths,V01345,PD40,PD40,PD40
+V01346: Upset by physical sensations remind of attack in last 12 mths,V01346,PD41,PD41,PD41
+V01347: Severity of discomf from physical sensations in last 12 mths,V01347,PD41A,PD41A,PD41A
+V01348: Avoid situations caused physical sensation in past 12 mths,V01348,PD42,PD42,PD42
+V01349: Avoidance of situation interfered with work/social life/relations,V01349,PD43,PD43,PD43
+V01350: Worst month in past year-attack interfered with home mgmt,V01350,PD44A,PD44A,PD44A
+V01351: Worst month in past year-attack interfered with work,V01351,PD44B,PD44B,PD44B
+V01352: Worst month in past year-attack interf w/ form/maint relations,V01352,PD44C,PD44C,PD44C
+V01353: Worst month in past year-attack interfere with social life,V01353,PD44D,PD44D,PD44D
+V01354: INTERVIEWER CHECKPOINT,V01354,-,PD45,PD45
+V01355: # of days in yr unable to carry out activities due to attack,V01355,PD46,PD46,PD46
+V01357: Ever talked to professional about panic attacks,V01357,PD50,PD50,-
+V01356: Talked to professional about attacks in past 12 mths,V01356,-,-,PD50
+V01358: Talked to professional about panic attacks:1st mention,V01358,-,PD50_101,-
+V01361: Talked to professional about panic attacks:2nd mention,V01361,-,PD50_102,-
+V01362: Talked to professional about panic attacks:3rd mention,V01362,-,PD50_103,-
+V01363: Talked to professional about panic attacks:4th mention,V01363,-,PD50_104,-
+V01364: Talked to professional about panic attacks:5th mention,V01364,-,PD50_105,-
+V01365: Talked to professional about panic attacks:6th mention,V01365,-,PD50_106,-
+V01366: Talked to professional about panic attacks:7th mention,V01366,-,PD50_107,-
+V01367: Talked to professional about panic attacks:8th mention,V01367,-,PD50_108,-
+V01368: Talked to professional about panic attacks:9th mention,V01368,-,PD50_109,-
+V01359: Talked to professional about panic attacks:10th mention,V01359,-,PD50_110,-
+V01370: Age 1st see professional for attacks,V01370,PD50A,PD50A,PD52
+V01369: Ever talk to doc or professional about panic attacks,V01369,-,-,PD50A
+V01371: Tried to get professional help for panic attacks,V01371,-,-,PD50B
+V01372: Reason didn't get help for attack-1st mention,V01372,-,-,PD50C1
+V01373: Reason didn't get help for attack-2nd mention,V01373,-,-,PD50C2
+V01374: 1st time see professional for attacks,V01374,-,-,PD51
+V01375: Saw psychiatrist for attacks,V01375,-,-,PD53A
+V01376: Saw mental health professional for attacks,V01376,-,-,PD53B
+V01377: Saw family doctor for attacks,V01377,-,-,PD53C
+V01378: Saw medical doctor for attacks,V01378,-,-,PD53D
+V01379: Saw other health professional for attacks,V01379,-,-,PD53E
+V01380: Saw religious or spiritual advisor for attacks,V01380,-,-,PD53F
+V01381: Saw other healer for attacks,V01381,-,-,PD53G
+V01382: Professional(s) were helpful,V01382,-,-,PD54
+V01383: Attack treatment received-1st mention,V01383,-,-,PD551
+V01384: Attack treatment received-2nd mention,V01384,-,-,PD552
+V01385: Attack treatment received-3rd mention,V01385,-,-,PD553
+V01386: Attack treatment received-4th mention,V01386,-,-,PD554
+V01387: # times hospitalized for attacks,V01387,-,-,PD56B
+V01388: Received help from family/friends/acquaintances for attacks,V01388,-,-,PD57
+V01389: Tried to get help from family/friends/acquaint for attacks,V01389,-,-,PD57A
+V09207: Why not panic help from fam/friends-1st mention,V09207,-,-,PD57B1
+V09208: Why not panic help from fam/friends-2nd mention,V09208,-,-,PD57B2
+V01390: Received helpful/effective treatment for attack,V01390,PD62,PD62,-
+V01391: Age 1st got helpful treatment for attack,V01391,PD62A,PD62A,-
+V01392: Total profs seen for panic incl helpful treatment doc,V01392,PD62B,PD62B,-
+V01393: # professionals ever talk to about panic attacks,V01393,PD62C,PD62C,-
+V01394: Receive professional treatment for attacks in past 12 mths,V01394,PD64,PD64,-
+V01395: Hospitalized overnight for attacks,V01395,PD65,PD65,PD56
+V01397: Age 1st time hospitalized overnight for attacks,V01397,PD65A,PD65A,PD56A
+V01396: # close relatives ever had panic attacks,V01396,PD65_1,PD65_1,-

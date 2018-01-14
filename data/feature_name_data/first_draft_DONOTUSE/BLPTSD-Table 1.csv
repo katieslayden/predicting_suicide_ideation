@@ -1,0 +1,214 @@
+Post-Traumatic Stress Disorder,CPES,NCSR,NLAAS,NSAL
+"V03585: Age when event, PT55 happened",V03585,PT55C,PT55C,PT55C
+"V03586: Duration situation, PT55",V03586,PT55D1,PT55D1,PT55D1
+V03587: Unit time PT55D1,V03587,PT55D2,PT55D2,PT55D2
+V03590: Age at most upsetting traumatic event not reported,V03590,PT57A1,PT57A1,PT57A1
+V03591: INTERVIEWER CHECKPOINT,V03591,-,PT57A1_2,PT57A1_2
+V03592: Duration of traumatic event not reported,V03592,PT57A2,PT57A2,PT57A2
+V03593: Unit time traumatic event not reported,V03593,PT57A3,PT57A3,PT57A3
+V03594: TOTAL EVENT TYPE RECORDED,V03594,PT58A,PT58A,-
+V03595: RANDOMLY ASSIGNED EVENT TYPE,V03595,PT58B,PT58B,-
+V03596: TOTAL # RANDOM EVENT OCCURED,V03596,PT58C,PT58C,-
+V03597: (RANDOM) OCCURRENCE OF RANDOM EVENT,V03597,PT58D,PT58D,-
+V03600: Random event occurrence,V03600,-,PT59A2,-
+V03601: Age RANDOM EVENT,V03601,PT59B,-,-
+V03602: Age at time of random event,V03602,PT59B_5,PT59B_5,-
+V03603: INTERVIEWER CHECKPOINT (PT58),V03603,-,PT60,-
+V03604: INTERVIEWER CHECKPOINT (PT58),V03604,-,PT61,-
+V03605: INTERVIEWER CHECKPOINT,V03605,-,-,PT61
+V03606: Post-traumatic stress following single traumatic experience,V03606,-,-,PT62
+V03607: Post-traumatic stress for 30+ days after worst traumatic exp,V03607,PT62_1,PT62_1,PT62_1
+V03608: Post-traumatic stress following traumatic experiences,V03608,PT62_INTRO2,PT62_INT,PT62A
+V03609: Post-traumatic stress-2-3 traumatic exp,V03609,PT62_INTRO3,PT62_IN2,PT62B
+V03610: Post-traumatic stress-3+ traumatic exp,V03610,PT62_INTRO4,PT62_IN3,PT62C
+V03611: INTERVIEWER CHECKPOINT (R ID#),V03611,-,PT63,-
+V03612: INTERVIEWER CHECKPOINT,V03612,-,-,PT63
+V03613: INTERVIEWER CHECKPOINT,V03613,-,-,PT63_5
+V03614: INTERVIEWER CHECKPOINT,V03614,-,-,PT63_6
+V03615: One event more stressful/upsetting than others,V03615,-,-,PT63_7
+V03616: Event that led to most problems,V03616,PT64,PT64,PT64
+V03617: Age at worst event,V03617,PT64A,PT64A,PT64A
+"V03618: INTERVIEWER CHECKPOINT (PT59,PT64)",V03618,-,PT65,-
+V03619: RANDOM EVENT: [(RANDOM EVENT)],V03619,-,PT66,-
+V03620: During worst event- felt terrified/very frightened,V03620,PT67,PT67,PT67
+V03621: During worst event- felt helpless,V03621,PT67A,PT67A,PT67A
+V03622: During worst event-felt shock or horrified,V03622,PT67B,PT67B,PT67B
+V03623: During worst event-felt numb,V03623,PT67C,PT67C,PT67C
+V03624: Tried not to think about worst event in following wks/mths/yrs,V03624,PT68,PT68,PT68
+V03625: Purposely avoided reminder of worst event,V03625,PT69,PT69,PT69
+V03626: Unable to remember details of worst event,V03626,PT70,PT70,PT70
+V03627: Lost interest in enjoyable things after worst event,V03627,PT71,PT71,PT71
+V03628: Emotionally distant after worst event,V03628,PT72,PT72,PT72
+V03629: Trouble feeling love/happy/warmth to others after worst event,V03629,PT73,PT73,PT73
+V03630: No future plan because would be cut short after worst event,V03630,PT74,PT74,PT74
+V03631: INTERVIEWER CHECKPOINT(PT68-PT74),V03631,-,PT75,-
+V03632: INTERVIEWER CHECKPOINT,V03632,-,-,PT75
+V03634: Had repeated unwanted memory of worst event,V03634,PT86,PT86,PT86
+V03635: Had repeated unpleasant dreams after worst event,V03635,PT87,PT87,PT87
+V03636: Had flashbacks after worst event happening,V03636,PT88,PT88,PT88
+V03637: Upset when reminded of worst event,V03637,PT89,PT89,PT89
+V03638: Had physical reactions when reminded of worst event,V03638,PT90,PT90,PT90
+V03639: INTERVIEWER CHECKPOINT,V03639,-,PT91,PT91
+V03641: Trouble sleeping during most affected time after worst event,V03641,PT102,PT102,PT102
+V03642: Irritable during most affected time after worst event,V03642,PT103,PT103,PT103
+V03643: Trouble concentrate during most affect time after worst event,V03643,PT104,PT104,PT104
+V03644: More alert during most affected time after worst event,V03644,PT105,PT105,PT105
+V03645: Jumpy during most affected time after worst event,V03645,PT106,PT106,PT106
+V03646: INTERVIEWER CHECKPOINT,V03646,-,PT107,PT107
+V03648: Duration continued reactions to worst event,V03648,PT110A,PT110A,PT110A
+V03649: Unit time continued reactions to worst event,V03649,PT110B,PT110B,PT110B
+V03650: Reactions to worst event continued over 1 month,V03650,PT110C,PT110C,PT110C
+V03651: INTERVIEWER CHECKPOINT,V03651,-,PT111,PT111
+V03653: Frequency of intense reactions to worst event,V03653,PT113,PT113,PT113
+V03655: Amount of distress caused by reactions to worst event,V03655,PT114,PT114,PT114
+V03656: Amount worst event reactions disrupt/interfere with daily life,V03656,PT115,PT115,PT115
+V03657: INTERVIEWER CHECKPOINT,V03657,-,PT116,PT116
+V03659: Next questions refer RANDOM EVENT,V03659,PT118,PT118,-
+V03660: Age at RANDOM EVENT,V03660,PT119,-,-
+V03661: Correct age at random event,V03661,PT119A,PT119A,-
+V03663: Age at random event (2),V03663,PT120,PT120,-
+V03664: Correct age at random event,V03664,PT120A,PT120A,-
+V03666: INTERVIEWER CHECKPOINT,V03666,-,PT121A_1,-
+V03667: RAND/OTH EVNT link:1st mention,V03667,PT121A01,PT121A01,-
+V03678: RAND/OTH EVNT link:2nd mention,V03678,PT121A02,PT121A02,-
+V03689: RAND/OTH EVNT link:3rd mention,V03689,PT121A03,PT121A03,-
+V03691: RAND/OTH EVNT link:4th mention,V03691,PT121A04,PT121A04,-
+V03692: RAND/OTH EVNT link:5th mention,V03692,PT121A05,PT121A05,-
+V03693: RAND/OTH EVNT link:6th mention,V03693,PT121A06,PT121A06,-
+V03694: RAND/OTH EVNT link:7th mention,V03694,PT121A07,PT121A07,-
+V03695: RAND/OTH EVNT link:8th mention,V03695,PT121A08,PT121A08,-
+V03696: RAND/OTH EVNT link:9th mention,V03696,PT121A09,PT121A09,-
+V03668: RAND/OTH EVNT link:10th mention,V03668,PT121A10,PT121A10,-
+V03669: RAND/OTH EVNT link:11th mention,V03669,PT121A11,PT121A11,-
+V03670: RAND/OTH EVNT link:12th mention,V03670,PT121A12,PT121A12,-
+V03671: RAND/OTH EVNT link:13th mention,V03671,PT121A13,PT121A13,-
+V03672: RAND/OTH EVNT link:14th mention,V03672,PT121A14,PT121A14,-
+V03673: RAND/OTH EVNT link:15th mention,V03673,PT121A15,PT121A15,-
+V03674: RAND/OTH EVNT link:16th mention,V03674,PT121A16,PT121A16,-
+V03675: RAND/OTH EVNT link:17th mention,V03675,PT121A17,PT121A17,-
+V03697: random event linked PT67-Pt74,V03697,-,PT121B,-
+V03698: INTERVIEWER CHECKPOINT,V03698,-,PT121C,-
+V03699: # of R's random event type,V03699,PT122,PT122,-
+V03903: During random event-felt terrified/very frightened,V03903,PT207,PT207,-
+V03904: INTERVIEWER CHECKPOINT,V03904,-,PT207_0,-
+V03905: Had emotional problems after random event,V03905,PT207_1,PT207_1,-
+V03906: Reactions to random event last 30 days or more,V03906,PT207_2,PT207_2,-
+V03907: During random event-felt helpless,V03907,PT207A,PT207A,-
+V03908: During random event-shocked/horrified,V03908,PT207B,PT207B,-
+V03909: During random event-felt numb,V03909,PT207C,PT207C,-
+V03910: Tried not to think about random event wks/mths/yrs after,V03910,PT208,PT208,-
+V03911: Purposely avoid reminders of random event,V03911,PT209,PT209,-
+V03912: Unable to remember details of random event,V03912,PT210,PT210,-
+V03913: Lost interest in things previously enjoyed after random event,V03913,PT211,PT211,-
+V03914: Felt emotionally distant from others after random event,V03914,PT212,PT212,-
+V03915: Trouble feeling normal feelings for others after random event,V03915,PT213,PT213,-
+V03916: No future plan after random event,V03916,PT214,PT214,-
+V03917: INTERVIEWER CHECKPOINT (PT208-PT214),V03917,-,PT215,-
+V03920: Time frame reactions began after random event,V03920,PT217A,PT217A,-
+"V03921: Unit time, PT217A",V03921,PT217B,PT217B,-
+V03922: # weeks/years had reactions after random event,V03922,PT218A,PT218A,-
+"V03923: Unit time had reactions after random event, PT218A",V03923,PT218B,PT218B,-
+V03924: Reactions occurred at least a month(PT218a),V03924,-,PT218C,-
+V03925: Freq most intense reactions occurred,V03925,PT219,PT219,-
+V03926: Severity of distress reactions caused you,V03926,PT220,PT220,-
+V03927: Extent to which reactions interfered with daily life,V03927,PT221,PT221,-
+V03928: Had repeated unwanted memories of random event,V03928,PT222,PT222,-
+V03929: Had repeated unpleasant dreams about random event,V03929,PT223,PT223,-
+V03930: Had flashbacks of random event,V03930,PT224,PT224,-
+V03931: Upset when reminded of random event,V03931,PT225,PT225,-
+V03932: Had physial reaction when reminded of random event,V03932,PT226,PT226,-
+V03933: INTERVIEWER CHECKPOINT (PT222-PT226),V03933,-,PT227,-
+V03934: How soon afer random event reactions occurred,V03934,PT228A,PT228A,-
+"V03935: Unit time, PT228A",V03935,PT228B,PT228B,-
+V03936: Duration of GRP2 reactions to random event,V03936,PT229A,PT229A,-
+"V03937: Unit time, PT229A",V03937,PT229B,PT229B,-
+V03938: Reactions cont'd at least 1 mth after random event (PT229a),V03938,-,PT229C,-
+V03939: Frequency GRP2 most intense reactions occurred,V03939,PT230,PT230,-
+V03940: Distress reactions to random event caused you,V03940,PT231,PT231,-
+V03941: Extent to which reactions interfered with daily life,V03941,PT232,PT232,-
+V03942: Trouble sleeping during most affected time after random event,V03942,PT233,PT233,-
+V03943: More irritable during most affected time after random event,V03943,PT234,PT234,-
+V03944: Trouble concentrate during most affected time after rand evnt,V03944,PT235,PT235,-
+V03945: More alert/watchful during most affected time after rand evnt,V03945,PT236,PT236,-
+V03946: Jumpy during most affected time after random event,V03946,PT237,PT237,-
+V03947: INTERVIEWER CHECKPOINT (PT233-PT237),V03947,-,PT238,-
+V03948: How soon after RAND EVENT have reactions,V03948,PT239A,PT239A,-
+"V03949: Unit time, PT239A",V03949,PT239B,PT239B,-
+V03950: Duration continued reactions to random event,V03950,PT240A,PT240A,-
+"V03951: Unit time, PT240A",V03951,PT240B,PT240B,-
+V03952: Reactions to random event continued(PT240a) month +,V03952,-,PT240C,-
+V03953: Frequency of intense reaction times after random event,V03953,PT241,PT241,-
+V03954: Severity of distress reactions caused you,V03954,PT242,PT242,-
+V03955: Extent to which reactions interfered with daily life,V03955,PT243,PT243,-
+V03956: INTERVIEWER CHECKPOINT (PT238),V03956,-,PT244,-
+V03958: Ever talk professional about reaction RAND EVENT,V03958,PT246,PT246,-
+V03957: Talked to professional about reactions to event in past yr,V03957,-,-,PT246
+V03959: Age 1st talk professional about reaction,V03959,PT246A,PT246A,-
+V03960: Ever see med dr for worst event,V03960,-,-,PT246A
+V03961: Tried to get professional help for reactions to event,V03961,-,-,PT246B
+V03962: Reasons didn't get professional help-1st mention,V03962,-,-,PT246C1
+V03963: Reasons didn't get professional help-2nd mention,V03963,-,-,PT246C2
+V03964: 1st time saw professional for reactions to event,V03964,-,-,PT247
+V03965: Age 1st time talked to prof about reactions to event,V03965,-,-,PT248
+V03966: Talked to psychiatrist about reactions to event,V03966,-,-,PT249A
+V03967: Talked to other mental health prof about reactions to event,V03967,-,-,PT249B
+V03968: Talked to family doctor about reactions to event,V03968,-,-,PT249C
+V03969: Talked to other medical doctor about reactions to event,V03969,-,-,PT249D
+V03970: Talked to other health professional about reactions to event,V03970,-,-,PT249E
+V03971: Talked to religious/spiritual advisor about reactions to event,V03971,-,-,PT249F
+V03972: Talked to other healer about reactions to event,V03972,-,-,PT249G
+V03973: Professional was helpful,V03973,-,-,PT250
+V03974: Treatment received for reactions to event-1st mention,V03974,-,-,PT2511
+V03975: Treatment received for reactions to event-2nd mention,V03975,-,-,PT2512
+V03976: Treatment received for reactions to event-3rd mention,V03976,-,-,PT2513
+V03977: Treatment received for reactions to event-4th mention,V03977,-,-,PT2514
+V03979: Age 1st hospitalized overnight for reactions to event,V03979,-,-,PT252A
+V03980: # times hospitalized overnight for reactions to event,V03980,-,-,PT252B
+V03981: Received help for reactions to event,V03981,-,-,PT253
+V03982: Tried to get help for reactions to event,V03982,-,-,PT253A
+V09209: Why not PTSD help from fam/friends-1st mention,V09209,-,-,PT253B1
+V09210: Why not PTSD help from fam/friends-2nd mention,V09210,-,-,PT253B2
+V03983: Received helpful/effective treatment for reactions,V03983,PT256,PT256,-
+V03984: Age 1st received helpful/effective treatment for reactions,V03984,PT256A,PT256A,-
+V03985: # of profs talked to about reactions incl helpful treatment doc,V03985,PT256B,PT256B,-
+V03986: # professionals ever talked to about reactions,V03986,PT256C,PT256C,-
+V03988: INTERVIEWER CHECKPOINT(PT107),V03988,-,PT259,-
+V03989: INTERVIEWER CHECKPOINT (PT238),V03989,-,PT260,-
+V03990: 3 or more reactions assoc w/ trauma in past 12 mths,V03990,PT261,PT261,PT261
+V03991: Last time had any reactions,V03991,PT262,PT262,PT262
+V03992: # weeks past year have any reactions,V03992,PT263,PT263,PT263
+V03993: INTERVIEWER CHECKPOINT,V03993,-,PT264,PT264
+V03994: Trauma event caused recent reaction-1st mention,V03994,PT26501,PT26501,PT26501
+V04005: Trauma event caused recent reaction-2nd mention,V04005,PT26502,PT26502,PT26502
+V04016: Trauma event caused recent reaction-3rd mention,V04016,PT26503,PT26503,PT26503
+V04017: Trauma event caused recent reaction-4th mention,V04017,PT26504,PT26504,PT26504
+V04018: Trauma event caused recent reaction-5th mention,V04018,PT26505,PT26505,PT26505
+V04019: Trauma event caused recent reaction-6th mention,V04019,PT26506,PT26506,PT26506
+V04020: Trauma event caused recent reaction-7th mention,V04020,PT26507,PT26507,PT26507
+V04021: Trauma event caused recent reaction-8th mention,V04021,PT26508,PT26508,PT26508
+V04022: Trauma event caused recent reaction-9th mention,V04022,PT26509,PT26509,PT26509
+V03995: Trauma event caused recent reaction-10 mention,V03995,PT26510,PT26510,PT26510
+V03996: Trauma event caused recent reaction-11 mention,V03996,PT26511,PT26511,-
+V03997: Trauma event caused recent reaction-12 mention,V03997,PT26512,PT26512,-
+V03998: Trauma event caused recent reaction-13 mention,V03998,PT26513,PT26513,-
+V03999: Trauma event caused recent reaction-14 mention,V03999,PT26514,-,-
+V04000: Trauma event caused recent reaction-15 mention,V04000,PT26515,-,-
+V04001: Trauma event caused recent reaction-16 mention,V04001,PT26516,-,-
+V04023: INTERVIEWER CHECKPOINT,V04023,-,PT266,PT266
+V04024: 1 event caused most upsetting reaction in past 12 mths,V04024,PT267,PT267,PT267
+V04025: Event that caused most upsetting reaction in past 12 mths,V04025,PT268,PT268,PT268
+V04026: Worst month past year- lose interest in enjoyable things,V04026,PT269,PT269,PT269
+V04027: Worst month past year-felt emotionally distant,V04027,PT270,PT270,PT270
+V04028: Worst month in past year-trouble feeling love/happy/warmth,V04028,PT271,PT271,PT271
+V04029: Worst mth past yr-no future plans,V04029,PT272,PT272,PT272
+V04030: Worst month past year-trouble sleeping,V04030,PT273,PT273,PT273
+V04031: Worst month past year-felt more jumpy,V04031,PT274,PT274,PT274
+V04032: Worst month past year-avoid reminders of event,V04032,PT275,PT275,PT275
+V04033: INTERVIEWER CHECKPOINT,V04033,-,PT277,PT277
+V04034: Worst month past year-PTSD interfered with home mgmt,V04034,PT278A,PT278A,PT278A
+V04035: Worst month past year-PTSD interfered with work,V04035,PT278B,PT278B,PT278B
+V04036: Worst month past year-PTSD interf w/ form/maint relations,V04036,PT278C,PT278C,PT278C
+V04037: Worst month past year-PTSD interfered with social life,V04037,PT278D,PT278D,PT278D
+V04038: INTERVIEWER CHECKPOINT,V04038,-,PT279,PT279
+V04039: # days past year unable to work/normal acts due to PTSD,V04039,PT280,PT280,PT280
+V04040: Received prof treatment for PTSD in past 12 mths,V04040,PT281,PT281,PT281

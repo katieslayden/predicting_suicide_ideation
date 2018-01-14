@@ -1,0 +1,10 @@
+DX Hypomanic Episode,CPES,NCSR,NLAAS,NSAL
+V08382: ICD Hypomania (30 day),V08382,I_HYP30,-,I_HYP30
+V08381: ICD Hypomania (12 month),V08381,I_HYP12,-,I_HYP12
+V08531: ICD Hypomania (Lifetime),V08531,ICD_HYP,-,ICD_HYP
+V07626: DSM-IV Hypomania (30 day),V07626,D_HYP30,-,D_HYP30
+V07625: DSM-IV Hypomania (12 month),V07625,D_HYP12,-,D_HYP12
+V07865: DSM-IV Hypomania (Lifetime),V07865,DSM_HYP,-,DSM_HYP
+,,,,
+,,,,
+,,,,

@@ -1,0 +1,10 @@
+DX Separation Anxiety Disorder,CPES,NCSR,NLAAS,NSAL
+V08551: ICD Separation Anxiety Disorder(Lifetime),V08551,ICD_SAD,-,-
+V08552: ICD Separation Anxiety Disorder w/hier(LifeT),V08552,ICD_SADH,-,-
+V09008: ICD Separation Anxiety Disorder Onset,V09008,SAD_ONI,-,-
+V09013: ICD Separation Anxiety Disorder Recency,V09013,SAD_RECI,-,-
+V07898: DSM-IV Separation Anxiety Disorder (LifeT),V07898,DSM_SAD,-,DSM_SAD
+V09007: DSM-IV Separation Anxiety Disorder Onset,V09007,SAD_OND,-,SAD_OND
+V09012: DSM-IV Separation Anxiety Disorder Recency,V09012,SAD_RECD,-,SAD_RECD
+,,,,
+,,,,

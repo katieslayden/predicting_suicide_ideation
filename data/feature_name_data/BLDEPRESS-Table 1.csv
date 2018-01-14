@@ -1,0 +1,209 @@
+Depression,CPES,NCSR,NLAAS,NSAL
+V00870: BLDEPRESS.D26_YESCOUNT,V00870,-,D26_YESC,-
+V00827: INTERVIEWER CHECKPOINT,V00827,-,D0,-
+"V00828: DID R SAY YES TO SC21, SC22 or SC23?",V00828,-,-,DP0
+V00829: Sad/depr episode - discouraged about life,V00829,D1,D1,DP1
+V00830: Sad/depr episode - lost interest in enjoyable things,V00830,D1A,D1A,DP1A
+V00831: Sad/depr episode - lost interest in enjoyable things,V00831,D1B,D1B,DP1B
+V00832: Discouraged about life episode - lost int in enjoy things,V00832,D2,D2,DP2
+V00833: Lost int in enjoy things episode - felt most of time 2+ wks,V00833,D9,D9,DP9
+V00834: Longest # of days lost interest in enjoyable things,V00834,D9A,D9A,DP9A
+"V00835: Time unit lost interest in enjoy things,D9A",V00835,D9A1,D9A1,DP9A1
+V00836: Longest period of losing interest-3+ days,V00836,D9A2,D9A2,DP9A2
+V00837: INTERVIEWER CHECKPOINT,V00837,-,D10,DP10
+V00838: INTERVIEWER INSTRUCTION,V00838,-,D11,DP11
+V00839: Life had no meaning period - felt most of time 2+ wks,V00839,-,D11A,-
+V00840: Longest # of days life had no meaning,V00840,-,D11B,-
+V00841: Time unit life had no meaning,V00841,-,D11B1,-
+V00843: INTERVIEWER CHECKPOINT,V00843,-,D11C,-
+V00844: INTERVIEWER INSTRUCTION,V00844,-,D11D,-
+V00845: Sadness episode lasted all day for 2+ wks,V00845,D12,D12,DP12
+V00846: Longest # of days felt sad/discouraged/depressed,V00846,D12A,D12A,DP12A
+V00847: INTERVIEWER CHECKPOINT,V00847,-,D13,DP13
+V00848: Sad episode several days almost every month for a year,V00848,D14,D14,DP14
+V00849: Severe several day episode - # hours sadness/day,V00849,D15,D15,DP15
+V00850: Severe 2+ wk episode - # hours sadness/day,V00850,D16,D16,DP16
+V00851: Severity of emotional distress during sad episode,V00851,D17,D17,DP17
+V00852: Severe sad episode - how often nothing could cheer you,V00852,D18,D18,DP18
+V00853: Emotional distress so severe could not carry out activities,V00853,D19,D19,DP19
+V00854: INTERVIEWER CHECKPOINT,V00854,-,D20,DP20
+V00855: Sleep/energy/appetite/concentration problems,V00855,D21,D21,DP21
+V00856: Apparent worst episode combining most # of other problems,V00856,D22,D22,DP22
+V00857: Age worst episode began,V00857,D22A,D22A,DP22A
+V00858: Length of worst episode,V00858,D22B,D22B,DP22B
+"V00859: Unit of time of worst episode, D22B",V00859,D22B1,D22B1,DP22B1
+V00860: Age of last bad sadness/depressed episode,V00860,D22C,D22C,DP22C
+V00861: Length of last bad sadness/depressed episode,V00861,D22D,D22D,DP22D
+"V00862: Time unit last sadness/depressed episode,D22D",V00862,D22D1,D22D1,DP22DP1
+V00863: Severe dep episode-felt depressed most days,V00863,D24A,D24A,DP24A
+V00864: Severe dep episode-nothing could cheer you most days,V00864,D24B,D24B,DP24B
+V00865: Sev dep episode-discouraged about things in life most days,V00865,D24C,D24C,DP24C
+V00866: Severe dep episode-felt hopeless about future most days,V00866,D24D,D24D,DP24D
+V00867: Severe dep episode-lost int in things you used to think fun,V00867,D24E,D24E,DP24E
+V00868: Sev dep episode-nothing fun though good things happening,V00868,D24F,D24F,DP24F
+V00869: INTERVIEWER CHECKPOINT,V00869,-,D25,DP25
+V00871: Severe dep episode-small appetite most days,V00871,D26A,D26A,DP26A
+V00873: Severe dep episode-larger appetite than usual most days,V00873,D26B,D26B,DP26B
+V00875: Severe dep episode-gained weight without trying,V00875,D26C,D26C,DP26C
+V00877: Severe dep episode-weight gain in lbs,V00877,D26D,-,DP26D
+V00878: How much weight gain during severe dep episode,V00878,-,D26D,-
+V00879: Unit of mass of weight gain during sev dep episode,V00879,-,D26DA,-
+V00881: Severe dep episode-lost weight without trying,V00881,D26E,D26E,DP26E
+V00884: Worst dep episode-amt of weight loss,V00884,D26F,-,DP26F
+V00883: Severe dep episode-weight loss in lbs,V00883,-,D26F,-
+V00885: Unit of mass of weight loss,V00885,-,D26FA,-
+V00887: Severe dep episode-trouble sleeping most nights,V00887,D26G,D26G,DP26G
+V00889: Severe dep episode-slept more than usual most nights,V00889,D26H,D26H,DP26H
+V00891: Severe dep episode-slept much less but not tired,V00891,D26I,D26I,DP26I
+V00893: Severe dep episode-low energy and tired w/out work most days,V00893,D26J,D26J,DP26J
+V00894: Severe dep episode-more energy than usual most days,V00894,D26K,D26K,DP26K
+V00895: Severe dep episode-talk/move more slowly than usual most days,V00895,D26L,D26L,DP26L
+V00896: Severe dep episode-others notice talk/move more slowly,V00896,D26M,D26M,DP26M
+V00897: Severe dep episode-so restless couldn't sit still or paced,V00897,D26N,D26N,DP26N
+V00898: Severe dep episode-others notice restlessness,V00898,D26O,D26O,DP26O
+V00899: Severe dep episode-slow or mixed up thoughts most days,V00899,D26P,D26P,DP26P
+V00900: Severe dep episode-jumping or racing thoughts hard to track,V00900,D26Q,D26Q,DP26Q
+V00901: Severe dep episode-more trouble concentrating most days,V00901,D26R,D26R,DP26R
+V00902: Severe dep episode-unusual indecisiveness,V00902,D26S,D26S,DP26S
+V00903: Severe dep episode-lost self confidence,V00903,D26T,D26T,DP26T
+V00904: Severe dep episode-felt not as good as others most days,V00904,D26U,D26U,DP26U
+V00905: Severe dep episode-worthless feeling most days,V00905,D26V,D26V,DP26V
+V00906: Severe dep episode-felt guilty most days,V00906,D26W,D26W,DP26W
+V00907: Severe dep episode-felt irritable/grouchy/moody most days,V00907,D26X,D26X,DP26X
+V00908: Severe dep episode-felt nervous or anxious most days,V00908,D26Y,D26Y,DP26Y
+V00909: Severe dep episode-sudden attacks of intense fear or panic,V00909,D26Z,D26Z,DP26Z
+V00872: Severe dep episode- often thought of death,V00872,D26AA,D26AA,DP26AA
+V00874: Severe dep episode-would be better if dead,V00874,D26BB,D26BB,DP26BB
+V00876: Severe dep episode-thought about suicide,V00876,D26CC,D26CC,DP26CC
+V00880: Severe dep episode-made suicide plan,V00880,D26DD,D26DD,DP26DD
+V00882: Severe dep episode-attempted suicide,V00882,D26EE,D26EE,DP26EE
+V00886: Severe dep episode-unable to cope with daily responsibilities,V00886,D26FF,D26FF,DP26FF
+V00888: Severe dep episode-alone rather than with friends/relatives,V00888,D26GG,D26GG,DP26GG
+V00890: Severe dep episode-less talkative than usual most nights,V00890,D26HH,D26HH,DP26HH
+V00892: Severe dep episode-cried often,V00892,D26II,D26II,DP26II
+V00910: INTERVIEWER CHECKPOINT,V00910,-,D27,DP27
+V00911: Sadness and probs interfered w/ work/relations/social life,V00911,D28,D28,DP28
+V00912: Severe depressed episode-unable to perform daily activities,V00912,D28A,D28A,DP28A
+V00913: Severe depressed episodes result of physical causes,V00913,D29A,D29A,DP29A
+V00914: Severe depressed episodes always result of physical causes,V00914,D29B,D29B,DP29B
+V00915: Exact age 1st dep episode combined with other problems,V00915,D37,D37,DP37
+V00916: Age 1st depressed episode,V00916,D37A,D37A,DP37A
+V00917: Estimate age 1st episode,V00917,D37B,-,DP37B
+V00919: Estimate age of 1st episode,V00919,D37B1,D37B1,DP37B1
+V00918: 1st episode brought on by stress or out of blue,V00918,D37B_1,D37B_1,DP37B_1
+V00920: 1st episode before started school,V00920,D37B2,D37B2,DP37B2
+V00921: 1st episode before teenager,V00921,D37B3,D37B3,DP37B3
+V09419: Not before a teenager,V09419,D37B4,-,-
+V00923: Approx length of 1st episode,V00923,D37C1,D37C1,DP37C1
+V00924: Unit time 1st episode,V00924,D37C2,D37C2,DP37C2
+V00926: Episode occurred after someone close died,V00926,-,D37D,-
+V00927: Similar episode for reason other than death of someone close,V00927,-,D37E,-
+V00928: Sadness episode combined with other probs in past 12 mths,V00928,D38,D38,DP38
+V00929: Recent occurrence of sadness + other episode,V00929,D38A,D38A,DP38A
+V00930: # of episodes in the past 12 months,V00930,D38A_1,D38A_1,DP38A1
+V00931: INTERVIEWER CHECKPOINT,V00931,-,D38A_2,DP38A2
+V00932: Month episode started,V00932,D38A_3,-,-
+V00933: Month episode started,V00933,-,D38A_3_5,-
+V00935: Year episode started,V00935,-,D38A_3A_,-
+V01016: Mth 1st episode of sadness began causing hospitalization,V01016,-,-,DP38A3
+V00934: Year episode started,V00934,-,-,DP38A3A
+V00936: Length of episode-so far,V00936,D38A_4,D38A_4,DP38A4
+V00937: Unit time of episode,V00937,D38A_4A,D38A_4A,DP38A4A
+V00938: INTERVIEWER CHECKPOINT,V00938,-,D38A_5,DP38A5
+V00939: Episode ended or ongoing,V00939,D38A_6,D38A_6,-
+V00940: Episode ended or ongoing,V00940,-,-,DP38A6
+V00941: Length 1st episode in the past year,V00941,D38A_7A,D38A_7A,DP38A7
+"V00942: Unit of time 1st episode in the past year,D38A_7",V00942,D38A_7B,D38A_7B,DP38A7A
+V00943: INTERVIEWER CHECKPOINT,V00943,-,D38A_8,DP38A8
+V00944: Most recent episode ended or ongoing,V00944,D38A_9,D38A_9,-
+V00945: Most recent episode ended or ongoing,V00945,-,-,DP38A9
+V00946: # of days in past 365 in episode,V00946,D38B,D38B,DP38B
+V00947: Age last time with episode,V00947,D38C,D38C,DP38C
+V00948: Longest period had episode w other problem most,V00948,D39,D39,DP39
+"V00949: Unit time longest episode, D39",V00949,D39A,D39A,DP39A
+V00950: INTERVIEWER QUERY - length of longest episode,V00950,-,D40,DP40
+V00951: Full year with episodes lasting several days + most months,V00951,D41,D41,DP41
+V00953: Age had 1st year of episodes every month,V00953,D42,D42,DP42
+V00954: Episodes brought by stressful exp in 1st year of episodes,V00954,D42_1,D42_1,DP42_1
+V00955: Episodes that happened after someone close died,V00955,-,D42_2,-
+V00956: # of years with episodes nearly every month,V00956,D43,D43,DP43
+V00958: Full year or longer with episodes most days,V00958,D46,D46,DP46
+V00959: Age at first year with episodes most days,V00959,D47,D47,DP47
+V00960: # of different years in episode most days,V00960,D48,D48,DP48
+V00961: INTERVIEWER CHECKPOINT,V00961,-,D49,DP49
+V00962: Longest continuous # years in episode most days,V00962,D50,D50,DP50
+V00963: # of episodes with other problems lasting 2+ weeks,V00963,D52,D52,DP52
+V00964: INTERVIEWER CHECKPOINT,V00964,-,D53,DP53
+V00965: Episodes brought by stressful experience,V00965,D53_1,D53_1,DP53_1
+V00966: Episodes happened after someone close died,V00966,-,D53_2,-
+V00967: # of different years in life had at least one episode,V00967,D54,D54,DP54
+V00969: Longest continuous # years with at least 1 episode per year,V00969,D56,D56,DP56
+V00970: INTERVIEWER QUERY - length of longest episode,V00970,-,D57,DP57
+V00971: Full year or longer in episode most days,V00971,D58,D58,DP58
+V00972: # of years in life in episode most days,V00972,D59,D59,DP59
+V00973: Age first time had a year of episodes most days,V00973,D59A,D59A,DP59A
+V00974: INTERVIEWER CHECKPOINT,V00974,-,D60,DP60
+V00975: Longest # continuous years in episodes for most days,V00975,D61,D61,DP61
+V00976: INTERVIEWER CHECKPOINT,V00976,-,D62_1,DP62_1
+V00977: INTERVIEWER CHECKPOINT,V00977,-,D62_2,DP62_2
+V00978: Mark statement in book,V00978,-,D62_3,-
+V00979: Mark statement in book,V00979,-,D64,-
+V00980: Mark statement- Problems falling asleep-most severe episode,V00980,D64A,D64A,DP64A
+V00981: Mark statement- Waking up at night-most severe episode,V00981,D64B,D64B,DP64B
+V00982: Mark statement- Wake too early in morn-most severe episode,V00982,D64C,D64C,DP64C
+V00983: Mark statement- Amount of sleep-most severe episode,V00983,D64D,D64D,DP64D
+V00984: Mark statement- Feeling sad-most severe episode,V00984,D64E,D64E,DP64E
+V00985: Mark stmnt- Concentrate and make dec-most sev episode,V00985,D64F,D64F,DP64F
+V00986: Mark statement- Feel down on self-most severe episode,V00986,D64G,D64G,DP64G
+V00987: Mark statement- Int in daily activities-most severe episode,V00987,D64H,D64H,DP64H
+V00988: Mark statement- Level of energy-most severe episode,V00988,D64I,D64I,DP64I
+V00989: Severe month in past year interfered w/ home mgmt,V00989,D66A,D66A,DP66A
+V00990: Severe month in past year interfered w/ ability to work,V00990,D66B,D66B,DP66B
+V00991: Severe mth in past yr interfered w/ form/maint close relations,V00991,D66C,D66C,DP66C
+V00992: Severe month in past interfered with social life,V00992,D66D,D66D,DP66D
+V00993: INTERVIEWER CHECKPOINT,V00993,-,D67,DP67
+V00994: Days in yr totally unable to do usual activities due to sadness,V00994,D68,D68,DP68
+V01017: Talked to professional about sadness in past 12 mths,V01017,-,-,DP69
+V01018: Tried to get professional help for sadness,V01018,-,-,DP69B
+V01019: Reasons didn't get professional help:1st mention,V01019,-,-,DP69C1
+V01020: Reasons didn't get professional help:2nd mention,V01020,-,-,DP69C2
+V01021: 1st time seen professional about sadness,V01021,-,-,DP70
+V00995: Saw professional about sadness,V00995,D72,D72,DP69A
+V00996: Professional seen about sadness:1st mention,V00996,-,D72_1_01,-
+V00999: Professional seen about sadness:2nd mention,V00999,-,D72_1_02,-
+V01000: Professional seen about sadness:3rd mention,V01000,-,D72_1_03,-
+V01001: Professional seen about sadness:4th mention,V01001,-,D72_1_04,-
+V01002: Professional seen about sadness:5th mention,V01002,-,D72_1_05,-
+V01003: Professional seen about sadness:6th mention,V01003,-,D72_1_06,-
+V01004: Professional seen about sadness:7th mention,V01004,-,D72_1_07,-
+V01005: Professional seen about sadness:8th mention,V01005,-,D72_1_08,-
+V01006: Professional seen about sadness:9th mention,V01006,-,D72_1_09,-
+V00997: Professional seen about sadness:10th mention,V00997,-,D72_1_10,-
+V00998: Professional seen about sadness:11th mention,V00998,-,D72_1_11,-
+V01007: Age first time talked to professional about sadness/discour,V01007,D72A,D72A,DP71
+V01022: Seen psychiatrist about sadness,V01022,-,-,DP72A
+V01023: Seen other mental health professional about sadness,V01023,-,-,DP72B
+V01024: Seen family doc about sadness,V01024,-,-,DP72C
+V01025: Seen other med doc about sadness,V01025,-,-,DP72D
+V01026: Seen other health prof about sadness,V01026,-,-,DP72E
+V01027: Seen religious or spiritual advisor about sadness,V01027,-,-,DP72F
+V01028: Seen other healer about sadness,V01028,-,-,DP72G
+V01008: Received helpful/effective treatment,V01008,-,D73,-
+V01029: Professionals were helpful,V01029,-,-,DP73
+V01009: Age first time received helpful/effective treatment,V01009,-,D73A,-
+V01010: Total profs seen for sadness incl helpful treatment doc,V01010,-,D73B,-
+V01011: Total professionals seen about sadness,V01011,-,D73C,-
+V01030: Treatment received-1st mention,V01030,-,-,DP741
+V01031: Treatment received-2nd mention,V01031,-,-,DP742
+V01032: Treatment received-3rd mention,V01032,-,-,DP743
+V01033: Treatment received-4th mention,V01033,-,-,DP744
+V01012: Close relatives having periods of sadness,V01012,-,D75,-
+V01034: # times hospitalized for sadness,V01034,-,-,DP75B
+V01035: Received help for sadness from family/friends/acquaintances,V01035,-,-,DP76
+V01036: Tried to get help for sadness from family/friends/acquaint,V01036,-,-,DP76A
+V09196: Why not depression help from fam/friends-1st mention,V09196,-,-,DP76B1
+V09197: Why not depression help from fam/friends-2nd mention,V09197,-,-,DP76B2
+V01013: Professional treatment for sadness in past 12 mths,V01013,D86,D74,-
+V01014: Hospitalized overnight for sadness,V01014,D87,D87,DP75
+V01015: Age 1st hospitalized overnight for sadness,V01015,D87A,D87A,DP75A
+V01037: INTERVIEWER CHECKPOINT,V01037,-,-,DP88

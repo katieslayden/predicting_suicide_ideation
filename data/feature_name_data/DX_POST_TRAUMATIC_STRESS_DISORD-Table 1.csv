@@ -1,0 +1,11 @@
+DX Posttraumatic Stress Disorder,CPES,NCSR,NLAAS,NSAL
+V08497: ICD Posttraumatic Stress Disorder(30 day),V08497,I_PTS30,-,-
+V08495: ICD Posttraumatic Stress Disorder(12Mo),V08495,I_PTS12,I_PTS12,-
+V08549: ICD Posttraumatic Stress Disorder(LifeT),V08549,ICD_PTS,ICD_PTS,-
+V08956: ICD Posttraumatic Stress Disorder Onset,V08956,PTS_ONI,PTS_ONI,PTS_ONI
+V07726: DSM-IV Posttraumatic Stress Disorder(30Day),V07726,D_PTS30,-,-
+V08966: ICD Posttraumatic Stress Disorder Recency,V08966,PTS_RECI,PTS_RECI,PTS_RECI
+V07725: DSM-IV Posttraumatic Stress Disorder (12Mo),V07725,D_PTS12,D_PTS12,D_PTS12
+V07894: DSM-IV Posttraumatic Stress Disorder (LifeT),V07894,DSM_PTS,DSM_PTS,DSM_PTS
+V08953: DSM-IV Posttraumatic Stress Disorder Onset,V08953,PTS_OND,PTS_OND,PTS_OND
+V08962: DSM-IV Posttraumatic Stress Disorder Recency,V08962,PTS_RECD,PTS_RECD,PTS_RECD
