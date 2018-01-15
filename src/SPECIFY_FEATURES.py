@@ -2,6 +2,8 @@ from about_data import *
 import numpy as numpy
 import pandas as pd
 
+
+
 # BASIC FUNCTIONS FOR INITIAL/COMMON DATAFRAME OPERATIONS
 def setup(txt_path, csv_root_path):
     dictionary = {}
@@ -47,6 +49,7 @@ def feature_max(feature):
     # min(range_list) is -9
     # max(range_list) is 5
     return max(range_list)
+
 def clean_by_max(data_file, maxvalue=5):
     '''
     Input: data_file, maxvalue desired in unique values for a column
@@ -140,24 +143,7 @@ def reformat_ratings(df, feature_names, new_value):
         # replace the current value of bad values with useful ones
         pass
     return None
-def clean_binaries(df):
-    '''
-    What does a binary question look like in this data? Yes/No ?
-    '''
-    return None
-def clean_continuous(df):
-    '''
-    What kind of cleaning do continuous features need?
-    '''
-    return None
 
-def main():
-    data_file = '/Users/Winnifred/Desktop/Capstone/ICPSR_20240_RAWDATA/DS0001/20240-0001-Data.tsv'
-    txt_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_group_file_names.txt'
-    csv_root_path = '/Users/Winnifred/Desktop/Capstone/diagnosis_capstone/data/feature_name_data/'
-
-if __name__ == "__main__":
-    main()
 
 
 
