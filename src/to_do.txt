@@ -3,7 +3,8 @@ Capstone Project To-Do List
 TO_DO:
     - reconfigure program files into: SETUP, SPECIFY_FEATURES, CLEAN, MODEL
     - format each of the above as classes
-    - create coordinator program to create instances of classes and print model scores
+    - update coordinator program to create instances of classes in sequence
+      and print model scores
 
 CURIOUS THOUGHTS:
     -
@@ -12,4 +13,4 @@ COMPLETED:
     -
 
 CHALLENGES:
-    - previously clunky code !
+    - previously clunky code - well on the way to being resolved now :-) 

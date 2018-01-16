@@ -1,8 +1,15 @@
+'''
+SETUP file contains the class Setup. This is step 1 of 4 in modeling for
+suicide ideation prediction from the ICPSR dataset on mental health.
+All four steps are run from and return output to the COORDINATOR program.
+'''
+
 class Setup():
+
     def __init__(self, csv_root_path, txt_path):
         self.root = csv_root_path
         self.txt_path = txt_path
-        self.all_paths = []
+        self.all_paths = self.make_paths()
 
     def file_name_list(self):
         '''
@@ -23,10 +30,8 @@ class Setup():
         for file_name in csv_file_names:
             path = self.root + file_name
             csv_paths.append(path)
-            self.all_paths.append(path)
         return csv_paths
 
-    # EXTRACTING GROUP, FEATURE TYPE, DESCRIPTION
     def get_group_title(self, filepath):
         '''
         Input: file path to csv table for survey grouping (i.e. 'BLAGORAPHO-Table 1.csv')
@@ -70,7 +75,7 @@ class Setup():
             descriptions.append(line[start:end].lower())
         return descriptions
 
-    def true_universals(self, file_path):
+    def true_universals(self, filepath):
         '''
         Input: file path to csv file containing feature name/description lines
         Output: list of True/False depending on if the survey question appeared in
@@ -80,8 +85,6 @@ class Setup():
             lines = f.readlines()
         true_false = []
         for line in lines[1:]:
-            # each line includes the feature name for each survey it was in
-            # if any one of these are a '-' we want to mark it "False"
             check = line.split(',')[-3:]
             indicator = 0
             for element in check:
@@ -93,27 +96,24 @@ class Setup():
                 true_false.append(True)
         return true_false
 
-    def make_dict(self, file_path):
+    def make_dict(self, filepath):
         '''
         Input: file path to csv file containing feature table
         Output: a dictionary {group: {feature1: description1, feature2: description2}}
         '''
-        title = get_group_title(file_path)
-        features = get_feature_names(file_path)
-        descriptions = get_descriptions(file_path)
-        true_false = true_universals(file_path)
+        title = self.get_group_title(filepath)
+        features = self.get_feature_names(filepath)
+        descriptions = self.get_descriptions(filepath)
+        true_false = self.true_universals(filepath)
         feat_descr = {feature: [descriptions[idx], true_false[idx]] for idx, feature in enumerate(features)}
         titled = {title: feat_descr}
         return titled
 
     def run_setup(self):
+        '''
+        Class method to run all setup class methods and return complete dictionary.
+        '''
         full_dict = {}
-        for file_path in self.all_paths:
-            dictionary[self.get_group_title(file_path)] = self.make_dict(file_path)
+        for filepath in self.all_paths:
+            full_dict[self.get_group_title(filepath)] = self.make_dict(filepath)
         return full_dict
-
-
-
-
-
-# end of doc
