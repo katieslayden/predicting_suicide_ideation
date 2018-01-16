@@ -109,7 +109,7 @@ class Setup():
         titled = {title: feat_descr}
         return titled
 
-    def run_setup(self):
+    def execute_setup(self):
         '''
         Class method to run all setup class methods and return complete dictionary.
         '''
