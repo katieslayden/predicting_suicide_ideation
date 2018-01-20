@@ -9,56 +9,54 @@ class Reduce_Features():
 
     def __init__(self, data_file, full_dict):
         self.full_dict = full_dict
-        self.universals, _ = self.get_universals()
+        self.universal_features = self.get_universals()
         self.messy_df = pd.read_csv(data_file, sep='\t', low_memory=False)
+        self.features_max5 = self.get_feat_max5()
 
     def get_universals(self):
         universals = {}
         nonuniversals = {}
         for akey, avalue in self.full_dict.items():
-            for bkey, bvalue in avalue.items():
-                for ckey, cvalue in bvalue.items():
+            for ckey, cvalue in avalue.items():
+                if 'broken' not in ckey:
                     if cvalue[1] == True:
                         universals[ckey] = cvalue
                     else:
                         nonuniversals[ckey] = cvalue
-        return universals, nonuniversals
-
-    def feature_max(self, feature):
-        x = feature_uniques[feature]
-        # x is [' ', '-8', '-9', '1', '5']
-        sorted_x = sorted(x, reverse=True)
-        # sorted_x is ['5', '1', '-9', '-8', ' ']
-        no_space = sorted_x[0:-1]
-        # no_space is ['5', '1', '-9', '-8']
-        range_list = []
-        for i in no_space:
-            range_list.append(float(i))
-        # range_list is [5, 1, -9, -8]
-        # min(range_list) is -9
-        # max(range_list) is 5
-        return max(range_list)
+        return universals
 
     def get_feat_max5(self):
-        clean_df = pd.DataFrame()
-
-        good_features = list(self.universal_features.keys())
-        for feature in good_features:
-            clean_df[feature] = self.messy_df[feature]
-
-        feature_uniques = {}
-        for feature in good_features:
-            feature_uniques[feature] = list(pd.unique(clean_df[feature]))
+        def feature_max(feature):
+            x = feature_uniques[feature]
+            # x is [' ', '-8', '-9', '1', '5']
+            sorted_x = sorted(x, reverse=True)
+            # sorted_x is ['5', '1', '-9', '-8', ' ']
+            no_space = sorted_x[0:-1]
+            # no_space is ['5', '1', '-9', '-8']
+            range_list = []
+            for i in no_space:
+                range_list.append(float(i))
+            # range_list is [5, 1, -9, -8]
+            return max(range_list)
 
         features_max5 = []
+        feature_uniques = {}
+        good_features = list(self.universal_features.keys())
         for feature in good_features:
-            if self.feature_max(feature) <= 5.0:
+            feature_uniques[feature] = list(pd.unique(self.messy_df[feature]))
+            if feature_max(feature) <= 5.0:
                 features_max5.append(feature)
 
         return features_max5
-
+    
     def execute_reduce(self):
         reduced_df = pd.DataFrame()
-        for feature in features_max5:
+        for feature in self.features_max5:
             reduced_df[feature] = self.messy_df[feature]
         return reduced_df
+
+    # def execute_reduce(self):
+    #     reduced_df = pd.DataFrame()
+    #     for feature in self.universal_features:
+    #         reduced_df[feature] = self.messy_df[feature]
+    #     return reduced_df

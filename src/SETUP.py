@@ -51,14 +51,13 @@ class Setup():
         with open(filepath) as f:
             lines = f.readlines()
         titles = []
-        for line in lines[1:]:
+        for idx, line in enumerate(lines[1:]):
             if line[0] == 'V':
                 titles.append(line[0:6])
             elif line[1] == 'V':
                 titles.append(line[1:7])
             else:
-                # three responses in 'Constructed Demographic Variables' do not comply
-                pass
+                titles.append('broken: {}'.format(idx))
         return titles
 
     def get_descriptions(self, filepath):
@@ -106,8 +105,7 @@ class Setup():
         descriptions = self.get_descriptions(filepath)
         true_false = self.true_universals(filepath)
         feat_descr = {feature: [descriptions[idx], true_false[idx]] for idx, feature in enumerate(features)}
-        titled = {title: feat_descr}
-        return titled
+        return feat_descr
 
     def execute_setup(self):
         '''
