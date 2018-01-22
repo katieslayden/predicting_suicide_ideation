@@ -24,7 +24,7 @@ def main():
     X_train, X_test, y_train, y_test = clean_inst.execute_clean()
 
     model_inst = Model(X_train, X_test, y_train, y_test)
-    
+    model_inst.execute_models()
 
 if __name__ == "__main__":
     main()

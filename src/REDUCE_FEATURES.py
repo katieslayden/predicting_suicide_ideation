@@ -28,15 +28,11 @@ class Reduce_Features():
     def get_feat_max5(self):
         def feature_max(feature):
             x = feature_uniques[feature]
-            # x is [' ', '-8', '-9', '1', '5']
             sorted_x = sorted(x, reverse=True)
-            # sorted_x is ['5', '1', '-9', '-8', ' ']
             no_space = sorted_x[0:-1]
-            # no_space is ['5', '1', '-9', '-8']
             range_list = []
             for i in no_space:
                 range_list.append(float(i))
-            # range_list is [5, 1, -9, -8]
             return max(range_list)
 
         features_max5 = []
