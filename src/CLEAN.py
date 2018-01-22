@@ -1,7 +1,7 @@
 '''
-SETUP file contains the class Clean. This is step 3 of 4 in modeling for
-suicide ideation prediction from the ICPSR dataset on mental health.
-All four steps are run from and return output to the COORDINATOR program.
+SETUP file contains the class Clean. This is step 2 of 4 in modeling to predict
+suicide ideation using the ICPSR dataset on mental health.
+All four steps are run from and return output to the COORDINATOR.py file.
 '''
 from sklearn.model_selection import train_test_split
 

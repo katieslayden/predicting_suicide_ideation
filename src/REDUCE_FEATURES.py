@@ -1,7 +1,7 @@
 '''
-REDUCE_FEATURES file contains the class Reduce_Features. This is step 2 of 4 in
-modeling for suicide ideation prediction from the ICPSR dataset on mental health.
-All four steps are run from and return output to the COORDINATOR program.
+Contains the class Reduce_Features. This is step 3 of 4 in modeling to predict
+suicide ideation using the ICPSR dataset on mental health.
+All four steps are run from and return output to the COORDINATOR.py file.
 '''
 import pandas as pd
 
@@ -48,7 +48,7 @@ class Reduce_Features():
                 features_max5.append(feature)
 
         return features_max5
-    
+
     def execute_reduce(self):
         reduced_df = pd.DataFrame()
         for feature in self.features_max5:

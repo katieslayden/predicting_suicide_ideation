@@ -7,7 +7,7 @@ All four steps are run from and return output to the COORDINATOR program.
 from SETUP import *
 from REDUCE_FEATURES import *
 from CLEAN import *
-# from MODEL import *
+from MODEL import *
 
 def main():
     data_file = '/Users/Winnifred/Desktop/Capstone/ICPSR_20240_RAWDATA/DS0001/20240-0001-Data.tsv'
@@ -22,7 +22,9 @@ def main():
 
     clean_inst = Clean(universal_df)
     X_train, X_test, y_train, y_test = clean_inst.execute_clean()
-    print(X_train, X_test, y_train, y_test)
+
+    model_inst = Model(X_train, X_test, y_train, y_test)
+    
 
 if __name__ == "__main__":
     main()

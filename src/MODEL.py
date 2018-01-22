@@ -1,7 +1,7 @@
 '''
-SETUP file contains the class Setup. This is step 4 of 4 in modeling for
-suicide ideation prediction from the ICPSR dataset on mental health.
-All four steps are run from and return output to the COORDINATOR program.
+SETUP file contains the class Setup. This is step 1 of 4 in modeling to predict
+suicide ideation using the ICPSR dataset on mental health.
+All four steps are run from and return output to the COORDINATOR.py file.
 '''
 
 from sklearn import linear_model
@@ -23,10 +23,6 @@ class Make_Models(self):
         print('Precision:', precision_score(self.y_test, predictions))
         print('Recall:', recall_score(self.y_test, predictions), '\n')
         return None
-
-    def linear_regression(self):
-        # self.print_scores(name, predictions)
-        pass
 
     def logistic_regression(self):
         name = 'Logistic Regression'
@@ -51,9 +47,8 @@ class Make_Models(self):
         pass
 
     def execute_models(self):
-        self.linear_regression()
         self.logistic_regression()
         self.decision_tree()
         self.random_forest()
         self.KNN()
-        return None 
+        return None
