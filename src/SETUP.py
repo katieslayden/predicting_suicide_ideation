@@ -1,7 +1,15 @@
 '''
-SETUP file contains the class Setup. This is step 1 of 4 in modeling to predict
-suicide ideation using the ICPSR dataset on mental health.
-All four steps are run from and return output to the COORDINATOR.py file.
+FILE DESCRIPTION:
+    Step 1 of 4 in building the model.
+    All four steps are run from and return output to the COORDINATOR.py file.
+    The CPES data is organized such that the feature names are not directly
+    interpretable (i.e. all names are similar to "V01872"). The primary purpose
+    of the setup class is to create a dictionary that provides:
+        - by group
+        - feature name
+        - plain language description
+        - True if feature is "universal" (i.e. appears in all three surveys)
+          otherwise, False 
 '''
 
 class Setup():
@@ -98,7 +106,7 @@ class Setup():
     def make_dict(self, filepath):
         '''
         Input: file path to csv file containing feature table
-        Output: a dictionary {group: {feature1: description1, feature2: description2}}
+        Output: a dictionary {group_title: {feature1: description1, True/False}}
         '''
         title = self.get_group_title(filepath)
         features = self.get_feature_names(filepath)
