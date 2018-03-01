@@ -1,2 +1,9 @@
+.gitignore
 __pycache__/
 .ipynb_checkpoints/
+CLEAN.pyc
+SETUP.pyc
+COORDINATOR.pyc
+MODEL.pyc
+REDUCE_FEATURES.pyc
+.one_time_functions.py
